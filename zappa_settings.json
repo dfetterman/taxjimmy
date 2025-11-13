@@ -1,0 +1,77 @@
+{
+  "dev": {
+    "project_name": "taxjimmy",
+    "aws_region": "us-east-1",
+    "django_settings": "taxjimmy.settings",
+    "app_function": "taxjimmy.wsgi.application",
+    "lambda_handler": "handler_custom.lambda_handler",
+    "runtime": "python3.10",
+    "keep_warm": false,
+    "slim_handler": false,
+    "s3_bucket": "taxjimmy-deployment-bucket-f686bbaf",
+    "ecr_repository_name": "taxjimmy-lambda-container",
+    "vpc_config": {
+      "SubnetIds": [
+        "subnet-0955d2af5022254c6",
+        "subnet-00972a36a6726e9e7"
+      ],
+      "SecurityGroupIds": [
+        "sg-04491da311aa4ca6e"
+      ]
+    },
+    "environment_variables": {
+      "ENVIRONMENT": "dev",
+      "S3_BUCKET_NAME": "taxjimmystorage"
+    },
+    "extra_permissions": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "lambda:InvokeFunction"
+        ],
+        "Resource": "*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "secretsmanager:GetSecretValue",
+          "secretsmanager:DescribeSecret"
+        ],
+        "Resource": "arn:aws:secretsmanager:us-east-1:629763229779:secret:taxjimmy/rds/credentials-*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "secretsmanager:GetSecretValue",
+          "secretsmanager:DescribeSecret"
+        ],
+        "Resource": "arn:aws:secretsmanager:us-east-1:629763229779:secret:taxjimmy/*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "bedrock:InvokeModel",
+          "bedrock:InvokeModelWithResponseStream",
+          "bedrock:GetModelInvocationLoggingConfiguration",
+          "bedrock:GetFoundationModel",
+          "bedrock:ListFoundationModels"
+        ],
+        "Resource": "*"
+      }
+    ],
+    "timeout_seconds": 780,
+    "memory_size": 1024,
+    "events": [
+      {
+        "function": "handler_custom.run_cron_handler",
+        "expression": "rate(5 minutes)",
+        "enabled": true
+      }
+    ],
+    "binary_support": true,
+    "binary_types": [
+      "application/x-www-form-urlencoded",
+      "multipart/form-data"
+    ]
+  }
+}

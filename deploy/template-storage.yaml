@@ -1,0 +1,59 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Parameters:
+  AppName:
+    Type: String
+    Description: Name of the application
+    
+  BucketName:
+    Type: String
+    Description: Name for the S3 bucket (must be globally unique)
+    AllowedPattern: ^[a-z0-9][a-z0-9-]*[a-z0-9]$
+    ConstraintDescription: Bucket name must contain only lowercase letters, numbers, and hyphens, and cannot start or end with a hyphen
+
+Resources:
+  StorageBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref BucketName
+      Tags:
+        - Key: Application
+          Value: !Ref AppName
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      VersioningConfiguration:
+        Status: Enabled
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+
+  StorageBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref StorageBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: DenyInsecureTransport
+            Effect: Deny
+            Principal: '*'
+            Action: 's3:*'
+            Resource: 
+              - !Sub '${StorageBucket.Arn}/*'
+              - !GetAtt StorageBucket.Arn
+            Condition:
+              Bool:
+                aws:SecureTransport: false
+
+Outputs:
+  BucketName:
+    Description: Name of the created S3 bucket
+    Value: !Ref StorageBucket
+  BucketArn:
+    Description: ARN of the created S3 bucket
+    Value: !GetAtt StorageBucket.Arn 

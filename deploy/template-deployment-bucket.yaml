@@ -1,0 +1,68 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Parameters:
+  AppName:
+    Type: String
+    Description: Name of the application
+    
+  BucketName:
+    Type: String
+    Description: Name for the Zappa deployment bucket (must be globally unique)
+    AllowedPattern: ^[a-z0-9][a-z0-9-]*[a-z0-9]$
+    ConstraintDescription: Bucket name must contain only lowercase letters, numbers, and hyphens, and cannot start or end with a hyphen
+
+Resources:
+  DeploymentBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Ref BucketName
+      Tags:
+        - Key: Application
+          Value: !Ref AppName
+        - Key: Purpose
+          Value: ZappaDeployment
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      VersioningConfiguration:
+        Status: Enabled
+      BucketEncryption:
+        ServerSideEncryptionConfiguration:
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
+      LifecycleConfiguration:
+        Rules:
+          - Id: DeleteOldDeployments
+            Status: Enabled
+            ExpirationInDays: 5
+            NoncurrentVersionExpirationInDays: 1
+
+  DeploymentBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref DeploymentBucket
+      PolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Sid: DenyInsecureTransport
+            Effect: Deny
+            Principal: '*'
+            Action: 's3:*'
+            Resource: 
+              - !Sub '${DeploymentBucket.Arn}/*'
+              - !GetAtt DeploymentBucket.Arn
+            Condition:
+              Bool:
+                aws:SecureTransport: false
+
+Outputs:
+  BucketName:
+    Description: Name of the created deployment bucket
+    Value: !Ref DeploymentBucket
+  BucketArn:
+    Description: ARN of the created deployment bucket
+    Value: !GetAtt DeploymentBucket.Arn
+

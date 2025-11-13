@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block title %}User Portal - TaxJimmy{% endblock %}
+
+{% block content %}
+<div style="padding: 2rem 0;">
+    <h2 style="font-size: 2rem; margin-bottom: 2rem; color: #667eea;">User Portal</h2>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;">
+        <div style="background: #f8f9fa; padding: 2rem; border-radius: 10px; border-left: 4px solid #667eea;">
+            <h3 style="color: #667eea; margin-bottom: 1rem;">Profile</h3>
+            <p><strong>Username:</strong> {{ user.username }}</p>
+            <p><strong>Email:</strong> {{ user.email|default:"Not provided" }}</p>
+            <p><strong>Member since:</strong> {{ user.date_joined|date:"F Y" }}</p>
+        </div>
+        
+        <div style="background: #f8f9fa; padding: 2rem; border-radius: 10px; border-left: 4px solid #764ba2;">
+            <h3 style="color: #764ba2; margin-bottom: 1rem;">Quick Actions</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+                <a href="/admin/" class="btn" style="text-align: center;">Admin Panel</a>
+                <a href="{% url 'account_logout' %}" class="btn btn-secondary" style="text-align: center;">Logout</a>
+            </div>
+        </div>
+        
+        <div style="background: #f8f9fa; padding: 2rem; border-radius: 10px; border-left: 4px solid #28a745;">
+            <h3 style="color: #28a745; margin-bottom: 1rem;">Account Status</h3>
+            <p style="margin-bottom: 0.5rem;">
+                <span style="display: inline-block; width: 10px; height: 10px; background: #28a745; border-radius: 50%; margin-right: 0.5rem;"></span>
+                Active
+            </p>
+            <p style="margin-bottom: 0.5rem;">
+                <span style="display: inline-block; width: 10px; height: 10px; background: #28a745; border-radius: 50%; margin-right: 0.5rem;"></span>
+                Verified
+            </p>
+        </div>
+    </div>
+    
+    <div style="margin-top: 3rem; padding: 2rem; background: #e9ecef; border-radius: 10px;">
+        <h3 style="margin-bottom: 1rem; color: #495057;">Welcome to your dashboard!</h3>
+        <p style="color: #6c757d;">This is your personal portal. You can manage your account, access services, and view your information from here.</p>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block title %}Home - TaxJimmy{% endblock %}
+
+{% block content %}
+<div style="text-align: center; padding: 3rem 0;">
+    <h2 style="font-size: 2.5rem; margin-bottom: 1rem; color: #667eea;">Welcome to TaxJimmy</h2>
+    <p style="font-size: 1.2rem; margin-bottom: 2rem; color: #666;">Please log in to access your portal</p>
+    
+    <div style="max-width: 400px; margin: 0 auto; background: #f8f9fa; padding: 2rem; border-radius: 10px;">
+        <a href="{% url 'account_login' %}" class="btn" style="width: 100%; text-align: center; display: block; margin-bottom: 1rem;">
+            Login
+        </a>
+        <a href="{% url 'account_signup' %}" class="btn btn-secondary" style="width: 100%; text-align: center; display: block;">
+            Sign Up
+        </a>
+    </div>
+</div>
+{% endblock %}

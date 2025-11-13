@@ -1,0 +1,29 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Parameters:
+  AppName:
+    Type: String
+    Description: Name of the application
+    
+  VpcId:
+    Type: AWS::EC2::VPC::Id
+    Description: VPC ID for the Lambda security group
+
+Resources:
+  LambdaSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: !Sub "${AppName} Lambda function security group"
+      VpcId: !Ref VpcId
+      SecurityGroupEgress:
+        - IpProtocol: -1
+          FromPort: -1
+          ToPort: -1
+          CidrIp: 0.0.0.0/0
+          Description: Allow all outbound traffic
+
+Outputs:
+  SecurityGroupId:
+    Description: ID of the created security group
+    Value: !Ref LambdaSecurityGroup 

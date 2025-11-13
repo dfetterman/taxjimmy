@@ -1,0 +1,5 @@
+dev.env 
+debug.log
+db.sqlite3
+db.json
+manage.py

@@ -1,0 +1,101 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Parameters:
+  VpcId:
+    Type: AWS::EC2::VPC::Id
+    Description: VPC ID for the RDS cluster
+  
+  VpcCidr:
+    Type: String
+    Description: CIDR block for the selected VPC
+  
+  SubnetIds:
+    Type: List<AWS::EC2::Subnet::Id>
+    Description: List of subnet IDs for the RDS cluster
+    
+  AppName:
+    Type: String
+    Description: Name of the application
+    
+  DBName:
+    Type: String
+    Default: db
+    Description: Database name
+    
+  DBUsername:
+    Type: String
+    Description: Database admin username
+    
+  DBPassword:
+    Type: String
+    NoEcho: true
+    Description: Database admin password
+
+Resources:
+  RDSSubnetGroup:
+    Type: AWS::RDS::DBSubnetGroup
+    Properties:
+      DBSubnetGroupDescription: !Sub "Subnet group for ${AppName} Aurora PostgreSQL"
+      SubnetIds: !Ref SubnetIds
+
+  RDSSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: !Sub "Security group for ${AppName} Aurora PostgreSQL"
+      VpcId: !Ref VpcId
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 5432
+          ToPort: 5432
+          Description: PostgreSQL access from VPC
+          CidrIp: !Ref VpcCidr
+        - IpProtocol: tcp
+          FromPort: 5432
+          ToPort: 5432
+          Description: PostgreSQL access from PennNet
+          CidrIp: 10.100.128.0/18
+
+  AuroraCluster:
+    Type: AWS::RDS::DBCluster
+    Properties:
+      Engine: aurora-postgresql
+      EngineVersion: "16.3"
+      DatabaseName: !Ref DBName
+      MasterUsername: !Ref DBUsername
+      MasterUserPassword: !Ref DBPassword
+      DBSubnetGroupName: !Ref RDSSubnetGroup
+      VpcSecurityGroupIds: 
+        - !Ref RDSSecurityGroup
+      ServerlessV2ScalingConfiguration:
+        MinCapacity: 0.5
+        MaxCapacity: 4
+      StorageEncrypted: true
+      BackupRetentionPeriod: 7
+      DeletionProtection: true
+      Port: 5432
+
+  AuroraInstance:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      DBClusterIdentifier: !Ref AuroraCluster
+      DBInstanceClass: db.serverless
+      Engine: aurora-postgresql
+      PubliclyAccessible: false
+
+Outputs:
+  ClusterEndpoint:
+    Description: Aurora cluster endpoint
+    Value: !GetAtt AuroraCluster.Endpoint.Address
+  
+  ClusterPort:
+    Description: Aurora cluster port
+    Value: !GetAtt AuroraCluster.Endpoint.Port
+    
+  DBName:
+    Description: Database name
+    Value: !Ref DBName
+    
+  ClusterIdentifier:
+    Description: Aurora cluster identifier
+    Value: !Ref AuroraCluster 
