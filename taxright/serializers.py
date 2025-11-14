@@ -19,6 +19,8 @@ class InvoiceSerializer(serializers.ModelSerializer):
     """Serializer for Invoice model"""
     line_items = InvoiceLineItemSerializer(many=True, read_only=True)
     pdf_file_url = serializers.SerializerMethodField()
+    ocr_job_id = serializers.IntegerField(source='ocr_job.id', read_only=True, allow_null=True)
+    has_ocr_data = serializers.SerializerMethodField()
     
     class Meta:
         model = Invoice
@@ -26,6 +28,7 @@ class InvoiceSerializer(serializers.ModelSerializer):
             'id', 'invoice_number', 'date', 'vendor_name', 'total_amount',
             'state_code', 'jurisdiction', 'pdf_file', 'pdf_file_url',
             'status', 'uploaded_at', 'processed_at', 'line_items',
+            'ocr_job_id', 'raw_ocr_data', 'ocr_error', 'has_ocr_data',
             'created_at', 'updated_at'
         ]
         read_only_fields = ['id', 'uploaded_at', 'created_at', 'updated_at']
@@ -38,6 +41,10 @@ class InvoiceSerializer(serializers.ModelSerializer):
                 return request.build_absolute_uri(obj.pdf_file.url)
             return obj.pdf_file.url
         return None
+    
+    def get_has_ocr_data(self, obj):
+        """Check if invoice has OCR data"""
+        return bool(obj.raw_ocr_data or obj.ocr_job)
 
 
 class TaxDeterminationSerializer(serializers.ModelSerializer):

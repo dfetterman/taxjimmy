@@ -163,6 +163,232 @@
     .no-discrepancy {
         color: #28a745;
     }
+    
+    .pipeline-container {
+        margin: 2rem 0;
+        padding: 1.5rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .pipeline-title {
+        margin: 0 0 1.5rem 0;
+        color: #667eea;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #e9ecef;
+    }
+    
+    .pipeline-stages {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        margin: 2rem 0;
+    }
+    
+    .pipeline-stage {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        cursor: pointer;
+        transition: transform 0.2s;
+    }
+    
+    .pipeline-stage:hover {
+        transform: scale(1.05);
+    }
+    
+    .pipeline-stage::after {
+        content: '';
+        position: absolute;
+        top: 20px;
+        left: 50%;
+        width: 100%;
+        height: 3px;
+        background: #e9ecef;
+        z-index: 0;
+    }
+    
+    .pipeline-stage:last-child::after {
+        display: none;
+    }
+    
+    .pipeline-bullet {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        background: #e9ecef;
+        border: 3px solid #e9ecef;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        color: #6c757d;
+        position: relative;
+        z-index: 1;
+        transition: all 0.3s;
+    }
+    
+    .pipeline-stage.active .pipeline-bullet {
+        background: #667eea;
+        border-color: #667eea;
+        color: white;
+    }
+    
+    .pipeline-stage.completed .pipeline-bullet {
+        background: #28a745;
+        border-color: #28a745;
+        color: white;
+    }
+    
+    .pipeline-stage.error .pipeline-bullet {
+        background: #dc3545;
+        border-color: #dc3545;
+        color: white;
+    }
+    
+    .pipeline-stage.disabled .pipeline-bullet {
+        background: #e9ecef;
+        border-color: #e9ecef;
+        color: #adb5bd;
+        cursor: not-allowed;
+    }
+    
+    .pipeline-stage.disabled {
+        cursor: not-allowed;
+    }
+    
+    .pipeline-stage.disabled:hover {
+        transform: none;
+    }
+    
+    .pipeline-label {
+        margin-top: 0.5rem;
+        font-size: 0.9rem;
+        color: #495057;
+        text-align: center;
+        font-weight: 600;
+    }
+    
+    .pipeline-stage.active .pipeline-label {
+        color: #667eea;
+    }
+    
+    .pipeline-stage.completed .pipeline-label {
+        color: #28a745;
+    }
+    
+    .pipeline-stage.error .pipeline-label {
+        color: #dc3545;
+    }
+    
+    .pipeline-stage.disabled .pipeline-label {
+        color: #adb5bd;
+    }
+    
+    /* Modal styles */
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        overflow: auto;
+    }
+    
+    .modal-content {
+        background-color: white;
+        margin: 5% auto;
+        padding: 2rem;
+        border-radius: 10px;
+        width: 90%;
+        max-width: 800px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        position: relative;
+    }
+    
+    .modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 2px solid #e9ecef;
+    }
+    
+    .modal-title {
+        margin: 0;
+        color: #667eea;
+        font-size: 1.5rem;
+    }
+    
+    .close-modal {
+        background: none;
+        border: none;
+        font-size: 2rem;
+        color: #6c757d;
+        cursor: pointer;
+        padding: 0;
+        width: 30px;
+        height: 30px;
+        line-height: 1;
+    }
+    
+    .close-modal:hover {
+        color: #495057;
+    }
+    
+    .modal-body {
+        max-height: 60vh;
+        overflow-y: auto;
+    }
+    
+    .modal-section {
+        margin-bottom: 1.5rem;
+    }
+    
+    .modal-section h4 {
+        margin: 0 0 0.5rem 0;
+        color: #495057;
+    }
+    
+    .modal-section pre {
+        background: #f8f9fa;
+        padding: 1rem;
+        border-radius: 6px;
+        overflow-x: auto;
+        font-size: 0.9rem;
+    }
+    
+    .status-indicator {
+        display: inline-block;
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+    }
+    
+    .status-completed {
+        background: #d1e7dd;
+        color: #0f5132;
+    }
+    
+    .status-error {
+        background: #f8d7da;
+        color: #842029;
+    }
+    
+    .status-not-implemented {
+        background: #fff3cd;
+        color: #856404;
+    }
 </style>
 {% endblock %}
 
@@ -214,6 +440,38 @@
             <a href="{{ invoice.pdf_file.url }}" target="_blank" class="btn">View PDF</a>
         </div>
         {% endif %}
+    </div>
+    
+    <!-- Pipeline Visualization -->
+    <div class="pipeline-container">
+        <h3 class="pipeline-title">Processing Pipeline</h3>
+        <div class="pipeline-stages">
+            <div class="pipeline-stage {% if invoice.status == 'completed' or invoice.status == 'processing' %}active{% elif invoice.status == 'error' %}error{% endif %}" data-stage="ocr" id="stage-ocr">
+                <div class="pipeline-bullet">1</div>
+                <div class="pipeline-label">OCR Processing</div>
+            </div>
+            <div class="pipeline-stage disabled" data-stage="tax-db" id="stage-tax-db">
+                <div class="pipeline-bullet">2</div>
+                <div class="pipeline-label">Tax Database Processing</div>
+            </div>
+            <div class="pipeline-stage {% if invoice.tax_determination %}active{% else %}disabled{% endif %}" data-stage="tax-determination" id="stage-tax-determination">
+                <div class="pipeline-bullet">3</div>
+                <div class="pipeline-label">Tax Determination</div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Modal -->
+    <div id="pipeline-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modal-title">Pipeline Stage</h3>
+                <button class="close-modal" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <p>Loading...</p>
+            </div>
+        </div>
     </div>
     
     {% if invoice.line_items.all %}
@@ -291,5 +549,120 @@
     </div>
     {% endif %}
 </div>
+
+<script>
+    const invoiceId = {{ invoice.id }};
+    const apiBaseUrl = '/taxright/api/invoices/' + invoiceId + '/';
+    
+    // Add click handlers to pipeline stages
+    document.querySelectorAll('.pipeline-stage').forEach(stage => {
+        if (!stage.classList.contains('disabled')) {
+            stage.addEventListener('click', function() {
+                const stageType = this.dataset.stage;
+                openModal(stageType);
+            });
+        }
+    });
+    
+    function openModal(stageType) {
+        const modal = document.getElementById('pipeline-modal');
+        const modalTitle = document.getElementById('modal-title');
+        const modalBody = document.getElementById('modal-body');
+        
+        modal.style.display = 'block';
+        modalBody.innerHTML = '<p>Loading...</p>';
+        
+        let url, title;
+        switch(stageType) {
+            case 'ocr':
+                url = apiBaseUrl + 'pipeline/ocr/';
+                title = 'OCR Processing';
+                break;
+            case 'tax-db':
+                url = apiBaseUrl + 'pipeline/tax-db/';
+                title = 'Tax Database Processing';
+                break;
+            case 'tax-determination':
+                url = apiBaseUrl + 'pipeline/tax-determination/';
+                title = 'Tax Determination';
+                break;
+        }
+        
+        modalTitle.textContent = title;
+        
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                let html = '';
+                
+                if (data.status === 'error' || data.error) {
+                    html += '<div class="status-indicator status-error">Error</div>';
+                    html += '<div class="modal-section"><h4>Error Message</h4><p>' + escapeHtml(data.error || 'An error occurred during processing') + '</p></div>';
+                } else if (data.status === 'completed') {
+                    html += '<div class="status-indicator status-completed">Completed</div>';
+                } else if (data.status === 'not_implemented') {
+                    html += '<div class="status-indicator status-not-implemented">Not Implemented</div>';
+                    html += '<div class="modal-section"><p>' + escapeHtml(data.message || 'This functionality is not yet available') + '</p></div>';
+                } else {
+                    html += '<div class="status-indicator">Status: ' + escapeHtml(data.status) + '</div>';
+                }
+                
+                if (data.processed_at) {
+                    html += '<div class="modal-section"><h4>Processed At</h4><p>' + new Date(data.processed_at).toLocaleString() + '</p></div>';
+                }
+                
+                if (stageType === 'ocr') {
+                    if (data.raw_data) {
+                        html += '<div class="modal-section"><h4>Extracted Data (JSON)</h4><pre>' + escapeHtml(JSON.stringify(JSON.parse(data.raw_data), null, 2)) + '</pre></div>';
+                    }
+                    if (data.extracted_text) {
+                        html += '<div class="modal-section"><h4>Extracted Text</h4><pre>' + escapeHtml(data.extracted_text) + '</pre></div>';
+                    }
+                    if (data.job_id) {
+                        html += '<div class="modal-section"><h4>Processing Job ID</h4><p>' + data.job_id + '</p></div>';
+                    }
+                } else if (stageType === 'tax-determination') {
+                    if (data.determination_status) {
+                        html += '<div class="modal-section"><h4>Determination Status</h4><p>' + escapeHtml(data.determination_status) + '</p></div>';
+                    }
+                    if (data.expected_tax !== undefined) {
+                        html += '<div class="modal-section"><h4>Expected Tax</h4><p>$' + parseFloat(data.expected_tax).toFixed(2) + '</p></div>';
+                    }
+                    if (data.actual_tax !== undefined) {
+                        html += '<div class="modal-section"><h4>Actual Tax</h4><p>$' + parseFloat(data.actual_tax).toFixed(2) + '</p></div>';
+                    }
+                    if (data.discrepancy_amount !== undefined) {
+                        html += '<div class="modal-section"><h4>Discrepancy</h4><p>$' + parseFloat(data.discrepancy_amount).toFixed(2) + '</p></div>';
+                    }
+                    if (data.notes) {
+                        html += '<div class="modal-section"><h4>Notes</h4><p>' + escapeHtml(data.notes) + '</p></div>';
+                    }
+                }
+                
+                modalBody.innerHTML = html;
+            })
+            .catch(error => {
+                modalBody.innerHTML = '<div class="modal-section"><p style="color: #dc3545;">Error loading data: ' + escapeHtml(error.message) + '</p></div>';
+            });
+    }
+    
+    function closeModal() {
+        document.getElementById('pipeline-modal').style.display = 'none';
+    }
+    
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+    
+    // Close modal when clicking outside
+    window.onclick = function(event) {
+        const modal = document.getElementById('pipeline-modal');
+        if (event.target === modal) {
+            closeModal();
+        }
+    }
+</script>
 {% endblock %}
 

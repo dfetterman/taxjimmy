@@ -2,10 +2,15 @@ from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.db.models import Sum
 from django.contrib import messages
+from django.utils import timezone
 from rest_framework import viewsets, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework.parsers import MultiPartParser, FormParser
+import tempfile
+import os
+import json
+
 from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule
 from .serializers import (
     InvoiceSerializer, 
@@ -13,6 +18,9 @@ from .serializers import (
     TaxDeterminationSerializer,
     TaxRuleSerializer
 )
+from .services import create_invoice_from_ocr
+from invoice_ocr.services import InvoiceProcessor
+from invoice_ocr.exceptions import InvoiceProcessingError
 
 
 class InvoiceViewSet(viewsets.ModelViewSet):
@@ -56,6 +64,70 @@ class InvoiceViewSet(viewsets.ModelViewSet):
                 {'detail': 'No tax determination found for this invoice.'},
                 status=status.HTTP_404_NOT_FOUND
             )
+    
+    @action(detail=True, methods=['get'], url_path='pipeline/ocr')
+    def get_ocr_data(self, request, pk=None):
+        """Get OCR processing data for pipeline"""
+        invoice = self.get_object()
+        
+        data = {
+            'status': 'not_started',
+            'extracted_text': None,
+            'raw_data': None,
+            'error': None,
+            'processed_at': None,
+            'job_id': None,
+        }
+        
+        if invoice.ocr_job:
+            data['status'] = invoice.ocr_job.status
+            data['extracted_text'] = invoice.ocr_job.extracted_text
+            data['job_id'] = invoice.ocr_job.id
+            data['processed_at'] = invoice.ocr_job.completed_at
+        
+        if invoice.raw_ocr_data:
+            data['raw_data'] = invoice.raw_ocr_data
+        
+        if invoice.ocr_error:
+            data['error'] = invoice.ocr_error
+            data['status'] = 'error'
+        
+        if invoice.status == 'completed' and not invoice.ocr_error:
+            data['status'] = 'completed'
+            data['processed_at'] = invoice.processed_at
+        
+        return Response(data)
+    
+    @action(detail=True, methods=['get'], url_path='pipeline/tax-db')
+    def get_tax_db_data(self, request, pk=None):
+        """Get tax database processing data for pipeline (placeholder)"""
+        invoice = self.get_object()
+        
+        # Placeholder - functionality not developed yet
+        data = {
+            'status': 'not_implemented',
+            'message': 'Tax database processing is not yet implemented',
+            'processed_at': None,
+        }
+        
+        return Response(data)
+    
+    @action(detail=True, methods=['get'], url_path='pipeline/tax-determination')
+    def get_tax_determination_data(self, request, pk=None):
+        """Get tax determination data for pipeline"""
+        invoice = self.get_object()
+        
+        try:
+            determination = invoice.tax_determination
+            serializer = TaxDeterminationSerializer(determination)
+            data = serializer.data
+            data['status'] = 'completed'
+            return Response(data)
+        except TaxDetermination.DoesNotExist:
+            return Response({
+                'status': 'not_started',
+                'message': 'Tax determination has not been performed yet',
+            })
 
 
 class InvoiceLineItemViewSet(viewsets.ModelViewSet):
@@ -135,23 +207,104 @@ def invoice_detail(request, invoice_id):
 
 @login_required
 def upload_invoice(request):
-    """View for uploading a new invoice"""
+    """View for uploading a new invoice PDF and processing via OCR"""
     if request.method == 'POST':
+        pdf_file = request.FILES.get('pdf_file')
+        if not pdf_file:
+            messages.error(request, 'Please select a PDF file to upload.')
+            return render(request, 'taxright/upload.html')
+        
+        # Validate file type
+        if not pdf_file.name.lower().endswith('.pdf'):
+            messages.error(request, 'Only PDF files are allowed.')
+            return render(request, 'taxright/upload.html')
+        
+        temp_file_path = None
+        invoice = None
         try:
+            # Save uploaded file temporarily for OCR processing
+            with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as temp_file:
+                for chunk in pdf_file.chunks():
+                    temp_file.write(chunk)
+                temp_file_path = temp_file.name
+            
+            # Reset file pointer for saving to S3
+            pdf_file.seek(0)
+            
+            # Create invoice with processing status
             invoice = Invoice.objects.create(
-                invoice_number=request.POST.get('invoice_number'),
-                date=request.POST.get('date'),
-                vendor_name=request.POST.get('vendor_name'),
-                total_amount=request.POST.get('total_amount'),
-                state_code=request.POST.get('state_code'),
-                jurisdiction=request.POST.get('jurisdiction', ''),
-                pdf_file=request.FILES.get('pdf_file'),
-                status='pending'
+                invoice_number='TEMP',  # Will be updated from OCR
+                date=timezone.now().date(),
+                vendor_name='Processing...',
+                total_amount=0,
+                state_code='XX',
+                pdf_file=pdf_file,
+                status='processing'
             )
-            messages.success(request, f'Invoice {invoice.invoice_number} uploaded successfully!')
+            
+            # Process via OCR
+            processor = InvoiceProcessor()
+            ocr_result = processor.process_pdf(
+                file_path=temp_file_path,
+                method='bedrock',
+                create_job=True
+            )
+            
+            # Get the created job
+            from invoice_ocr.models import ProcessingJob
+            ocr_job = ProcessingJob.objects.filter(
+                file_path=temp_file_path,
+                method='bedrock'
+            ).order_by('-created_at').first()
+            
+            # Parse OCR result and update invoice data
+            invoice = create_invoice_from_ocr(
+                ocr_json=ocr_result,
+                pdf_file=pdf_file,
+                ocr_job=ocr_job,
+                invoice=invoice
+            )
+            
+            messages.success(request, f'Invoice {invoice.invoice_number} processed successfully!')
             return redirect('taxright:invoice_detail', invoice_id=invoice.id)
+            
+        except InvoiceProcessingError as e:
+            if invoice:
+                invoice.status = 'error'
+                invoice.ocr_error = str(e)
+                invoice.save()
+                messages.error(request, f'OCR processing failed: {str(e)}')
+                return redirect('taxright:invoice_detail', invoice_id=invoice.id)
+            else:
+                messages.error(request, f'OCR processing failed: {str(e)}')
+                return render(request, 'taxright/upload.html')
+        except ValueError as e:
+            if invoice:
+                invoice.status = 'error'
+                invoice.ocr_error = f'Data parsing error: {str(e)}'
+                invoice.save()
+                messages.error(request, f'Error parsing invoice data: {str(e)}')
+                return redirect('taxright:invoice_detail', invoice_id=invoice.id)
+            else:
+                messages.error(request, f'Error parsing invoice data: {str(e)}')
+                return render(request, 'taxright/upload.html')
         except Exception as e:
-            messages.error(request, f'Error uploading invoice: {str(e)}')
+            if invoice:
+                invoice.status = 'error'
+                invoice.ocr_error = str(e)
+                invoice.save()
+                messages.error(request, f'Unexpected error: {str(e)}')
+                return redirect('taxright:invoice_detail', invoice_id=invoice.id)
+            else:
+                messages.error(request, f'Unexpected error: {str(e)}')
+                return render(request, 'taxright/upload.html')
+        finally:
+            # Clean up temporary file
+            if temp_file_path and os.path.exists(temp_file_path):
+                try:
+                    os.unlink(temp_file_path)
+                except Exception:
+                    pass
     
     return render(request, 'taxright/upload.html')
 

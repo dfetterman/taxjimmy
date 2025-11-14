@@ -423,16 +423,37 @@ Please extract and format all key information from this invoice."""
                 prompt = prompt_template.format(invoice_text="[PDF document will be processed directly]")
             else:
                 prompt = """You are an expert at extracting information from invoices. 
-Analyze the following invoice PDF and extract all relevant information in a clear, structured format.
+Analyze the following invoice PDF and extract all relevant information in a structured JSON format.
 
-Please extract and format all key information from this invoice, including:
-- Invoice number and date
-- Vendor/supplier information
-- Line items and descriptions
-- Quantities, unit prices, and totals
-- Tax information
-- Payment terms
-- Any other relevant details"""
+Extract the following information and return it as valid JSON only (no markdown, no code blocks, just the JSON object):
+
+{
+  "invoice_number": "string (invoice number or ID)",
+  "date": "YYYY-MM-DD (invoice date)",
+  "vendor_name": "string (vendor or supplier name)",
+  "total_amount": "decimal number (total invoice amount)",
+  "state_code": "string (2-letter US state code, e.g., CA, NY)",
+  "jurisdiction": "string (county, city, or special district if applicable, empty string if not)",
+  "line_items": [
+    {
+      "description": "string (item description)",
+      "quantity": "decimal number",
+      "unit_price": "decimal number",
+      "line_total": "decimal number (quantity * unit_price)",
+      "tax_amount": "decimal number (tax for this line item)",
+      "tax_rate": "decimal number (tax rate as decimal, e.g., 0.0825 for 8.25%)",
+      "tax_status": "string (one of: 'taxable', 'exempt', 'unknown')"
+    }
+  ]
+}
+
+Important:
+- Return ONLY valid JSON, no additional text or explanation
+- If a field cannot be determined, use empty string for strings, 0 for numbers, or empty array for line_items
+- Dates must be in YYYY-MM-DD format
+- All amounts should be decimal numbers (strings in JSON)
+- State code should be 2-letter uppercase US state code
+- If jurisdiction is not found, use empty string"""
             
             # Invoke model with PDF bytes and filename
             result, token_usage = self._invoke_model(model_id, prompt, config, pdf_bytes=pdf_bytes, pdf_filename=pdf_filename)
@@ -453,8 +474,42 @@ Please extract and format all key information from this invoice, including:
             **cost_info
         }
         
-        formatted_result = format_extracted_text(result)
+        # Try to extract JSON from the response (might be wrapped in markdown code blocks)
+        json_result = self._extract_json_from_response(result)
+        formatted_result = json_result if json_result else format_extracted_text(result)
         return formatted_result, usage_info
+    
+    def _extract_json_from_response(self, text: str) -> Optional[str]:
+        """
+        Extract JSON from response text, handling markdown code blocks.
+        
+        Args:
+            text: Response text that may contain JSON
+            
+        Returns:
+            str: Extracted JSON string, or None if not found
+        """
+        import re
+        
+        # Try to find JSON in markdown code blocks
+        json_pattern = r'```(?:json)?\s*(\{.*?\})\s*```'
+        match = re.search(json_pattern, text, re.DOTALL)
+        if match:
+            return match.group(1).strip()
+        
+        # Try to find JSON object directly
+        json_pattern = r'(\{.*\})'
+        match = re.search(json_pattern, text, re.DOTALL)
+        if match:
+            try:
+                # Validate it's valid JSON
+                json.loads(match.group(1))
+                return match.group(1).strip()
+            except json.JSONDecodeError:
+                pass
+        
+        # If no JSON found, return None
+        return None
 
 
 class InvoiceProcessor:

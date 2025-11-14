@@ -27,6 +27,24 @@ class Invoice(models.Model):
     status = models.CharField(max_length=20, choices=STATUS_CHOICES, default='pending', db_index=True)
     uploaded_at = models.DateTimeField(auto_now_add=True)
     processed_at = models.DateTimeField(null=True, blank=True)
+    ocr_job = models.ForeignKey(
+        'invoice_ocr.ProcessingJob',
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name='invoices',
+        help_text="Reference to OCR processing job"
+    )
+    raw_ocr_data = models.TextField(
+        blank=True,
+        null=True,
+        help_text="Raw JSON response from OCR processing"
+    )
+    ocr_error = models.TextField(
+        blank=True,
+        null=True,
+        help_text="Error message if OCR processing failed"
+    )
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
