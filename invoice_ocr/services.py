@@ -1,5 +1,5 @@
 """
-Service classes for invoice processing using AWS Bedrock and Textract.
+Service classes for invoice OCR processing using AWS Bedrock.
 """
 import boto3
 import json
@@ -11,88 +11,18 @@ from django.utils import timezone
 from botocore.exceptions import ClientError, BotoCoreError
 from typing import Optional, Dict, Any
 
-from invoice_llm.config import ConfigManager
-from invoice_llm.exceptions import (
+from invoice_ocr.config import ConfigManager
+from invoice_ocr.exceptions import (
     InvoiceProcessingError,
-    TextractError,
     BedrockError,
     ModelNotFoundError,
     PDFValidationError,
     ConfigurationError
 )
-from invoice_llm.utils import validate_pdf_file, read_pdf_file, format_extracted_text
-from invoice_llm.models import ProcessingJob
+from invoice_ocr.utils import validate_pdf_file, read_pdf_file, format_extracted_text
+from invoice_ocr.models import ProcessingJob
 
 logger = logging.getLogger(__name__)
-
-
-class TextractService:
-    """Service for processing invoices using AWS Textract."""
-    
-    def __init__(self, region_name: Optional[str] = None):
-        """
-        Initialize Textract service.
-        
-        Args:
-            region_name: AWS region (defaults to config or us-east-1)
-        """
-        self.region_name = region_name or ConfigManager.get_bedrock_region()
-        try:
-            self.client = boto3.client('textract', region_name=self.region_name)
-        except Exception as e:
-            raise ConfigurationError(f"Failed to initialize Textract client: {str(e)}")
-    
-    def extract_text(self, file_path: str, use_analyze: bool = False) -> str:
-        """
-        Extract text from PDF using AWS Textract.
-        
-        Args:
-            file_path: Path to PDF file
-            use_analyze: Whether to use analyze_document (for tables/forms) or detect_document_text
-            
-        Returns:
-            str: Extracted text
-            
-        Raises:
-            TextractError: If extraction fails
-        """
-        validate_pdf_file(file_path)
-        
-        file_bytes = read_pdf_file(file_path)
-        textract_config = ConfigManager.get_textract_config()
-        
-        try:
-            if use_analyze or textract_config.get('use_analyze_document', False):
-                # Use analyze_document for better table and form extraction
-                feature_types = textract_config.get('feature_types', ['TABLES', 'FORMS'])
-                response = self.client.analyze_document(
-                    Document={'Bytes': file_bytes},
-                    FeatureTypes=feature_types
-                )
-            else:
-                # Use detect_document_text for simple text extraction
-                response = self.client.detect_document_text(
-                    Document={'Bytes': file_bytes}
-                )
-            
-            # Extract text from blocks
-            text_blocks = []
-            if 'Blocks' in response:
-                for block in response['Blocks']:
-                    if block['BlockType'] == 'LINE':
-                        text_blocks.append(block.get('Text', ''))
-            
-            extracted_text = '\n'.join(text_blocks)
-            return format_extracted_text(extracted_text)
-            
-        except ClientError as e:
-            error_code = e.response.get('Error', {}).get('Code', 'Unknown')
-            error_message = e.response.get('Error', {}).get('Message', str(e))
-            raise TextractError(f"AWS Textract error ({error_code}): {error_message}")
-        except BotoCoreError as e:
-            raise TextractError(f"Boto3 error: {str(e)}")
-        except Exception as e:
-            raise TextractError(f"Unexpected error during Textract processing: {str(e)}")
 
 
 class BedrockLLMService:
@@ -116,7 +46,7 @@ class BedrockLLMService:
         Prepare the prompt for LLM processing.
         
         Args:
-            file_text: Text extracted from PDF (via Textract or other method)
+            file_text: Text extracted from PDF
             prompt_template: Custom prompt template (uses model default if None)
             
         Returns:
@@ -436,16 +366,14 @@ Please extract and format all key information from this invoice."""
     
     def process_invoice(self, file_path: str, model_id: Optional[str] = None, 
                        prompt_template: Optional[str] = None,
-                       use_textract_first: bool = True,
                        **kwargs) -> tuple[str, Dict[str, Any]]:
         """
-        Process invoice using Bedrock LLM.
+        Process invoice using Bedrock LLM with direct PDF processing.
         
         Args:
             file_path: Path to PDF file
             model_id: Model ID to use (defaults to configured default)
             prompt_template: Custom prompt template
-            use_textract_first: Whether to extract text with Textract first
             **kwargs: Additional model parameters (temperature, max_tokens, etc.)
             
         Returns:
@@ -477,12 +405,13 @@ Please extract and format all key information from this invoice."""
         if not prompt_template:
             prompt_template = model_config.prompt_template
         
-        # Determine if we should use direct PDF processing (multimodal)
-        # Claude 3+ models support direct PDF/image processing
-        supports_multimodal = 'claude' in model_id.lower() and ('claude-3' in model_id.lower() or 'claude-4' in model_id.lower())
-        use_direct_pdf = not use_textract_first and supports_multimodal
+        # Determine if model supports direct PDF processing (multimodal)
+        # Claude 3+ and Amazon Nova models support direct PDF/image processing via Converse API
+        is_claude_multimodal = 'claude' in model_id.lower() and ('claude-3' in model_id.lower() or 'claude-4' in model_id.lower())
+        is_nova = 'nova' in model_id.lower()
+        supports_multimodal = is_claude_multimodal or is_nova
         
-        if use_direct_pdf:
+        if supports_multimodal:
             # Read PDF bytes for direct processing
             pdf_bytes = read_pdf_file(file_path)
             
@@ -508,25 +437,8 @@ Please extract and format all key information from this invoice, including:
             # Invoke model with PDF bytes and filename
             result, token_usage = self._invoke_model(model_id, prompt, config, pdf_bytes=pdf_bytes, pdf_filename=pdf_filename)
         else:
-            # Extract text from PDF first (using Textract)
-            if use_textract_first:
-                try:
-                    textract_service = TextractService(region_name=self.region_name)
-                    file_text = textract_service.extract_text(file_path, use_analyze=False)
-                except Exception as e:
-                    logger.warning(f"Textract extraction failed: {str(e)}")
-                    raise BedrockError(f"Textract extraction failed: {str(e)}")
-            else:
-                # If not using Textract and model doesn't support multimodal, we need Textract
-                logger.warning(f"Model {model_id} may not support direct PDF processing. Using Textract.")
-                textract_service = TextractService(region_name=self.region_name)
-                file_text = textract_service.extract_text(file_path, use_analyze=False)
-            
-            # Prepare prompt
-            prompt = self._prepare_prompt(file_text, prompt_template)
-            
-            # Invoke model with text only
-            result, token_usage = self._invoke_model(model_id, prompt, config)
+            # Model doesn't support multimodal - raise error
+            raise BedrockError(f"Model {model_id} does not support direct PDF processing. Please use a Claude 3+ or Amazon Nova model.")
         
         # Calculate costs based on model pricing
         cost_info = self._calculate_cost(
@@ -546,7 +458,7 @@ Please extract and format all key information from this invoice, including:
 
 
 class InvoiceProcessor:
-    """Main service class for processing invoices."""
+    """Main service class for processing invoices using OCR via AWS Bedrock."""
     
     def __init__(self, region_name: Optional[str] = None):
         """
@@ -556,7 +468,6 @@ class InvoiceProcessor:
             region_name: AWS region (defaults to config)
         """
         self.region_name = region_name
-        self.textract_service = TextractService(region_name=region_name)
         self.bedrock_service = BedrockLLMService(region_name=region_name)
     
     def process_pdf(self, file_path: str, method: str = 'bedrock', 
@@ -568,7 +479,7 @@ class InvoiceProcessor:
         
         Args:
             file_path: Path to PDF file
-            method: Processing method ('bedrock' or 'textract')
+            method: Processing method (only 'bedrock' is supported)
             model_id: Model ID for Bedrock (optional, uses default if not specified)
             create_job: Whether to create a ProcessingJob record
             **kwargs: Additional parameters (temperature, max_tokens, prompt_template, etc.)
@@ -579,6 +490,9 @@ class InvoiceProcessor:
         Raises:
             InvoiceProcessingError: If processing fails
         """
+        if method != 'bedrock':
+            raise InvoiceProcessingError(f"Only 'bedrock' method is supported. Received: {method}")
+        
         job = None
         if create_job:
             job = ProcessingJob.objects.create(
@@ -589,26 +503,17 @@ class InvoiceProcessor:
             )
         
         try:
-            if method == 'textract':
-                result = self.textract_service.extract_text(
-                    file_path,
-                    use_analyze=kwargs.get('use_analyze', False)
-                )
-            elif method == 'bedrock':
-                result, usage_info = self.bedrock_service.process_invoice(
-                    file_path,
-                    model_id=model_id,
-                    prompt_template=kwargs.get('prompt_template'),
-                    use_textract_first=kwargs.get('use_textract_first', True),
-                    **{k: v for k, v in kwargs.items() if k not in ['prompt_template', 'use_textract_first', 'use_analyze']}
-                )
-                # Store token usage and cost in job metadata if job exists
-                if job:
-                    job.metadata = job.metadata or {}
-                    job.metadata['usage'] = usage_info
-                    job.save()
-            else:
-                raise InvoiceProcessingError(f"Unknown processing method: {method}")
+            result, usage_info = self.bedrock_service.process_invoice(
+                file_path,
+                model_id=model_id,
+                prompt_template=kwargs.get('prompt_template'),
+                **{k: v for k, v in kwargs.items() if k not in ['prompt_template']}
+            )
+            # Store token usage and cost in job metadata if job exists
+            if job:
+                job.metadata = job.metadata or {}
+                job.metadata['usage'] = usage_info
+                job.save()
             
             if job:
                 job.status = 'completed'
@@ -625,19 +530,6 @@ class InvoiceProcessor:
                 job.save()
             raise
     
-    def extract_with_textract(self, file_path: str, use_analyze: bool = False) -> str:
-        """
-        Extract text using Textract only.
-        
-        Args:
-            file_path: Path to PDF file
-            use_analyze: Whether to use analyze_document
-            
-        Returns:
-            str: Extracted text
-        """
-        return self.textract_service.extract_text(file_path, use_analyze=use_analyze)
-    
     def extract_with_bedrock(self, file_path: str, model_id: Optional[str] = None,
                             prompt_template: Optional[str] = None, **config) -> str:
         """
@@ -652,9 +544,10 @@ class InvoiceProcessor:
         Returns:
             str: Processed text
         """
-        return self.bedrock_service.process_invoice(
+        result, _ = self.bedrock_service.process_invoice(
             file_path,
             model_id=model_id,
             prompt_template=prompt_template,
             **config
         )
+        return result

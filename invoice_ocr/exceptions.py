@@ -1,5 +1,5 @@
 """
-Custom exceptions for invoice_llm app.
+Custom exceptions for invoice_ocr app.
 """
 
 
@@ -10,11 +10,6 @@ class InvoiceProcessingError(Exception):
 
 class ModelNotFoundError(InvoiceProcessingError):
     """Raised when a requested model is not found or not available."""
-    pass
-
-
-class TextractError(InvoiceProcessingError):
-    """Raised when AWS Textract processing fails."""
     pass
 
 

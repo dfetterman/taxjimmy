@@ -4,7 +4,7 @@ Utility functions for invoice processing.
 import os
 import logging
 from pathlib import Path
-from invoice_llm.exceptions import PDFValidationError
+from invoice_ocr.exceptions import PDFValidationError
 
 logger = logging.getLogger(__name__)
 
@@ -34,7 +34,7 @@ def validate_pdf_file(file_path):
     if path.suffix.lower() != '.pdf':
         raise PDFValidationError(f"File is not a PDF: {file_path}")
     
-    # Check file size (max 50MB for Textract)
+    # Check file size (max 50MB)
     file_size = path.stat().st_size
     max_size = 50 * 1024 * 1024  # 50MB
     if file_size > max_size:

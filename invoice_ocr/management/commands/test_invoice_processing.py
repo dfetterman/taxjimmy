@@ -1,22 +1,19 @@
 """
-Management command to test invoice processing via AWS Bedrock.
+Management command to test invoice OCR processing via AWS Bedrock.
 
 Usage:
-    # Basic usage with default model (uses Textract + Bedrock)
+    # Basic usage with default model
     python manage.py test_invoice_processing /path/to/invoice.pdf
     
-    # Use specific Claude 3 model with direct PDF processing (no Textract)
-    python manage.py test_invoice_processing /path/to/invoice.pdf --model-id anthropic.claude-3-sonnet-20240229-v1:0 --no-textract
-    
-    # Use Textract extraction first, then Bedrock processing
+    # Use specific Claude 3 model
     python manage.py test_invoice_processing /path/to/invoice.pdf --model-id anthropic.claude-3-sonnet-20240229-v1:0
 """
 import os
 import time
 from django.core.management.base import BaseCommand, CommandError
-from invoice_llm.services import InvoiceProcessor
-from invoice_llm.config import ConfigManager
-from invoice_llm.exceptions import (
+from invoice_ocr.services import InvoiceProcessor
+from invoice_ocr.config import ConfigManager
+from invoice_ocr.exceptions import (
     InvoiceProcessingError,
     ModelNotFoundError,
     ConfigurationError
@@ -37,11 +34,6 @@ class Command(BaseCommand):
             type=str,
             default=None,
             help='AWS Bedrock model ID to use (e.g., anthropic.claude-3-sonnet-20240229-v1:0). If not specified, uses default model.'
-        )
-        parser.add_argument(
-            '--no-textract',
-            action='store_true',
-            help='Skip Textract extraction and use direct PDF processing (requires Claude 3+ model). If model does not support multimodal, Textract will be used automatically.'
         )
         parser.add_argument(
             '--temperature',
@@ -69,7 +61,6 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         pdf_path = options['pdf_path']
         model_id = options.get('model_id')
-        use_textract = not options.get('no_textract', False)
         create_job = not options.get('no_job', False)
         verbose = options.get('verbose', False)
         
@@ -105,23 +96,23 @@ class Command(BaseCommand):
             raise CommandError(f'Configuration error: {str(e)}')
         
         # Check if model supports direct PDF processing
-        supports_multimodal = 'claude' in model_id.lower() and ('claude-3' in model_id.lower() or 'claude-4' in model_id.lower())
-        will_use_direct_pdf = not use_textract and supports_multimodal
+        # Claude 3+ and Amazon Nova models support direct PDF/image processing via Converse API
+        is_claude_multimodal = 'claude' in model_id.lower() and ('claude-3' in model_id.lower() or 'claude-4' in model_id.lower())
+        is_nova = 'nova' in model_id.lower()
+        supports_multimodal = is_claude_multimodal or is_nova
         
-        if will_use_direct_pdf:
-            self.stdout.write(f'Method: Bedrock (Direct PDF processing - no Textract)')
-            self.stdout.write(self.style.SUCCESS('  → Using Claude multimodal capabilities'))
-        elif not use_textract:
-            self.stdout.write(f'Method: Bedrock (Textract required - model does not support direct PDF)')
-            self.stdout.write(self.style.WARNING('  → Falling back to Textract extraction'))
+        if supports_multimodal:
+            self.stdout.write(f'Method: Bedrock (Direct PDF processing)')
+            if is_nova:
+                self.stdout.write(self.style.SUCCESS('  → Using Amazon Nova multimodal capabilities'))
+            else:
+                self.stdout.write(self.style.SUCCESS('  → Using Claude multimodal capabilities'))
         else:
-            self.stdout.write(f'Method: Bedrock (with Textract extraction)')
+            self.stdout.write(self.style.WARNING(f'Model {model_id} may not support direct PDF processing'))
         self.stdout.write('')
         
         # Prepare processing parameters
-        process_kwargs = {
-            'use_textract_first': use_textract,
-        }
+        process_kwargs = {}
         
         if options.get('temperature') is not None:
             process_kwargs['temperature'] = options['temperature']
@@ -161,7 +152,7 @@ class Command(BaseCommand):
             # Get job information if created
             job = None
             if create_job:
-                from invoice_llm.models import ProcessingJob
+                from invoice_ocr.models import ProcessingJob
                 job = ProcessingJob.objects.filter(
                     file_path=pdf_path,
                     method='bedrock'

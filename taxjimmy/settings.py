@@ -91,7 +91,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount.providers.amazon_cognito',
     'taxjimmyapp',  # Main app for home page and user portal
     'taxright',  # TaxRight app for invoice processing and tax determinations
-    'invoice_llm',  # LLM invoice processing app with Bedrock and Textract
+    'invoice_ocr',  # Invoice OCR processing app with AWS Bedrock
     'debug_toolbar',
     'rest_framework',
     'rest_framework.authtoken',

@@ -84,7 +84,7 @@ class InvoiceProcessViewSet(viewsets.ViewSet):
         """
         Process an invoice PDF file.
         
-        Accepts a PDF file and processes it using either Bedrock or Textract.
+        Accepts a PDF file and processes it using AWS Bedrock.
         """
         serializer = InvoiceProcessSerializer(data=request.data)
         if not serializer.is_valid():
@@ -111,8 +111,6 @@ class InvoiceProcessViewSet(viewsets.ViewSet):
                 process_kwargs['max_tokens'] = serializer.validated_data['max_tokens']
             if serializer.validated_data.get('prompt_template'):
                 process_kwargs['prompt_template'] = serializer.validated_data['prompt_template']
-            if method == 'textract' and serializer.validated_data.get('use_analyze'):
-                process_kwargs['use_analyze'] = True
             
             # Process the invoice
             processor = InvoiceProcessor()

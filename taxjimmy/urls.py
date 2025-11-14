@@ -24,7 +24,7 @@ urlpatterns = [
     path('portal/', views.portal, name='portal'),
     path('admin/', admin.site.urls),
     path('accounts/', include('allauth.urls')),
-    path('api/invoice-llm/', include('invoice_llm.urls')),
+    path('api/invoice-ocr/', include('invoice_ocr.urls')),
     path('taxright/', include('taxright.urls')),
 ]
 

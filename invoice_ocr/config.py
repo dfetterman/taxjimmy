@@ -1,10 +1,10 @@
 """
-Configuration manager for invoice_llm app.
+Configuration manager for invoice_ocr app.
 Reads all configuration from database models.
 """
 from django.core.exceptions import ObjectDoesNotExist
-from invoice_llm.models import BedrockModelConfig, ProcessingConfig
-from invoice_llm.exceptions import ConfigurationError, ModelNotFoundError
+from invoice_ocr.models import BedrockModelConfig, ProcessingConfig
+from invoice_ocr.exceptions import ConfigurationError, ModelNotFoundError
 import logging
 
 logger = logging.getLogger(__name__)
@@ -123,14 +123,6 @@ class ConfigManager:
     def get_max_retries():
         """Get maximum number of retries."""
         return ConfigManager.get_config('max_retries', 3)
-    
-    @staticmethod
-    def get_textract_config():
-        """Get Textract-specific configuration."""
-        return ConfigManager.get_config('textract_config', {
-            'use_analyze_document': False,
-            'feature_types': ['TABLES', 'FORMS'],
-        })
     
     @staticmethod
     def get_bedrock_region():

@@ -1,0 +1,425 @@
+
+=== Testing Invoice Processing ===
+PDF File: sample_invoice.pdf
+File Size: 140.18 KB
+Model: Claude 3.5 Haiku v1 (us.anthropic.claude-3-5-haiku-20241022-v1:0)
+Method: Bedrock (Direct PDF processing - no Textract)
+  → Using Claude multimodal capabilities
+
+Starting processing...
+
+✓ Processing completed in 9.34 seconds
+
+=== Processing Results ===
+
+I'll extract the key information from this RealPage invoice for Creekside at Athens:
+
+Invoice Details:
+- Invoice Number: 12306050352
+- Invoice Date: 06/17/2023
+- Account Number: A2301000666
+- Reference Number: CU220081
+
+Vendor:
+- RealPage, Inc.
+- PO Box 842899
+- Dallas, TX 75284-2899
+
+Customer:
+- Creekside at Athens
+- 14895 Peyton Dr
+- Athens, AL 35613-2679
+
+Payment Terms:
+- Net 30
+- Total Due: $1,679.34
+
+Detailed Line Items:
+
+1. Core Property Management Suite - Conventional (Monthly Fees)
+- 98 Units
+- Period: 08/01/2023 to 08/31/2023
+- Unit Price: $2.17
+- Total: $212.67
+
+2. Multifamily SmartSource Accounting & AP (86-150 Units)
+- 1 Site
+- Period: 08/01/2023 to 08/31/2023
+- Site Price: $1,085.00
+- Total: $1,085.00
+
+3. SOE-Convergent Billing
+- 98 Units
+- Periods: 06/13/2023 to 08/31/2023
+- Unit Price: $0.19
+- Total: $45.86
+
+4. Transaction Fees - LeasingDesk Screening
+- 15 Screening Applications
+- Total: $324.75
+
+Subtotal: $1,668.28
+Tax: $0.00
+Total Due: $1,679.34
+
+Payment Options:
+- Online payment: https://billingportal.realpage.com/paybills
+- Recurring payments: www.realpage.com/clientportal
+- Mail payment to: RealPage, Inc., PO Box 842899, Dallas, TX 75284-2899
+
+Contact Information:
+- Customer Service: 1-877-325-7243
+- Email: ARCustomerService@realpage.com
+
+=== Processing Job Record ===
+Job ID: 18
+Status: completed
+Created: 2025-11-14 02:02:21.555115+00:00
+Completed: 2025-11-14 02:02:30.737844+00:00
+Duration: 9.18 seconds
+
+=== Token Usage & Cost ===
+Input Tokens: 1,929
+Output Tokens: 509
+Total Tokens: 2,438
+
+Input Cost: $0.00154320
+Output Cost: $0.00203600
+Total Cost: $0.00357920
+
+=== Summary ===
+✓ Successfully processed invoice
+✓ Extracted text length: 1277 characters
+✓ Processing time: 9.34 seconds
+✓ Input Tokens: 1,929
+✓ Output Tokens: 509
+✓ Total Tokens: 2,438
+✓ Total Cost: $0.00357920
+
+=== Testing Invoice Processing ===
+PDF File: sample_invoice.pdf
+File Size: 140.18 KB
+Model: Claude 3.7 Sonnet v1 (us.anthropic.claude-3-7-sonnet-20250219-v1:0)
+Method: Bedrock (Direct PDF processing - no Textract)
+  → Using Claude multimodal capabilities
+
+Starting processing...
+
+✓ Processing completed in 15.01 seconds
+
+=== Processing Results ===
+
+# Invoice Analysis
+
+## Invoice Details
+- **Invoice Number**: 12306050352
+- **Invoice Date**: 06/17/2023
+- **Total Due**: $1,679.34
+- **Payment Terms**: NET 30
+- **Account Number**: A2301000666
+- **Reference Number**: CU220081
+
+## Vendor Information
+- **Vendor**: RealPage, Inc.
+- **Payment Address**: PO Box 842899, Dallas TX 75284-2899
+- **Contact**: 1-877-325-7243 (option 7) or ARCustomerService@realpage.com
+
+## Customer Information
+- **Account Name**: CREEKSIDE AT ATHENS
+- **Address**: 14895 PEYTON DR, ATHENS AL 35613-2679
+
+## Line Items
+
+### Initial License Fees
+- **SOE-Convergent Billing**
+- Initial Fees; Site Pricing; 1 Site(s)
+- Quantity: 1.00
+- Item Charge: $0.0000
+- Net Charge: $0.00
+- Total: $0.00
+
+### Access Fees
+1. **Core Property Management Suite - Conventional**
+- Monthly Fees; Unit Pricing; 98 Unit(s)
+- Period: 08/01/2023 to 08/31/2023
+- Quantity: 98.00
+- Item Charge: $2.1700
+- Net Charge: $212.67
+- Total: $212.67
+
+2. **eSupply GPO**
+- Monthly Fees; Unit Pricing; 98 Unit(s)
+- Period: 08/01/2023 to 08/31/2023
+- Quantity: 98.00
+- Item Charge: $0.0000
+- Net Charge: $0.00
+- Total: $0.00
+
+3. **Multifamily SmartSource Accounting & AP 86-150 Units**
+- Monthly Fees; Site Pricing; 1 Site(s)
+- Period: 08/01/2023 to 08/31/2023
+- Quantity: 1.00
+- Item Charge: $1,085.0000
+- Net Charge: $1,085.00
+- Total: $1,085.00
+
+4. **SOE-Convergent Billing**
+- Multiple billing periods:
+- Period: 06/13/2023 to 06/30/2023 (98 units, $0.1139 per unit, $11.17)
+- Period: 07/01/2023 to 07/31/2023 (98 units, $0.1900 per unit, $18.62)
+- Period: 08/01/2023 to 08/31/2023 (98 units, $0.1900 per unit, $18.62)
+- Total: $48.41
+
+### Transaction Fees
+- **LeasingDesk Screening AI Enterprise**
+- 15 application screenings between 05/11/2023 - 05/31/2023
+- Quantity: 15.00
+- Item Charge: $21.6500
+- Net Charge: $324.75
+- Total: $324.75
+
+## Summary
+- **Total Access Fees**: $1,354.59
+- **Total Transaction Fees**: $324.75
+- **Grand Total**: $1,679.34
+- **Tax**: $0.00
+- **Shipping & Handling**: $0.00
+
+## Additional Information
+- Online payment available at https://billingportal.realpage.com/paybills
+- Recurring payments can be set up at www.realpage.com/clientportal
+- For Wires and ACH Address, email ARCustomerService@Realpage.com
+
+=== Processing Job Record ===
+Job ID: 19
+Status: completed
+Created: 2025-11-14 02:02:48.979049+00:00
+Completed: 2025-11-14 02:03:03.843067+00:00
+Duration: 14.86 seconds
+
+=== Token Usage & Cost ===
+Input Tokens: 1,929
+Output Tokens: 932
+Total Tokens: 2,861
+
+Input Cost: $0.00578700
+Output Cost: $0.01398000
+Total Cost: $0.01976700
+
+=== Summary ===
+✓ Successfully processed invoice
+✓ Extracted text length: 2230 characters
+✓ Processing time: 15.01 seconds
+✓ Input Tokens: 1,929
+✓ Output Tokens: 932
+✓ Total Tokens: 2,861
+✓ Total Cost: $0.01976700
+
+=== Testing Invoice Processing ===
+PDF File: sample_invoice.pdf
+File Size: 140.18 KB
+Model: Amazon Nova Lite v1 (us.amazon.nova-lite-v1:0)
+Method: Bedrock (Direct PDF processing - no Textract)
+  → Using Amazon Nova multimodal capabilities
+
+Starting processing...
+
+✓ Processing completed in 13.09 seconds
+
+=== Processing Results ===
+
+### Invoice Information
+
+**Invoice Number:** 12306050352
+
+**Invoice Date:** 06/17/2023
+
+**Vendor/Supplier Information:**
+- **Company:** Realpage, Inc.
+- **Address:** PO Box 842899, Dallas, TX 75284-2899
+
+**Line Items and Descriptions:**
+
+| Description | Qty | Unit Price | Total |
+| --- | --- | --- | --- |
+| Core Property Management Suite - Conventional | 98.00 | $2,170 | $212.67 |
+| ActiveBuilding |  |  |  |
+| ILM Lead Manager |  |  |  |
+| Mobile Facilities |  |  |  |
+| OneSite Document Management |  |  |  |
+| OneSite Facilities |  |  |  |
+| OneSite Leasing & Rents-Conventional |  |  |  |
+| Online Leasing with e-Signature |  |  |  |
+| Online Renewals |  |  |  |
+| RealPage Accounting |  |  |  |
+| RealPage Budgeting |  |  |  |
+| RealPage Spend Management in Accounting |  |  |  |
+| Syndication Direct |  |  |  |
+| eSupply GPO | 98.00 | $0.00 | $0.00 |
+| Monthly Fees: Unit Pricing: 98 Unit(s); Period 08/01/2023 to 08/31/2023 |  |  |  |
+| SDE-Convergent Billing | 1.00 | $0.0000 | $0.00 |
+| Access Fees |  |  |  |
+| Multifamily SmartSource Accounting & AP 86-150 Units | 1.00 | $1,085,000 | $1,085.00 |
+| Monthly Fees: Unit Pricing: 98 Unit(s); Period 08/01/2023 to 08/31/2023 |  |  |  |
+| Charged at $1,085,000 per Site |  |  |  |
+| SDE-Convergent Billing | 98.00 | $0.1139 | $11.17 |
+| Monthly Fees: Unit Pricing: 98 Unit(s); Period 06/13/2023 to 06/30/2023 |  |  |  |
+| Monthly Fees: Unit Pricing: 98 Unit(s); Period 07/01/2023 to 07/31/2023 |  |  |  |
+| Monthly Fees: Unit Pricing: 98 Unit(s); Period 08/01/2023 to 08/31/2023 |  |  |  |
+| Charged at $0.1900 per Unit |  |  |  |
+| Transaction Fees |  |  |  |
+| LeasingDesk Screening Al Enterprise | 15.00 | $21.6500 | $324.75 |
+| AppID 4:Kevin Mettlin |  |  |  |
+| AppID 3:Annika Halcomb |  |  |  |
+| AppID 5:Tuan Tran |  |  |  |
+| AppID 10:Culluer Johnson |  |  |  |
+| AppID 7:Annika Halcomb |  |  |  |
+| AppID 8:Tanner Lawson |  |  |  |
+| AppID 9:Mary Choate |  |  |  |
+| AppID 15:Annika Halcomb |  |  |  |
+| AppID 16:Tanner Lawson |  |  |  |
+| AppID 17:Nv Choate |  |  |  |
+| AppID 18:Culluer Johnson |  |  |  |
+| AppID 19:Alantra Anderson |  |  |  |
+| AppID 20:Kendric Haynes |  |  |  |
+| AppID 21:Nancy Bracken |  |  |  |
+| AppID 22:Donald Greenhaw |  |  |  |
+
+**Total Amount Due:** $1,679.34
+
+**Tax Information:**
+- **S&H:** $0.00
+- **Tax:** $0.00
+
+**Payment Terms:**
+- **Net 30**
+
+**Other Relevant Details:**
+- **Payment Instructions:** You can also pay us online at https://billingportal.realpage.com/paybills, or setup recurring payments at www.realpage.com/clientportal.
+- **For Wires and ACH Address, please email:** ARCustomerService@Realpage.com.
+
+=== Processing Job Record ===
+Job ID: 20
+Status: completed
+Created: 2025-11-14 02:03:15.110587+00:00
+Completed: 2025-11-14 02:03:28.022145+00:00
+Duration: 12.91 seconds
+
+=== Token Usage & Cost ===
+Input Tokens: 3,306
+Output Tokens: 1,110
+Total Tokens: 4,416
+
+Input Cost: $0.00019836
+Output Cost: $0.00026640
+Total Cost: $0.00046476
+
+=== Summary ===
+✓ Successfully processed invoice
+✓ Extracted text length: 2620 characters
+✓ Processing time: 13.09 seconds
+✓ Input Tokens: 3,306
+✓ Output Tokens: 1,110
+✓ Total Tokens: 4,416
+✓ Total Cost: $0.00046476
+
+=== Testing Invoice Processing ===
+PDF File: sample_invoice.pdf
+File Size: 140.18 KB
+Model: Amazon Nova Pro v1 (us.amazon.nova-pro-v1:0)
+Method: Bedrock (Direct PDF processing - no Textract)
+  → Using Amazon Nova multimodal capabilities
+
+Starting processing...
+
+✓ Processing completed in 20.31 seconds
+
+=== Processing Results ===
+
+```markdown
+**Invoice Summary:**
+
+- **Invoice Number:** 12306050352
+- **Account Number:** A2301000666
+- **Reference Number:** CU220081
+- **Invoice Date:** 06/17/2023
+- **Total Due:** $1,679.34
+- **Due Date:** NET 30
+- **Page Number:** 1 of 2
+
+**Vendor/Supplier Information:**
+- **Name:** Creekside at Athens
+- **Address:** 14895 Peyton Dr, Athens, AL 35613-2679
+
+**Line Items and Descriptions:**
+
+| **Category**                             | **Quantity** | **Item Charge** | **Net Charge** | **S&H** | **Tax** | **Ext Charge** |
+|------------------------------------------|--------------|-----------------|----------------|---------|---------|----------------|
+| **Initial License Fees**                 |              |                 |                |         |         |                |
+| SDE-Convergent Billing                   | 1.00         | 0.0000          | 0.00           | 0.00    | 0.00    | 0.00           |
+| - Initial Fees; Site Pricing: 1 Site(s); |              |                 |                |         |         |                |
+| 1.00 City(s), 1 Site(s); Total = $0.0000|              |                 |                |                |         |         |                |
+| Charged at $0.0000 per Site              |              |                 |                |         |         |                |
+| **Total**                                |              |                 | 0.00           | 0.00    | 0.00    | 0.00           |
+| **Access Fees**                          |              |                 |                |         |         |                |
+| Core Property Management Suite - Conventional| 98.00 | 2.1700          | 212.67         | 0.00    | 0.00    | 212.67         |
+| Monthly Fees; Unit Pricing: 98 Unit(s); Period 08/01/2023 to 08/31/2023 |              |                 |                |         |         |                |
+| ActiveBuilding                           |              |                 |                |         |         |                |
+| ILM Lead Manager                         |              |                 |                |         |         |                |
+| Mobile Facilities                        |              |                 |                |         |         |                |
+| OneSite Document Management              |              |                 |                |         |         |                |
+| OneSite Facilities                       |              |                 |                |         |         |                |
+| OneSite Leasing & Rents-Conventional     |              |                 |                |         |         |                |
+| Online Leasing with e-Signature          |              |                 |                |         |         |                |
+| Online Renewals                          |              |                 |                |         |         |                |
+| OneSite Accounting                       |              |                 |                |         |         |                |
+| RealPage Budgeting                       |              |                 |                |         |         |                |
+| RealPage Payments                        |              |                 |                |         |         |                |
+| RealPage Spend Management in Accounting  |              |                 |                |         |         |                |
+| Syndication Direct                       |              |                 |                |         |         |                |
+| **eSupply GPO**                          |              |                 |                |         |         |                |
+| Monthly Fees; Unit Pricing: 98 Unit(s); Period 08/01/2023 to 08/31/2023 | 98.00 | 0.0000          | 0.00           | 0.00    | 0.00    | 0.00           |
+| **Total**                                |              |                 | 1,348.08       | 0.00    | 0.00    | 1,354.59       |
+| **Transaction Fees**                     |              |                 |                |         |         |                |
+| LeasingDesk Screening AI Enterprise      | 15.00        | 21.6500         | 324.75         | 0.00    | 0.00    | 324.75         |
+| **Total**                                |              |                 | 324.75         | 0.00    | 0.00    | 324.75         |
+
+**Tax Information:**
+- **Tax:** $0.00
+
+**Payment Terms:**
+- **Due Date:** NET 30
+
+**Other Relevant Details:**
+- **Payment Instructions:** Payable to Realpage, Inc. Send payment to: Realpage, Inc. PO Box 842899 Dallas TX 75284-2899. Online payment options available at https://billingportal.realpage.com/paybills or setup recurring payments at www.realpage.com/clientportal.
+- **Customer Service:** For account questions, call 1-877-325-7243 or email ARCustomerService@realpage.com.
+- **Account Status:** Review account status online at www.realpage.com/clientportal.
+```
+
+=== Processing Job Record ===
+Job ID: 21
+Status: completed
+Created: 2025-11-14 02:03:37.742257+00:00
+Completed: 2025-11-14 02:03:57.901289+00:00
+Duration: 20.16 seconds
+
+=== Token Usage & Cost ===
+Input Tokens: 3,306
+Output Tokens: 1,230
+Total Tokens: 4,536
+
+Input Cost: $0.00264480
+Output Cost: $0.00393600
+Total Cost: $0.00658080
+
+=== Summary ===
+✓ Successfully processed invoice
+✓ Extracted text length: 4996 characters
+✓ Processing time: 20.31 seconds
+✓ Input Tokens: 3,306
+✓ Output Tokens: 1,230
+✓ Total Tokens: 4,536
+✓ Total Cost: $0.00658080
+
+
+I need you to use this data to generate a model report. Accuracy, speed, and cost are important factors, but please review these data for any additional insights you can find.

@@ -88,7 +88,6 @@ class ProcessingJob(models.Model):
     
     METHOD_CHOICES = [
         ('bedrock', 'AWS Bedrock'),
-        ('textract', 'AWS Textract'),
     ]
     
     file_path = models.CharField(max_length=1000, help_text="Path to the processed file")

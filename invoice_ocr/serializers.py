@@ -40,9 +40,9 @@ class InvoiceProcessSerializer(serializers.Serializer):
     
     file = serializers.FileField(required=True, help_text="PDF invoice file")
     method = serializers.ChoiceField(
-        choices=['bedrock', 'textract'],
+        choices=['bedrock'],
         default='bedrock',
-        help_text="Processing method"
+        help_text="Processing method (only 'bedrock' is supported)"
     )
     model_id = serializers.CharField(
         required=False,
@@ -65,11 +65,6 @@ class InvoiceProcessSerializer(serializers.Serializer):
         required=False,
         allow_blank=True,
         help_text="Custom prompt template"
-    )
-    use_analyze = serializers.BooleanField(
-        required=False,
-        default=False,
-        help_text="Use Textract analyze_document (for tables/forms)"
     )
     
     def validate_file(self, value):
