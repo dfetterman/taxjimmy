@@ -13,6 +13,8 @@ class BedrockModelConfig(models.Model):
     temperature = models.FloatField(default=0.7, validators=[MinValueValidator(0.0), MaxValueValidator(1.0)], help_text="Temperature for generation (0.0-1.0)")
     top_p = models.FloatField(default=0.9, validators=[MinValueValidator(0.0), MaxValueValidator(1.0)], help_text="Top-p sampling parameter")
     prompt_template = models.TextField(blank=True, help_text="Default prompt template for this model")
+    input_token_cost = models.DecimalField(max_digits=10, decimal_places=8, default=0.0, help_text="Cost per 1K input tokens (e.g., 0.003 for $0.003 per thousand)")
+    output_token_cost = models.DecimalField(max_digits=10, decimal_places=8, default=0.0, help_text="Cost per 1K output tokens (e.g., 0.015 for $0.015 per thousand)")
     is_default = models.BooleanField(default=False, help_text="Whether this is the default model")
     is_active = models.BooleanField(default=True, help_text="Whether this model is active and available")
     created_at = models.DateTimeField(auto_now_add=True)

@@ -1,0 +1,1 @@
+This Django app is specifically in place to OCR images via multiple techniques.

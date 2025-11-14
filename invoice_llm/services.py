@@ -5,6 +5,8 @@ import boto3
 import json
 import time
 import logging
+import base64
+import os
 from django.utils import timezone
 from botocore.exceptions import ClientError, BotoCoreError
 from typing import Optional, Dict, Any
@@ -134,7 +136,56 @@ Please extract and format all key information from this invoice."""
         
         return default_prompt.format(invoice_text=file_text)
     
-    def _invoke_model(self, model_id: str, prompt: str, config: Dict[str, Any]) -> str:
+    def _sanitize_filename(self, filename: str) -> str:
+        """
+        Sanitize filename for Converse API requirements.
+        
+        Converse API allows only:
+        - Alphanumeric characters
+        - Whitespace characters (but not more than one consecutive)
+        - Hyphens
+        - Parentheses
+        - Square brackets
+        
+        Note: Dots are NOT allowed. The format is specified separately in the document object.
+        
+        Args:
+            filename: Original filename
+            
+        Returns:
+            str: Sanitized filename (without extension)
+        """
+        import re
+        
+        # Remove path components, keep only the filename
+        filename = os.path.basename(filename)
+        
+        # Remove file extension (everything after the last dot)
+        # Since format is specified separately, we don't need extension in name
+        name_without_ext = os.path.splitext(filename)[0]
+        
+        # Replace invalid characters with hyphens
+        # Allow ONLY: alphanumeric, whitespace, hyphens, parentheses, square brackets
+        # Note: NO DOTS allowed!
+        sanitized = re.sub(r'[^a-zA-Z0-9\s\-\(\)\[\]]', '-', name_without_ext)
+        
+        # Replace multiple consecutive whitespace with single space
+        sanitized = re.sub(r'\s+', ' ', sanitized)
+        
+        # Replace multiple consecutive hyphens with single hyphen
+        sanitized = re.sub(r'-+', '-', sanitized)
+        
+        # Strip leading/trailing whitespace and hyphens
+        sanitized = sanitized.strip(' -')
+        
+        # If empty after sanitization, use default
+        if not sanitized:
+            sanitized = "invoice"
+        
+        return sanitized
+    
+    def _invoke_model(self, model_id: str, prompt: str, config: Dict[str, Any], 
+                     pdf_bytes: Optional[bytes] = None, pdf_filename: Optional[str] = None) -> tuple[str, Dict[str, int]]:
         """
         Invoke Bedrock model with the given prompt.
         
@@ -142,13 +193,100 @@ Please extract and format all key information from this invoice."""
             model_id: AWS Bedrock model ID
             prompt: Prompt text
             config: Model configuration (temperature, max_tokens, etc.)
+            pdf_bytes: Optional PDF file bytes for direct multimodal processing (Claude 3+)
+                      Uses Converse API for direct PDF attachment
+            pdf_filename: Optional filename for the PDF (defaults to "invoice.pdf" if not provided)
             
         Returns:
-            str: Model response text
+            tuple: (response_text, token_usage_dict)
+                - response_text: Model response text
+                - token_usage_dict: Dictionary with 'inputTokens', 'outputTokens', 'totalTokens'
             
         Raises:
             BedrockError: If invocation fails
         """
+        # Use Converse API for direct PDF processing (supports PDF, DOCX, TXT, Markdown, CSV)
+        if pdf_bytes:
+            try:
+                # Converse API supports direct PDF attachment
+                # Note: bytes should be raw bytes, not base64 encoded
+                
+                # Sanitize filename to meet Converse API requirements
+                filename = self._sanitize_filename(pdf_filename) if pdf_filename else "invoice"
+                
+                # Build message content with PDF attachment
+                # Order matters: document first, then text instruction
+                content = [
+                    {
+                        "document": {
+                            "format": "pdf",
+                            "name": filename,
+                            "source": {
+                                "bytes": pdf_bytes
+                            }
+                        }
+                    },
+                    {
+                        "text": prompt
+                    }
+                ]
+                
+                # Prepare Converse API request
+                converse_kwargs = {
+                    "modelId": model_id,
+                    "messages": [
+                        {
+                            "role": "user",
+                            "content": content
+                        }
+                    ],
+                    "inferenceConfig": {
+                        "maxTokens": config.get('max_tokens', 4096),
+                        "temperature": config.get('temperature', 0.7),
+                        "topP": config.get('top_p', 0.9),
+                    }
+                }
+                
+                response = self.client.converse(**converse_kwargs)
+                
+                # Extract text from Converse API response
+                text_result = None
+                if 'output' in response and 'message' in response['output']:
+                    message = response['output']['message']
+                    if 'content' in message:
+                        # Converse API returns content as a list
+                        text_parts = []
+                        for content_item in message['content']:
+                            if 'text' in content_item:
+                                text_parts.append(content_item['text'])
+                        text_result = '\n'.join(text_parts)
+                    else:
+                        raise BedrockError("Unexpected Converse API response format - no content")
+                else:
+                    raise BedrockError("Unexpected Converse API response format")
+                
+                # Extract token usage from Converse API response
+                token_usage = {
+                    'inputTokens': 0,
+                    'outputTokens': 0,
+                    'totalTokens': 0
+                }
+                if 'usage' in response:
+                    usage = response['usage']
+                    token_usage['inputTokens'] = usage.get('inputTokens', 0)
+                    token_usage['outputTokens'] = usage.get('outputTokens', 0)
+                    token_usage['totalTokens'] = usage.get('totalTokens', 0)
+                
+                return text_result, token_usage
+                    
+            except ClientError as e:
+                error_code = e.response.get('Error', {}).get('Code', 'Unknown')
+                error_message = e.response.get('Error', {}).get('Message', str(e))
+                raise BedrockError(f"AWS Bedrock Converse API error ({error_code}): {error_message}")
+            except Exception as e:
+                raise BedrockError(f"Error using Converse API: {str(e)}")
+        
+        # Fall back to invoke_model for text-only processing
         # Prepare request body based on model provider
         if 'claude' in model_id.lower():
             # Anthropic Claude format
@@ -208,27 +346,52 @@ Please extract and format all key information from this invoice."""
             response_body = json.loads(response['body'].read())
             
             # Extract text based on model provider
+            text_result = None
             if 'claude' in model_id.lower():
                 # Anthropic Claude response format
                 if 'content' in response_body and len(response_body['content']) > 0:
-                    return response_body['content'][0]['text']
+                    text_result = response_body['content'][0]['text']
                 else:
                     raise BedrockError("Unexpected Claude response format")
             elif 'llama' in model_id.lower():
                 # Meta Llama response format
-                return response_body.get('generation', '')
+                text_result = response_body.get('generation', '')
             elif 'titan' in model_id.lower():
                 # Amazon Titan response format
                 results = response_body.get('results', [])
                 if results:
-                    return results[0].get('outputText', '')
-                return ''
+                    text_result = results[0].get('outputText', '')
+                else:
+                    text_result = ''
             else:
                 # Try to extract text from generic response
                 if 'content' in response_body:
                     if isinstance(response_body['content'], list) and len(response_body['content']) > 0:
-                        return response_body['content'][0].get('text', '')
-                return str(response_body)
+                        text_result = response_body['content'][0].get('text', '')
+                if text_result is None:
+                    text_result = str(response_body)
+            
+            # Extract token usage (if available in response metadata)
+            # Note: invoke_model may not always return usage info in the same format
+            token_usage = {
+                'inputTokens': 0,
+                'outputTokens': 0,
+                'totalTokens': 0
+            }
+            
+            # Check for usage in response metadata (varies by model)
+            if 'usage' in response_body:
+                usage = response_body['usage']
+                token_usage['inputTokens'] = usage.get('inputTokens', usage.get('input_tokens', 0))
+                token_usage['outputTokens'] = usage.get('outputTokens', usage.get('output_tokens', 0))
+                token_usage['totalTokens'] = usage.get('totalTokens', usage.get('total_tokens', 0))
+            elif 'input_tokens' in response_body or 'output_tokens' in response_body:
+                # Some models return tokens at top level
+                token_usage['inputTokens'] = response_body.get('input_tokens', 0)
+                token_usage['outputTokens'] = response_body.get('output_tokens', 0)
+                token_usage['totalTokens'] = token_usage['inputTokens'] + token_usage['outputTokens']
+            
+            return text_result, token_usage
                 
         except ClientError as e:
             error_code = e.response.get('Error', {}).get('Code', 'Unknown')
@@ -241,10 +404,40 @@ Please extract and format all key information from this invoice."""
         except Exception as e:
             raise BedrockError(f"Unexpected error during Bedrock processing: {str(e)}")
     
+    def _calculate_cost(self, token_usage: Dict[str, int], input_token_cost: float, output_token_cost: float) -> Dict[str, float]:
+        """
+        Calculate cost based on token usage and model pricing.
+        
+        Args:
+            token_usage: Dictionary with 'inputTokens', 'outputTokens', 'totalTokens'
+            input_token_cost: Cost per 1K input tokens
+            output_token_cost: Cost per 1K output tokens
+            
+        Returns:
+            Dictionary with 'inputCost', 'outputCost', 'totalCost'
+        """
+        input_tokens = token_usage.get('inputTokens', 0)
+        output_tokens = token_usage.get('outputTokens', 0)
+        
+        # Convert Decimal to float if needed
+        input_cost_per_thousand = float(input_token_cost) if input_token_cost else 0.0
+        output_cost_per_thousand = float(output_token_cost) if output_token_cost else 0.0
+        
+        # Calculate costs (cost per thousand tokens)
+        input_cost = (input_tokens / 1_000) * input_cost_per_thousand
+        output_cost = (output_tokens / 1_000) * output_cost_per_thousand
+        total_cost = input_cost + output_cost
+        
+        return {
+            'inputCost': round(input_cost, 8),
+            'outputCost': round(output_cost, 8),
+            'totalCost': round(total_cost, 8)
+        }
+    
     def process_invoice(self, file_path: str, model_id: Optional[str] = None, 
                        prompt_template: Optional[str] = None,
                        use_textract_first: bool = True,
-                       **kwargs) -> str:
+                       **kwargs) -> tuple[str, Dict[str, Any]]:
         """
         Process invoice using Bedrock LLM.
         
@@ -256,7 +449,10 @@ Please extract and format all key information from this invoice."""
             **kwargs: Additional model parameters (temperature, max_tokens, etc.)
             
         Returns:
-            str: Processed invoice text
+            tuple: (processed_text, usage_dict)
+                - processed_text: Processed invoice text
+                - usage_dict: Dictionary with 'inputTokens', 'outputTokens', 'totalTokens', 
+                             'inputCost', 'outputCost', 'totalCost'
             
         Raises:
             BedrockError: If processing fails
@@ -281,28 +477,72 @@ Please extract and format all key information from this invoice."""
         if not prompt_template:
             prompt_template = model_config.prompt_template
         
-        # Extract text from PDF first (using Textract or direct read)
-        if use_textract_first:
-            try:
+        # Determine if we should use direct PDF processing (multimodal)
+        # Claude 3+ models support direct PDF/image processing
+        supports_multimodal = 'claude' in model_id.lower() and ('claude-3' in model_id.lower() or 'claude-4' in model_id.lower())
+        use_direct_pdf = not use_textract_first and supports_multimodal
+        
+        if use_direct_pdf:
+            # Read PDF bytes for direct processing
+            pdf_bytes = read_pdf_file(file_path)
+            
+            # Extract filename from file path
+            pdf_filename = os.path.basename(file_path)
+            
+            # Prepare prompt for direct PDF processing
+            if prompt_template:
+                prompt = prompt_template.format(invoice_text="[PDF document will be processed directly]")
+            else:
+                prompt = """You are an expert at extracting information from invoices. 
+Analyze the following invoice PDF and extract all relevant information in a clear, structured format.
+
+Please extract and format all key information from this invoice, including:
+- Invoice number and date
+- Vendor/supplier information
+- Line items and descriptions
+- Quantities, unit prices, and totals
+- Tax information
+- Payment terms
+- Any other relevant details"""
+            
+            # Invoke model with PDF bytes and filename
+            result, token_usage = self._invoke_model(model_id, prompt, config, pdf_bytes=pdf_bytes, pdf_filename=pdf_filename)
+        else:
+            # Extract text from PDF first (using Textract)
+            if use_textract_first:
+                try:
+                    textract_service = TextractService(region_name=self.region_name)
+                    file_text = textract_service.extract_text(file_path, use_analyze=False)
+                except Exception as e:
+                    logger.warning(f"Textract extraction failed: {str(e)}")
+                    raise BedrockError(f"Textract extraction failed: {str(e)}")
+            else:
+                # If not using Textract and model doesn't support multimodal, we need Textract
+                logger.warning(f"Model {model_id} may not support direct PDF processing. Using Textract.")
                 textract_service = TextractService(region_name=self.region_name)
                 file_text = textract_service.extract_text(file_path, use_analyze=False)
-            except Exception as e:
-                logger.warning(f"Textract extraction failed, using direct PDF read: {str(e)}")
-                # Fallback: try to read as text (won't work for binary PDFs, but worth trying)
-                file_text = f"PDF file: {file_path}"
-        else:
-            # For now, we still need Textract to extract text from PDF
-            # In future, could add direct PDF parsing
-            textract_service = TextractService(region_name=self.region_name)
-            file_text = textract_service.extract_text(file_path, use_analyze=False)
+            
+            # Prepare prompt
+            prompt = self._prepare_prompt(file_text, prompt_template)
+            
+            # Invoke model with text only
+            result, token_usage = self._invoke_model(model_id, prompt, config)
         
-        # Prepare prompt
-        prompt = self._prepare_prompt(file_text, prompt_template)
+        # Calculate costs based on model pricing
+        cost_info = self._calculate_cost(
+            token_usage,
+            model_config.input_token_cost,
+            model_config.output_token_cost
+        )
         
-        # Invoke model
-        result = self._invoke_model(model_id, prompt, config)
+        # Combine token usage and cost information
+        usage_info = {
+            **token_usage,
+            **cost_info
+        }
         
-        return format_extracted_text(result)
+        formatted_result = format_extracted_text(result)
+        return formatted_result, usage_info
 
 
 class InvoiceProcessor:
@@ -355,13 +595,18 @@ class InvoiceProcessor:
                     use_analyze=kwargs.get('use_analyze', False)
                 )
             elif method == 'bedrock':
-                result = self.bedrock_service.process_invoice(
+                result, usage_info = self.bedrock_service.process_invoice(
                     file_path,
                     model_id=model_id,
                     prompt_template=kwargs.get('prompt_template'),
                     use_textract_first=kwargs.get('use_textract_first', True),
                     **{k: v for k, v in kwargs.items() if k not in ['prompt_template', 'use_textract_first', 'use_analyze']}
                 )
+                # Store token usage and cost in job metadata if job exists
+                if job:
+                    job.metadata = job.metadata or {}
+                    job.metadata['usage'] = usage_info
+                    job.save()
             else:
                 raise InvoiceProcessingError(f"Unknown processing method: {method}")
             

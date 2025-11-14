@@ -4,7 +4,7 @@ from .models import BedrockModelConfig, ProcessingConfig, ProcessingJob
 
 @admin.register(BedrockModelConfig)
 class BedrockModelConfigAdmin(admin.ModelAdmin):
-    list_display = ['name', 'model_id', 'region', 'is_default', 'is_active', 'created_at']
+    list_display = ['name', 'model_id', 'region', 'input_token_cost', 'output_token_cost', 'is_default', 'is_active', 'created_at']
     list_filter = ['is_default', 'is_active', 'region']
     search_fields = ['name', 'model_id']
     fieldsets = (
@@ -13,6 +13,10 @@ class BedrockModelConfigAdmin(admin.ModelAdmin):
         }),
         ('Model Parameters', {
             'fields': ('max_tokens', 'temperature', 'top_p')
+        }),
+        ('Pricing', {
+            'fields': ('input_token_cost', 'output_token_cost'),
+            'description': 'Cost per 1,000 tokens (e.g., 0.003 for $0.003 per thousand input tokens)'
         }),
         ('Prompt Template', {
             'fields': ('prompt_template',)
