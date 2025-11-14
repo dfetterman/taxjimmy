@@ -10,15 +10,15 @@ Create a new Django app `taxright` within the existing `taxjimmy` project to pro
 ### 1. Create Django App Structure
 
 - Create `taxright` app directory with standard Django app structure:
-        - `__init__.py`
-        - `apps.py` - App configuration
-        - `models.py` - Data models
-        - `admin.py` - Admin interface
-        - `views.py` - View classes/functions
-        - `urls.py` - URL routing
-        - `serializers.py` - DRF serializers
-        - `tests.py` - Test structure
-        - `migrations/__init__.py` - Migrations directory
+                - `__init__.py`
+                - `apps.py` - App configuration
+                - `models.py` - Data models
+                - `admin.py` - Admin interface
+                - `views.py` - View classes/functions
+                - `urls.py` - URL routing
+                - `serializers.py` - DRF serializers
+                - `tests.py` - Test structure
+                - `migrations/__init__.py` - Migrations directory
 
 ### 2. Define Core Models (taxright/models.py)
 

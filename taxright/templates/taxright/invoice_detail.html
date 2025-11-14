@@ -1,0 +1,295 @@
+{% extends 'base.html' %}
+
+{% block title %}Invoice {{ invoice.invoice_number }} - TaxRight{% endblock %}
+
+{% block extra_css %}
+<style>
+    .invoice-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        margin-bottom: 2rem;
+        padding: 1.5rem;
+        background: #f8f9fa;
+        border-radius: 10px;
+    }
+    
+    .invoice-info {
+        flex: 1;
+    }
+    
+    .invoice-info h2 {
+        margin: 0 0 1rem 0;
+        color: #667eea;
+    }
+    
+    .info-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+    
+    .info-item {
+        padding: 0.75rem;
+        background: white;
+        border-radius: 6px;
+    }
+    
+    .info-item label {
+        display: block;
+        font-size: 0.85rem;
+        color: #6c757d;
+        margin-bottom: 0.25rem;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    .info-item .value {
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: #333;
+    }
+    
+    .status-badge {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        border-radius: 20px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+    
+    .status-pending {
+        background: #fff3cd;
+        color: #856404;
+    }
+    
+    .status-processing {
+        background: #cfe2ff;
+        color: #084298;
+    }
+    
+    .status-completed {
+        background: #d1e7dd;
+        color: #0f5132;
+    }
+    
+    .status-error {
+        background: #f8d7da;
+        color: #842029;
+    }
+    
+    .section {
+        margin-top: 2rem;
+        padding: 1.5rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .section h3 {
+        margin: 0 0 1rem 0;
+        color: #667eea;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #e9ecef;
+    }
+    
+    .line-items-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    .line-items-table th {
+        padding: 1rem;
+        text-align: left;
+        background: #f8f9fa;
+        font-weight: 600;
+        color: #495057;
+    }
+    
+    .line-items-table td {
+        padding: 1rem;
+        border-bottom: 1px solid #e9ecef;
+    }
+    
+    .line-items-table tbody tr:hover {
+        background: #f8f9fa;
+    }
+    
+    .tax-determination {
+        background: #e7f3ff;
+        border-left: 4px solid #667eea;
+        padding: 1.5rem;
+        border-radius: 6px;
+        margin-top: 1rem;
+    }
+    
+    .tax-determination h4 {
+        margin: 0 0 1rem 0;
+        color: #667eea;
+    }
+    
+    .tax-comparison {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+        margin-top: 1rem;
+    }
+    
+    .tax-item {
+        padding: 1rem;
+        background: white;
+        border-radius: 6px;
+    }
+    
+    .tax-item label {
+        display: block;
+        font-size: 0.85rem;
+        color: #6c757d;
+        margin-bottom: 0.25rem;
+    }
+    
+    .tax-item .value {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #333;
+    }
+    
+    .discrepancy {
+        color: #dc3545;
+    }
+    
+    .no-discrepancy {
+        color: #28a745;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div style="padding: 2rem 0;">
+    <div style="margin-bottom: 1rem;">
+        <a href="{% url 'taxright:dashboard' %}" class="btn btn-secondary">← Back to Dashboard</a>
+    </div>
+    
+    <div class="invoice-header">
+        <div class="invoice-info">
+            <h2>Invoice {{ invoice.invoice_number }}</h2>
+            <span class="status-badge status-{{ invoice.status }}">
+                {{ invoice.get_status_display }}
+            </span>
+            
+            <div class="info-grid" style="margin-top: 1.5rem;">
+                <div class="info-item">
+                    <label>Vendor</label>
+                    <div class="value">{{ invoice.vendor_name }}</div>
+                </div>
+                <div class="info-item">
+                    <label>Date</label>
+                    <div class="value">{{ invoice.date|date:"F d, Y" }}</div>
+                </div>
+                <div class="info-item">
+                    <label>State</label>
+                    <div class="value">{{ invoice.state_code }}</div>
+                </div>
+                <div class="info-item">
+                    <label>Total Amount</label>
+                    <div class="value">${{ invoice.total_amount|floatformat:2 }}</div>
+                </div>
+                {% if invoice.jurisdiction %}
+                <div class="info-item">
+                    <label>Jurisdiction</label>
+                    <div class="value">{{ invoice.jurisdiction }}</div>
+                </div>
+                {% endif %}
+                <div class="info-item">
+                    <label>Uploaded</label>
+                    <div class="value">{{ invoice.uploaded_at|date:"M d, Y g:i A" }}</div>
+                </div>
+            </div>
+        </div>
+        
+        {% if invoice.pdf_file %}
+        <div style="margin-left: 2rem;">
+            <a href="{{ invoice.pdf_file.url }}" target="_blank" class="btn">View PDF</a>
+        </div>
+        {% endif %}
+    </div>
+    
+    {% if invoice.line_items.all %}
+    <div class="section">
+        <h3>Line Items</h3>
+        <table class="line-items-table">
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>Tax Status</th>
+                    <th>Tax Rate</th>
+                    <th>Tax Amount</th>
+                    <th>Line Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in invoice.line_items.all %}
+                <tr>
+                    <td>{{ item.description }}</td>
+                    <td>{{ item.quantity|floatformat:2 }}</td>
+                    <td>${{ item.unit_price|floatformat:2 }}</td>
+                    <td>
+                        <span class="status-badge status-{{ item.tax_status }}">
+                            {{ item.get_tax_status_display }}
+                        </span>
+                    </td>
+                    <td>{{ item.tax_rate|floatformat:4 }}%</td>
+                    <td>${{ item.tax_amount|floatformat:2 }}</td>
+                    <td><strong>${{ item.line_total|floatformat:2 }}</strong></td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+    
+    {% if invoice.tax_determination %}
+    <div class="section">
+        <h3>Tax Determination</h3>
+        <div class="tax-determination">
+            <h4>Verification Status: {{ invoice.tax_determination.get_determination_status_display }}</h4>
+            
+            <div class="tax-comparison">
+                <div class="tax-item">
+                    <label>Expected Tax</label>
+                    <div class="value">${{ invoice.tax_determination.expected_tax|floatformat:2 }}</div>
+                </div>
+                <div class="tax-item">
+                    <label>Actual Tax</label>
+                    <div class="value">${{ invoice.tax_determination.actual_tax|floatformat:2 }}</div>
+                </div>
+                <div class="tax-item">
+                    <label>Discrepancy</label>
+                    <div class="value {% if invoice.tax_determination.discrepancy_amount != 0 %}discrepancy{% else %}no-discrepancy{% endif %}">
+                        ${{ invoice.tax_determination.discrepancy_amount|floatformat:2 }}
+                    </div>
+                </div>
+            </div>
+            
+            {% if invoice.tax_determination.notes %}
+            <div style="margin-top: 1rem; padding: 1rem; background: white; border-radius: 6px;">
+                <strong>Notes:</strong>
+                <p style="margin: 0.5rem 0 0 0;">{{ invoice.tax_determination.notes }}</p>
+            </div>
+            {% endif %}
+            
+            {% if invoice.tax_determination.verified_at %}
+            <div style="margin-top: 1rem; font-size: 0.9rem; color: #6c757d;">
+                Verified: {{ invoice.tax_determination.verified_at|date:"M d, Y g:i A" }}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
+

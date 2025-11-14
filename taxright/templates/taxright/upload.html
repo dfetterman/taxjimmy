@@ -1,0 +1,216 @@
+{% extends 'base.html' %}
+
+{% block title %}Upload Invoice - TaxRight{% endblock %}
+
+{% block extra_css %}
+<style>
+    .upload-form {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 2rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+    
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+    
+    .form-group label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+        color: #495057;
+    }
+    
+    .form-group input,
+    .form-group select {
+        width: 100%;
+        padding: 0.75rem;
+        border: 2px solid #e9ecef;
+        border-radius: 6px;
+        font-size: 1rem;
+        transition: border-color 0.3s;
+    }
+    
+    .form-group input:focus,
+    .form-group select:focus {
+        outline: none;
+        border-color: #667eea;
+    }
+    
+    .file-upload-area {
+        border: 2px dashed #667eea;
+        border-radius: 10px;
+        padding: 2rem;
+        text-align: center;
+        background: #f8f9fa;
+        transition: background 0.3s;
+    }
+    
+    .file-upload-area:hover {
+        background: #e9ecef;
+    }
+    
+    .file-upload-area input[type="file"] {
+        display: none;
+    }
+    
+    .file-upload-label {
+        cursor: pointer;
+        display: block;
+        padding: 1rem;
+    }
+    
+    .file-upload-icon {
+        font-size: 3rem;
+        color: #667eea;
+        margin-bottom: 1rem;
+    }
+    
+    .help-text {
+        font-size: 0.85rem;
+        color: #6c757d;
+        margin-top: 0.5rem;
+    }
+    
+    .form-actions {
+        display: flex;
+        gap: 1rem;
+        margin-top: 2rem;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div style="padding: 2rem 0;">
+    <div style="margin-bottom: 1rem;">
+        <a href="{% url 'taxright:dashboard' %}" class="btn btn-secondary">← Back to Dashboard</a>
+    </div>
+    
+    <div class="upload-form">
+        <h2 style="margin-bottom: 2rem; color: #667eea;">Upload Invoice</h2>
+        
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            
+            <div class="form-group">
+                <label for="id_invoice_number">Invoice Number *</label>
+                <input type="text" name="invoice_number" id="id_invoice_number" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_date">Date *</label>
+                <input type="date" name="date" id="id_date" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_vendor_name">Vendor Name *</label>
+                <input type="text" name="vendor_name" id="id_vendor_name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_total_amount">Total Amount *</label>
+                <input type="number" name="total_amount" id="id_total_amount" step="0.01" min="0" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_state_code">State Code *</label>
+                <select name="state_code" id="id_state_code" required>
+                    <option value="">Select a state</option>
+                    <option value="AL">Alabama</option>
+                    <option value="AK">Alaska</option>
+                    <option value="AZ">Arizona</option>
+                    <option value="AR">Arkansas</option>
+                    <option value="CA">California</option>
+                    <option value="CO">Colorado</option>
+                    <option value="CT">Connecticut</option>
+                    <option value="DE">Delaware</option>
+                    <option value="FL">Florida</option>
+                    <option value="GA">Georgia</option>
+                    <option value="HI">Hawaii</option>
+                    <option value="ID">Idaho</option>
+                    <option value="IL">Illinois</option>
+                    <option value="IN">Indiana</option>
+                    <option value="IA">Iowa</option>
+                    <option value="KS">Kansas</option>
+                    <option value="KY">Kentucky</option>
+                    <option value="LA">Louisiana</option>
+                    <option value="ME">Maine</option>
+                    <option value="MD">Maryland</option>
+                    <option value="MA">Massachusetts</option>
+                    <option value="MI">Michigan</option>
+                    <option value="MN">Minnesota</option>
+                    <option value="MS">Mississippi</option>
+                    <option value="MO">Missouri</option>
+                    <option value="MT">Montana</option>
+                    <option value="NE">Nebraska</option>
+                    <option value="NV">Nevada</option>
+                    <option value="NH">New Hampshire</option>
+                    <option value="NJ">New Jersey</option>
+                    <option value="NM">New Mexico</option>
+                    <option value="NY">New York</option>
+                    <option value="NC">North Carolina</option>
+                    <option value="ND">North Dakota</option>
+                    <option value="OH">Ohio</option>
+                    <option value="OK">Oklahoma</option>
+                    <option value="OR">Oregon</option>
+                    <option value="PA">Pennsylvania</option>
+                    <option value="RI">Rhode Island</option>
+                    <option value="SC">South Carolina</option>
+                    <option value="SD">South Dakota</option>
+                    <option value="TN">Tennessee</option>
+                    <option value="TX">Texas</option>
+                    <option value="UT">Utah</option>
+                    <option value="VT">Vermont</option>
+                    <option value="VA">Virginia</option>
+                    <option value="WA">Washington</option>
+                    <option value="WV">West Virginia</option>
+                    <option value="WI">Wisconsin</option>
+                    <option value="WY">Wyoming</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_jurisdiction">Jurisdiction (Optional)</label>
+                <input type="text" name="jurisdiction" id="id_jurisdiction" placeholder="County, city, or special district">
+                <div class="help-text">Leave blank if not applicable</div>
+            </div>
+            
+            <div class="form-group">
+                <label for="id_pdf_file">PDF File *</label>
+                <div class="file-upload-area">
+                    <label for="id_pdf_file" class="file-upload-label">
+                        <div class="file-upload-icon">📄</div>
+                        <div>Click to select PDF file</div>
+                        <div class="help-text" style="margin-top: 0.5rem;">Accepted: PDF files only</div>
+                    </label>
+                    <input type="file" name="pdf_file" id="id_pdf_file" accept=".pdf" required>
+                </div>
+            </div>
+            
+            <div class="form-actions">
+                <button type="submit" class="btn">Upload Invoice</button>
+                <a href="{% url 'taxright:dashboard' %}" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    // Update file upload area to show selected file name
+    document.getElementById('id_pdf_file').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (file) {
+            const label = document.querySelector('.file-upload-label');
+            label.innerHTML = `
+                <div class="file-upload-icon">✓</div>
+                <div><strong>${file.name}</strong></div>
+                <div class="help-text" style="margin-top: 0.5rem;">Click to change file</div>
+            `;
+        }
+    });
+</script>
+{% endblock %}
+
