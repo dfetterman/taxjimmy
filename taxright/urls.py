@@ -5,6 +5,8 @@ from .views import (
     InvoiceLineItemViewSet,
     TaxDeterminationViewSet,
     TaxRuleViewSet,
+    LineItemTaxVerificationViewSet,
+    StateKnowledgeBaseViewSet,
     dashboard,
     invoice_detail,
     upload_invoice,
@@ -16,6 +18,8 @@ router.register(r'invoices', InvoiceViewSet, basename='invoice')
 router.register(r'invoice-line-items', InvoiceLineItemViewSet, basename='invoice-line-item')
 router.register(r'tax-determinations', TaxDeterminationViewSet, basename='tax-determination')
 router.register(r'tax-rules', TaxRuleViewSet, basename='tax-rule')
+router.register(r'line-item-tax-verifications', LineItemTaxVerificationViewSet, basename='line-item-tax-verification')
+router.register(r'state-knowledge-bases', StateKnowledgeBaseViewSet, basename='state-knowledge-base')
 
 app_name = 'taxright'
 

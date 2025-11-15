@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule
+from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule, LineItemTaxVerification, StateKnowledgeBase
 
 
 class InvoiceLineItemSerializer(serializers.ModelSerializer):
@@ -51,6 +51,7 @@ class TaxDeterminationSerializer(serializers.ModelSerializer):
     """Serializer for TaxDetermination model"""
     invoice_number = serializers.CharField(source='invoice.invoice_number', read_only=True)
     invoice_vendor = serializers.CharField(source='invoice.vendor_name', read_only=True)
+    line_item_verifications = serializers.SerializerMethodField()
     
     class Meta:
         model = TaxDetermination
@@ -58,9 +59,17 @@ class TaxDeterminationSerializer(serializers.ModelSerializer):
             'id', 'invoice', 'invoice_number', 'invoice_vendor',
             'determination_status', 'expected_tax', 'actual_tax',
             'discrepancy_amount', 'verified_at', 'notes',
+            'kb_verification_metadata', 'line_item_verifications',
             'created_at', 'updated_at'
         ]
         read_only_fields = ['id', 'created_at', 'updated_at']
+    
+    def get_line_item_verifications(self, obj):
+        """Get line item verifications for this invoice"""
+        verifications = LineItemTaxVerification.objects.filter(
+            line_item__invoice=obj.invoice
+        ).select_related('line_item')
+        return LineItemTaxVerificationSerializer(verifications, many=True).data
 
 
 class TaxRuleSerializer(serializers.ModelSerializer):
@@ -71,6 +80,35 @@ class TaxRuleSerializer(serializers.ModelSerializer):
         fields = [
             'id', 'state_code', 'jurisdiction', 'tax_rate',
             'effective_date', 'rule_type', 'created_at', 'updated_at'
+        ]
+        read_only_fields = ['id', 'created_at', 'updated_at']
+
+
+class StateKnowledgeBaseSerializer(serializers.ModelSerializer):
+    """Serializer for StateKnowledgeBase model"""
+    
+    class Meta:
+        model = StateKnowledgeBase
+        fields = [
+            'id', 'state_code', 'knowledge_base_id', 'knowledge_base_name',
+            'region', 'is_active', 'created_at', 'updated_at'
+        ]
+        read_only_fields = ['id', 'created_at', 'updated_at']
+
+
+class LineItemTaxVerificationSerializer(serializers.ModelSerializer):
+    """Serializer for LineItemTaxVerification model"""
+    line_item_description = serializers.CharField(source='line_item.description', read_only=True)
+    line_item_id = serializers.IntegerField(source='line_item.id', read_only=True)
+    invoice_number = serializers.CharField(source='line_item.invoice.invoice_number', read_only=True)
+    
+    class Meta:
+        model = LineItemTaxVerification
+        fields = [
+            'id', 'line_item', 'line_item_id', 'line_item_description', 'invoice_number',
+            'is_correct', 'confidence_score', 'reasoning', 'expected_tax_rate',
+            'applied_tax_rate', 'verification_details', 'verified_at',
+            'created_at', 'updated_at'
         ]
         read_only_fields = ['id', 'created_at', 'updated_at']
 

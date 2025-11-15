@@ -11,14 +11,16 @@ import tempfile
 import os
 import json
 
-from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule
+from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule, LineItemTaxVerification, StateKnowledgeBase
 from .serializers import (
     InvoiceSerializer, 
     InvoiceLineItemSerializer, 
     TaxDeterminationSerializer,
-    TaxRuleSerializer
+    TaxRuleSerializer,
+    LineItemTaxVerificationSerializer,
+    StateKnowledgeBaseSerializer
 )
-from .services import create_invoice_from_ocr
+from .services import create_invoice_from_ocr, BedrockKnowledgeBaseService
 from invoice_ocr.services import InvoiceProcessor
 from invoice_ocr.exceptions import InvoiceProcessingError
 
@@ -98,19 +100,92 @@ class InvoiceViewSet(viewsets.ModelViewSet):
         
         return Response(data)
     
-    @action(detail=True, methods=['get'], url_path='pipeline/tax-db')
-    def get_tax_db_data(self, request, pk=None):
-        """Get tax database processing data for pipeline (placeholder)"""
+    @action(detail=True, methods=['get'], url_path='pipeline/tax-verification')
+    def get_tax_verification_data(self, request, pk=None):
+        """Get tax verification data for pipeline (KB-based)"""
         invoice = self.get_object()
         
-        # Placeholder - functionality not developed yet
+        # Check if any line items have verifications
+        line_item_verifications = LineItemTaxVerification.objects.filter(
+            line_item__invoice=invoice
+        ).select_related('line_item')
+        
+        if not line_item_verifications.exists():
+            return Response({
+                'status': 'not_started',
+                'message': 'Tax verification has not been performed yet',
+                'processed_at': None,
+            })
+        
+        # Get verification data
+        verifications_data = []
+        for verification in line_item_verifications:
+            verifications_data.append({
+                'line_item_id': verification.line_item.id,
+                'line_item_description': verification.line_item.description,
+                'is_correct': verification.is_correct,
+                'confidence_score': float(verification.confidence_score),
+                'reasoning': verification.reasoning,
+                'expected_tax_rate': float(verification.expected_tax_rate),
+                'applied_tax_rate': float(verification.applied_tax_rate),
+                'verified_at': verification.verified_at,
+                'verification_details': verification.verification_details
+            })
+        
+        # Get summary from tax determination if available
+        summary = {}
+        try:
+            determination = invoice.tax_determination
+            if determination.kb_verification_metadata:
+                summary = determination.kb_verification_metadata.get('summary', {})
+        except TaxDetermination.DoesNotExist:
+            pass
+        
         data = {
-            'status': 'not_implemented',
-            'message': 'Tax database processing is not yet implemented',
-            'processed_at': None,
+            'status': 'completed',
+            'line_item_verifications': verifications_data,
+            'summary': summary,
+            'processed_at': line_item_verifications.first().verified_at if line_item_verifications.exists() else None,
         }
         
         return Response(data)
+    
+    @action(detail=True, methods=['post'], url_path='verify-taxes')
+    def verify_taxes(self, request, pk=None):
+        """Manually trigger tax verification for an invoice"""
+        invoice = self.get_object()
+        
+        if not invoice.state_code or invoice.state_code == 'XX':
+            return Response(
+                {'error': 'Invoice does not have a valid state code'},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+        
+        if not invoice.line_items.exists():
+            return Response(
+                {'error': 'Invoice has no line items to verify'},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+        
+        try:
+            kb_service = BedrockKnowledgeBaseService()
+            result = kb_service.verify_invoice_taxes(invoice)
+            
+            return Response({
+                'message': 'Tax verification completed',
+                'summary': result['summary'],
+                'line_item_verifications_count': len(result['line_item_verifications']),
+                'tax_determination_id': result.get('tax_determination_id')
+            })
+            
+        except Exception as e:
+            import logging
+            logger = logging.getLogger(__name__)
+            logger.error(f"Error during tax verification: {str(e)}")
+            return Response(
+                {'error': f'Tax verification failed: {str(e)}'},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
     
     @action(detail=True, methods=['get'], url_path='pipeline/tax-determination')
     def get_tax_determination_data(self, request, pk=None):
@@ -164,6 +239,30 @@ class TaxRuleViewSet(viewsets.ModelViewSet):
     search_fields = ['state_code', 'jurisdiction']
     ordering_fields = ['state_code', 'effective_date', 'tax_rate']
     ordering = ['state_code', 'jurisdiction', '-effective_date']
+
+
+class LineItemTaxVerificationViewSet(viewsets.ReadOnlyModelViewSet):
+    """
+    ViewSet for viewing line item tax verifications (read-only).
+    """
+    queryset = LineItemTaxVerification.objects.all()
+    serializer_class = LineItemTaxVerificationSerializer
+    filterset_fields = ['line_item', 'is_correct', 'line_item__invoice']
+    search_fields = ['line_item__description', 'reasoning', 'line_item__invoice__invoice_number']
+    ordering_fields = ['verified_at', 'confidence_score', 'is_correct']
+    ordering = ['-verified_at']
+
+
+class StateKnowledgeBaseViewSet(viewsets.ModelViewSet):
+    """
+    ViewSet for managing state-to-knowledge base mappings.
+    """
+    queryset = StateKnowledgeBase.objects.all()
+    serializer_class = StateKnowledgeBaseSerializer
+    filterset_fields = ['state_code', 'is_active', 'region']
+    search_fields = ['state_code', 'knowledge_base_name', 'knowledge_base_id']
+    ordering_fields = ['state_code', 'created_at']
+    ordering = ['state_code']
 
 
 # UI Views

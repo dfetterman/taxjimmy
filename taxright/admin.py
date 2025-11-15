@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule
+from .models import Invoice, InvoiceLineItem, TaxDetermination, TaxRule, StateKnowledgeBase, LineItemTaxVerification
 
 
 class InvoiceLineItemInline(admin.TabularInline):
@@ -93,6 +93,49 @@ class TaxRuleAdmin(admin.ModelAdmin):
     fieldsets = (
         ('Rule Information', {
             'fields': ('state_code', 'jurisdiction', 'rule_type', 'tax_rate', 'effective_date')
+        }),
+        ('Timestamps', {
+            'fields': ('created_at', 'updated_at'),
+            'classes': ('collapse',)
+        }),
+    )
+
+
+@admin.register(StateKnowledgeBase)
+class StateKnowledgeBaseAdmin(admin.ModelAdmin):
+    """Admin interface for StateKnowledgeBase model"""
+    list_display = ('state_code', 'knowledge_base_name', 'knowledge_base_id', 'region', 'is_active', 'created_at')
+    list_filter = ('is_active', 'region', 'created_at')
+    search_fields = ('state_code', 'knowledge_base_name', 'knowledge_base_id')
+    readonly_fields = ('created_at', 'updated_at')
+    fieldsets = (
+        ('Knowledge Base Mapping', {
+            'fields': ('state_code', 'knowledge_base_id', 'knowledge_base_name', 'region', 'is_active')
+        }),
+        ('Timestamps', {
+            'fields': ('created_at', 'updated_at'),
+            'classes': ('collapse',)
+        }),
+    )
+
+
+@admin.register(LineItemTaxVerification)
+class LineItemTaxVerificationAdmin(admin.ModelAdmin):
+    """Admin interface for LineItemTaxVerification model"""
+    list_display = ('line_item', 'is_correct', 'confidence_score', 'expected_tax_rate', 'applied_tax_rate', 'verified_at')
+    list_filter = ('is_correct', 'verified_at', 'line_item__invoice__state_code')
+    search_fields = ('line_item__description', 'reasoning', 'line_item__invoice__invoice_number')
+    readonly_fields = ('created_at', 'updated_at', 'verified_at')
+    fieldsets = (
+        ('Line Item', {
+            'fields': ('line_item',)
+        }),
+        ('Verification Results', {
+            'fields': ('is_correct', 'confidence_score', 'reasoning', 'expected_tax_rate', 'applied_tax_rate', 'verified_at')
+        }),
+        ('Details', {
+            'fields': ('verification_details',),
+            'classes': ('collapse',)
         }),
         ('Timestamps', {
             'fields': ('created_at', 'updated_at'),

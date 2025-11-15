@@ -450,9 +450,19 @@
                 <div class="pipeline-bullet">1</div>
                 <div class="pipeline-label">OCR Processing</div>
             </div>
-            <div class="pipeline-stage disabled" data-stage="tax-db" id="stage-tax-db">
-                <div class="pipeline-bullet">2</div>
-                <div class="pipeline-label">Tax Database Processing</div>
+            {% if invoice.line_items.all %}
+                {% with first_item=invoice.line_items.all|first %}
+                    {% if first_item.tax_verifications.exists %}
+                        <div class="pipeline-stage completed" data-stage="tax-verification" id="stage-tax-verification">
+                    {% else %}
+                        <div class="pipeline-stage active" data-stage="tax-verification" id="stage-tax-verification">
+                    {% endif %}
+                {% endwith %}
+            {% else %}
+                <div class="pipeline-stage disabled" data-stage="tax-verification" id="stage-tax-verification">
+            {% endif %}
+            <div class="pipeline-bullet">2</div>
+            <div class="pipeline-label">Tax Verification</div>
             </div>
             <div class="pipeline-stage {% if invoice.tax_determination %}active{% else %}disabled{% endif %}" data-stage="tax-determination" id="stage-tax-determination">
                 <div class="pipeline-bullet">3</div>
@@ -476,7 +486,14 @@
     
     {% if invoice.line_items.all %}
     <div class="section">
-        <h3>Line Items</h3>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+            <h3 style="margin: 0;">Line Items</h3>
+            {% if invoice.status == 'completed' and invoice.state_code != 'XX' %}
+            <button id="verify-taxes-btn" class="btn" style="background: #667eea; color: white; border: none; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer;">
+                Verify Taxes
+            </button>
+            {% endif %}
+        </div>
         <table class="line-items-table">
             <thead>
                 <tr>
@@ -486,6 +503,7 @@
                     <th>Tax Status</th>
                     <th>Tax Rate</th>
                     <th>Tax Amount</th>
+                    <th>Verification</th>
                     <th>Line Total</th>
                 </tr>
             </thead>
@@ -500,14 +518,74 @@
                             {{ item.get_tax_status_display }}
                         </span>
                     </td>
-                    <td>{{ item.tax_rate|floatformat:4 }}%</td>
+                    <td>{{ item.tax_rate|floatformat:4 }}</td>
                     <td>${{ item.tax_amount|floatformat:2 }}</td>
+                    <td>
+                        {% if item.tax_verifications.exists %}
+                            {% with verification=item.tax_verifications.first %}
+                                <span class="status-badge {% if verification.is_correct %}status-completed{% else %}status-error{% endif %}" 
+                                      style="cursor: pointer;" 
+                                      onclick="showVerificationDetails({{ verification.id }})"
+                                      title="Confidence: {{ verification.confidence_score|floatformat:2 }}">
+                                    {% if verification.is_correct %}✓ Correct{% else %}✗ Incorrect{% endif %}
+                                </span>
+                            {% endwith %}
+                        {% else %}
+                            <span style="color: #6c757d;">Not verified</span>
+                        {% endif %}
+                    </td>
                     <td><strong>${{ item.line_total|floatformat:2 }}</strong></td>
                 </tr>
                 {% endfor %}
             </tbody>
         </table>
     </div>
+    {% endif %}
+    
+    <!-- Tax Verification Results Section -->
+    {% if invoice.line_items.all %}
+        {% for item in invoice.line_items.all %}
+            {% if item.tax_verifications.exists %}
+                {% with verification=item.tax_verifications.first %}
+                <div class="section" id="verification-{{ verification.id }}" style="display: none;">
+                    <h3>Tax Verification: {{ item.description|truncatewords:10 }}</h3>
+                    <div class="tax-determination">
+                        <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+                            <h4 style="margin: 0;">Status: 
+                                <span class="status-badge {% if verification.is_correct %}status-completed{% else %}status-error{% endif %}">
+                                    {% if verification.is_correct %}Correct{% else %}Incorrect{% endif %}
+                                </span>
+                            </h4>
+                            <span style="color: #6c757d;">Confidence: {{ verification.confidence_score|floatformat:2 }}</span>
+                        </div>
+                        
+                        <div class="tax-comparison">
+                            <div class="tax-item">
+                                <label>Applied Tax Rate</label>
+                                <div class="value">{{ verification.applied_tax_rate|floatformat:4 }}</div>
+
+                            </div>
+                            <div class="tax-item">
+                                <label>Expected Tax Rate</label>
+                                <div class="value {% if verification.is_correct %}no-discrepancy{% else %}discrepancy{% endif %}">
+                                    {{ verification.expected_tax_rate|floatformat:4 }}
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div style="margin-top: 1rem; padding: 1rem; background: white; border-radius: 6px;">
+                            <strong>Reasoning:</strong>
+                            <p style="margin: 0.5rem 0 0 0; white-space: pre-wrap;">{{ verification.reasoning }}</p>
+                        </div>
+                        
+                        <div style="margin-top: 1rem; font-size: 0.9rem; color: #6c757d;">
+                            Verified: {{ verification.verified_at|date:"M d, Y g:i A" }}
+                        </div>
+                    </div>
+                </div>
+                {% endwith %}
+            {% endif %}
+        {% endfor %}
     {% endif %}
     
     {% if invoice.tax_determination %}
@@ -578,9 +656,9 @@
                 url = apiBaseUrl + 'pipeline/ocr/';
                 title = 'OCR Processing';
                 break;
-            case 'tax-db':
-                url = apiBaseUrl + 'pipeline/tax-db/';
-                title = 'Tax Database Processing';
+            case 'tax-verification':
+                url = apiBaseUrl + 'pipeline/tax-verification/';
+                title = 'Tax Verification';
                 break;
             case 'tax-determination':
                 url = apiBaseUrl + 'pipeline/tax-determination/';
@@ -620,6 +698,32 @@
                     }
                     if (data.job_id) {
                         html += '<div class="modal-section"><h4>Processing Job ID</h4><p>' + data.job_id + '</p></div>';
+                    }
+                } else if (stageType === 'tax-verification') {
+                    if (data.summary) {
+                        html += '<div class="modal-section"><h4>Summary</h4>';
+                        html += '<p>Total Line Items: ' + (data.summary.total_line_items || 0) + '</p>';
+                        html += '<p>Correct: ' + (data.summary.correct_tax_applications || 0) + '</p>';
+                        html += '<p>Incorrect: ' + (data.summary.incorrect_tax_applications || 0) + '</p>';
+                        html += '<p>Average Confidence: ' + ((data.summary.average_confidence || 0) * 100).toFixed(1) + '%</p>';
+                        html += '</div>';
+                    }
+                    if (data.line_item_verifications && data.line_item_verifications.length > 0) {
+                        html += '<div class="modal-section"><h4>Line Item Verifications</h4>';
+                        data.line_item_verifications.forEach(function(verification) {
+                            html += '<div style="margin-bottom: 1rem; padding: 1rem; background: #f8f9fa; border-radius: 6px;">';
+                            html += '<strong>' + escapeHtml(verification.line_item_description) + '</strong><br>';
+                            html += '<span class="status-badge ' + (verification.is_correct ? 'status-completed' : 'status-error') + '">';
+                            html += (verification.is_correct ? 'Correct' : 'Incorrect') + '</span> ';
+                            html += '<span>Confidence: ' + (verification.confidence_score * 100).toFixed(1) + '%</span><br>';
+                            html += '<small>Applied: ' + (verification.applied_tax_rate * 100).toFixed(2) + '% | ';
+                            html += 'Expected: ' + (verification.expected_tax_rate * 100).toFixed(2) + '%</small><br>';
+                            html += '<details style="margin-top: 0.5rem;"><summary style="cursor: pointer; color: #667eea;">Reasoning</summary>';
+                            html += '<p style="margin-top: 0.5rem; white-space: pre-wrap;">' + escapeHtml(verification.reasoning) + '</p>';
+                            html += '</details>';
+                            html += '</div>';
+                        });
+                        html += '</div>';
                     }
                 } else if (stageType === 'tax-determination') {
                     if (data.determination_status) {
@@ -661,6 +765,69 @@
         const modal = document.getElementById('pipeline-modal');
         if (event.target === modal) {
             closeModal();
+        }
+    }
+    
+    // Verify Taxes button handler
+    const verifyTaxesBtn = document.getElementById('verify-taxes-btn');
+    if (verifyTaxesBtn) {
+        verifyTaxesBtn.addEventListener('click', function() {
+            if (confirm('This will verify taxes for all line items using the Bedrock Knowledge Base. Continue?')) {
+                verifyTaxesBtn.disabled = true;
+                verifyTaxesBtn.textContent = 'Verifying...';
+                
+                fetch(apiBaseUrl + 'verify-taxes/', {
+                    method: 'POST',
+                    headers: {
+                        'X-CSRFToken': getCookie('csrftoken'),
+                        'Content-Type': 'application/json'
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.error) {
+                        alert('Error: ' + data.error);
+                    } else {
+                        alert('Tax verification completed! ' + data.summary.correct_tax_applications + ' correct, ' + data.summary.incorrect_tax_applications + ' incorrect.');
+                        location.reload();
+                    }
+                })
+                .catch(error => {
+                    alert('Error: ' + error.message);
+                })
+                .finally(() => {
+                    verifyTaxesBtn.disabled = false;
+                    verifyTaxesBtn.textContent = 'Verify Taxes';
+                });
+            }
+        });
+    }
+    
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+    
+    function showVerificationDetails(verificationId) {
+        const verificationDiv = document.getElementById('verification-' + verificationId);
+        if (verificationDiv) {
+            // Hide all other verification details
+            document.querySelectorAll('[id^="verification-"]').forEach(div => {
+                div.style.display = 'none';
+            });
+            // Show this one
+            verificationDiv.style.display = 'block';
+            verificationDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }
     }
 </script>

@@ -1,5 +1,5 @@
 from django.db import models
-from django.core.validators import MinValueValidator
+from django.core.validators import MinValueValidator, MaxValueValidator
 from decimal import Decimal
 
 
@@ -146,6 +146,11 @@ class TaxDetermination(models.Model):
     )
     verified_at = models.DateTimeField(null=True, blank=True)
     notes = models.TextField(blank=True, help_text="Additional notes about the determination")
+    kb_verification_metadata = models.JSONField(
+        default=dict,
+        blank=True,
+        help_text="Metadata from Bedrock KB verification (KB ID, query details, etc.)"
+    )
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
@@ -193,4 +198,71 @@ class TaxRule(models.Model):
     def __str__(self):
         jurisdiction_str = f" - {self.jurisdiction}" if self.jurisdiction else ""
         return f"{self.state_code}{jurisdiction_str} - {self.tax_rate}% ({self.rule_type})"
+
+
+class StateKnowledgeBase(models.Model):
+    """Mapping of US states to Bedrock Knowledge Base IDs"""
+    
+    state_code = models.CharField(max_length=2, unique=True, db_index=True, help_text="US state code (e.g., CA, NY)")
+    knowledge_base_id = models.CharField(max_length=255, help_text="AWS Bedrock Knowledge Base ID")
+    knowledge_base_name = models.CharField(max_length=255, help_text="Human-readable KB name")
+    region = models.CharField(max_length=50, default='us-east-1', help_text="AWS region for the knowledge base")
+    is_active = models.BooleanField(default=True, help_text="Whether this KB mapping is active")
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    
+    class Meta:
+        ordering = ['state_code']
+        indexes = [
+            models.Index(fields=['state_code', 'is_active']),
+        ]
+    
+    def __str__(self):
+        status = "Active" if self.is_active else "Inactive"
+        return f"{self.state_code} -> {self.knowledge_base_name} ({status})"
+
+
+class LineItemTaxVerification(models.Model):
+    """Tax verification results for individual line items using Bedrock KB"""
+    
+    line_item = models.ForeignKey(InvoiceLineItem, on_delete=models.CASCADE, related_name='tax_verifications')
+    is_correct = models.BooleanField(help_text="Whether the applied tax is correct according to state law")
+    confidence_score = models.DecimalField(
+        max_digits=3,
+        decimal_places=2,
+        validators=[MinValueValidator(Decimal('0.00')), MaxValueValidator(Decimal('1.00'))],
+        help_text="Confidence score from 0.00 to 1.00"
+    )
+    reasoning = models.TextField(help_text="Explanation of why the tax is correct or incorrect")
+    expected_tax_rate = models.DecimalField(
+        max_digits=5,
+        decimal_places=4,
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Expected tax rate based on state law (as decimal, e.g., 0.0825 for 8.25%)"
+    )
+    applied_tax_rate = models.DecimalField(
+        max_digits=5,
+        decimal_places=4,
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Tax rate that was actually applied (as decimal)"
+    )
+    verification_details = models.JSONField(
+        default=dict,
+        blank=True,
+        help_text="Additional verification metadata (KB query details, citations, etc.)"
+    )
+    verified_at = models.DateTimeField(auto_now_add=True, help_text="When this verification was performed")
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    
+    class Meta:
+        ordering = ['-verified_at']
+        indexes = [
+            models.Index(fields=['line_item', 'is_correct']),
+            models.Index(fields=['verified_at']),
+        ]
+    
+    def __str__(self):
+        status = "Correct" if self.is_correct else "Incorrect"
+        return f"Verification for {self.line_item.description[:30]}... - {status} ({self.confidence_score})"
 
