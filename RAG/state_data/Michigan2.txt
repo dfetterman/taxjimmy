@@ -1,0 +1,459 @@
+State: Michigan
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+The Michigan Department of Treasury The Revenue Division of the Michigan Department of Treasury administers and collects the sales and use taxes. The sales tax statutes authorize the Revenue Division to promulgate rules for the administration of sales and use taxes. Mich. Comp. Laws §205.59(2); Mich. Comp. Laws § 205.100(2). BNA-SUTN MI 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+No Local Tax Michigan localities are not authorized to impose a local sales and use tax. Mich. Const., art. VII, §2; Mich. Const., art. VII, §21. BNA-SUTN MI 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required The Department of Treasury requires all persons engaged in the business of selling tangible personal property at retail to obtain a sales tax license. Mich. Comp. Laws §205.53(1). A retailer that is responsible for collecting and remitting sales tax must file an application, by completing “Form 518 Registration for Michigan Taxes,”for a sales tax license with the Commissioner of the Michigan Department of Treasury. Mich. Comp. Laws §205.53(1); Mich. Admin. Code r. 205.1(1); Mich. Admin. Code r. 205.26; Michigan Form 518, Registration for Michigan Taxes. The application must also be filed along with a $1 registration fee, including renewal of the license. Mich. Admin. Code r. 205.1(2). The applicant must be the principal and not an agent or representative of the principal. Mich. Admin. Code r. 205.1(4). However, taxpayers registered under the Streamlined Sales and Use Tax Agreement who are not obligated to register need not register. Mich. Comp. Laws §205.53(4). The sales tax license is valid until June 30th each year and must be renewed at each location. Mich. Admin. Code r. 205.1(2). Concessionaire Registration Concessionaires at fairs, circuses, carnivals and other such amusements must obtain a sales tax license prior to making sales. Mich. Admin. Code r. 205.77(2). If the concessionaire only makes sales at one or two events, the taxpayer may file Form 2271, Concessionaire's Sales Tax Return and Payment in lieu of obtaining a Michigan sales tax license. Michigan Form 2271, Concessionaire's Sales Tax Return and Payment. Revocation of Sales Tax License The State Treasurer may cancel a sales tax license of any taxpayer who violates or fails to comply with the department's rules. The taxpayer will first be given a notice and hearing prior to the suspension of the license. Mich. Comp. Laws §205.53(2). Use Tax Registration Taxpayers who do not hold a sales tax license may have to apply for a use tax registration. Mich. Comp. Laws §205.95. Most out-of-state retailers not registered for a sales tax license, who solicit sales of tangible personal property in Michigan, must register. Moreover, Michigan consumers who purchase property for nonregistered sellers, lessor of tangible personal property when rental receipts are taxable, sellers of intrastate communication, and sellers of rental accommodations to the Michigan public must also register. Mich. Admin. Code r. 205.26(1)(a) to (1)(e). These taxpayers may apply, free of a license fee, with the department for the registration. Mich. Admin. Code r. 205.26(2). BNA-SUTN MI 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor Michigan requires the seller/vendor to collect sales and use tax from all applicable purchases, usage and storage of tangible personal property to remit the tax to the Department of Treasury. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93. Successor Liability When a business is sold in its entirety or quits the business, the taxpayer must make a final return within fifteen days. The successor of the business is required to hold a sufficient amount of money to cover the taxes interest, and penalties that may be due until the owner produces a receipt from the State Treasurer, which represents that the taxes are paid. Mich. Comp. Laws §205.27a(1). Unpaid taxes, interest and penalties are a lien in favor of the state, which has precedence over all other liens, against the property that is purchased by the successor. The lien attaches and lasts for seven years unless extended. Mich. Comp. Laws §205.29(1); Mich. Comp. Laws §205.29(2). If the business successor fails to withhold an amount from the purchase price sufficient to cover the outstanding sales tax liability before paying the purchase price or taking possession of the transferred assets, then the successor will be personally liable for the payment of all unpaid, taxes, interest and penalties. The liability is limited to the fair market value of the business less the amount of any proceeds that are applied to balances due on secured interests' superior to the lien. Mich. Comp. Laws §205.27a(1); Mich. Comp. Laws §205.29. BNA-SUTN MI 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Depends Purchasers are liable for Michigan's use tax on all taxable property or services that they purchase, except for property or services purchased in-state on which sales tax was paid. Mich. Comp. Laws §205.93(1); Mich. Comp. Laws §205.94(1)(a). BNA-SUTN MI 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Michigan imposes personal liability for unpaid sales taxes on certain corporate officers, supervisors, and any other individuals or entities that are in a position of supervision or control who are responsible for collecting and remitting sales taxes and who fail to do so. Mich. Comp. Laws §205.27a(5); see Griffin v. Michigan Dept. of Treas., 2013 BL 140063 (Mich. Ct. App. 2013). A person is a responsible party if all of the following elements are met:• the person was or is an officer of the business; Mich. Comp. Laws §205.27a(15)(b); Michigan Revenue Administrative Bulletin 2015-23 (Nov. 3, 2015). • the officer controlled, supervised, or was responsible for the filing of returns or payment of taxes; Mich. Comp. Laws §205.27a(15)(b); Michigan Revenue Administrative Bulletin 2015-23 (Nov. 3, 2015). • the officer was an officer during the time period of default; Mich. Comp. Laws §205.27a(15)(b); Michigan Revenue Administrative Bulletin 2015-23 (Nov. 3, 2015). and • the officer “willfully”failed to file a return or pay the tax due. Mich. Comp. Laws §205.27a(15)(b); Michigan Revenue Administrative Bulletin 2015-23 (Nov. 3, 2015). BNA-SUTN MI 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Sellers and certified service providers are relieved from tax liability to Michigan and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax resulting from relying on the Library of Definitions section of the Streamlined Sales Tax Governing Board Taxability Matrix. Mich. Comp. Laws §205.819(9); User Guide: Online Taxability Matrix and Certificate of Compliance. Liability is not relieved for having charged and collected the incorrect amount of sales and use tax resulting from relying on the Tax Administration Practices section. Mich. Comp. Laws §205.819(9); Streamlined Sales Tax Governing Board, Taxability Matrix, Michigan (version 2018.0). BNA-SUTN MI 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability Sellers and certified service providers are relieved from tax liability to Michigan and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax resulting from relying on the Library of Definitions section of the Streamlined Sales Tax Governing Board Taxability Matrix. Mich. Comp. Laws §205.819(9); User Guide: Online Taxability Matrix and Certificate of Compliance. Liability is not relieved for having charged and collected the incorrect amount of sales and use tax resulting from relying on the Tax Administration Practices section. Mich. Comp. Laws §205.819(9); Streamlined Sales Tax Governing Board, Taxability Matrix, Michigan (version 2018.0). BNA-SUTN MI 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided All Michigan taxpayers are required to collect and remit sales and use tax, and must file return forms with the taxes when they are paid to the Michigan Department of Treasury. Registered taxpayers must file returns for all periods, even those for which no tax is actually due. Mich. Comp. Laws §205.56(1); Mich. Comp. Laws §205.96;Michigan Dept. of Treas., Sales, Use, and Withholding Taxes 2015. The Michigan Sales and Use Tax code describes that most taxpayers are required to file and remit monthly returns. However, the department has the authority to provide other tax periods if it would be more efficient. Mich. Comp. Laws §205.56(4); Mich. Comp. Laws §205.96(3). For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. The reporting intervals below have been enacted by the Michigan Department of Treasury. Reporting Intervals Monthly Filing Most taxpayers are expected to file monthly returns. Monthly filing is available to retail taxpayers with an average sale and use tax liability greater than $3,600 per month during the previous twelve months. Mich. Comp. Laws §205.56(1); Mich. Comp. Laws §205.96;Michigan Sales Tax, Use Tax, Income Tax Withholding and Single Business Tax Estimates Forms and Instructions Book Form 78. Annual Filing Annual filing is available to retail taxpayers with an average sales and use tax liability less than $750 per month during the previous twelve months. Mich. Comp. Laws §205.56(1); Mich. Comp. Laws §205.96; Michigan Annual Return for Sales, Use and Withholding Taxes, Annual Return Form 165. Annual returns may be filed online and the Department of Treasury encourages small businesses only required to make an annual filing to take advantage of the online system. Mich. Dept. of Treas., Michigan Treasury Online Makes Filing Annual Sales, Use and Withholding Tax Returns Easy (Feb. 1, 2018). Quarterly Filing Quarterly filing is available to retail taxpayers with an average sales and use tax liability between $750 and $3,600 per month during the previous twelve months. Mich. Comp. Laws §205.56(1); Mich. Comp. Laws §205.96;Michigan Sales Tax, Use Tax, Income Tax Withholding and Single Business Tax Estimates Forms and Instructions Book Form 78. Accelerated Return by EFT Beginning January 1, 2014, taxpayers with a total tax liability of $720,000, after subtracting certain tax payments and credits, in the immediately preceding calendar year must calculate their accelerated monthly sales tax payment to be an amount equal to 75 percent of their liability in the immediately preceding month or 75 percent of their liability for the same month in the immediately preceding calendar year, whichever is less, plus an additional reconciliation payment. Mich. Comp. Laws §205.56(3), as amended by 2012 Mich. H.B. 4804, effective Dec. 27, 2012; Michigan Dept. of Treas., Sales and Use Tax FAQs (total liability is for sales or use tax;if taxpayer meets the threshold, both sales and use taxes are accelerated). From Jan. 1, 1999, through Dec. 31, 2013, all taxpayers who in the previous year had a total tax liability of $720,000 or more must file, by electronic funds transfer an amount equal to 50 percent of the taxpayer's liability for the same month in the preceding calendar year, or 50 percent of the actual liability for the month reported, plus a reconciliation payment equal to the difference between the tax liability determined for the immediately preceding month minus the amount of tax previously paid for that month. Moreover, at the end of the month the taxpayer must remit by electronic funds transfer an amount equal to 50 percent of the taxpayer's liability for the same month in the immediately preceding calendar year, or 50 percent of the actual liability for that month, whichever is less. Mich. Comp. Laws §205.56(2); Mich. Comp. Laws §205.96(2);Michigan Sales Tax, Use Tax, Income Tax Withholding and Single Business Tax Estimates Forms and Instructions Book Form 78. Other Returns Consolidated Sales and Use Tax Returns If an individual or business subject to Michigan sales or use tax has two or more places of business at which the taxpayer engages in transactions subject to tax, the taxpayer must file consolidated sales and use tax return for all such places of business under certain conditions. Mich. Comp. Laws §205.58. Amended Sales and Use Tax Returns The Michigan Department of Treasury requires individuals and businesses to file amended sales and use tax returns in certain situations along with an explanation for the amendment. Michigan Annual Return for Sales, Use and Withholding Taxes, Annual Return Form 165;Michigan Form 60, Combined Return for Michigan Taxes. Informational Reports for Aviation Fuel Reports for Sales of Aviation Fuel Beginning April 1, 2016, taxpayers making retail sales of aviation fuel must file quarterly informational reports with the department showing the amount of taxable retail sales, number of taxable gallons sold and gross proceeds from those gallons, and the amount of tax due from the sale of aviation fuel. The informational report does not include any remittance of tax and does not constitute a return. A maximum $500.00 penalty is imposed for failure or refusal to file the informational report. Mich. Comp. Laws §205.56c, as amended by 2015 Mich. S.B. 613, effective Dec. 23, 2015; see Michigan Notice to Taxpayers Regarding Sales And Use Tax Informational Reports Related to Taxable Retail Sales And Taxable Storage, Use, or Consumption Of Aviation Fuel (March 23, 2016). Reports for Use of Aviation Fuel Similarly, persons whose storage, use, or consumption of aviation fuel is subject to tax, but who have not paid tax to the seller, and sellers collecting the tax from the purchaser from sales of aviation fuel, must file quarterly informational reports showing the amount of taxable aviation fuel sold or purchased, the amount of tax due, number of taxable gallons sold, and gross proceeds from those gallons. The informational report does not include any remittance of tax and does not constitute a return. A maximum $500 penalty is imposed for failure or refusal to file the informational report. Mich. Comp. Laws §205.96c, as amended by 2015 Mich. S.B. 614, effective Dec. 23, 2015; see Michigan Notice to Taxpayers Regarding Sales And Use Tax Informational Reports Related to Taxable Retail Sales And Taxable Storage, Use, or Consumption Of Aviation Fuel (March 23, 2016). BNA-SUTN MI 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month Monthly returns must be filed on or before the 20th day of the month following the close of the preceding month. Mich. Comp. Laws §205.56(1). A sales or use tax return will be considered timely filed if the postmark stamp or the electronic time and date stamp of an electronic transaction falls on or before the filing due date. Michigan Letter Ruling LR 1988-35. Quarterly Filing Due Date Quarterly returns must be filed on or before the 20th day of the month following the close of the preceding quarter. First quarter returns are due by April 20th. Second quarter returns are due by July 20th. Third quarter returns are due by October 20th. Fourth quarter returns are due by January 20th. Mich. Comp. Laws §205.56(3); Mich. Comp. Laws §205.96(2)(b);Michigan Sales Tax, Use Tax, Income Tax Withholding and Single Business Tax Estimates Forms and Instructions Book Form 78. Annual Filing Due Date Annual returns must be filed on or before February 28th following the close of the previous year. Mich. Comp. Laws §205.56(3); Mich. Comp. Laws §205.96(2)(b);Michigan Annual Return for Sales, Use and Withholding Taxes Annual Return Form 165; see also Mich. Dept. of Treas., Michigan Treasury Online Makes Filing Annual Sales, Use and Withholding Tax Returns Easy (Feb. 1, 2018). If the last day for filing a sales or use tax return falls on a Saturday, Sunday, or holiday, then the filing will be considered timely if the return is filed on the next succeeding day that is not a Saturday, Sunday, or legal holiday. Mich. Comp. Laws §205.56(5). Informational Reports for Sales of Aviation Fuel The quarterly informational reports are due July 31, Oct. 31, Jan. 31, and April 30 of each year. Michigan Notice to Taxpayers Regarding Sales And Use Tax Informational Reports Related to Taxable Retail Sales And Taxable Storage, Use, or Consumption Of Aviation Fuel (March 23, 2016). E-filing Returns Beginning January 2015, taxpayers can file current year sales and use tax returns using Michigan Treasury Online (MTO). Michigan no longer mails sales and use tax forms and instructions to taxpayers. Current sales tax licenses remain valid through September 30, 2015, but taxpayers must obtain renewals though MTO. Mich. Dept. of Treas., Sales, Use, and Withholding Taxes 2015. Forms have been revised based on new requirements and have new form numbers. Annual sales and use tax returns using a 4 percent tax rate must be filed using MTO. Mich. Dept. of Treas., Sales, Use, and Withholding Taxes 2015. BNA-SUTN MI 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Sales and use taxes are due and payable on or before the 20th day of the month following the month in which the taxable event occurred. Mich. Comp. Laws §205.56(1). By the 20th of each month, taxpayers that had a liability over $720,000 in the preceding calendar year must remit 75 percent of their liability or 75 percent of their liability for the same month in the immediately preceding calendar year, whichever is less, plus a reconciliation payment equal to the difference between the tax liability determined for the immediately preceding month minus the amount of tax previously paid for that month. Mich. Comp. Laws §205.56(2). In order to ensure payments of tax and provide more efficiency, the department may require the filing of returns and payment of tax for other than monthly periods. Mich. Comp. Laws §205.56(4). Further, if a payment due date falls on a Saturday, Sunday, or holiday (state or legal banking), taxes will be due on the next business day. Mich. Comp. Laws §205.56(6). BNA-SUTN MI 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Available Where good cause exists, the commissioner may extend the time for filing sales and use tax returns for not more than 60 days. Mich. Comp. Laws §205.56. BNA-SUTN MI 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Available Michigan is providing disaster tax relief to taxpayers in Houghton and Menominee Counties affected by flooding June 18, 2018. Individual and business taxpayers who reside in Houghton and Menominee counties have additional time to file state tax returns, with penalties and interest waived. Michigan Dept. of Treas., State Treasury Department Providing Individuals, Business Tax Relief due to Governor's Disaster Declaration (June 20, 2018). Michigan is providing tax relief to taxpayers affected by the severe storms and flooding in Bay, Gladwin, Isabella, and Midland counties on June 22-23, 2017, caused by Hurricane Harvey or Hurricane Irma. Michigan Dept. of Treas., State Treasury Department Providing Individuals, Businesses Tax Relief Due to Natural Disasters (Sept. 19, 2017). Affected taxpayers will receive additional time to file state tax returns, make tax payments, and waiver of penalties and interest. Michigan follows IRS deadlines when granting tax relief for natural disasters. Visit the IRS website for the latest deadlines. Michigan Dept. of Treas., State Treasury Department Providing Individuals, Businesses Tax Relief Due to Natural Disasters (Sept. 19, 2017). Taxpayers unable to meet filing deadlines due to a natural disaster should call the Treasury at: 517-636-4486, for Individuals, or 517-636-6925, for Businesses. Taxpayers may also request relief in writing, correspondence must include the taxpayers name, account number, reason for the relief request, and the address of the taxpayer or tax preparer located in one of the disaster areas. Written requests must be mailed to:Michigan Department of Treasury ATTN: Disaster Tax Relief Lansing, Michigan 48922 Michigan Dept. of Treas., State Treasury Department Providing Individuals, Businesses Tax Relief Due to Natural Disasters (Sept. 19, 2017); Michigan Dept. of Treas., State Treasury Department Providing Individuals, Business Tax Relief due to Governor's Disaster Declaration (June 20, 2018). BNA-SUTN MI 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers Michigan sales and use taxpayers may voluntarily pay through electronic funds transfer (EFT) after filing an application. However, the Department of Treasury requires taxpayers remit sales and use tax by EFT if the total tax liability for the preceding year (after subtracting the tax payments made to the Secretary of State, or after subtracting the tax credits) was $720,000 or more. Mich. Comp. Laws §205.96(2); Mich. Comp. Laws §205.56(2). Mandatory EFT filers must pay:• a transmission of 50 percent of the current month's or prior year's tax liability, on or before the 20th day of the current month; • a second transmission of 50 percent, on or before the last day of the current month; and • reconciliation(i.e., third payment), on or before the 20th day of the next month. Mich. Comp. Laws §205.96(2); Mich. Comp. Laws §205.56(2). Voluntary EFT Payments Taxpayers that voluntarily register to pay sales, use, or withholding tax by EFT, must remit all sales, use and withholding taxes by EFT. EFT payments for sales, use and withholding taxes are required monthly. Once registered for EFT, accounts currently required to file quarterly or annually will automatically be switched to monthly filing after receipt of their first EFT transmission. Mich. Comp. Laws §205.96(2); Mich. Comp. Laws §205.56(2); see also Michigan Dept. of Treas., Q&A about Michigan EFT, 2437 (Rev. 4-09); see Michigan Dept. of Treas., Accelerated EFT Filers. BNA-SUTN MI 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Taxpayers have two methods of payment through EFT: the EFT credit method and the EFT debit method. Michigan Dept. of Treas., Q&A about Michigan EFT, 2437 (Rev. 4-09); see Michigan Dept. of Treas., Accelerated EFT Filers. In an EFT credit transaction, the taxpayer contacts its bank to initiate a transaction debiting its bank account and transferring the funds to the state's account for the amount due. An EFT debit transaction is similar to the EFT credit transaction, except the taxpayer notifies the state. The state, through its bank, then initiates the transaction through the ACH network to withdraw funds from the taxpayer's account. Michigan Dept. of Treas., Q&A about Michigan EFT, 2437 (Rev. 4-09); see Michigan Dept. of Treas., Accelerated EFT Filers. For timely receipt of payment, an EFT Debit filer must complete its transaction by 9 p.m. EST, one business day before the due date. An EFT Credit filer must contact its financial institution for the requirements. Mich. Comp. Laws §205.96(2); Mich. Comp. Laws §205.56(2); see also Michigan Dept. of Treas., Q&A about Michigan EFT, 2437 (Rev. 4-09); see Michigan Dept. of Treas., Accelerated EFT Filers. Effective May 20, 2015, EFT Debit filers must make all future sales and use tax payments online using MTO. The State of Michigan Electronic Payment System Payconnexions website link and Interactive Voice Response System (IVR) for Sales, Use and Withholding Taxes (SUW) will no longer be available. Mich. Dept. of Treas., Electronic Payments. Additionally, some changes have been made to the filing process for EFT Credit payment filers. Mich. Dept. of Treas., Electronic Payments; see Mich. Dept. of Treas., EFT Credit Instructions for Michigan Business Taxes. BNA-SUTN MI 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+0.7% Michigan offers a discount on state sales taxes to vendors that collect and remit the tax on a timely basis. If the vendor remits the tax on or before the twelfth day of the month, then the vendor receives a discount equal to the greater of 0.75 percent on the amount taxed at 4 percent for the previous month, or 4 percent of $150. Mich. Comp. Laws §205.54; Mich. Comp. Laws §205.94f. If the vendor remits the tax after the 12th but before the 20th day of the month, then the first amount changes to 0.5 percent. Mich. Comp. Laws §205.54; Mich. Comp. Laws §205.94f. The maximum discount a vendor can receive is $20,000. Mich. Comp. Laws §205.54(1)(a); Mich. Comp. Laws §205.94f(1)(a). Vendors do not receive a discount for paying delinquent sales taxes. Mich. Comp. Laws §205.54; Mich. Comp. Laws §205.94f. BNA-SUTN MI 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Retail vendors that are required to have a state sales tax license covering retail sales made to final consumers are required to obtain information on claimed exemptions, such as identifying information and the reason for claiming the exemption. Mich. Comp. Laws §205.62(1). In Michigan, sellers have the option to use an electronic exemption certificate or a paper exemption. Mich. Comp. Laws §205.62(2), (3). Sellers are expected to use the Michigan Sales and Use Tax Exemption Certificate Form 3372. Michigan Sales and Use Tax Exemption, Form 3372. Retention Periods Certificate holders must maintain a list of all vendors for four years to whom they furnish a copy of their exemption certificate. Mich. Comp. Laws §205.62(4); Mich. Comp. Laws §205.68(1). Consequences of Failing to Obtain Exemption Certificates If the seller fails to obtain an exemption certificate, the seller may prove that a sale was exempt by other means or by acquiring a completed exemption form by the later of the following:• 120 days after request by the Department; • the date an assessment becomes final; • the denial of a refund claim; • regarding credit audits, the issuance of an audit determination letter or informal conference decision and order of determination; or • the date of a final order of the Court of Claims or the Michigan Tax Tribunal. Mich. Comp. Laws §205.62(7); Mich. Comp. Laws §205.104b(7). Exemption Certificate Substitutions, Data Elements A seller who captures the relevant data elements, such as identifying information and the reason for claiming the exemption, as outlined in Mich. Comp. Laws § 205.62 within 120 days after the date of sale is not liable for the tax. Mich. Comp. Laws §205.62(6). Other documentation that sellers in Michigan may accept are the Uniform Sales and Use Tax Certificate approved by the Multistate Tax Commission, the Streamlined Sales and Use Tax Agreement Certificate of Exemption, the same information in another format from the purchaser, or resale or exemption certificates or other written evidence of exemption authorized by another state or country. See Michigan Sales and Use Tax Exemption, Form 3372; Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN MI 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+4 Years A Blanket Certificate of Exemption remains in effect for a four-year period, unless the seller and the purchaser indicate on the Blanket Certificate of Exemption or otherwise in writing that a period of less than four years will apply. Mich. Comp. Laws §205.68(7); Mich. Comp. Laws §205.104a(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). If the seller and the purchaser have a recurring business relationship, there is no requirement that the Blanket Certificate of Exemption be renewed or that the data elements be updated. Mich. Comp. Laws §205.68(7); Mich. Comp. Laws §205.104a(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). A recurring business relationship exists when a period of not more than 12 months elapses between sales transactions. Mich. Comp. Laws §205.68(7); Mich. Comp. Laws §205.104a(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted The Michigan Department of Treasury will accept the Uniform Sales and Use Tax Certificate approved by the Multistate Tax Commission. Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted The Michigan Department of Treasury will accept the Streamlined Sales and Use Tax Agreement Certificate of Exemption. Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016); Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN MI 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted The Michigan Department of Treasury will accept the required statutory information in another format, such as in a signed letter on the purchaser's letterhead. Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+No If an individual or business entity sells tangible personal property, and does not collect sales tax because the purchaser has presented to them an apparently valid state sales and use tax certificate of exemption, then the person or business will not be held liable for the unpaid sales or use tax. Mich. Comp. Laws §205.62(5); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). Instead, the department will collect or recover the tax due from the party who made the illegal tax-free purchase, or the person who benefited from the illegal tax-free purchase. Mich. Comp. Laws §205.62(5); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+120 Days The exemption certificate must be obtained within 120 days of the date of sale to avoid liability for the tax. Mich. Comp. Laws §205.62(6) BNA-SUTN MI 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+4 Years Taxpayers must keep records of exempt sales for a period of four years. Mich. Comp. Laws §205.68(1); Mich. Comp. Laws §205.62(4). BNA-SUTN MI 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required An exempt purchaser who holds an exemption certificate and who regularly makes tax-exempt purchases of the kind and nature for which the exemption certificate has been made may provide a seller with a blanket exemption certificate. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14. A blanket certificate specifies that all tangible personal property subsequently purchased will be for the purpose shown on the certificate, such as a purchase for resale. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14. An exemption certificate for resale must include the purchaser's sales tax license number. Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Accepted An exempt purchaser who holds an exemption certificate and who regularly makes tax-exempt purchases of the kind and nature for which the exemption certificate has been made may provide a seller with a blanket exemption certificate. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). A blanket certificate specifies that all tangible personal property subsequently purchased will be for the purpose shown on the certificate, such as a purchase for resale. This relieves the purchaser of providing a separate exemption certificate for each qualifying tax exempt purchase, as long as there is not more than a twelve-month lapse in the recurring business relationship. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). On Feb. 8, 2018, the Michigan Department of Treasury issued a notice stating that a nonprofit entity is no longer required to provide a copy of an exemption letter ruling or IRS exemption letter to a seller or lessor. Prior to this notice, for certain exemptions, a nonprofit purchaser or lessee was required to provide a seller or lessor with a copy of its exemption letter. Michigan Notice to Taxpayers with Direct Pay Authorization and Nonprofit Entities Claiming Exemption from Sales or Use Tax (Feb. 8, 2018). BNA-SUTN MI 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted An exempt purchaser who holds an exemption certificate and who regularly makes tax-exempt purchases of the kind and nature for which the exemption certificate has been made may provide a seller with a blanket exemption certificate. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). A blanket certificate specifies that all tangible personal property subsequently purchased will be for the purpose shown on the certificate, such as a purchase for resale. This relieves the purchaser of providing a separate exemption certificate for each qualifying tax-exempt purchase, as long as there is not more than a twelve-month lapse in the recurring business relationship. Mich. Comp. Laws §205.62(9); Mich. Comp. Laws §205.68(6); Michigan Revenue Administrative Bulletin 2016-14 (June 30, 2016). BNA-SUTN MI 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized If the taxpayer's business makes it very difficult upon purchase to determine the applicability of sales or use tax upon purchases of tangible personal property, then the Department of Treasury may issue permits that allow the purchaser to make purchases without paying sales tax to the vendor. Instead, the purchaser remits the sales tax directly to the department. Mich. Comp. Laws §205.98(1); Mich. Comp. Laws §205.54a(1)(q), as amended by 2018 Mich. H.B. 4561, effective April 25, 2018. To qualify for a direct pay permit, the taxpayer must meet certain requirements. These requirements include that:• the permit must be used for the purchase or lease of tangible personal property or services; • it is impractical upon the acquisition to determine the manner in which the property or services will be used; • direct payment will facilitate improved compliance with the sales and use tax laws of the state; • the person requesting the permit maintains acceptable, accurate, and complete records of all purchases or leases and uses of property or services purchased pursuant to the direct payment authorization; and • the taxpayer keeps records that support the taxable and exempt use of the purchases, leases, or services purchased pursuant to the direct payment authorization. Michigan Revenue Administrative Bulletin 2000-3 (June 12, 2000). On Feb. 8, 2018, the Michigan Department of Treasury issued a notice stating that a direct pay permit holder is no longer required to provide a copy of its authorization letter to a seller or lessor. Prior to this notice, a direct pay permit holder was required to provide a copy of its authorization letter to a seller or lessor in addition to an exemption certificate and its account number. Michigan Notice to Taxpayers with Direct Pay Authorization and Nonprofit Entities Claiming Exemption from Sales or Use Tax (Feb. 8, 2018). BNA-SUTN MI 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+4 Years Sales and use tax records should be maintained for at least four years in Michigan, which is the statute of limitations for both underpayments and overpayments. Mich. Comp. Laws §205.27a(2). Michigan requires individuals and businesses making taxable sales to keep and preserve suitable records of the proceeds of sales, gross receipts of sales, exemptions, and inventories. Mich. Comp. Laws §205.28(3); Mich. Comp. Laws §205.68; see Michigan Administrative Decision 449145 (Mar. 5, 2014) (where taxpayer failed to maintain required records, the Department of Treasury could base assessment on taxpayer's Z-ring tapes); CSB Investors v. Michigan Dept. of Treas., No. 322897,(Mich. Ct. App. 2015) (affirming Tax Tribunal's decision that department's assessment was accurate in light of taxpayer's failure to maintain adequate records showing sales in question were actually made). This includes any books or other accounts that may be necessary to determine the amount of tax for which he or she is liable. Mich. Comp. Laws §205.68. Individuals or businesses that make both retail sales in addition to wholesale sales must maintain their books and records in a manner that shows the separate gross proceeds from either taxable or nontaxable sales. Mich. Comp. Laws §205.52(2). For wholesale sales, the seller must keep a record of the purchaser's sales tax license number, unless the purchaser does not hold a sales tax license. Mich. Comp. Laws §205.104a(1). If the books do not adequately reflect the distinction between taxable and nontaxable sales, then all sales will be subject to sales tax. Mich. Comp. Laws §205.52(2). BNA-SUTN MI 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both Taxpayers who have paid sales or use tax, and who believe an overpayment has occurred, or who have wrongfully collected tax, may file a petition for a refund with the Department of Treasury. Mich. Comp. Laws §205.30(2). Michigan's Court of Appeals, in an appeal of a matter the court earlier reversed and remanded to the Michigan Tax Tribunal, found in favor of a taxpayer seeking a refund of over $400,000 in sales tax erroneously paid over the course of several years on nontaxable candy and bottled water at its movie theater concession stands. The Department of Treasury initially denied the refund claim on the grounds that the taxpayer could not keep the refund of sales tax that taxpayer had wrongfully collected from its customers. At the remand hearing before the tribunal, the taxpayer asserted that it had not collected tax from its customers, but rather paid the tax itself. The taxpayer explained that the concession prices were set without consideration of the sales tax and it considered the tax a cost of doing business. The tribunal ruled that the taxpayer had not charged its customers sales tax, finding that the Department of Treasury had not rebutted the testimony of the taxpayer's representative on which the tribunal relied. On appeal, the Court of Appeals affirmed the tribunal's decision that the taxpayer had not collected sales tax from its customers concluding that the decision was based on competent, material, and substantial evidence. Thus, the taxpayer was entitled to the refund. MJR Grp., LLC v. Michigan Dept. of Treas., No. 329119, 2016 BL 434906, 2016 BL 435989 (Mich. Ct. App. 2016) (unpublished). Refunds will be granted to each taxpayer respectively when a joint tax return has been filed. Mich. Comp. Laws §205.30a. Effective Jan. 1, 2019, a purchaser may request a refund directly from the Michigan Department of Treasury in circumstances where that purchaser failed to present a claim of exemption or otherwise notify the seller of an available exemption at the time of purchase. A purchaser may request a refund only in the event that purchaser failed to claim an available exemption in the original transaction, so other potential refund claims by purchasers may not be made directly by the purchaser. For example, refund claims related to returns of tangible personal property upon which tax was paid or refund claims related to retroactive changes in law will not be eligible for direct refund to the purchaser. Mich. Comp. Laws §205.62(11), as amended by 2017 Mich. H.B. 5620, effective Jan. 1, 2019; Mich. Comp. Laws §205.104b(10), as amended by 2018 Mich. H.B. 5621, effective Jan. 1, 2019; Michigan Treasury Update - November 2018; Michigan Treasury Update -September 2018. A refund will only be granted if the following conditions are met:• the claim for a refund is made within 4 years of the date of purchase; • the purchaser submits to the Michigan Department of Revenue an accurate record of the purchase, including, but not limited to, a paper, electronic, or digital receipt, invoice, or purchase order related to the sale, that includes the date of the purchase and the amount of sales tax paid to the seller for which the purchaser is seeking a refund; • the purchaser submits to the Michigan Department of Revenue a form signed by the seller as prescribed by the department that contains information required by the department to substantiate the refund claim; • the purchaser submits to the Michigan Department of Revenue a proper exemption claim on a form as prescribed by the department; and • the purchaser submits to the Michigan Department of Revenue any additional information that the department may require related to the purchaser's claim for refund. Mich. Comp. Laws §205.62(11), as amended by 2017 Mich. H.B. 5620, effective Jan. 1, 2019; Mich. Comp. Laws §205.104b(10), as amended by 2017 Mich. H.B. 5621, effective Jan. 1, 2019; Michigan Treasury Update - November 2018; Michigan Treasury Update -September 2018. Prior to Jan. 1, 2019, only sellers who collected and remitted sales and use tax may make refund claims. Mich. Comp. Laws §205.62(11), as amended by 2017 Mich. H.B. 5620, effective Jan. 1, 2019; Mich. Comp. Laws §205.104b(10), as amended by 2017 Mich. H.B. 5621, effective Jan. 1, 2019; Michigan Treasury Update - September 2018. Taxpayers seeking the refund of use tax related to items purchased from Michigan vendors are not entitled to a presumption that they paid tax to these vendors and, instead, bear the burden of proving that the tax was, in fact, paid. Andrie Inc. v. Michigan Dept. of Treas., 853 N.W.2d 310 (Mich. 2014); Michigan Administrative Decision 418353(Sept. 23, 2014). Refund Applied to Outstanding Liability If the department determines that a refund is due, the amount of the refund plus accrued interest will first be credited by the department against any outstanding final tax liabilities the taxpayer owes to the department. Later, any remaining balance will be refunded to the taxpayer. Mich. Comp. Laws §205.30a(1); Mich. Comp. Laws §205.30(2). BNA-SUTN MI 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+4 years Taxpayers must submit a petition for refund of sales or use taxes paid within four years from the original date the return was filed. Mich. Comp. Laws §205.27a(2). Taxpayers that receive an extension to file a return will also receive an extension to claim refund. Michigan Revenue Administrative Bulletin 1996-4 (May 13, 1996). No refund may be claimed once the period to challenge an assessment has expired. Michigan Revenue Administrative Bulletin 1994-1 (Jan. 10, 1994). BNA-SUTN MI 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+4 years Under most circumstances, the Department of Treasury can assess unpaid sales or use taxes for four years after the later of a tax return's due date or filing date. However, if the taxpayer fails to file a return, then the department can assess the tax at any time. Mich. Comp. Laws §205.27a(2). Unlike in most states, if a taxpayer files a fraudulent return, then Michigan provides a two-year statute of limitations period that begins when the fraud is discovered. Mich. Comp. Laws §205.27a(2). Extending the Statute of Limitations After 2014 Mich. S.B. 337 For audits commenced after Sept. 30, 2014, 2014 Mich. S.B. 337 changed the way the statute of limitations is tolled. Under this legislation, the department must complete fieldwork and provide a written preliminary audit determination no later than one year after the four-year statute of limitations period expires. Further, the department must issue a final assessment within nine months of the preliminary audit determination. Mich. Comp. Laws §205.21(7), enacted by 2014 Mich. S.B. 337, effective Feb. 6, 2014. The four-year statute of limitations period may be extended for the period pending the final determination of tax through an audit conference, hearing, or litigation, the period for which the taxpayer and the state have consented to extend the period in writing, the one-year period for completion of audit fieldwork and the nine-month period for issuing a final assessment, or for a period of 90 days after a decision and order from an informal conference, or a court order that resolves an appeal in which a final assessment was not issued prior to the appeal. Michigan Revenue Administrative Bulletin 2015-26 (Dec. 2, 2015). Interim Period from Feb. 6, 2014, through Sept. 30, 2014 In Alticor, Inc. v. Dept. of Treasury, the Michigan Court of Appeals held that the legislative silence regarding audits commenced on or before September 30, 2014, reflected an intent to allow tolling in those cases. It reasoned that the necessary corollary of providing for extensions of the limitations period for audits commenced after September 30, 2014, is that audits commenced on or before that date remain subject to tolling. Alticor, Inc. v. Dept. of Treasury, No. 337463, 2018 BL 181856 (Mich. Ct. App. May 22, 2018); Michigan Treasury Update -September 2018. Prior to the decision Alticor, Inc. v. Dept. of Treasury, Michigan policy was that the 2014 Mich. S.B. 337 state audit extension provision applied only to audits commenced after Sept. 30, 2014, thereby creating a gap period where no tolling or extension applied. Thus, Departmental policy was that final assessments resulting from audits commenced in this “gap”period must therefore be issued within the four-year statute of limitations unless the taxpayer and the Department otherwise agree. See Mich. Comp. Laws §205.21(6), enacted by 2014 Mich. S.B. 337, effective Feb. 6, 2014; Mich. Comp. Laws §205.21(7), enacted by 2014 Mich. S.B. 337, effective Feb. 6, 2014; Michigan Letter Ruling LR 2015-2 (June 10, 2015); Michigan Revenue Administrative Bulletin 2015-26 (Dec. 2, 2015). Before 2014 Mich. S.B. 337 Before the Michigan legislature enacted 2014 Mich. S.B. 337, a state audit suspended (or tolled) the four-year statute of limitations for the audit period plus an additional year. The taxpayer and the state could also consent in writing that the statute of limitations period be extended. Further, an audit could continue indefinitely, because an audit stopped the statute of limitations from running and restarted it only when the audit concluded. Once restarted, the statute of limitations continued to run for the remaining time in the four-year statute. Michigan calculated the new expiration date adding to the audit completion date the number of days remaining in the four-year statute of limitations when the audit commenced, plus one year. See Mich. Comp. Laws §205.27a(3)(a); see also Michigan Letter Ruling LR 2015-2 (June 10, 2015); Michigan Revenue Administrative Bulletin 2015-26 (Dec. 2, 2015). BNA-SUTN MI 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Michigan imposes a range of civil and criminal penalties on individuals or businesses that violate tax laws and regulations relating to sales and use tax. Mich. Comp. Laws §205.20. The Michigan Department of Treasury has created a subsection of penalties titled Discretionary Penalties. These discretionary penalties describe negligence, intentional disregard and fraud, which require the department reviewer when applying the penalty to evaluate the facts, circumstances, and degrees of action or omission and apply the penalty. These penalties vary by amount and severity depending on the nature of the violation. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). The Michigan Department of Treasury may impose the following civil penalties for violation of the rules and regulations relating to sales and use taxes: Penalty for Failure to Pay or File Sales or Use Tax Michigan imposes a penalty in the amount of the deficiency plus interest for the failure to pay sales or use tax. The deficiency is the estimated payment that may be required. The interest rate is determined as the current monthly interest rate of 1 percent point above the adjusted prime rate per annum from the time tax was due until it is eventually paid. Mich. Comp. Laws §205.23(2). Moreover, Michigan imposes a penalty of 5 percent of the tax in the first two months, with an additional 5 percent for each additional month or fraction of a month during which the obligation is past due. However, the escalating monthly penalty may not exceed a maximum of 25 percent. Mich. Comp. Laws §205.24(2). A taxpayer is eligible to avoid that penalty if he or she can represent to the department that the failure to file or pay was due to reasonable cause. Mich. Comp. Laws §205.24(4). Penalty for Failure or Refusal to File an Information Return or Report Michigan imposes a penalty of $10 per day for each separate failure or refusal to file an informational return or report. The maximum penalty for this violation is $400. Mich. Comp. Laws §205.24(5). Penalty for Negligence Without the Intent to Defraud If a taxpayer's negligence of the Michigan rules and regulations leads to a deficiency or excessive claim, then Michigan imposes a penalty of the greater amount of $10 or 10 percent of the total amount of the deficiency, plus interest. However, the penalty may be avoided if the taxpayer can show reasonable cause for the deficiency or excessive claim. Mich. Comp. Laws §205.23(3). Penalty for Intentional Disregard of the Law Without the Intent to Defraud If a taxpayer's intentional disregard of the law of the law or rules is without the intent to defraud, then Michigan imposes a penalty of the greater amount of $25 or 25 percent of the total amount of the deficiency in the tax, plus interest. Mich. Comp. Laws §205.23(4). Penalty for Fraudulently Failing to File or Evade Tax Michigan imposes 100 percent of the deficiency, plus interest, as a penalty on any taxpayer who, with the intent to evade or defeat the collection of the sales tax, fraudulently files a return or fraudulently fails to file a return. In addition to the penalty for fraudulently filing a sales tax return, if the return includes a fraudulent claim for refund or credit, the taxpayer will suffer a penalty equal to 100 percent of the refund or credit that is claimed. The penalty is due and payable after notice and informal conference is held. Mich. Comp. Laws §205.23(5). Examples of fraud include situations in which the taxpayer:• buys a vehicle from another individual and substantially understates the purchase price on the use tax return; • buys a vehicle from an unrelated individual but claims a related person use tax exemption; • knows of a tax obligation and willfully fails to comply with it; • has a cost of goods sold, less cost of non-taxable merchandise, that substantially exceeds reported taxable sales; • falsely claims a deduction where no deduction exists; or • claims a false exemption deduction. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). Non-Negotiable Remittance Taxpayers that remit a non-negotiable remittance payment to pay a tax obligation are subject to a 25-percent penalty. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). Frivolous Protest Michigan penalizes taxpayers that attempt to avoid or delay tax payment by raising frivolous or meritless arguments, equal to the greater of $25 or 25 percent of the tax due. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). BNA-SUTN MI 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes The Michigan Department of Treasury, attorney general, and prosecuting attorney may impose criminal penalties for violating Michigan's sales and use tax laws. Mich. Comp. Laws §205.27(5). Felony sales tax crimes are punishable by fines (up to $5,000) and imprisonment for up to five years. Mich. Comp. Laws §205.27(2). Felony sales tax crimes include knowingly:• failing to file or pay a return with the intent to defraud or to evade or assist in defrauding or evading the payment of a tax, or a part of a tax; and • swearing or verifying a false or fraudulent return, or a payment containing a fraudulent statement, with the intent to aid, abet, or assist in defrauding the state. Mich. Comp. Laws §205.27(3). Misdemeanor sales tax penalties are punishable by fines (up to $1,000) and imprisonment for up to one year. Misdemeanor sales tax crimes include:• knowingly violating any other provision of the Michigan sales and use tax code, aside from the intent to defraud or evade tax; Mich. Comp. Laws §205.27(4). and • engaging in business without a sales tax license, either after expiration of suspension. Mich. Comp. Laws §205.53(3). Misdemeanor use tax crimes include:• a seller failing to register for a use tax, punishable by fines ($25 for each day it has failed to register); Mich. Comp. Laws §205.105. • a seller violating the use tax law, punishable by fines (between $100 and $5,000) for the first offense, or a fines (between $500 and $5,000)and imprisonment for up to one year for later offenses; Mich. Comp. Laws §205.106. and • a taxpayer refusing to pay use tax or violating use tax law, punishable by fines (between $500 and $5,000) and imprisonment up to one year. Mich. Comp. Laws §205.108. BNA-SUTN MI 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The Michigan Department of Treasury is authorized to waive civil negligence, late filing, and late payment penalties upon finding that the taxpayer's understatement of tax, overstatement of credit, failure to file, or failure to pay was due to reasonable cause. Mich. Comp. Laws §205.23(3); Mich. Comp. Laws §205.24(4). Additionally, if a taxpayer does not satisfy a tax liability or makes an excessive claim for a refund as a result of reliance on erroneous current written information provided by the Department, the State Treasurer will waive all criminal and civil penalties provided by law for failing or refusing to file a return, for failing to pay a tax, or for making an excessive claim for a refund for a tax administered by the Department of Treasury if the taxpayer makes a written request for a waiver, files a return or an amended return, and makes full payment of the tax and interest. Mich. Comp. Laws §205.31(1). BNA-SUTN MI 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Semi-annually Michigan determines interest rates for underpayments and overpayments of tax on a semi-annual basis. Mich. Comp. Laws § 205.23(2). Neither underpayment interest nor overpayment interest is subject to compounding in Michigan. Simple interest is calculated using daily rates of interest derived from the annual rate. Mich. Comp. Laws § 205.23(2); see Michigan Revenue Administrative Bulletin 2017-9 (May 26, 2017). BNA-SUTN MI 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Adjusted prime Rate + 1% The interest rate on underpayments of tax in Michigan is determined by adding one percent to the adjusted prime rate. The rate is recalculated on Jan. 1 and July 1 each year. Mich. Comp. Laws § 205.23(2). The adjusted prime rate is the average federal prime rate during the six-month period ending on March 31, for calculation of the rate effective on July 1, and the six-month period ending on Sept. 30, for calculation of the rate effective on Jan. 1. Mich. Comp. Laws § 205.23(2). Interest accrues on underpayments of tax from the tax due date until the tax is paid. Mich. Comp. Laws § 205.23(2). BNA-SUTN MI 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:5.15% 2Q:5.15% 3Q:5.41% 4Q:5.41% In 2018, the Michigan interest rate on underpayments of tax is 5.15 percent for the first and second quarters, and 5.41 percent for the third and fourth quarters. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2018-13 (May 23, 2018). BNA-SUTN MI 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:4.5% 2Q:4.5% 3Q:4.7% 4Q:4.7% In 2017, the Michigan interest rate on underpayments of tax is 4.5 percent for the first and second quarters, and 4.7 percent for the third and fourth quarters. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2017-9 (May 26, 2017). BNA-SUTN MI 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:4.25% 2Q:4.25% 3Q:4.4% 4Q:4.4% In 2016, the Michigan interest rate on underpayments of tax is 4.25 percent for the first and second quarters, and 4.4 percent for the third and fourth quarters. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2015, the Michigan interest rate on underpayments of tax is 4.25 percent. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2014, the Michigan interest rate on underpayments of tax is 4.25 percent. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2013, the Michigan interest rate on underpayments of tax is 4.25 percent. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2012, the Michigan interest rate on underpayments of tax is 4.25 percent. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2011, the Michigan interest rate on underpayments of tax is 4.25 percent. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2010, the Michigan interest rate on underpayments of tax is 4.25. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:6% 2Q:6% 3Q:4.7% 4Q:4.7% In 2009, the Michigan interest rate on underpayments of tax is 6 percent for the first and second quarters, and 4.7 percent for the third and fourth quarters. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Adjusted prime Rate + 1% The interest rate on overpayments of tax in Michigan is the same as the rate on underpayments of tax. The rate is determined by adding one percent to the adjusted prime rate and is recalculated on Jan. 1 and July 1 each year. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2). The adjusted prime rate is the average federal prime rate during the six-month period ending on March 31, for calculation of the rate effective on July 1, and the six-month period ending on Sept. 30, for calculation of the rate effective on Jan. 1. Mich. Comp. Laws § 205.23(2). Overpayment interest begins to accrue 45 days after the claim for refund is filed or the due date of the return, whichever is later. Mich. Comp. Laws § 205.30(3). BNA-SUTN MI 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:5.15% 2Q:5.15% 3Q:5.41% 4Q:5.41% In 2018, the Michigan interest rate on overpayments of tax is 5.15 percent for the first and second quarters, and 5.41 percent for the third and fourth quarters. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2018-13 (May 23, 2018). BNA-SUTN MI 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:4.5% 2Q:4.5% 3Q:4.7% 4Q:4.7% In 2017, the Michigan interest rate on overpayments of tax is 4.5 percent for the first and second quarters, and 4.7 percent for the third and fourth quarters. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2017-9 (May 26, 2017). BNA-SUTN MI 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:4.25% 2Q:4.25% 3Q:4.4% 4Q:4.4% In 2016, the Michigan interest rate on overpayments of tax is 4.25 percent for the first and second quarters, and 4.4 percent for the third and fourth quarters. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2015, the Michigan interest rate on overpayments of tax is 4.25 percent. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2014, the Michigan interest rate on overpayments of tax is 4.25 percent. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2013, the Michigan interest rate on overpayments of tax is 4.25 percent. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2012, the Michigan interest rate on overpayments of tax is 4.25 percent. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2011, the Michigan interest rate on overpayments of tax is 4.25 percent. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2010, the Michigan interest rate on overpayments of tax is 4.25. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:6% 2Q:6% 3Q:4.7% 4Q:4.7% In 2009, the Michigan interest rate on overpayments of tax is 6 percent for the first and second quarters, and 4.7 percent for the third and fourth quarters. Mich. Comp. Laws § 205.30(3); Mich. Comp. Laws § 205.23(2); Michigan Revenue Administrative Bulletin 2016-21 (Oct. 25, 2016). BNA-SUTN MI 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Michigan did not have a 2018 tax amnesty program. BNA-SUTN MI 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Michigan did not have a 2017 tax amnesty program. BNA-SUTN MI 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Michigan did not have a 2016 tax amnesty program. BNA-SUTN MI 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Michigan did not have a 2015 tax amnesty program. BNA-SUTN MI 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Michigan did not have a 2014 tax amnesty program. BNA-SUTN MI 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Michigan did not have a 2013 tax amnesty program. BNA-SUTN MI 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Michigan did not have a 2012 tax amnesty program. BNA-SUTN MI 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+Yes Effective October 5, 2010, 2010 Mich. S.B. 884 was signed into law. That Act amended Mich. Comp. Laws § 205.31 and provided for a tax amnesty program for the period beginning May 15, 2011 and ending June 30, 2011. Mich. Comp. Laws § 205.31, as amended by 2010 Mich. S.B. 884, effective Oct. 5, 2010. During this amnesty program period, the state treasurer waived all criminal and civil penalties provided by law for failing or refusing to file a return, for failing to pay a tax liability, or for making an excessive claim for a refund for a tax as a result of reliance on erroneous current written information provided by the department. Mich. Comp. Laws § 205.31, as amended by 2010 Mich. S.B. 884, effective Oct. 5, 2010. A taxpayer seeking to participate in the 2011 amnesty program needed to make a written request for a waiver on a form provided by the department, submit any unfiled returns or amended returns, and make full payment of the tax and interest due for any prior period not later than the last day of the amnesty period. Mich. Comp. Laws § 205.31, as amended by 2010 Mich. S.B. 884, effective Oct. 5, 2010. The 2011 amnesty program applied to the non-reporting and under-reporting of tax liabilities and to the nonpayment of taxes that were previously determined to be due, but only to the extent of the penalties that were attributable to the taxes that were previously due and that were paid during the amnesty period. However, the amnesty program did not apply to taxes that were due after Dec. 31, 2009. Mich. Comp. Laws § 205.31, as amended by 2010 Mich. S.B. 884, effective Oct. 5, 2010. Michigan law provides that the state treasurer is prohibited from waiving criminal and civil penalties that are applicable if a taxpayer is eligible to enter into a voluntary disclosure agreement for the tax, if the tax is attributable to income derived from a criminal act, if a taxpayer is under criminal investigation or involved in a civil action or criminal prosecution for the tax, or if a taxpayer has been convicted of a felony under Michigan tax law or the Internal Revenue Code of 1986. Mich. Comp. Laws § 205.31, as amended by 2010 Mich. S.B. 884, effective Oct. 5, 2010. BNA-SUTN MI 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Michigan did not have a 2010 tax amnesty program. BNA-SUTN MI 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No Michigan did not have a 2009 tax amnesty program. BNA-SUTN MI 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Penalty Waiver; Limited Look-back Through Michigan's voluntary disclosure program, eligible persons, in exchange for future tax compliance, may file returns and remit taxes and interest for a limited look-back period of four years without imposition of penalties. Mich. Comp. Laws §205.30c. The Michigan Department of the Treasury and its agents have been authorized to enter into a voluntary disclosure agreement with nonfilers who have not been previously contacted by the Department of the Treasury and who meet certain other criteria. Mich. Comp. Laws §205.30c. Voluntary Disclosure Requirements In order to take advantage of the Michigan voluntary disclosure program a person must meet the following requirements:• must not have previously filed a sales and use tax return; • must have a filing responsibility under the nexus standards or have a reasonable basis to contest a liability as determined by the Commissioner for a tax or fee administered under the Revenue Act; • no “previous contact” (notification of an impending audit, review, notice of intent to assess, assessment or subpoena not a letter of inquiry)by the department or its agents regarding sales and use tax; • not currently under audit by the Department of Treasury or under investigation by the Department of State Police, Department of Attorney General, or any local law enforcement agency regarding a tax covered by the agreement; • not currently the subject of a civil action or a criminal prosecution involving any taxes covered by the agreement; • agreed to register, file returns, and pay all taxes due for all taxes administered under the Revenue Act for periods after the lookback period; and • agreed to file returns and worksheets specified in the agreement and pay all the taxes and statutory interest for the entire lookback period within the time period and manner specified in the agreement. Mich. Comp. Laws §205.30c; Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). Taxpayer-Initiated Disclosure Persons that do not meet the requirements to file for the Michigan voluntary disclosure program may be eligible for a penalty waiver. This program allows persons to voluntarily disclose a sales and use tax deficiency without imposition of penalties by the department. Limitations to the lookback period are not allowed under this program. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). To take advantage of the Michigan taxpayer-initiated disclosure program, a person must meet the following requirements:• the tax period of the return(s) must include the taxpayer's first filing period for the sales and use tax; • had no contact by the department; • not under investigation by the department and • agree to pay the tax deficiency and interest without further action by the department. Michigan Revenue Administrative Bulletin 2005-3 (July 19, 2005). Offer-in-Compromise Program Beginning January 1, 2015, Michigan will provide an offer-in-compromise program under which taxpayers may settle outstanding tax liabilities for less than the total amount due. In order for a taxpayer to qualify for this program, at least one of the following must apply: • a doubt exists as to the taxpayer's liability; • the taxpayer provides information to show that it is unable to pay the tax due; or • a federal offer-in-compromise has been given for the same tax year. In order for a taxpayer to qualify, the following additional conditions must also be met: • the taxpayer must have filed returns for all past periods; • the taxpayer must have been assessed and the time period for all appeals must have expired; and • the taxpayer must have no open bankruptcy proceedings. Mich. Comp. Laws §205.23a. BNA-SUTN MI 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Four Years Michigan offers a limited look-back period of four years under its voluntary disclosure program. Mich. Comp. Laws §205.30c. BNA-SUTN MI 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Michigan participates in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Michigan may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN MI 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized For the purpose of determining the correct amount of sales and use tax due, the Department of Treasury has the authority to examine and audit the records, books, or other relevant information that taxpayers are required to maintain relating to sales and use tax. Mich. Comp. Laws §205.21(1); Mich. Comp. Laws §205.3(a). Also, the Department of Treasury has the authority to summon records, books, and witnesses to give testimony necessary to determine the correct sales and use tax owed. Mich. Comp. Laws §205.3(a). The amount of the assessment must be supported by competent, material and substantial evidence. See NACG Leasing v. Michigan Dept. of Treas., 2014 BL 161166 (Mich. Ct. App. 2014) (the Tax Tribunal's use tax assessment of $414,000 for the purchase of an aircraft was not supported by competent, material and substantial evidence because its order did not explain why that amount of use tax was correct compared the court's calculation of $162,000 (6 percent of the aircraft's purchase price of $2.7 million). Insufficient Records When the taxpayer lacks required and necessary records, the Michigan Department of the Treasury may assess a tax based on information it receives, or information that may later become available. Mich. Comp. Laws §205.68; Mich. Comp. Laws §205.104a. An assessment based on available information is presumptively correct, the burden of proof to prove the assessment is faulty is on the taxpayer. Audit Standards Auditors must meet minimum education requirements as established by the Michigan civil service commission and receive adequate technical training through the department. Mich. Admin. Code r. 205.2002. Auditors must obtain sufficient evidence to support the determined tax liability of the audited person, and the auditor should discuss the field audit plan with the person being audited or the person's authorized representative. Mich. Admin. Code r. 205.2005; Mich. Admin. Code r. 205.2006. The audit report must disclose the following information: (1) The audit scope, methods, and procedures used, as well as books, records and papers examined and relied upon; (2) if warranted by the evidence, a recommendation for penalty and interest, along with the basis of the recommendation and statutory authority;and (3) whether the audited person agrees or disagrees with the findings, and if the audited person disagrees, the basis for the person's disagreement, if it has been communicated to the auditor. Mich. Admin. Code r. 205.2010. BNA-SUTN MI 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted A taxpayer aggrieved by an assessment, decision, or order of the department may appeal the contested portion of the assessment, decision, or order to the tax tribunal within 60 days, or to the court of claims within 90 days after the assessment, decision, or order. Mich. Comp. Laws §205.22(1). An assessment is final, conclusive, and not subject to further challenge after 90 days of the issuance of the assessment, decision, or order of the department. Mich. Comp. Laws §205.22(5); see Thumb Motorsports, LLC v. Michigan Dept. of Treas., 2016 BL 384007 (Mich. Ct. App. 2016); Michigan Treasury Update --March 2017. A taxpayer or the department may take an appeal by right from a decision of the tax tribunal or the court of claims to the court of appeals. Mich. Comp. Laws §205.22(3); Michigan Treasury Update --March 2017. BNA-SUTN MI 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:5.9% 2Q:5.9% 3Q:6.39% 4Q:6.39% In 2019, the Michigan interest rate on underpayments of tax is 5.9 percent from Jan. 1, 2019 to June 30, 2019, and 6.39 percent from July 1, 2019 to Dec. 31, 2019. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2019-6 (April 17, 2019); Michigan Revenue Administrative Bulletin 2018-23 (Nov. 13, 2018). BNA-SUTN MI 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:5.9% 2Q:5.9% 3Q:6.39% 4Q:6.39% In 2019, the Michigan interest rate on overpayments of tax is 5.9 percent from Jan. 1, 2019 to June 30, 2019, and 6.39 percent from July 1, 2019 to Dec. 31, 2019. Mich. Comp. Laws §205.23(2); Michigan Revenue Administrative Bulletin 2019-6 (April 17, 2019); Michigan Revenue Administrative Bulletin 2018-23 (Nov. 13, 2018). BNA-SUTN MI 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Michigan has not announced a tax amnesty program for 2019. Michigan's most recent tax amnesty program was held in 2011. Mich. Comp. Laws § 205.31. BNA-SUTN MI 31.14.11.
+
+==================================================

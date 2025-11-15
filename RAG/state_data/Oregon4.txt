@@ -1,0 +1,411 @@
+State: Oregon
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+No Tax Oregon does not impose a sales and use tax. BNA-SUTN OR 29.15.
+
+==================================================

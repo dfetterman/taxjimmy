@@ -1,0 +1,81 @@
+State: Nebraska
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+Yes Nebraska imposes sales tax on the gross receipts from retail sales, leases, and rentals of tangible personal property and the sale of admissions and certain specified services. Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. Sales tax is imposed upon the activity of retail transactions, measured by gross receipts, rather than on the article sold or a group or individual's funds. See Woodmen of the World Ins. Soc'y v. Nebraska Dept. of Rev., 299 Neb. 43, 2018 BL 52650 (Neb. 2018). All gross receipts are presumed subject to sales tax unless the seller establishes the contrary. Nebraska Rev. Stat. §77-2703(1)(f); Neb. Admin. R. & Regs. 316-1-070. The legal incidence of the tax is on the consumer. Nebraska Rev. Stat. §77-2703(1)(a). Retailers are required to collect the tax from consumers and the tax is considered a debt of the consumer until it is collected. The tax is also deemed a debt owed by the retailer to the state of Nebraska. Nebraska Rev. Stat. §77-2703(1)(a). BNA-SUTN NE 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+Yes The complementary use tax is imposed on the storage, use, or other consumption in Nebraska of property purchased, leased, or rented from a retailer. Nebraska Rev. Stat. §77-2703(2); Neb. Admin. R. & Regs. 316-1-002. The use tax applies to items that are purchased out of state and delivered to Nebraska. Nebraska Rev. Stat. §77-2703(2); Neb. Admin. R. & Regs. 316-1-002. However, the use tax is not imposed if the sales tax has already been paid. Nebraska Rev. Stat. §77-2704.29. Further, property sold, leased, or rented by any person for delivery within Nebraska is presumed to be sold, leased, or rented for storage, use, or other consumption in Nebraska. The burden of proving the contrary is on the consumer. Nebraska Rev. Stat. §77-2703(2)(e); Neb. Admin. R. & Regs. 316-1-002.02; Neb. Admin. R. & Regs. 316-1-070.02. BNA-SUTN NE 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+Local Tax Authorized Counties, municipal counties, and incorporated municipalities are authorized to levy local sales and use taxes. Nebraska Rev. Stat. §13-324; Neb. Admin. R. & Regs. 316-1-001.03Neb. Admin. R. & Regs. 316–9-004; Nebraska Rev. Stat. §77-27,143. The state of Nebraska authorizes any incorporated municipality with fewer than 300,000 people to impose sales and use taxes at rates of 0.5 percent, 1 percent, 1.5 percent, 1.75 percent or 2 percent on taxable transactions sourced to the locality. Cities with more than 300,000 people may impose local sales and use taxes at rates of 0.5 percent, 1 percent or 1.5 percent. Nebraska Rev. Stat. §77-27,142(1); Nebraska Rev. Stat. §13-2813. Additionally, any county can impose sales and use taxes at rates of 0.5 percent, 1 percent, or 1.5 percent, subject to voter approval. However, a county cannot impose tax within any incorporated municipality that has already adopted a local sales tax. Nebraska Rev. Stat. §13-319. The Tax Commissioner administers and collects the county sales and use tax. Nebraska Rev. Stat. §77-2711. Subject to voter approval, any county and at least one municipality within the county can create a municipal county that imposes a local sales and use tax at a rate of 0.5 percent, 1 percent, or 1.5 percent. Nebraska Rev. Stat. §77-3443; Nebraska Rev. Stat. §13-2801; Nebraska Rev. Stat. §13-2813. The Tax Commissioner administers and collects the municipal county sales and use tax. Nebraska Rev. Stat. §13-2814; Nebraska Rev. Stat. §13-2816. The state of Nebraska defines a municipality as any city or village incorporated under the laws of the state. Nebraska Rev. Stat. §13-2013. A municipal county is one or more counties with at least one municipality in each of the counties passing a joint resolution to carry out all county and municipal services. Nebraska Rev. Stat. §13-2801(1). A county that is not specifically defined as a municipal county may impose a sales and use tax at a rate of 0.5 percent, one percent, or 1.5 percent on taxable transactions sourced to the locality. The county sales and use tax parallels the state sales and use tax, and is imposed in addition to the Nebraska state sales and use tax. The county sales and use tax, however, shall not apply to sales transactions made within the boundaries of a municipality within the county that has adopted its own local sales tax pursuant to Nebraska Rev. Stat. §77-27,142 and/or Nebraska Rev. Stat. §13-2813. Nebraska Rev. Stat. §13-319. Nebraska also allows counties to impose a 0.5 percent sales tax for the specific purpose of paying a judgment in excess of $25 million rendered against it by a federal court. The tax may be imposed until the judgment is paid in full, or after seven years, whichever is earlier. Counties may not impose such a tax if the county also imposes a tax pursuant to Nebraska Rev. Stat. §13-319. Authorization to impose the tax expires on Jan. 1, 2027. 2019 Neb. L.B. 472, effective Sept. 7, 2019. BNA-SUTN NE 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes Excise Taxes In addition to its sales and use tax, Nebraska imposes multiple excise taxes. For additional discussion of Nebraska's excise taxes, see the Excise Tax Navigator, at Nebraska 1.1. Replacement Taxes The Streamlined Sales and Use Tax Agreement prohibits member states from imposing a “prohibited replacement tax” which is a tax outside of the sales and use tax that is imposed on products defined in the Agreement. Generally, the Streamlined Sales Tax Governing Board will make a finding regarding whether or not a member state has imposed a replacement tax. Streamlined Sales and Use Tax Agreement, as amended through Dec. 14, 2018, Section 334; Streamlined Sales Tax Governing Board Rules and Procedures, as amended through May 3, 2018, Rule 334. Nebraska is a full member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales Tax Governing Board, Taxability Matrix, Nebraska (version 2018.0). BNA-SUTN NE 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+Est. 1967 Nebraska first adopted its sales tax in 1967, at the rate of 2.5 percent. Nebraska Revenue Ruling 01-11-2;Neb. Dept. of Rev., History of Nebrasaka Sales Tax Rates. BNA-SUTN NE 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+Nexus Nebraska enacted legislation addressing sales and use tax nexus implications for out-of-state responders who enter the state in response to disasters. 2016 Neb. L.B. 913, effective July 20, 2016. Effective July 20, 2016, an out-of-state business that conducts operations in Nebraska for purposes of assisting in repairing, renovating, installing, or building infrastructure or rendering services or other business activities related to a declared state disaster or emergency during the disaster period will not be considered to have established a level of presence that would subject the out-of-state business or any of its out-of-state employees to state or local sales and use tax registration requirements on equipment brought into the state temporarily for use or consumption during the disaster period, provided that such equipment does not remain in the state after the disaster period. 2016 Neb. L.B. 913, effective July 20, 2016. BNA-SUTN NE 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Defined “Sale”means the transfer of title or possession, exchange, barter, lease, or rental of property for a consideration or the provision of services for a consideration. Nebraska Rev. Stat. §77-2701.33; Neb. Admin. R. & Regs. 316-1-001.02. “Sale” includes, but is not limited to:• the producing, fabricating, processing, printing, or imprinting of property for a consideration for consumers who furnish the materials to be used; and • the renting or furnishing for periods of less than 30 days of any room or rooms, lodgings, or accommodations in any hotel, tourist camp, or any other place. Nebraska Rev. Stat. §77-2701.33; Neb. Admin. R. & Regs. 316-1-001.01. “Retail sale”or “sale at retail” means any sale, lease, or rental for any purpose other than for resale, sublease, or subrent. Nebraska Rev. Stat. §77-2701.31. BNA-SUTN NE 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Defined “Lease or rental” means any transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration. A lease or rental may include future options to purchase or extend. Nebraska Rev. Stat. §77-2701.18(1). BNA-SUTN NE 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Defined “Use”is defined to mean the exercise of any right or power over property incident to ownership or possession of that property. Nebraska Rev. Stat. §77-2701.42; see also A-1 Metro Movers v. Egr, 264 Neb. 291, 647 N.W.2d. 93 (2002) (containers used for both the transportation out of state and use in the state are not exempt). “Use” also includes the annexation of building materials to real estate or the withdrawal of property or building materials from inventory. Nebraska Rev. Stat. §77-2701.42. “Use” does not include:• the sale of property in the regular course of business; or • the exercise of any right or power over property that becomes an ingredient or component part of property manufactured, processed, or fabricated for ultimate sale at retail. Nebraska Rev. Stat. §77-2701.42. “Storage,”which fits within the definition of “use,” is defined as the retention of any property purchased from a retailer in Nebraska for any purposes other than resale; subsequent use solely outside Nebraska; or use as an ingredient or component part. Nebraska Rev. Stat. §77-2701.37. The distribution of property to Nebraska residents from locations outside Nebraska is a taxable use of tangible personal property. The act of placing property into the stream of commerce, directing to whom the property is to be delivered, and directing how undeliverable property is to be handled is deemed to be the exercise of a right or power over the property in Nebraska. J.C. Penney Co. v. Tax Commissioner, 577 N.W.2d 283 (Neb. 1998). BNA-SUTN NE 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined In Nebraska, “tangible personal property” means personal property which may be seen, weighed, measured, felt, touched, or which is in any manner perceptible to the senses. Nebraska Rev. Stat. §77-2701.39. “Tangible personal property” includes electricity, water, gas, steam, and prewritten computer software. Nebraska Rev. Stat. §77-2701.39. BNA-SUTN NE 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Defined “Intangible personal property” includes all personal property other than tangible personal property, including money. Nebraska Rev. Stat. §77-105. BNA-SUTN NE 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Defined A “retailer”in Nebraska means any seller. Nebraska Rev. Stat. §77-2701.32; Nebraska Rev. Stat. §77-2701.36. BNA-SUTN NE 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Defined “Purchaser”means a person to whom a sale of personal property is made or to whom a service is furnished. Nebraska Rev. Stat. §77-2701.30. BNA-SUTN NE 1.4.7.
+
+==================================================

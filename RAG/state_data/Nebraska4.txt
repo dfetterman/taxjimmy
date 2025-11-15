@@ -1,0 +1,411 @@
+State: Nebraska
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Aircraft sold for private use or rented for non-commercial use are taxable. Neb. Admin. R. & Regs. 316-1-067.03; Neb. Admin. R. & Regs. 316-1-067.05; Neb. Admin. R. & Regs. 316-1-018.01. Temporary Presence in State If an aircraft is brought into Nebraska within one year of purchase and is either regularly based within the state or more than one-half of the aircraft's operating hours are within the state, the aircraft is taxable. Neb. Admin. R. & Regs. 316-1-067.10. Time related to maintenance, repair, or fabrication does not count toward operating hours if the aircraft is removed from the state on completion of the maintenance, repair, or fabrication. Neb. Admin. R. & Regs. 316-1-067.10A. Nebraska exempts from sales and use taxes an aircraft delivered in the state to an individual who is a resident of another state or any other person who has a business location in another state when the aircraft is not to be registered or based in the state and will not remain in the state more than 10 days. Services rendered to such an aircraft are also exempt from sales tax if the aircraft will not remain in the state more than 10 days after the service is completed. Nebraska Rev. Stat. § 77-2704.26. BNA-SUTN NE 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Aircraft repair parts sold for private use or business use by aircraft other than common or contract carriers are taxable. Neb. Admin. R. & Regs. 316-1-067.10A. BNA-SUTN NE 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Aircraft repair labor is subject to tax when the aircraft being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Aircraft oil, filters, and other maintenance items sold for private use or business use by aircraft other than common or contract carriers are taxable. Neb. Admin. R. & Regs. 316-1-067.10A. BNA-SUTN NE 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Aircraft maintenance services are subject to tax when the aircraft being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Aircraft fuel is exempt from sales and use tax. Nebraska Rev. Stat. § 77-2704.03; Neb. Admin. R. & Regs. 316-1-012.02B(1). For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which defines motor vehicle fuel as including gasoline, casing head or natural gasoline, and any other liquid or inflammable liquids used for the purpose of operating or propelling aircraft. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). For more information on any applicable excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Nebraska exempts from sales and use tax the purchase, lease, or rental of aircraft if the purchaser predominantly uses the vehicle as a common or contract carrier vehicle. Neb. Admin. R. & Regs. 316-1-069.01; Neb. Admin. R. & Regs. 316-1-018.01; see also Nebraska Information Guide No. 6-360-1998 (providing an overview of the common and contract carrier exemption). The term “common carrier” means aircraft that the owner or lessee predominantly uses to transport the general public and the general public's goods from place to place for compensation. Neb. Admin. R. & Regs. 316-1-069.02A(1). The term “contract carrier”means the same except that transport is provided for specific persons on a contractual basis. Neb. Admin. R. & Regs. 316-1-069.02A(2). Predominant Use In both cases, an owner or lessee “predominantly uses” the aircraft if the aircraft's total measure of use as a common or contract carrier exceeds 50 percent of its total use during a one-year operation period. Neb. Admin. R. & Regs. 316-1-069.02A(3). The owner or lessee may measure use by using metrics such as miles traveled or hours operated. Neb. Admin. R. & Regs. 316-1-069.02A(3). Nebraska permits an owner or lessee to include so called “deadhead miles” as miles in service as common or contract carrier. Deadhead miles are miles the vehicle traveled empty going to load property, miles traveled between loads, and miles traveled empty when returning to home base after unloading the hauled property. Nebraska Information Guide No. 6-360-1998. Item-Specific Exemption The common or contract carrier exemption is an item-specific exemption. Thus, even if Nebraska has issued an exemption certificate to a business, the item/aircraft in question is not a common or contract carrier item if the business uses it predominantly for nonqualified uses (i.e., any use other than to transport persons or property for hire). Related Purchases Some purchases related to the common or contract carrier item are also exempt. For example, repair and replacement parts are exempt. Neb. Admin. R. & Regs. 316-1-069.03B; Nebraska Rev. Stat. §77-2704.50; see also Nebraska Information Guide No. 6-360-1998 (offering as examples of repair and replacement parts: motor oil, oil filters, air filters, window washer fluid, tires, and diesel exhaust fluid). Likewise, accessories are exempt if they could have been included in the aircraft's list price at the time of purchase. Neb. Admin. R. & Regs. 316-1-069.03C; see also Nebraska Information Guide No. 6-360-1998 (offering as examples of accessories: load locks and bulkhead equipment used as cargo control items to protect against shifting loads or to divide cargo into separate compartments). Containers are exempt if designed for use on transportation equipment. Neb. Admin. R. & Regs. 316-1-069.03D; see also Neb. Admin. R. & Regs. 316-1-069.03D1 (excluding boxes, pads, and packing materials used by transportation companies from the defined term “containers”); Nebraska Information Guide No. 6-360-1998 (referencing not only containers, but also tarps and tie-downs). Other equipment is exempt if a federal or state regulatory agency requires it to be included on common or contract carrier equipment that operate in Nebraska for passenger or cargo health or safety. Neb. Admin. R. & Regs. 316-1-069.03E. Exemption Certificate Required To qualify an aircraft as a common carrier, the owner or lessee must apply to the Nebraska Department of Revenue using Form 5 (Nebraska Exemption Application for Common or Contract Carrier's Sales and Use Tax), and Form 5, Schedule A. The owner or lessee must renew the exemption certificate every five years. Neb. Admin. R. & Regs. 316-1-069.02; see also Nebraska Information Guide No. 6-360-1998. Similarly, an owner or lessee must support purchases of repair parts, replacement parts, or accessories using Form 13, Section B (Nebraska Resale or Exempt Sale Certificate) and must include the purchaser's department-issued common or contract carrier exemption number. Nebraska Information Guide No. 6-360-1998. Temporary Presence in State If an aircraft is brought into Nebraska within one year of purchase and is either regularly based within this state or more than one-half of the aircraft's operating hours are within the state, the aircraft is taxable. Neb. Admin. R. & Regs. 316-1-067.10. Time related to maintenance, repair, or fabrication does not count toward operating hours if the aircraft is removed from the state on completion of the maintenance, repair, or fabrication. Neb. Admin. R. & Regs. 316-1-067.10A. Nebraska exempts from sales and use taxes an aircraft delivered in the state to an individual who is a resident of another state or any other person who has a business location in another state when the aircraft is not to be registered or based in the state and will not remain in the state more than 10 days. Services rendered to such an aircraft are also exempt from sales tax if the aircraft will not remain in the state more than 10 days after the service is completed. Nebraska Rev. Stat. § 77-2704.26. BNA-SUTN NE 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Sales of aircraft, and aircraft repair and replacement parts for such aircraft, operated by air carriers authorized and certified by the United States Department of Transportation or another federal authority or a foreign authority to engage in the carriage of persons or property in interstate or foreign commerce are exempt from sales or use tax. Neb. Admin. R. & Regs. 316-1-067.02. Aircraft repair parts sold for private use or business use by aircraft as other than common or contract carriers are taxable. Neb. Admin. R. & Regs. 316-1-067.10A. BNA-SUTN NE 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Depends Aircraft repair labor is subject to tax when the aircraft being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of aircraft repair and replacement parts for aircraft operated by air carriers authorized and certified by the United States Department of Transportation or another federal authority or a foreign authority to engage in the carriage of persons or property in interstate or foreign commerce are exempt from sales or use tax. Neb. Admin. R. & Regs. 316-1-067.02. Repair and replacement parts which become a physical part of a common or contract air carrier include motor oil, oil filters, air filters, window washer fluid, tires, and diesel exhaust fluid. Neb. Admin. R. & Regs. 316-1-069.03B;Nebraska Rev. Stat. §77-2704.50; see also Nebraska Information Guide No. 6-360-1998. BNA-SUTN NE 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Depends Aircraft maintenance services are subject to tax when the aircraft being serviced is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Exempt Aircraft fuel is exempt from sales and use tax. Nebraska Rev. Stat. § 77-2704.03; Neb. Admin. R. & Regs. 316-1-012.02B(1). For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which defines motor vehicle fuel as including gasoline, casing head or natural gasoline, and any other liquid or inflammable liquids used for the purpose of operating or propelling aircraft. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). For more information on any applicable fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Nebraska imposes sales and use tax on purchases of motor vehicles, semi-trailers, trailers, all-terrain vehicles, and utility-type vehicles. The tax is the purchaser's liability. Nebraska Rev. Stat. §77-2703(1)(i); Nebraska Rev. Stat. §77-2703(1)(k)(i), as amended by 2014 Neb. L.B. 814, effective Oct. 1, 2014. For sales and use tax purposes, motor vehicle means any motor vehicle, trailer, or semitrailer as defined in the Motor Vehicle Registration Act and subject to registration for operation on the highways. Nebraska Rev. Stat. §77-5403(11); Nebraska Rev. Stat. §77-5711; see also Nebraska Information Guide No. 6-516-2013; Nebraska Information Guide No. 6-191-1978. The Motor Vehicle Registration Act defines motor vehicles as any vehicle propelled by any power other than muscular power. Motor vehicles do not include:(1) mopeds; (2) farm tractors; (3) self-propelled equipment designed and used exclusively to carry and apply fertilizer, chemicals, or related products to agricultural soil and crops, agricultural floater-spreader implements, and other implements of husbandry designed for and used primarily for tilling the soil and harvesting crops or feeding livestock; (4) power unit hay grinders or a combination which includes a power unit and a hay grinder when operated without cargo; (5) vehicles which run only on rails or tracks; (6) off-road designed vehicles not authorized by law for use on a highway, including, but not limited to, golf car vehicles, utility-type vehicles, snowmobiles registered or exempt from registration, and minibikes; (7) road and general-purpose construction and maintenance machinery not designed or used primarily for the transportation of persons or property, including, but not limited to, ditch-digging apparatus, asphalt spreaders, bucket loaders, leveling graders, earth-moving carryalls, power shovels, earth-moving equipment, and crawler tractors; (8) self-propelled chairs used by persons who are disabled; (9) electric personal assistive mobility devices; and (10) bicycles. Nebraska Rev. Stat. §60-339. Motor vehicles for disabled individuals purchased with the financial assistance of the Department of Veterans Affairs or the Department of Social Services are exempt from taxation. Nebraska Rev. Stat. § 77-2704.21. For sales occurring on or after Jan. 1, 2019, licensed motor vehicle dealers may voluntarily participate in a Nebraska Department of Motor Vehicles electronic dealer services program allowing them to collect and remit all appropriate taxes. Nebraska Rev. Stat. §77-2703(1)(h), as amended by 2017 Neb. L.B. 263, effective May 2, 2017. Prior to Jan. 1, 2019, the county treasurer, the Department of Motor Vehicles, or another designated official collects the tax when the purchaser applies for registration. Nebraska Rev. Stat. §77-2703(1)(i); Nebraska Information Guide No. 6-191-1978. If the purchaser retains the motor vehicle in Nebraska and does not register it within 30 days of the purchase date, the tax must be paid immediately to the county treasurer, or other designated county official. Neb. Admin. R. & Regs. 316-1-020.02; Nebraska Information Guide No. 6-191-1978. If the tax is not paid within 30 days of the purchase date, the county treasurer, or other designated county official, must collect the tax, interest from the thirtieth day until the date of payment, and a penalty of five dollars. Neb. Admin. R. & Regs. 316-1-020.02; Nebraska Information Guide No. 6-191-1978. Motor Vehicle Leases All lessors of motor vehicles are considered to be dealers and must obtain a permit to collect and remit tax on the monthly gross lease receipts. Neb. Admin. R. & Regs. 316-1-019.03. A lessor collecting the tax on the lease receipts may purchase and register the vehicles to be leased without payment of the tax on the purchase price because the lessor is purchasing such vehicles for resale. Before registering leased vehicles tax-free, evidence that the lessor holds a permit to properly collect the tax on the lease receipts must be provided to the Department of Motor Vehicles or the county treasurer, or other designated county official, of the county in which registration will occur. Neb. Admin. R. & Regs. 316-1-019.03; Nebraska Information Guide No. 6-191-1978. Alternatively, the lessor could elect to pay sales tax upfront on the total cost of all of its leased vehicles and not collect sales tax on the lease stream. Neb. Admin. R. & Regs. 316-1-019.07; Nebraska Information Guide No. 6-373-1998. This election is subject to Department of Revenue approval and applies to all vehicles leased for use as common or contract carrier vehicles. Dealers leasing motor vehicles for both periods less than one year and more than one year and who have elected to remit the applicable tax on the cost of the vehicles at the time of purchase, must segregate the taxable receipts from the nontaxable receipts in their records. Neb. Admin. R. & Regs. 316-1-019.07C. If the lessor does not elect to pay the tax upfront, tax will be calculated, collected and remitted on the monthly gross lease payments. The total amount for which the motor vehicle is leased includes any services that are part of the lease and the amount for which credit is given to the lessee by the lessor. Neb. Admin. R. & Regs. 316-1-019.04. The term “lease” includes agreements covering motor vehicles and trailers where the amount of consideration may be increased or decreased by reference to the amount realized upon sale or disposition of the property as defined for federal income tax purposes. Nebraska Rev. Stat. §77-2701.18(1); Nebraska Information Guide No. 6-373-1998. A lease of motor vehicles that requires the transfer of title upon completion of required payments and payment of an option price that does not exceed the greater of one hundred dollars or 1 percent of the total required payments, the lease is considered to be a sale. Neb. Admin. R. & Regs. 316-1-018.01; Neb. Admin. R. & Regs. 316-1-019.01. In this instance, the lease will be treated as a sale and tax will be calculated, collected and remitted on the total gross lease price. The exercise of the option will be treated as a separate sale. Nebraska Information Guide No. 6-373-1998. Leases of motor vehicles to a common or contract carrier who holds a valid exemption certificate are exempt from sales tax. Furthermore, leases of motor vehicles to exempt nonprofit organizations, religious organizations, and education institutions are exempt from tax. Neb. Admin. R. & Regs. 316-1-019.06; Nebraska Information Guide No. 7-285-2010; Nebraska Information Guide No. 6-373-1998. Sourcing of Motor Vehicle Leases Receipts from the rental or lease of a motor vehicles are taxable at the address provided by the lessee as the primary property location. Neb. Admin. R. & Regs. 316-1-019.03A; Neb. Admin. R. & Regs. 316-1-018.01A. Motor Vehicles Purchased by Public Power Districts For sales on or after Jan. 1, 2021, sales of any motor vehicle or trailer operated by a public power district will be sourced for sales tax purposes at the place where the motor vehicle or trailer is stored and kept for the greater portion of the calendar year. Nebraska Rev. Stat. §13-2816, as amended by 2017 Neb. L.B. 1030, effective Jan. 1, 2021; Nebraska Rev. Stat. §77-2703.01, as amended by 2017 Neb. L.B. 1030, effective Jan. 1, 2021; Nebraska Dept. of Rev., 2018 Nebraska Legislative Changes. Prior to Jan. 1, 2021, the place of registration for motor vehicles and trailers owned by certain large public power districts is to the place the public power district is headquartered. Nebraska Rev. Stat. §13-2816, as amended by 2017 Neb. L.B. 1030, effective Jan. 1, 2021; Nebraska Rev. Stat. §77-2703.01, as amended by 2017 Neb. L.B. 1030, effective Jan. 1, 2021; Nebraska Dept. of Rev., 2018 Nebraska Legislative Changes. Temporary Presence in State Nebraska statutes and regulations do not directly address the temporary presence of motor vehicles in the state. BNA-SUTN NE 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for motor vehicles are generally subject to sales and use taxes. Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. BNA-SUTN NE 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Exempt Motor vehicle repair labor is specifically exempt from sales and use taxes regardless of the taxability of the motor vehicle being repaired. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). The charges for the installation of accessories or equipment on a motor vehicle are taxable. However, this does not include the replacement of a non-functioning part or component of the motor vehicle with a comparable part or component. In such a circumstance, the labor is nontaxable, and the part or component is taxable to the service provider. Neb. Admin. R. & Regs. 316-1-099.06. BNA-SUTN NE 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for motor vehicles are generally subject to sales and use taxes. Nebraska Rev. Stat. §77-2701.02; Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. BNA-SUTN NE 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Exempt Motor vehicle maintenance labor is specifically exempt from sales and use taxes regardless of the taxability of the motor vehicle being repaired. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor fuels are exempt from Nebraska's sales and use tax. Nebraska Rev. Stat. § 77-2704.05. For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which define motor vehicle fuel including all products and fuel commonly or commercially known as gasoline, including casing head or natural gasoline, and any other liquid and such other volatile and inflammable liquids as may be produced, compounded, or used for the purpose of operating or propelling motor vehicles. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). BNA-SUTN NE 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Car rentals are subject to the state of Nebraska sales and use tax. Nebraska Rev. Stat. §13-2813; Nebraska Rev. Stat. §77-2703(1)(g). The local sales and use tax applies to the same base as the state sales and use tax. Therefore, passenger car rentals are subject to the local sales and use tax. Nebraska Rev. Stat. §77-27,142(1); Nebraska Rev. Stat. §13-2813; Nebraska Rev. Stat. §77-2703(1)(g) Nebraska law does not authorize the imposition of any other local option transaction taxes on passenger car rentals. For additional discussion of passenger car rentals tax in Nebraska, see the Excise Tax Navigator, at Nebraska 9.2. BNA-SUTN NE 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Taxable Motor vehicles withdrawn from inventory or stock for demonstration or promotional use are required to pay use tax. Neb. Admin. R. & Regs. 316-1-021.01. BNA-SUTN NE 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Tires are generally subject to tax as tangible personal property. Nebraska Rev. Stat. §77-2703(1). Additionally, Nebraska imposes a $1 tire fee on tires sold at retail as well as with the sale of a new vehicle. If the tire fee is not separately stated, the tire fee is considered part of the sales price and is subject to sales tax. Nebraska Information Guide No. 1-103-1992. For discussion of Nebraska tire fees, see the Excise Tax Navigator, at Nebraska 7.4. Charges for the disposal of tires, filters, and any other environmental fees paid to a tire retailer are subject to sales tax because the charges are part of the “gross receipts” of the sale of a new tire. Nebraska Information Guide No. 1-103-1992. BNA-SUTN NE 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Nebraska exempts from sales and use tax the purchase, lease, or rental of a motor vehicle, trailer, or semitrailer if the purchaser predominantly uses the vehicle as a common or contract carrier vehicle. Neb. Admin. R. & Regs. 316-1-069.01; see also Nebraska Information Guide No. 6-360-1998 (providing an overview of the common and contract carrier exemption). The term “common carrier” means a motor vehicle, trailer, or semitrailer that the owner or lessee predominantly uses to transport the general public and the general public's goods from place to place for compensation. Neb. Admin. R. & Regs. 316-1-069.02A(1). The term “contract carrier”means the same except that transport is provided for specific persons on a contractual basis. Neb. Admin. R. & Regs. 316-1-069.02A(2). In both cases, an owner or lessee “predominantly uses” the vehicle if the vehicle's total measure of use as a common or contract carrier exceeds 50 percent of its total use during a one-year operation period. Neb. Admin. R. & Regs. 316-1-069.02A(3). An owner or lessee may measure a vehicle's use by using metrics such as miles traveled or hours operated. Neb. Admin. R. & Regs. 316-1-069.02A(3). Nebraska permits an owner or lessee to include so-called “deadhead miles” as miles in service as a common or contract carrier. Deadhead miles are miles the vehicle traveled empty going to load property, miles traveled between loads, and miles traveled empty when returning to home base after unloading the hauled property. Nebraska Information Guide No. 6-360-1998. Vehicle-Specific Exemption The common or contract carrier exemption is a vehicle-specific exemption. Thus, even if Nebraska has issued an exemption certificate to a business, the particular vehicle is not a common or contract carrier vehicle if the business uses it predominantly for nonqualified uses (i.e., any use other than to transport persons or property for hire). Examples of nonqualified uses include uses by:• recycling services businesses; • construction contractors; • custom grain harvesters; • farm cooperatives; • farmers; • garbage haulers; • grain dealers; • land leveling and excavation businesses; • rock, sand, and gravel businesses; or • water haulers. Exemption Certificate Required To qualify a motor vehicle as a common or contract carrier vehicle, the owner or lessee must apply to the Nebraska Department of Revenue, using Form 5 (Nebraska Exemption Application for Common or Contract Carrier's Sales and Use Tax), and Form 5, Schedule A. The owner or lessee must renew the exemption certificate every five years. Neb. Admin. R. & Regs. 316-1-069.02; Nebraska Information Guide No. 6-360-1998. Similarly, an owner or lessee must support purchases of repair parts, replacement parts, or accessories using Form 13, Section B (Nebraska Resale or Exempt Sale Certificate)and must include the purchaser's department-issued common or contract carrier exemption number. Nebraska Information Guide No. 6-360-1998. BNA-SUTN NE 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Repair and replacement parts for common or contract carrier motor vehicles are exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B. Examples of repair and replacement parts include motor oil, oil filters, air filters, window washer fluid, tires, and diesel exhaust fluid. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B; Nebraska Information Guide No. 6-360-1998 (offering as examples of repair and replacement parts). BNA-SUTN NE 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Exempt Motor vehicle repair labor for interstate and common carriers are specifically exempt from sales and use tax. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Motor oil, oil filters, and other maintenance items purchased by interstate and common carriers are exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B; Nebraska Information Guide No. 6-360-1998 (offering as examples of repair and replacement parts). BNA-SUTN NE 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Exempt Motor vehicle maintenance for interstate and common carriers are specifically exempt from sales and use taxes regardless of the taxability of the motor vehicle being repaired. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Motor fuels are exempt from Nebraska's sales and use tax. Nebraska Rev. Stat. § 77-2704.05. For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which define motor vehicle fuel including all products and fuel commonly or commercially known as gasoline, including casing head or natural gasoline, and any other liquid and such other volatile and inflammable liquids as may be produced, compounded, or used for the purpose of operating or propelling motor vehicles. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). BNA-SUTN NE 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Tires are generally subject to tax as tangible personal property. Nebraska Rev. Stat. §77-2703(1). Additionally, Nebraska imposes a $1 tire fee on tires sold at retail as well as with the sale of a new vehicle. For discussion of Nebraska tire fees, see the Excise Tax Navigator, at Nebraska 7.4. BNA-SUTN NE 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are subject to sales and use taxes in Nebraska. Neb. Admin. R. & Regs. 316-1-069.03A. For sales and use tax purposes, Nebraska defines motorboats as any watercraft propelled by a permanently or temporarily attached motor, and including, among others, open or closed bow outboards, inboards, inboard/outboard boats, personal watercraft(jet skis, wave runners), air boats, cabin cruisers, houseboats, pontoons, canoes, jon boats, sail boats and rowboats. Neb. Admin. R. & Regs. 316-1-096.01A. BNA-SUTN NE 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for water vessels are subject to sales and use taxes. Nebraska Rev. Stat. §77-2701.02; Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. BNA-SUTN NE 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Depends Water vessel repair labor is subject to tax when the motorboat being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for water vessels are subject to sales and use taxes. Nebraska Rev. Stat. §77-2701.02; Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. BNA-SUTN NE 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Water vessel maintenance services are subject to tax when the water vessel being restored is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Exempt Fuel for water vessels is exempt from sales and use tax. Neb. Admin. R. & Regs. 316-1-012.02B(2). For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which define motor vehicle fuel including all products and fuel commonly or commercially known as gasoline, including casing head or natural gasoline, and including any other liquid and such other volatile and inflammable liquids as may be produced, compounded, or used for the purpose of operating or propelling motorboats. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). BNA-SUTN NE 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Water vessels are exempt from sales and use tax in Nebraska if predominantly used as a common or contract carrier vehicle. Neb. Admin. R. & Regs. 316-1-069.01; Neb. Admin. R. & Regs. 316-1-069.03A. For sales and use tax purposes, Nebraska defines motorboats as any watercraft propelled by a permanently or temporarily attached motor and including, among others, open or closed bow outboards, inboards, inboard/outboard boats, personal watercraft(jet skis, wave runners), air boats, cabin cruisers, houseboats, pontoons, canoes, jon boats, sail boats and rowboats. Neb. Admin. R. & Regs. 316-1-069.01A; Nebraska Information Guide No. 6-360-1998 (providing an overview of the common and contract carrier exemption). The term “common carrier” means watercraft that the owner or lessee predominantly uses to transport the general public and the general public's goods from place to place for compensation. Neb. Admin. R. & Regs. 316-1-069.02A(1). The term “contract carrier”means the same except that transport is provided for specific persons on a contractual basis. Neb. Admin. R. & Regs. 316-1-069.02A(2). Predominant Use In both cases, an owner or lessee “predominantly uses” the vessel if the vessel's total measure of use as a common or contract carrier exceeds 50 percent of its total use during a one-year operation period. Neb. Admin. R. & Regs. 316-1-069.02A(3). An owner or lessee may measure use by using metrics such as miles traveled or hours operated. Neb. Admin. R. & Regs. 316-1-069.02A(3). Exemption Certificate Required To qualify a watercraft as a common or contract carrier vehicle, the owner or lessee must apply to the Nebraska Department of Revenue using Form 5 (Nebraska Exemption Application for Common or Contract Carrier's Sales and Use Tax), and Form 5, Schedule A. The owner or lessee must renew the exemption certificate every five years. Neb. Admin. R. & Regs. 316-1-069.02; Nebraska Information Guide No. 6-360-1998. BNA-SUTN NE 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Repair and replacement parts for common or contract carrier water vessels are exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B. An owner or lessee must support purchases of repair parts, replacement parts, or accessories using Form 13, Section B (Nebraska Resale or Exempt Sale Certificate)and must include the purchaser's department-issued common or contract carrier exemption number. Nebraska Information Guide No. 6-360-1998 (offering as examples of repair and replacement parts: motor oil, oil filters, air filters, window washer fluid, tires, and diesel exhaust fluid). BNA-SUTN NE 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Taxable Water vessel repair labor is subject to tax when the water vessel being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Oil, filters, and other maintenance items for common or contract carrier water vessels are exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B; Nebraska Information Guide No. 6-360-1998. BNA-SUTN NE 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Taxable Water vessel maintenance services are subject to tax when the water vessel being maintained is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Exempt Fuel for water vessels is exempt from sales and use tax. Neb. Admin. R. & Regs. 316-1-012.02B(2). For purposes of sales and use taxes, Nebraska statutes rely on a definition for motor fuel found in Chapter 66, on Oils, Fuels, and Energy, which define motor vehicle fuel including all products and fuel commonly or commercially known as gasoline, including casing head or natural gasoline, and including any other liquid and such other volatile and inflammable liquids as may be produced, compounded, or used for the purpose of operating or propelling motorboats. Nebraska Rev. Stat. § 77-2704.05; Nebraska Rev. Stat. §66-482(2). BNA-SUTN NE 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable Nebraska does not have any provisions related to commercial fishing, thus commercial fishing vessels are subject to sales and use tax. Neb. Admin. R. & Regs. 316-1-069.01; Neb. Admin. R. & Regs. 316-1-069.03A. BNA-SUTN NE 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable Nebraska does not have any provisions related to commercial fishing, thus commercial fishing vessel repair parts are subject to sales and use tax. Nebraska Rev. Stat. §77-2701.02; Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16; Neb. Admin. R. & Regs. 316-1-001.01. BNA-SUTN NE 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Taxable Water vessel repair labor is subject to tax when the water vessel being repaired is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for commercial fishing vessels are subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B. BNA-SUTN NE 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Taxable Motorboat maintenance services are subject to tax when the water vessel being restored is taxable. Nebraska Rev. Stat. §77-2701.16(4)(f); Neb. Admin. R. & Regs. 316-1-082.03(B). BNA-SUTN NE 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Fuel for water vessels is exempt from sales and use tax. Neb. Admin. R. & Regs. 316-1-012.02B(2). BNA-SUTN NE 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable Nebraska does not have any guidance on the taxability of commercial fishing accessories or equipment. Neb. Admin. R. & Regs. 316-1-069; Nebraska Rev. Stat. §77-2701.16 et seq. Thus, such items are presumed taxable as tangible person property. Neb. Admin. R. & Regs. 316-1-069; Nebraska Rev. Stat. §77-2701.16 et seq. BNA-SUTN NE 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable Nebraska does not have any guidance on the taxability of commercial fishing tools or supplies. Neb. Admin. R. & Regs. 316-1-069; Nebraska Rev. Stat. §77-2701.16 et seq. Thus, such items are presumed taxable as tangible person property. Neb. Admin. R. & Regs. 316-1-069; Nebraska Rev. Stat. §77-2701.16 et seq. BNA-SUTN NE 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt The sale of rolling stock to any railroad or any other person, whether a common or contract carrier or otherwise, is exempt. Neb. Admin. R. & Regs. 316-1-068.01. BNA-SUTN NE 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Nontaxable Materials and replacement parts used as or used directly in the repair and maintenance of railroad rolling stock, whether owned by a railroad or otherwise, are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-068.01. BNA-SUTN NE 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair and maintenance labor for railroad rolling stock, whether owned by a railroad or otherwise, are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.50. BNA-SUTN NE 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Oil, filters, and other maintenance items are exempt from sales tax for railroad rolling stock. Nebraska Rev. Stat. §77-2704.50; Neb. Admin. R. & Regs. 316-1-069.03B. BNA-SUTN NE 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Repair and maintenance labor for railroad rolling stock, whether owned by a railroad or otherwise, are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.50. BNA-SUTN NE 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Nontaxable Diesel and compressed fuels used to provide motive power for railroad rolling stock are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05; Neb. Admin. R. & Regs. 316-1-068.05. Compressed fuel means compressed natural gas, liquefied petroleum gas, liquefied natural gas, butane, and any other type of compressed gas or compressed liquid suitable for fueling a motor vehicle. Nebraska Rev. Stat. §66-6,100. BNA-SUTN NE 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable Passenger transportation by air is not an enumerated taxable service and therefore is not subjects to Nebraska's sales and use tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Passenger transportation by rail is not an enumerated taxable service and therefore is not subjects to Nebraska's sales and use tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Passenger transportation by water is not an enumerated taxable service and therefore is not subjects to Nebraska's sales and use tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Passenger transportation by bus is not an enumerated taxable service and therefore is not subjects to Nebraska's sales and use tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable The state of Nebraska sales and use tax does not apply to the transit or taxicab services. Nebraska Rev. Stat. §77-2703(1). For additional discussion of tax on car services, taxi cabs and other forms of transit in Nebraska, see the Excise Tax Navigator, at Nebraska 9.5. BNA-SUTN NE 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable Limousine services are not enumerated as services subject to the state sales tax. Therefore, limousine services are not subject to tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable Property transportation services are not enumerated as services subject to the state sales tax. Therefore, property transportation services are not subject to tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Moving services are not enumerated as services subject to the state sales tax. Therefore, moving services are not subject to tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable The state of Nebraska sales and use tax does not apply to parking services. Nebraska Rev. Stat. §77-2703(1); Nebraska Rev. Stat. §77-2701.16(4) For additional discussion of parking tax and other storage fees in Nebraska, see the Excise Tax Navigator, at Nebraska 9.6. BNA-SUTN NE 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable Boat slip and mooring services are not enumerated as services subject to the Nebraska sales tax. Nebraska Rev. Stat. §77-2701.16(4). BNA-SUTN NE 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable Motor vehicle towing services are enumerated services subject to sales tax. Nebraska Rev. Stat. §77-2701.16(4)(b); Nebraska Information Guide No. 6-352-1994. BNA-SUTN NE 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Taxable Motor vehicle washing and waxing service are enumerated services subject to sales tax. Motor vehicle washing and waxing includes washing or cleaning, waxing, polishing, or detailing the interior or exterior of a motor vehicle. Neb. Admin. R. & Regs. 316-1-099.04A; Nebraska Rev. Stat. § 77-2701.16(4)(b). BNA-SUTN NE 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Taxable Motor vehicle washing and waxing services are enumerated services subject to sales tax. Nebraska Rev. Stat. §77-2701.16(4)(b). Motor vehicle washing and waxing includes washing or cleaning, waxing, polishing, or detailing the interior or exterior of a motor vehicle. Neb. Admin. R. & Regs. 316-1-099.04A. BNA-SUTN NE 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+None Nebraska does not address the tax treatment of other transportation property or services. Nebraska Rev. Stat. § 77-2701.16. BNA-SUTN NE 29.15.
+
+==================================================

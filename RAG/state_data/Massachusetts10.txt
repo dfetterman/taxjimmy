@@ -1,0 +1,51 @@
+State: Massachusetts
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination The commonwealth is a destination-based sourcing jurisdiction. Mass. Regs. Code tit. 830, §64H.6.7. Therefore, a sale's situs is deemed to be within Massachusetts, and thus taxable, unless both title to and possession of the property are transferred outside the commonwealth. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5). If a contract specifies where title will pass, the title passes as specified according to the contract terms. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(a). If the sales contract does not state where title will pass, title passes in Massachusetts when the tangible personal property is transferred to an interstate carrier for delivery to the purchaser, and the sale is subject to the commonwealth's sales tax. However, if the tangible personal property is to be delivered to the purchaser by the vendor, title will pass upon completion of the delivery. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(b). If the delivery is to a purchaser outside of the commonwealth, Massachusetts sales tax does not apply; but if the delivery occurs within the commonwealth, then Massachusetts sales tax does apply. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(b). Multiple Points of Use Apportionment Business purchasers who purchase and concurrently use prewritten software in more than one jurisdiction must give the seller an exemption certificate claiming multiple points of use (Form ST-12). Mass. Regs. Code tit. 830, §64H.1.3(15)(a). Upon receipt of the exemption certificate the seller is relieved of any liability to remit the tax. Mass. Regs. Code tit. 830, §64H.1.3(15)(a)(1). Instead, the purchaser must pay the tax directly and apportion the amount, based on a reasonable method, between the different jurisdictions in which the software will be used. Mass. Regs. Code tit. 830, §64H.1.3(15)(a)(5). A Form ST-12 may not be used for software received in person by a business purchaser as a retail store. BNA-SUTN MA 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Destination The commonwealth is a destination-based sourcing jurisdiction. Mass. Regs. Code tit. 830, §64H.6.7. Telecommunications Services Sales of interstate telecommunication services are deemed to occur in Massachusetts if the telecommunication either originates or is received at a location within Massachusetts and the service is charged to a service address in Massachusetts. However, if a particular telecommunication that originates or is received in Massachusetts is charged to neither the service address where the telecommunication originates nor a service address where the telecommunication is received, the telecommunication service is deemed to be sold within Massachusetts if it is paid for in the commonwealth. In general, a telecommunication is paid for in the commonwealth if it is billed to an address within the commonwealth. However, the Commissioner will disregard a billing address that a taxpayer has adopted for the purpose of avoiding tax. Mass. Regs. Code tit. 830, §64H.1.6(4)(a); Massachusetts Letter Ruling 12-6 (May 21, 2012). BNA-SUTN MA 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination The commonwealth is a destination-based sourcing jurisdiction. Mass. Regs. Code tit. 830, §64H.6.7. “Lease” and “rental”are included within the definition of “sale” and “selling.”Therefore, the lease or rental of tangible personal property's situs is deemed to be within Massachusetts, and thus taxable, unless both title to and possession of the property are transferred outside the commonwealth. Mass. Gen. L. ch. 64H, §1, “sale”and “selling,” at (i); Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5). If a contract specifies where title will pass, the title passes as specified according to the contract terms. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(a). If the lease or rental contract does not state where title will pass, title passes in Massachusetts when the tangible personal property is transferred to an interstate carrier for delivery to the purchaser, and the sale is subject to the commonwealth's sales tax. However, if the tangible personal property is to be delivered to the purchaser by the vendor, title will pass upon completion of the delivery. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(b). If the delivery is to a purchaser outside of the commonwealth, Massachusetts sales tax does not apply; but if the delivery occurs within the commonwealth, then Massachusetts sales tax does apply. Mass. Regs. Code tit. 830, §64H.6.7(3)(a)(5)(b). BNA-SUTN MA 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+No Tax There are no local sales or use taxes in Massachusetts. See generally Mass. Gen. L. ch. 64D, §1. BNA-SUTN MA 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Depends Massachusetts allows a reciprocal use tax credit up to the amount of any sales or use tax paid to another state. Mass. Gen. Laws ch. 64I, § 7(c); Massachusetts Technical Information Release TIR 03-1. If the amount is less than what would be paid under Massachusetts sales tax law, the owner must remit the difference to the state. In addition to state taxes paid, Massachusetts allows a taxpayer to take a credit against Massachusetts state taxes due for local taxes paid as well as taxes paid to the District of Columbia. However, these credits are only allowed for taxes paid to jurisdictions that provide a similar credit. Mass. Gen. Laws ch. 64I, § 7(c); Massachusetts Technical Information Release TIR 03-1. BNA-SUTN MA 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Depends The storage, use, or other consumption of a taxable item on which the person storing, using, or consuming the item has paid a use tax is exempt from use tax. Mass. Gen. L. ch. 64I, §7(a). Massachusetts has a rebuttable presumption that “tangible personal property shipped or brought to the commonwealth by the purchaser was purchased from a retailer for storage, use or other consumption in the commonwealth, provided that such property was shipped or brought into the commonwealth within six months after its purchase.” Mass. Gen. L. ch. 64I, §8(f). BNA-SUTN MA 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+Exempt The storage, use or other consumption of repair or replacement parts exclusively for use in aircraft or in significant overhauling or rebuilding of aircraft or aircraft parts are not subject to sales and use taxes. Mass. Gen. L. ch. 64I, §7(d). BNA-SUTN MA 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Exempt Sales of tangible personal property under the terms of any agreement to be exported outside the commonwealth is not subject to sales and use taxes. Mass. Gen. L. ch. 64H, §6(b). BNA-SUTN MA 4.3.3.
+
+==================================================

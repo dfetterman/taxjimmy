@@ -1,0 +1,411 @@
+State: Michigan
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Sales of aircraft are subject to sales tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(3). Michigan has an exemption certificate for exempt aircraft transfers. See Michigan Form 1989 - Remittance Advice or Claim of Exemption from Use Tax on Aircraft Transfer. Sales of aircraft do not qualify for the use tax exemption for property purchased from a seller or transferor if the property is part of the purchase or transfer of a business. Mich. Comp. Laws § 205.94g(2)(b). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any aircraft (as well as vehicle, ORV, manufactured home, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the Aircraft Bluebook. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Transfers Between Family Members Michigan exempts transfers from use tax where the transferee or purchaser is the spouse, mother, father, brother, sister, child, stepparent, stepchild, stepbrother, stepsister, grandparent, grandchild, legal ward, or a legally appointed guardian with a certified letter of guardianship, of the transferor. Mich. Comp. Laws 205.93(3)(a); Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Additionally, effective Jan. 1, 2014, transfers of certain vehicles to certain “in-laws” are also exempt from use tax. Mich. Comp. Laws §205.94bb; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018); see also Michigan Internal Policy Directive 2015-1 (May 28, 2015). Specifically, Michigan exempts from sales and use tax the transfer of a vehicle, if the transferee or purchaser is the father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, or grandparent-in-law or the transferor. Vehicles include off-road vehicles, manufactured homes, aircraft, snowmobiles, and watercraft. 2014 Mich. H.B. 5261, retroactively effective, 4bb added, Jan. 1, 2014; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Leases “Lease or rental”means the transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration that may include future options to purchase or extend. For non-commercial airplane leases, the lessor must pay sales tax on the full cost of the property at the time the lessor acquires ownership of the property. Mich. Comp. Laws § 205.95(4). If a lessor purchases property outside of Michigan for purposes of leasing the property in Michigan, the lessor must pay use tax on the property at the time it is leased in Michigan. Mich. Comp. Laws § 205.95(4); NACG Leasing LLC v. Michigan Dept. of Treas., No. 146234, 2014 BL 36494 (Mich. 2014) (a taxpayer was subject to use tax when it purchased an aircraft from out an out-of-state seller, and simultaneously leased the aircraft to a related entity that had possession of the aircraft in Michigan at the time of the transfer. The Michigan Supreme Court ruled that the taxpayer “used” the aircraft, because in leasing the aircraft, the taxpayer exercised a right incident to ownership in Michigan); Michigan Revenue Administrative Bulletin 2015-25 (Dec. 2, 2015). Temporary Presence in State (‘Fly-away’) Sales of aircraft temporarily located in Michigan for the purpose of a sale and pre-purchase evaluation, customization, improvement, maintenance, or repair are not subject to the tax if the aircraft:• leaves Michigan within 15 days after the sale and the completion of any prepurchase evaluation, customization, improvement, maintenance, or repair that is associated with the sale, whichever is later; or • was not based or registered in Michigan before the sale and any prepurchase evaluation, customization, improvement, maintenance, or repair that is associated with the sale is completed, and the aircraft is not based in the state or registered in the state after the sale and any prepurchase evaluation, customization, improvement, maintenance, or repair that is associated with the sale is completed. Mich. Comp. Laws § 205.54x(3); Mich. Comp. Laws § 205.94k(6)(a). BNA-SUTN MI 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair parts and other tangible personal property sold and delivered in Michigan for operation of an aircraft are subject to tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). Repair parts affixed to an aircraft will not be taxable if the repaired aircraft is not registered in Michigan, and leaves Michigan within 15 days after the issuance of the final billing or authorized approval for final return to service. Mich. Comp. Laws § 205.54x(2); Mich. Comp. Laws § 205.94k(2). BNA-SUTN MI 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Depends Charges for repair work on aircraft are not subject to sales tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to sales tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Oil, filters, and other tangible personal property sold and delivered in Michigan for operation or maintenance of an aircraft are subject to tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). Maintenance items affixed to an aircraft will not be taxable if the aircraft is not registered in Michigan, and leaves Michigan within 15 days after the issuance of the final billing or authorized approval for final return to service. Mich. Comp. Laws § 205.54x(2); Mich. Comp. Laws § 205.94k(2). BNA-SUTN MI 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Aircraft maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Taxable Gasoline, jet fuel, and oil sold and delivered in Michigan for operation of an aircraft are subject to tax. Mich. Comp. Laws § 205.62(2); Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). Informational Reports Beginning April 1, 2016, taxpayers making retail sales of aviation fuel must file an informational report with the department each calendar quarter showing all of the following for the immediately preceding calendar quarter:• taxpayer's entire amount of the taxable retail sales of aviation fuel; • the gross proceeds of the taxpayer's business from retail sales of aviation fuel; • the amount of tax for which the taxpayer is liable from sales at retail of aviation fuel; • the number of taxable gallons aviation fuel sold by the taxpayer at each airport and the gross proceeds from sales of those gallons; and • any other information the department considers necessary for proper administration of the act. Mich. Comp. Laws §205.56c, as amended by 2015 Mich. S.B. 613, effective Dec. 23, 2015. Likewise, beginning April 1, 2016, persons storing, using, or consuming aviation fuel, the storage, use, or consumption of which is subject to use tax when the tax was not paid to a seller, and sellers collecting the tax from the purchaser from sales of aviation fuel are required to file a quarterly informational report showing:• the entire amount of taxable aviation fuel sold or purchased by the person; • the amount of tax for which the person is liable from the purchase or sale of aviation fuel; • the number of taxable gallons of aviation fuel sold or purchased by the person at each airport and the gross proceeds from the sales or purchase of those gallons of aviation fuel; and • any other information the department considers necessary for proper administration of the act. Mich. Comp. Laws §205.96c, as amended by 2015 Mich. S.B. 614, effective Dec. 23, 2015. Aviation fuel is defined under Michigan's aeronautics code to mean any gasoline, distillate, benzine, naphtha, benzol, or other volatile and inflammable liquid produced, compounded, and used for propelling aircraft. Mich. Comp. Laws §259.4. BNA-SUTN MI 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends The sale of an aircraft is exempt from taxation if sold to a domestic air carrier, the aircraft has a certificated takeoff weight of at least 6,000 pounds, and the aircraft is for use solely in the transport of air cargo, passengers, or a combination of air cargo and passengers. Mich. Comp. Laws § 205.54x(1)(a). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any aircraft (as well as vehicle, ORV, manufactured home, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the Aircraft Bluebook. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Leases Michigan provides airplane lessors, as the final consumers of the property, two options in paying the sales or use tax due on lease transactions. Mich. Comp. Laws § 205.95(4). First, lessor may elect to pay sales tax on the full cost of the property at the time the lessor acquires ownership of the property. Mich. Comp. Laws § 205.95(4). Alternatively, the lessor may elect to obtain a Use Tax Registration with the Michigan Department of Treasury, which will allow the lessor to purchase the property exempt from sales tax. Michigan Revenue Administrative Bulletin 2015-25 (Dec. 2, 2015). This option requires the lessor to pay use tax calculated on the total rental receipts received under the lease each month. Mich. Comp. Laws § 205.95(4); Mich. Admin. Code r. 205.132(1); Michigan Revenue Administrative Bulletin 2015-25 (Dec. 2, 2015). To be eligible, a taxpayer must actually be engaged in the business of renting or leasing tangible personal property to others for profit. See FMG Leasing, LLC v. Michigan Dept. of Treas., 2014 BL 179938 (Mich. Ct. App. 2014) (a taxpayer leasing aircraft only to related entities and persons was not eligible to pay use tax on its rental receipts and was required to pay use tax on the full purchase price of the property); see also CDM Leasing, LLC v. Michigan Dept. of Treas., 2014 BL 357426 (Mich. Ct. App. 2014) (taxpayer did not qualify as a lessor of an aircraft because it did not look for other leasing opportunities through advertising, nor did it adjust its lease to cover its fixed costs. Further, taxpayer's leasing of construction equipment did not mean it was a lessor of an aircraft. Therefore, the taxpayer could not pay use tax on the rental receipts in lieu of paying tax on its initial purchase of the aircraft). If the tangible personal property leased is an airplane and the lessor elects to pay use tax on the rental receipts, then the election to do so must be at the earlier of the date set for the first payment of use tax in the lease agreement or 90 days after the lessor brings the aircraft into Michigan. Mich. Comp. Laws §205.95(4); CCXLS LLC v. Michigan Dept. of Treas., 2012 BL 268462 (Mich. Ct. App. 2012) (leave to appeal denied, Mich., No. 146198, (April 29, 2013). If a lessor purchases property outside of Michigan for purposes of leasing the property in Michigan, the lessor must pay use tax on the property at the time it is leased in Michigan. Mich. Comp. Laws § 205.95(4); NACG Leasing LLC v. Michigan Dept. of Treas., No. 146234, 2014 BL 36494 (Mich. 2014) (a taxpayer was subject to use tax when it purchased an aircraft from out an out-of-state seller, and simultaneously leased the aircraft to a related entity that had possession of the aircraft in Michigan at the time of the transfer. The Michigan Supreme Court ruled that the taxpayer “used” the aircraft, because in leasing the aircraft, the taxpayer exercised a right incident to ownership in Michigan); Michigan Revenue Administrative Bulletin 2015-25 (Dec. 2, 2015). BNA-SUTN MI 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Sales of repair parts and materials to a domestic air carrier, affixed or to be affixed to an aircraft that has a maximum certificated takeoff weight of at least 6,000 pounds for use solely in the transport of air cargo, passengers, or a combination of air cargo and passengers are exempt from tax. Mich. Comp. Laws § 205.54x(1)(b); Mich. Comp. Laws § 205.94k(1). BNA-SUTN MI 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Depends Charges for repair work on aircraft are not subject to sales tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to sales tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Sales of oil, filters, and other maintenance items to a domestic air carrier, affixed or to be affixed to an aircraft that has a maximum certificated takeoff weight of at least 6,000 pounds for use solely in the transport of air cargo, passengers, or a combination of air cargo and passengers are exempt from tax. Mich. Comp. Laws § 205.54x(1)(b); Mich. Comp. Laws § 205.94k(1). BNA-SUTN MI 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Aircraft maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Taxable Gasoline, jet fuel, and oil sold and delivered in Michigan for operation of an aircraft are subject to tax, regardless of whether the fuel is sold to private or commercial airlines. Mich. Comp. Laws § 205.62(2); Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). BNA-SUTN MI 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Michigan imposes tax on the sale, use, storage, or consumption, or transfer of a motor vehicle. Mich. Comp. Laws §205.93(2); Mich. Comp. Laws §205.52(1). Sales of vehicles acquired for lending or leasing to a public parochial school for use in a course in driver education are exempt from tax. Mich. Comp. Laws §205.54d(b). Sales of vehicles purchased by a public or parochial school if that vehicle is certified for driver education and is not reassigned for personal use by the school's administrative personnel are exempt from tax. Mich. Comp. Laws §205.54d(c). Sales of motor vehicles do not qualify for the use tax exemption for property purchased from a seller or transferor if the property is part of the purchase or transfer of a business. Mich. Comp. Laws §205.94g(2)(b). Motor Vehicle Trade-ins In Michigan, the agreed-upon value of a motor vehicle traded in as part payment for the purchase of a new or used motor or recreational vehicle may be deducted from the taxable sales price. However, from Jan. 1, 2018, to Dec. 31, 2018, this amount is capped at $4,000. Beginning Jan. 1, 2019, the deduction will increase to $5,000. On Jan. 1, 2020, and each January 1 thereafter, this amount will increase by an additional $1,000 each year. Mich. Comp. Laws §205.51(1)(d)(xii)(D) (sales tax), as amended by 2017 Mich. S.B. 94, effective Jan. 18, 2018; Mich. Comp. Laws §205.92(f)(xii)(D) (use tax), as amended by 2017 Mich. S.B. 95, effective Jan. 18, 2018. The trade-in deduction first took effect on Dec. 15, 2013, and was capped at $2,000. Mich. Comp. Laws §205.51(1)(d)(xii); Mich. Comp. Laws §205.92(f)(xii); see also Michigan Revenue Administrative Bulletin 2016-6. Beginning Jan. 1, 2015, this cap increased by $500 each January through 2018. Mich. Comp. Laws §205.51(1)(d)(xii)(B), as amended by 2015 Michigan S.B. 233, effective retroactively to Dec. 15, 2013; Mich. Comp. Laws §205.92(f)(xii)(B); see Michigan Revenue Administrative Bulletin 2016-6; Michigan Trade-in Sales Tax Credit Increase (December 2016). To qualify, the agreed-upon value of the car to be traded-in must be separately stated on the invoice or bill of sale. Mich. Comp. Laws §205.51(1)(d)(xii); Mich. Comp. Laws §205.92(f)(xii). For the trade-in deduction to be claimed, Michigan initially required that the seller allowing a trade-in be an in-state dealer. Mich. Comp. Laws §205.92(f)(xii) (2015). However, the law was amended retroactively to remove this requirement and the deduction may now be claimed for motor and recreational vehicles purchased from either in-state or out-of-state dealers. Mich. Comp. Laws §205.51(1)(m), as amended by 2016 Mich. S.B. 233, effective Dec. 15, 2013; Mich. Comp. Laws §205.92(f)(xii), as amended by 2016 Mich. S.B. 232, effective Dec. 15, 2013; Mich. Comp. Laws §205.92(t), as amended by 2016 Mich. S.B. 232, effective Dec. 15, 2013. The trade-in sales tax credit applies even when the purchaser is a non-resident. Dealers must calculate the Michigan sales tax applying the trade-in sales tax credit and then make a separate calculation applying the purchaser's home state sales tax rate. The Michigan dealer collects the lower of the two sales tax calculations. Mich. Comp. Laws §205.51(1)(d)(xii)(D);Michigan Dept. of State, Vehicle Sales Tax Trade-in Credit – Frequently Asked Questions. Any vehicle meeting the Michigan Vehicle Code definition of a motor vehicle is eligible for the trade-in sales tax credit, including motorcycles, mopeds, or motor homes. Recreational vehicles including a trailer coach, fifth-wheel, or pop-up camper are eligible for the sales tax credit. Mich. Comp. Laws §205.51(1)(d)(xii)(D);Michigan Dept. of State, Vehicle Sales Tax Trade-in Credit – Frequently Asked Questions. Utility trailers, snowmobiles, off-road vehicles, or mobile homes are not eligible for the trade-in sales tax credit. Mich. Comp. Laws §205.51(1)(d)(xii)(D);Michigan Dept. of State, Vehicle Sales Tax Trade-in Credit – Frequently Asked Questions. Only one vehicle can be used toward the sales tax trade-in credit. If two or more vehicles are traded in, sales tax credit for only one of the vehicles can be applied. Mich. Comp. Laws §205.51(1)(d)(xii)(D);Michigan Dept. of State, Vehicle Sales Tax Trade-in Credit – Frequently Asked Questions. A trade-in can qualify for the deduction even if the purchaser trading in the motor or recreational vehicle has negative equity in it. The dealer may claim the deduction up the lesser of the capped value of the trade-in or the agreed-upon value of the trade in. The invoice, bill of sale, or other similar document must clearly state the amount represented by the agreed-upon value of the trade-in vehicle. The dealer may not claim the deduction for any amounts that are not attributed to the value of the trade-in vehicle. See Michigan Letter Ruling LR 2015-1 (April 20, 2015). Effective Jan. 1, 2017, dealers are required to submit a completed RD-108T form on all vehicle transactions with a trade-in. Michigan Trade-in Sales Tax Credit Increase (December 2016). Transfers by Non-Licensed Dealers The ownership transfer of vehicles, other than those sold by a Michigan licensed new or used vehicle dealer, is governed by the Streamlined Sales and Use Tax Revenue Equalization Act (Equalization Act). Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). The Equalization Act imposes tax on the sale or transfer of any vehicle, ORV, manufactured home, aircraft, snowmobile, or watercraft—based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value” using the National Auto Dealers Association (NADA) valuation guide. Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Transfers by new or used vehicle dealers that are licensed by the State of Michigan are not subject to the equalization tax. Therefore, a sale or transfer by a Michigan licensed dealer is only subject to use tax based on the purchase price. Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Transfers Between Family Members Michigan exempts transfers from use tax where the transferee or purchaser is the spouse, mother, father, brother, sister, child, stepparent, stepchild, stepbrother, stepsister, grandparent, grandchild, legal ward, or a legally appointed guardian with a certified letter of guardianship, of the transferor. Mich. Comp. Laws 205.93(3)(a); Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Additionally, effective Jan. 1, 2014, transfers of certain vehicles to certain “in-laws” are also exempt from use tax. Mich. Comp. Laws §205.94bb; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018); see also Michigan Internal Policy Directive 2015-1 (May 28, 2015). Specifically, Michigan exempts from sales and use tax the transfer of a vehicle, if the transferee or purchaser is the father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, or grandparent-in-law or the transferor. Vehicles include off-road vehicles, manufactured homes, aircraft, snowmobiles, and watercraft. 2014 Mich. H.B. 5261, retroactively effective, 4bb added, Jan. 1, 2014; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Lease or Rental of Motor Vehicles The lease or rental of a motor vehicle is subject to use tax. “Lease or rental”means the transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration that may include future options to purchase or extend. Mich. Comp. Laws §205.51a(m); Mich. Comp. Laws 205.92b(m). Sales tax is due on the exercise of a purchase price option. The lease or rental and the subsequent sale are treated as two different transactions for sales tax purposes. Mich. Comp. Laws §205.51(1)(d); Michigan Revenue Administrative Bulletin 2015-25 (Dec. 2, 2015); Michigan Revenue Administrative Bulletin 1990-15 (April 12, 1990). A transfer of possession or control of a motor vehicle under a security agreement or deferred payment plan that requires the transfer of title upon completion of the required payments is not a lease or rental, but rather a sale. As a result, sales tax is charged, collected, and remitted upfront. Mich. Comp. Laws §205.51a(m); Mich. Comp. Laws 205.92b(m). Similarly, the transfer of possession or control of a motor vehicle under an agreement requiring transfer of title upon completion of the required payments and payment of an option price that does not exceed the greater of $100 or 1 percent of the total required payments is a sale, not a lease or rental. As a result, sales tax is due at the time the vehicle is acquired. Mich. Comp. Laws §205.51a(m)(ii); Mich. Comp. Laws §205.92b(m)(ii). BNA-SUTN MI 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Sales of motor vehicle repair and replacement parts are subject to tax. Mich. Comp. Laws §205.93(1). BNA-SUTN MI 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Depends Charges for repair services on motor vehicles are not subject to tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). Emissions Testing Automotive emission testing, when added to the cost of a vehicle by a dealer is subject to sales tax as part of the sale of the vehicle. Michigan Revenue Administrative Bulletin No. 1988-40 (June 10, 1988) BNA-SUTN MI 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filter, and other maintenance items are considered tangible personal property and subject to Michigan sales and use tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). BNA-SUTN MI 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Motor vehicle maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Taxable Motor vehicle fuel is subject to sales and use tax as tangible personal property. Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.51; Mich. Comp. Laws §205.52. A taxpayer that purchases or receives gasoline or diesel from a refiner, pipeline terminal operator, or marine terminal operator, other than a taxpayer that is an exporter or supplier for immediate export, is required to prepay a portion of the sales tax based on a cents-per-gallon rate determined by the Department of Treasury. Mich. Comp. Laws §205.56a(3); Michigan Revenue Administrative Bulletin 2017-7 (May 5, 2017). For Michigan's prepaid sales tax rate applicable to diesel fuel, see the Sales and Use Tax Navigator, at Michigan 30.1.4. For Michigan's prepaid sales tax rate applicable to gasoline, see the Sales and Use Tax Navigator, at Michigan 30.1.6. For information on Michigan's motor fuel tax, see the Excise Taxes Navigator, at Michigan 8. BNA-SUTN MI 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Nontaxable Vehicle rentals for a period of less than 30 consecutive days are not subject to sales and use tax. However, certain counties in Michigan are authorized to impose an excise tax on rental transactions. Mich. Comp. Laws §207.752(2)(b). Providers of rental vehicles may elect to remit use tax on receipts from the rental of vehicles in lieu of payment of sales tax when they acquire the vehicle. Mich. Comp. Laws §205.95(4); Michigan Technical Advice Letter: Use Tax on Loaners During Vehicle Repairs Under Recall or Warranty. For more information on taxes on passenger car rentals in Michigan, see the Excise Taxes Navigator, at Michigan 9.2. BNA-SUTN MI 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Exempt Tangible personal property sold for demonstration purposes is exempt from Michigan's sales and use tax. Mich. Comp. Laws §205.54d(e). For a dealer selling a new car or truck, the exemption for demonstration purposes is determined by the number of new cars and trucks sold during the current calendar year or the immediately preceding year without regard to specific make or style in accordance with the following schedule: 0 to 25, 2 units; 26 to 100, 7 units; 101 to 500, 20 units; 501 or more, 25 units; but not to exceed 25 cars and trucks in a calendar year for demonstration purposes. Mich. Comp. Laws §205.54d(e). BNA-SUTN MI 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Tires are subject to sales and use tax as tangible personal property. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.51(1)(b); Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.93(1). The amount subject to tax includes the federal manufacturers’ excise tax. Opinion of the Attorney General, No. 6320 (Nov. 7, 1985). BNA-SUTN MI 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The transfer of a motor vehicle is subject to use tax. However, sales of certain motor carriers are exempt from sales and use tax if used in interstate commerce. Mich. Comp. Laws §205.93(2); Mich. Comp. Laws §205.52(1). Motor vehicle leases are subject to sales and use tax. “Lease or rental” means the transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration that may include future options to purchase or extend. Mich. Comp. Laws §205.51a(m); Mich. Comp. Laws 205.92b(m). A person engaged in the business of renting or leasing motor vehicles may elect to pay use tax on the lease or rental receipts or pay the Michigan sales or use tax on the full cost of the property at the time the lessor purchases the motor vehicle. Mich. Comp. Laws §205.95(4); Mich. Admin. Code r. 205.132(1). Michigan does not impose sales and use tax on the sale of rolling stock purchased by an interstate motor carrier or the rental of a lease to an interstate motor carrier and used in interstate commerce. Mich. Comp. Laws §205.54r(1); see also Michigan Revenue Administrative Bulletin 2016-2 (Jan. 8, 2016) (explaining that for both sales tax and use tax purposes, the three requirements are the same—the property must be “rolling stock;” it must be purchased, rented, or leased by an “interstate motor carrier,” and it must be “used in interstate commerce”). Similarly, Michigan exempts from tax the storage, use, or consumption of rolling stock used in interstate commerce and purchased, rented, or leased by an interstate fleet motor carrier. Mich. Comp. Laws §205.94k(4). “Interstate fleet motor carrier”means a person engaged in the business of carrying persons or property, other than themselves, their employees, or their own property, for hire across state lines, whose fleet mileage was driven at least 10 percent out-of-state in the immediately preceding tax year. Mich. Comp. Laws §205.94k(6)(d). To qualify as an interstate fleet motor carrier, the primary purpose of a business must be to transport persons or property for hire across state lines. That its activities might incidentally include such actions is insufficient to qualify. Midwest Power Line, Inc. v. Dep't of Treasury, 2018 BL 181816 (Mich. Ct. App. 2018); Michigan Treasury Update -September 2018. To qualify for the rolling stock exemption, the rolling stock must be “used in interstate commerce.” Rolling stock may be used in interstate commerce in either of two ways. First, the rolling stock could physically cross state lines. Second, the rolling stock could not physically cross state lines, but it could carry persons or property that originated from or is destined for locations outside of Michigan. Alvan Motor Freight, Inc. v. Michigan Dept. of Treas., 761 N.W.2d 269, 2008 BL 215075 (Mich. Ct. App. 2008); see also Michigan Revenue Administrative Bulletin 2016-2 (Jan. 8, 2016). Michigan defines the term “rolling stock”as a “qualified truck, a trailer designed to be drawn behind a qualified truck, and parts or other tangible personal property affixed to or to be affixed to and directly used in the operation of either a qualified truck or a trailer designed to be drawn behind a qualified truck.” Mich. Comp. Laws §205.94k(6)(i). A “qualified truck” is defined as “a commercial motor vehicle power unit that has 2 axles and a gross vehicle weight rating in excess of 10,000 pounds or a commercial motor vehicle power unit has 3 or more axles.” Mich. Comp. Laws §205.94k(6)(g). Transfers by Non-Licensed Dealers The ownership transfer of vehicles, other than those sold by a Michigan licensed new or used vehicle dealer, is governed by the Streamlined Sales and Use Tax Revenue Equalization Act (Equalization Act). Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). The Equalization Act imposes tax on the sale or transfer of any vehicle, ORV, manufactured home, aircraft, snowmobile, or watercraft—based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value” using the National Auto Dealers Association (NADA) valuation guide. Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Transfers by new or used vehicle dealers that are licensed by the State of Michigan are not subject to the equalization tax. Therefore, a sale or transfer by a Michigan licensed dealer is only subject to use tax based on the purchase price. Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). BNA-SUTN MI 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Sales of repair and replacement parts are subject to tax. However, sales made to qualified truck operators conducting interstate commerce are exempt from sales and use tax. Mich. Comp. Laws §205.93(1); Michigan Internal Policy Directive 2010-1 (June 28, 2010). Sales of repair and replacement parts for original components of qualified trucks or trailers designed to be drawn behind a qualified truck at the time of the sale or purchase, qualify for the exemptions under Mich. Comp. Laws §205.54r(1) and Mich. Comp. Laws §205.94k(4).Mich. Comp. Laws §205.54r(1) and Mich. Comp. Laws §205.94k(4). Michigan Internal Policy Directive 2010-1 (June 28, 2010). “Qualified truck” means a commercial motor vehicle power unit that has 2 axles and a gross vehicle weight rating in excess of 10,000 pounds or a commercial motor vehicle power unit that has 3 or more axles. Mich. Comp. Laws § 205.54r. BNA-SUTN MI 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Depends Charges for repair work on tangible personal property of others are not subject to tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). However, sales of equipment, materials, and supplies to such persons are taxable. Mich. Admin. Code r. 205.117(1). Emissions Testing Automotive emission testing, when added to the cost of a vehicle by a dealer is subject to sales tax as part of the sale of the vehicle. Michigan Revenue Administrative Bulletin No. 1988-40 (June 10, 1988) BNA-SUTN MI 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items are subject Michigan sales and use tax. However, sales made to qualified truck operators conducting interstate commerce are exempt from sales and use tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). “Qualified truck” means a commercial motor vehicle power unit that has 2 axles and a gross vehicle weight rating in excess of 10,000 pounds or a commercial motor vehicle power unit that has 3 or more axles. Mich. Comp. Laws § 205.54r. BNA-SUTN MI 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Motor vehicle maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Taxable Motor vehicle fuel is subject to sales and use tax as tangible personal property. Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.51; Mich. Comp. Laws §205.52. A taxpayer that purchases or receives gasoline or diesel from a refiner, pipeline terminal operator, or marine terminal operator, other than a taxpayer that is an exporter or supplier for immediate export, is required to prepay a portion of the sales tax based on a cents-per-gallon rate determined by the Department of Treasury. Mich. Comp. Laws §205.56a(3); Michigan Revenue Administrative Bulletin 2017-7 (May 5, 2017). For Michigan's prepaid sales tax rate applicable to diesel fuel, see the Sales and Use Tax Navigator, at Michigan 30.1.4. For Michigan's prepaid sales tax rate applicable to gasoline, see the Sales and Use Tax Navigator, at Michigan 30.1.6. For information on Michigan's motor fuel tax, see the Excise Taxes Navigator, at Michigan 8. BNA-SUTN MI 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Depends Sales of truck parts to qualified truck operators conducting interstate commerce are exempt from sales and use tax. Mich. Comp. Laws §205.93(1); Michigan Internal Policy Directive 2010-1 (June 28, 2010). “Qualified truck”means a commercial motor vehicle power unit that has 2 axles and a gross vehicle weight rating in excess of 10,000 pounds or a commercial motor vehicle power unit that has 3 or more axles. Mich. Comp. Laws § 205.54r. BNA-SUTN MI 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Sales of vessels and watercraft are subject to tax. Mich. Comp. Laws §205.93(1); Mich. Admin. Code r. 205.131. Sales of watercraft do not qualify for the use tax exemption for property purchased from a seller or transferor if the property is part of the purchase or transfer of a business. Mich. Comp. Laws §205.94g(2)(b). In Podmajersky v. Michigan Dept. of Treas., the taxpayer was found responsible for use tax on a yacht that had been immobilized in Michigan within 90 days of its purchase. While the court of appeals discussed at length the taxpayer's attempts to avoid paying use tax in any jurisdiction, they ultimately settled on a strict interpretation of their use tax imposition statute, deciding that since the yacht was stored and used in Michigan within 90 days of its purchase, it was subject to Michigan use tax. Podmajersky v. Michigan Dept. of Treas., 2013 BL 214298 (Mich. Ct. App. 2013). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any watercraft (as well as vehicle, ORV, manufactured home, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the National Auto Dealers Association (NADA) valuation guide. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Transfers Between Family Members Michigan exempts transfers from use tax where the transferee or purchaser is the spouse, mother, father, brother, sister, child, stepparent, stepchild, stepbrother, stepsister, grandparent, grandchild, legal ward, or a legally appointed guardian with a certified letter of guardianship, of the transferor. Mich. Comp. Laws 205.93(3)(a); Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Additionally, effective Jan. 1, 2014, transfers of certain vehicles to certain “in-laws” are also exempt from use tax. Mich. Comp. Laws §205.94bb; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018); see also Michigan Internal Policy Directive 2015-1 (May 28, 2015). Specifically, Michigan exempts from sales and use tax the transfer of a vehicle, if the transferee or purchaser is the father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, or grandparent-in-law or the transferor. Vehicles include off-road vehicles, manufactured homes, aircraft, snowmobiles, and watercraft. 2014 Mich. H.B. 5261, retroactively effective, 4bb added, Jan. 1, 2014; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). BNA-SUTN MI 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Sales of water vessel repair and replacement parts are subject to tax. Mich. Comp. Laws §205.93(1). BNA-SUTN MI 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Depends Charges for repair services on water vessels are not subject to tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). However, sales of equipment, materials, and supplies to such persons are taxable. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items are tangible personal property and subject Michigan sales and use tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). BNA-SUTN MI 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Water vessel maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Taxable Fuel purchased for intrastate non-commercial use is subject to Michigan sales and use tax. Mich. Comp. Law § 205.93. A taxpayer that purchases or receives gasoline or diesel from a refiner, pipeline terminal operator, or marine terminal operator, other than a taxpayer that is an exporter or supplier for immediate export, is required to prepay a portion of the sales tax based on a cents-per-gallon rate determined by the Department of Treasury. Mich. Comp. Laws §205.56a(3); Michigan Revenue Administrative Bulletin 2017-7 (May 5, 2017). For Michigan's prepaid sales tax rate applicable to diesel fuel, see the Sales and Use Tax Navigator, at Michigan 30.1.4. For Michigan's prepaid sales tax rate applicable to gasoline, see the Sales and Use Tax Navigator, at Michigan 30.1.6. For information on Michigan's motor fuel tax, see the Excise Taxes Navigator, at Michigan 8. BNA-SUTN MI 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Purchasers of water vessels are subject to Michigan sale and use tax on the purchase price. However, sales of specially ordered vessels, designed for commercial use, and with a registered tonnage of 500 tons or more are exempt from sales and use tax. Mich. Comp. Law § 205.93(2); Mich. Comp. Law § 205.54a(d). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any watercraft (as well as vehicle, ORV, manufactured home, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the National Auto Dealers Association (NADA) valuation guide. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). BNA-SUTN MI 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Sales of repair and replacement parts are subject to tax, with the exception of provisions, supplies, maintenance, and repairs for the exclusive use of those vessels of 500 tons or more, if those vessels travel from a point in Michigan to a destination in another state, are exempt from tax. Mich. Comp. Laws §205.93(1). Sales of bunker and galley fuel, provisions, supplies, maintenance, and repairs for the exclusive use of common carrier vessels of 500 tons or more, if those vessels travel from a point in Michigan to a destination in another state, are exempt from tax. However, sales of such items for the use of vessels operating in foreign commerce are taxable. Mich. Comp. Laws §205.54a(1)(d); Mich. Comp. Laws §205.94(1)(j). BNA-SUTN MI 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Exempt Sales of repair services for the exclusive use of commercial vessels of 500 tons or more, if those vessels travel from a point in Michigan to a destination in another state are exempt from tax. Mich. Comp. Laws §205.54a(1)(d); Mich. Comp. Laws §205.94(1)(j). Repair services for other vessels engaged in interstate commerce would not be subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other tangible personal property sold and delivered in Michigan for operation or maintenance of a water vessel are subject to tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). However, bunker and galley fuel, provisions, supplies, maintenance, and repairs for the exclusive use of a vessel engaged in interstate commerce is exempt from tax. Mich. Comp. Laws §205.54a(1)(d). BNA-SUTN MI 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Water vessel maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Depends Fuel delivered to water vessels in Michigan, other than bunker and galley fuel used by a commercial vessel of 500 tons or more in interstate commerce, is subject to sales and use tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2); Mich. Comp. Laws §205.54a(1)(d); Mich. Comp. Laws §205.94(1)(j). Sales of bunker and galley fuel for the exclusive use of commercial vessels of 500 tons or more, if those vessels travel from a point in Michigan to a destination in another state are exempt from tax. However, sales of such items for the use of vessels operating in foreign commerce are taxable. Mich. Comp. Laws §205.54a(1)(d); Mich. Comp. Laws §205.94(1)(j). A taxpayer that purchases or receives gasoline or diesel from a refiner, pipeline terminal operator, or marine terminal operator, other than a taxpayer that is an exporter or supplier for immediate export, is required to prepay a portion of the sales tax based on a cents-per-gallon rate determined by the Department of Treasury. Mich. Comp. Laws §205.56a(3); Michigan Revenue Administrative Bulletin 2017-7 (May 5, 2017). For Michigan's prepaid sales tax rate applicable to diesel fuel, see the Sales and Use Tax Navigator, at Michigan 30.1.4. For Michigan's prepaid sales tax rate applicable to gasoline, see the Sales and Use Tax Navigator, at Michigan 30.1.6. For information on Michigan's motor fuel tax, see the Excise Taxes Navigator, at Michigan 8. BNA-SUTN MI 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable Purchasers of commercial fishing vessels are subject to Michigan sale and use tax on the purchase price. Mich. Comp. Law § 205.93(2). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any watercraft (as well as vehicle, ORV, manufactured home, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the National Auto Dealers Association (NADA) valuation guide. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). BNA-SUTN MI 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable Sales of repair and replacement parts are subject to sales tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). BNA-SUTN MI 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Sales of maintenance and repairs for the exclusive use of commercial vessels of 500 tons or more, if those vessels travel from a point in Michigan to a destination in another state are exempt from tax. However, sales of such items for the use of vessels operating in foreign commerce are taxable. Mich. Comp. Laws §205.54a(1)(d); Mich. Comp. Laws §205.94(1)(j). BNA-SUTN MI 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Taxable Tangible personal property sold and delivered in Michigan is subject to tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). BNA-SUTN MI 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Water vessel maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Depends Fuel sold and used in commercial fishing operations is subject to sales and use tax. Mich. Comp. Laws § 205.52(1); Mich. Admin. Code r. 205.62(2). A taxpayer that purchases or receives gasoline or diesel from a refiner, pipeline terminal operator, or marine terminal operator, other than a taxpayer that is an exporter or supplier for immediate export, is required to prepay a portion of the sales tax based on a cents-per-gallon rate determined by the Department of Treasury. Mich. Comp. Laws §205.56a(3); Michigan Revenue Administrative Bulletin 2017-7 (May 5, 2017). For Michigan's prepaid sales tax rate applicable to diesel fuel, see the Sales and Use Tax Navigator, at Michigan 30.1.4. For Michigan's prepaid sales tax rate applicable to gasoline, see the Sales and Use Tax Navigator, at Michigan 30.1.6. For information on Michigan's motor fuel tax, see the Excise Taxes Navigator, at Michigan 8. BNA-SUTN MI 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Depends Michigan exempts from sales and use tax tangible personal property used in the direct gathering of fish, by net, line, or otherwise, by an owner-operator of a business enterprise other than a charter fishing business enterprise. Mich. Comp. Laws §205.54a(1)(h), as amended by 2018 Mich. H.B. 4561, effective April 25, 2018; Mich. Comp. Laws §205.94(1)(dd), as amended by 2018 Mich. H.B. 4564, effective April 25, 2018. BNA-SUTN MI 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Depends Purchases of other commercial fishing supplies are subject to sales and use tax. Mich. Comp. Law § 205.131(3). BNA-SUTN MI 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Michigan exempts the sale of rolling stock used in interstate commerce and purchased, rented, or leased by an interstate fleet motor carrier. Mich. Comp. Laws §205.54m; Mich. Comp. Laws §205.54r(1)(b). Sales of rail freight cars, passenger cars, locomotives, or other rolling stock are exempt when used in rail operations. Mich. Comp. Laws §205.54m; Mich. Comp. Laws §205.54r(1)(b); Mich. Comp. Laws §205.94k(4); Mich. Comp. Laws §205.94l. Purchases of railroad freight or passenger cars and locomotives not used in rail operations are subject to sales and use tax as tangible personal property. Mich. Comp. Laws §205.51; Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93. Michigan defines “rolling stock”a qualified truck or trailer designed to be drawn behind a qualified truck. Mich. Comp. Laws §205.54r(2)(d); Mich. Comp. Laws §205.94k(6)(i). A “qualified truck” is a commercial motor vehicle power unit that has two axles and a gross vehicle weight rating in excess of 10,000 pounds. A “qualified truck”can also be a commercial motor vehicle power unit that has 3 or more axles. Mich. Comp. Laws §205.54r(2)(c); Mich. Comp. Laws §205.94k(6)(g). In order for a purchase of rolling stock to qualify for the exemption for rolling stock used in interstate commerce, the purchaser must be an interstate fleet motor carrier, which means that the purchaser is engaged in the business of carrying persons or property, other than themselves, their employees, or their own property, for hire across state lines. Mich. Comp. Laws §205.54r(2)(a); Mich. Comp. Laws §205.94k(6)(d). Purchasers who are not engaged in the business of carrying persons or property do not qualify for this exemption, even if they do transport persons or property as an incidental part of the services they offer. Michigan Administrative Decision 15-005680 (Dec. 20, 2016). BNA-SUTN MI 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Michigan exempts the sale of railroad freight repair parts and materials from sales and use tax, if used in rail operations. Mich. Comp. Laws §205.54m;Mich. Comp. Laws §205.94; Mich. Comp. Laws §205.93. Railroad freight repair parts sold for other purposes are subject to sales and use tax. Mich. Comp. Laws §205.54m;Mich. Comp. Laws §205.94; Mich. Comp. Laws §205.93; see also Mich. Comp. Laws §205.94k(6)(i). BNA-SUTN MI 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Depends Charges for repair work on tangible personal property of others are not subject to tax if separately stated. Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). If the repair work is not separately stated on the invoice, the entire amount charged is subject to tax in Michigan, unless the repair work includes only incidental materials. Mich. Admin. Code r. 205.117(3). Persons regularly engaged in the business of repairing, improving, or altering tangible personal property of others, which includes incidental materials used for such work, render a nontaxable service. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Michigan exempts the sale of railroad freight maintenance parts from sales and use tax, if used in rail operations. Mich. Comp. Laws §205.54m;Mich. Comp. Laws §205.94; Mich. Comp. Laws §205.93. Railroad freight maintenance items sold for other purposes are subject to sales and use tax. Mich. Comp. Laws §205.54m;Mich. Comp. Laws §205.94; Mich. Comp. Laws §205.93; see also Mich. Comp. Laws §205.94k(6)(i). BNA-SUTN MI 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Railroad freight maintenance services are not subject to sales and use tax. Mich. Admin. Code r. 205.117(1). BNA-SUTN MI 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Exempt A sale of fuel used in rail operations is exempt from tax. Mich. Comp. Laws §205.54m; Mich. Comp. Laws §205.93. BNA-SUTN MI 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable Michigan does not impose sales and use tax on the sale of passenger air transportation. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Michigan does not impose sales and use tax on the sale of commercial rail travel. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Michigan does not impose sales and use tax on the sale of commercial water transportation. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Michigan does not impose sales and use tax on the sale of commercial bus transportation. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable Michigan does not impose sales and use tax on taxi or transportation network services. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable Michigan does not impose sales and use tax on the sale of limousine transportation. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable Michigan does not impose sales and use tax on the sale of property transportation. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Michigan does not impose sales and use tax on commercial moving services. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable Michigan does not impose sales and use tax on parking and valet services. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable Michigan does not impose sales and use tax on boat slip and mooring fees. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Nontaxable Towing is not an enumerated taxable service; therefore, it is not subject to tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a BNA-SUTN MI 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Nontaxable Motor vehicle washing is not enumerated as a taxable service; therefore, it is not subject to tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Nontaxable Car detailing is not an enumerated taxable service; therefore, it is not subject to tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+No Guidance Michigan does not address the tax treatment of other transportation property or services. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93a. BNA-SUTN MI 29.15.
+
+==================================================

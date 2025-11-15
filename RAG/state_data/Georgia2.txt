@@ -1,0 +1,459 @@
+State: Georgia
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Georgia Department of Revenue The Georgia Department of Revenue is the agency authorized to administer, collect taxes, issue regulations, prescribe forms, and conduct investigations and hearings that are deemed necessary to administer the tax. Ga. Code Ann. §48-2-1. The Georgia State Revenue Commissioner is responsible for administering the sales and use taxes. Ga. Comp. R. & Regs. r. 560-1-1-.02(1). BNA-SUTN GA 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Georgia Department of Revenue The Georgia Department of Revenue collects and administers the local sales and use taxes in the same manner as the state sales and use taxes. The same procedures and penalties applicable to the state sales and use taxes also apply to the local sales and use taxes. Ga. Code Ann. §48-2-1; Ga. Code Ann. §48-8-87; Ga. Code Ann. §48-8-113; Ga. Code Ann. §48-8-204; Ga. Code Ann. §48-8-104; Ga. Code Ann. §48-8-246. BNA-SUTN GA 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required A vendor or seller must file an application for a certificate of registration for each place of business. Likewise, every person who contracts to furnish tangible personal property and perform services in constructing, altering, remodeling, or improving property within the State of Georgia is required to file an application for a certificate of registration. Ga. Code Ann. §48-8-59(a)(1); Ga. Comp. R. & Regs. r. 560-12-1-.09(2). Each certificate of registration that is issued must be conspicuously displayed at the corresponding place of business. Certificates of registration are not transferable and may only be used at the place designated on the certificate. However, each person whose business spans two or more counties within the state is required to secure only one certificate of registration. This certificate will cover all the business operations throughout Georgia. Ga. Code Ann. §48-8-59; Ga. Comp. R. & Regs. r. 560-12-1-.09(4) – Ga. Comp. R. & Regs. r. 560-12-1-.09(5). All dealers conducting business in Georgia are required to register for a sales and use tax number regardless of whether they make only exempt sales into Georgia. Georgia Letter Ruling LR SUT-2018-10-Software (Aug. 7, 2018). The Department of Revenue may revoke a taxpayer's certificate of registration if any of the following occur:• the taxpayer fails to file required returns; • the taxpayer files a false or fraudulent return; • the taxpayer fails to collect or remit the required tax; and • the taxpayer provides materially false information in the application for a certificate of registration or fails to inform the Department of a material change to the information provided in such application. Ga. Comp. R. Regs. r. 560-12-1-.37(4). BNA-SUTN GA 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor In Georgia, every purchaser of tangible personal property at retail is liable for sales tax on the purchase. Furthermore, the owner of property purchased out-of-state is deemed a dealer upon the first instance of use, consumption, distribution, or storage of the property within Georgia and is liable for use tax. No retail sale is taxable to the retailer or dealer if it is not taxable to the purchaser at retail. Ga. Code Ann. §48-8-30(b)and (c). Vendor/Seller Liability Dealers must collect sales and use tax from purchasers or consumers at the time of the sale or purchase. Dealers are required to remit the sums collected directly to the Commissioner as provided by law. Ga. Code Ann. §48-8-33. Dealers who fail to collect the appropriate amount of sales and use tax are liable for, and must pay, the deficient amount. Ga. Code Ann. §48-8-35. Dealers are also liable for stolen, lost, or misplaced taxes, regardless of fault. Ga. Code Ann. §48-8-30; Ga. Code Ann. §48-8-33; Ga. Code Ann. §48-8-34(a); Ga. Code Ann. §48-8-35; Georgia Comp. R. & Regs. r. 560-12-1-.30. BNA-SUTN GA 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes In Georgia, every purchaser of tangible personal property at retail is liable for sales tax on the purchase. Furthermore, the owner of property purchased out-of-state is deemed a dealer upon the first instance of use, consumption, distribution, or storage of the property within Georgia and is liable for use tax. No retail sale is taxable to the retailer or dealer if it is not taxable to the purchaser at retail. Ga. Code Ann. §48-8-30(b)and (c). Use tax is imposed on certain services and tangible personal property purchased outside of Georgia for use and consumption within Georgia. Ga. Code Ann. §48-8-34(b). BNA-SUTN GA 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes A corporate officer responsible for collecting or paying sales tax may be personally liable for any deficient amounts if he or she willfully fails to collect taxes; fails to truthfully account for and pay taxes to the Commissioner; or willfully attempts to evade an obligation imposed by law. Ga. Code Ann. §48-2-52(a); Ga. Dept. of Rev. v. Moore, 2013 BL 304310 (Ga. 2013). Successor Liability A dealer's successor or assignees must withhold a sufficient amount of the purchase money to cover the amount of taxes, interest, and penalties due and unpaid, until the former owner produces either:• a receipt from the Commissioner showing that the taxes, interest, and penalties have been paid, or • a certificate from the Commissioner stating that no sales and use taxes, interest, or penalties are due. Ga. Code Ann. §48-8-46. Failure of a successor to withhold the required amount will result in the successor's personal liability. Successors are not relieved from this liability even if the Department of Revenue fails to record a lien against the seller's business. Therefore, the responsibility of inquiring into a seller's tax liability rests solely on the potential buyer. Furthermore, successors do not need to buy all of the business assets to incur liability for the tax. Sales of inventory, fixtures, furniture, vehicles and equipment can constitute a sale of the “stock and goods or equipment.” JD Design Group Inc. v. Graham, 646 S.E.2d 227 (Ga. 2007). There is no statute of limitations on successor liability and any personal liability imposed upon the successor is subject to the original statute of limitations period that began once the tax was properly assessed against the original taxpayer. Georgia Tax Tribunal Decision No. TAX-SUT-1526300. BNA-SUTN GA 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Georgia relieves sellers and certified service providers from tax liability to Georgia and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax resulting from the seller or certified service provider relying on erroneous data in the library of definitions section of the Streamlined Sales Tax Governing Board Taxability Matrix for Georgia. Streamlined Sales Tax Governing Board, Certificate of Compliance, Georgia (version 2018.0); Streamlined Sales Tax Governing Board, User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). When Georgia changes its library of definitions section of the Streamlined Sales Tax Governing Board Taxability Matrix, Georgia provides sellers and certified service providers with liability relief for the tax, interest and penalties for having charged and collected the incorrect tax until the first day of the calendar month that is at least 30 days after notice of the change to the Streamlined Sales Tax Governing Board Taxability Matrix for Georgia is submitted to the governing board, provided the seller or certified service provider relied on the prior version of the taxability matrix. Streamlined Sales Tax Governing Board, Taxability Matrix, Georgia (version 2018.0). BNA-SUTN GA 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability In Georgia, a certified service provider is the agent of the seller, and is responsible for the collection and remittance of sales and use tax on transactions the certified service provider processes for the seller. Ga. Code Ann. §48-8-166(a);Streamlined Sales Tax Governing Board, State Guide to the Streamlined Sales Tax Project (March 1, 2019). Georgia relieves certified service providers from tax liability to Georgia and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax resulting from the certified service provider relying on erroneous data provided by Georgia on state and local tax rates, local boundaries, and taxing jurisdiction assignments. Ga. Code Ann. §48-8-71. BNA-SUTN GA 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided The Georgia commissioner makes forms available in print or electronically for the administration and enforcement of sales and use taxes. Ga. Code Ann. §48-8-12. For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. • CRF-002 State Tax Registration Application • ST-2 Certificate of Registration • ST-3 Sales and Use Tax Return • ST-3MF Sales Tax Motor Fuel Return • ST-4 Certificate of Exemption – Out of State Dealer • ST-5 Certificate of Exemption – Georgia Purchaser or Dealer • ST-5M Certificate of Exemption for Manufacturer • ST-6 Certificate of Exemption – Out of State Delivery by the Seller using the Seller's Vehicle • ST-7 Certificate of Exemption – Ships Plying the High Seas • ST-8 Certificate of Exemption for Nonresident Purchase of a Motor Vehicle • ST-12 Claim for Refund • ST-12A Waiver of Vendor's Right for Refund • ST-M7 Application for Certificate of Exemption for Machinery for Reducing or Eliminating Air or Water Pollution • ST-WD1 App. For Certificate of Exemption: Material Handling Equipment for a Warehouse or Distribution Facility • ST-C 214-1 Nonresident Contractors Application for Authorization to Perform • ST-C 214-2 Application for Nonresident Subcontractor's Sales and Use Bond • ST-C 214-3 Nonresident Contractor's Sales and Use Tax Bond • ST-C 214-4 Nonresident Contractor Performance Tax Bond • ST-C 214-5 Notice of General or Prime Contractor of Contract Let to a Subcontractor Returns Individuals and businesses that are required to collect and remit sales and use tax must file return forms with the taxes when they are paid to the Georgia Department of Revenue. Ga. Code Ann. §48-8-49(a). Sales and use tax returns are filed electronically through the Georgia Tax Center, an online system used by the Georgia Department of Revenue to collect sales and use taxes. Quarterly Filing Dealers may file quarterly if their sales and use tax liability was, on average, less than $200.00 per month for a consecutive six month period. Ga. Comp. R. & Regs. r. 560-12-1-.22(2)(a). Annual Filing Dealers may file annually if their sales and use tax liability was, on average, less than $50.00 per month for a consecutive six month period. The annual filing period covers the preceding twelve months and ends on the last day of the calendar year. Ga. Comp. R. & Regs. r. 560-12-1-.22(2)(b). Special Period Filing Dealers may be permitted to file sales and use tax returns on a special period basis other than a monthly or annual filing basis. To file on a special period basis the dealer must submit a written request establishing reasonable grounds for the special period. Ga. Comp. R. & Regs. r. 560-12-1-.22(2)(c). Use Tax Returns Individuals and businesses that use or consume non-exempt tangible personal property without otherwise paying sales tax must file use tax returns. However, Georgia will grant taxpayers a credit against the taxpayer's Georgia use tax liability equal to any amount of sales or use tax previously paid to another state. If the amount of sales or use tax previously paid to another state is not sufficient to cover the use tax due in Georgia, the taxpayer will be required to pay an amount equal to the difference between the two taxes to the Georgia Department of Revenue. Ga. Comp. R. & Regs. r. 560-12-1-.32(1)and (3). Dealers who import or cause to be imported tangible personal property from other states or foreign countries for use or consumption in Georgia must file use tax returns relating to the imported tangible personal property and pay the use tax to the Georgia Department of Revenue. Ga. Code Ann. §48-8-61. Consolidated Sales and Use Tax Returns If an individual or business subject to Georgia sales or use tax has four or more places of business at which the taxpayer engages in transactions subject to tax, the taxpayer may elect to file a consolidated sales or use tax return. Taxpayers who wish to file a consolidated return must request permission from the Commissioner of the Department of Revenue to do so. Ga. Comp. R. & Regs. r. 560-12-1-.13. BNA-SUTN GA 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month A sales or use tax return is considered timely filed if the postmark stamp falls on or before the filing due date. Generally, monthly, quarterly, annual or special period returns are timely when filed on or before 20 days after the reporting period's last day. Ga. Comp. R. & Regs. r. 560-12-1-.22(6)(a). If the due date for filing a sales or use tax return falls on a Saturday, Sunday, legal holiday, or day on which the Federal Reserve Bank is closed, then the return will be considered timely if filed on the next business day. When an emergency impacts tax filing in Georgia, the Department provides deadline relief. Ga. Code Ann. §48-2-39, as amended by 2015 Ga. H.B. 234, effective May 6, 2015; Streamlined Sales Tax Governing Board, Certificate of Compliance, Georgia (version 2018.0); Streamlined Sales Tax Governing Board, Taxability Matrix, Georgia (version 2018.0), revised Feb. 21, 2017. Sales and use tax returns are normally filed on a calendar month basis during the first six months from the date of registration. Following the first six months from the registration date, dealers may be permitted to file sales and use tax returns on a quarterly, annual or special period basis. Ga. Comp. R. & Regs. r. 560-12-1-.22. Monthly Filing Monthly returns generally must be filed on or before the 20th day of the month that follows the close of the preceding month when the taxpayer is not using the Electronic Funds Transfer system. Ga. Comp. R. & Regs. r. 560-12-1-.22(6)(a). See Georgia Dept. of Rev., Sales and Use Tax Due Dates (last visited Oct. 1, 2018). Quarterly Filing Quarterly returns must be filed on or before the 20th day of the month that follows the close of the preceding quarter. First quarter returns are due by April 20th. Second quarter returns are due by July 20th. Third quarter returns are due by October 20th. Fourth quarter returns are due by January 20th. Ga. Comp. R. & Regs. r. 560-12-1-.22(6)(a). Special Period Filing Dealers permitted to file on a special period basis must submit an annual report by November 1st. The annual report should state the specific reporting periods for the next calendar year. Failure to submit the annual reporting periods to the Department may result in the loss of the privilege. Ga. Comp. R. & Regs. r. 560-12-1-.22(2)(c). Final Returns A dealer who sells or discontinues a business must file a final return within fifteen days after the date of disposal or discontinuance. Ga. Code Ann. §48-8-46; Ga. Comp. R. & Regs. r. 560-12-1-.22(8). BNA-SUTN GA 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Generally, monthly, quarterly, annual or special period payments are timely when remitted on or before 20 days after the reporting period's last day. When a remittance is mailed via U.S. post, the post office cancellation date on the envelope is considered the date the return was filed. Ga. Comp. R. & Regs. r. 560-12-1-.22(6). BNA-SUTN GA 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes The commissioner may grant, upon written request, a reasonable extension of time, not to exceed 6 months, for filing returns. Extensions will only be granted for good cause. Ga. Code Ann. §48-2-36(a). BNA-SUTN GA 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Yes In Georgia, in the case of a taxpayer determined by the commissioner to be affected by a presidentially declared disaster or a terroristic or military action, the commissioner may specify a period of up to one year that may be disregarded in determining, under the laws of this state, in respect of any tax liability, fee liability, or other liability of such taxpayer. Ga. Code Ann. §48-2-36(a)(b). 2018 The Georgia Department of Revenue has announced tax filing and tax payment extensions for victims of Hurricane Michael. Eligible taxpayers have until Feb. 28, 2019 to submit applicable tax returns and tax payments with due dates on or after Oct. 9, 2018 to Feb. 28, 2019. Affected taxpayers filing paper returns must write “2018 Hurricane Michael” across the top of any form filed with the department. Taxpayers eligible for tax relief include:• taxpayers affected by Hurricane Michael that reside in or have a principal place of business located in a FEMA designated disaster area; • taxpayers not in the disaster area but whose records are located in the disaster area; • relief workers affiliated with a recognized government or philanthropic organization assisting in relief activities in the disaster area; and • individuals visiting the covered disaster area who were injured or killed as a result of the disaster. Ga. Dept. of Rev., Update:Department of Revenue Extends Relief to Victims of Hurricane Michael (Updated Nov. 8, 2018); Ga. Dept. of Rev., Department Extends Relief to Victims of Hurricane Michael (updated Nov. 8, 2018). 2017 For Hurricane Irma, taxpayers located in designated disaster areas in parts of Georgia, Florida, Puerto Rico, and the U.S. Virgin Islands or having records located in those areas will have until Jan. 31, 2018, to file tax returns or payments having original or extended due dates from Sept. 20, 2017, to Jan. 22, 2018. Georgia Dept. of Rev., *Updated*Department of Revenue Extends Relief to Victims of Hurricane Irma (updated Sept. 19, 2017); Georgia Dept. of Rev., Hurricane Harvey Tax Relief Announcement (Sept. 5, 2017). For Hurricane Harvey, taxpayers located in designated disaster areas in Texas or having records located in those areas will have until Jan. 31, 2018, to file tax returns or payments having original or extended due dates from Aug. 23, 2017, to Jan. 31, 2018. Relief will follow federal guidelines. Georgia Dept. of Rev., *Updated*Department of Revenue Extends Relief to Victims of Hurricane Irma (updated Sept. 19, 2017); Georgia Dept. of Rev., Hurricane Harvey Tax Relief Announcement (Sept. 5, 2017). The Georgia Department of Revenue is providing tax relief to the victims of severe storms and tornadoes that took place beginning on Jan. 2, 2017 in Berrien, Cook, Crisp, Dougherty, Thomas, Turner, Wilcox and Worth Counties. Deadlines for filing returns, tax payments and other time-sensitive acts occurring on or after Jan. 2, 2017 and on or before March 31, 2017 will be postponed until May 31, 2017. This announcement coincides with the relief announcement issued by the Internal Revenue Service. If additional areas are identified by the IRS, relief is also provided to those areas. Georgia Dept. of Rev., DOR Extends Relief to Victims of Severe Storms (updated Feb. 7, 2017). See I.R.S. Press Release, ATL-2017-03:Tax Relief for Victims of Severe Storms, Tornadoes and Straight-line Winds in Georgia (Jan. 26, 2017). 2016 The Georgia Department of Revenue is providing tax relief to victims of Hurricane Matthew. Taxpayers with a business, business records or residence in the following counties are eligible for relief: Brantley, Bryan, Bulloch, Camden, Candler, Chatham, Emanuel, Effingham, Evans, Glynn, Jenkins, Liberty, Long, McIntosh, Pierce, Screven Tattnall, Toombs, Ware, and Wayne. Deadlines for filing returns, paying tax and other time sensitive acts occurring on or after Oct. 4, 2016 will be postponed until March 15, 2017. The department specifically noted that this extension does apply to Georgia sales and use tax. The extension does not apply to IFTA interest, however. Georgia Dept. of Rev., DOR Extends relief to Hurricane Matthew Victims (updated Oct. 31, 2016). BNA-SUTN GA 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers The Commissioner may require EFT payment by any person or business owing more than $1,000.00 in connection with any return, report, or other document pertaining to sales and use tax, required to be filed with the department for tax periods beginning on or after Jan. 1, 2010, and prior to Jan. 1, 2011. Ga. Code Ann. §48-2-32(f)(2.1)(A); Ga. Comp. R. & Regs. r. 560-3-2-.26. The state receives collectable funds on the date such payment is required to be made. Ga. Code Ann. §48-2-32(f)(2.1)(A); Ga. Comp. R. & Regs. r. 560-3-2-.26. In emergency situations, the Commissioner may authorize alternative means of payment in funds immediately available to the state on the date of payment. Ga. Code Ann. §48-2-32(f)(2.1)(A); Ga. Comp. R. & Regs. r. 560-3-2-.26. In addition, for tax periods beginning on or after Jan. 1, 2011 the Commissioner may require that any person or business owing more than $500.00 in connection with any return, report, or other document pertaining to sales tax, use tax, withholding tax, or motor fuel distributor tax required to be filed with the Department of Revenue, must pay any such liability to the state by electronic funds transfer. This will allow the state to receive the collectible funds on the date which payment of such funds is due. In emergency situations, the Commissioner may authorize alternative means of payments in funds immediately available to the state on the date of payment. Ga. Code Ann. §48-2-32(f)(2.1)(B); Ga. Comp. R. & Regs. r. 560-3-2-.26. BNA-SUTN GA 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Required for Certain Taxpayers ACH debit is the primary method that taxpayers must use to submit payment by EFT. ACH credit as a payment method must be requested by the taxpayer and granted by the commissioner on a case-by-case basis. Ga. Comp. R. & Regs. r. 560-3-2-.26(3). BNA-SUTN GA 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+3%, 0.5% Dealers filing accurate and timely returns are entitled to retain a percentage of the tax as compensation. Ga. Comp. R. & Regs. r. 560-12-1-.22(5). For each certificate of registration number on the return, dealers are allowed a deduction in the amount equal to 3 percent of the first $3,000 of the combined total amount of all sales and use tax reported due on the return for each location. Dealers are also allowed a deduction of 0.5 percent of the amount exceeding $3,000 of the combined amount of all sales and use taxes reported for each business location. Ga. Code Ann. §48-8-50(b). Dealers granted the right to file on a special period, quarterly or annual basis are allowed vendor's compensation on the same basis as monthly filers. Ga. Comp. R. & Regs. r. 560-12-1-.22(5). BNA-SUTN GA 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Dealers making exempt sales must have on file for ready inspection by the Commissioner, one of the qualifying Certificates of Exemption, properly executed, and taken in good faith by the seller in order to be relieved of the burden of paying the tax. Ga. Code Ann. §48-8-38, as amended by 2013 Ga. H.B. 266, effective March 5, 2013; Ga. Comp. R. & Regs. r. 560-12-1-.08(2). A certificate relieves a seller from the burden of proof of showing that a sale of tangible personal property is not a sale at resale if the certificate:• is fully completed, including, but not limited to, the name, address, sales tax number, and signature of the taxpayer when required; • is in a form appropriate for the type of exemption claimed; • claims an exemption that was statutorily available on the date of the transaction in the jurisdiction where the transaction is sourced; • claims an exemption that could be applicable to the item being purchased;and • claims an exemption that is reasonable for the purchaser's type of business. Ga. Code Ann. §48-8-38(b); Georgia Letter Ruling SUT-2013-06-13-03 Refunds and Restocking Fees (June 6, 2013) (exemption certificate could be obtained after the time of sale); Georgia Dept. of Rev., Sales and Use Tax FAQ—Nontaxable Sales (last visited Oct. 1, 2018). A resale certificate relieves a seller from the burden of proof if the seller takes in good faith a properly completed certificate from a purchaser who:• is engaged in the business of selling tangible personal property; • lists the purchaser's valid sales tax registration number at the time of purchase on the certificate; and • at the time of purchasing the tangible personal property, the seller has no reason to believe that the purchaser does not intend to resell it in his or her regular course of business. Ga. Code Ann. §48-8-38(c);Georgia Dept. of Rev., Sales and Use Tax FAQ—Nontaxable Sales (last visited Oct. 1, 2018). Consequences of Failing to Obtain Exemption Certificates All sales for which exemptions are claimed but which are not supported by a valid exemption certificate will be deemed sales at retail and the dealer or seller will be liable for the tax, unless otherwise specified. Ga. Comp. R. & Regs. r. 560-12-1-.08(1). Exemption Certificate Substitutions, Data Elements All sales for which exemptions are claimed but which are not supported by a valid exemption certificate will be deemed sales at retail, thus an exemption certificate may not be substituted. Ga. Comp. R. & Regs. r. 560-12-1-.08(1). State Specific Exemption Certificates The following are the qualifying Certificates of Exemption:• Form ST-4 -This Certificate is used by out-of-state dealers purchasing tangible personal property in Georgia for resale in another state. • Form ST-5 - This Certificate is used by registered Georgia dealers and Georgia purchasers coming under the provisions of this Act, and shall indicate the reason for the exemption. • Form ST-6 - This Certificate is used by Georgia dealers for deliveries made outside of Georgia by the seller. • Form ST-7 - This Certificate is used for purchases of fuels and supplies for use and consumption aboard ships plying the high seas either in intercoastal trade between ports in Georgia and ports in other states, or in foreign commerce. • Form ST-8 - This Certificate is issued by the Commissioner for purchasing motor vehicles by nonresidents who qualify for exemption under Ga. Comp. R. & Regs. r. 560-12-2-.09(2)(b). • ST-M2 - This Certificate is issued by the Commissioner for purchasing specific manufacturing machinery which qualifies for exemption under Ga. Comp. R. & Regs. r. 560-12-2-.62. • ST-M8 - This Certificate is issued by the Commissioner for purchasing specific machinery and equipment for reducing air or water pollution which qualifies for exemption under Ga. Comp. R. & Regs. r. 560-12-2-.87. • ST-FM1 - This Certificate is used for purchasing specific farm machinery and certain equipment that qualifies for exemption. • ST-NH2 - This Certificate is used by certain Nursing Homes, General or Mental Hospitals for purchasing tangible personal property qualifying for exemption under Ga. Comp. R. & Regs. r. 560-12-2-.92. • ST-UCS-1 - Letter of Authorization: This Certificate of Exemption, Letter of Authorization, is used by the subject college, university, secondary or elementary school for purchasing only tangible personal property described in the letter. Ga. Comp. R. & Regs. r. 560-12-1-.08(2)(a)-(j). • GATE -The Georgia Agriculture Tax Exemption certificate is issued by the Department of Agriculture and allows qualifying agriculture producers a sales tax exemption on certain agricultural equipment and inputs. Ga. Comp. R. & Regs. r. 40-29-.02, as amended, effective Oct. 1, 2018. BNA-SUTN GA 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Depends Most certificates of exemption and letters of authorization do not expire;however, the Georgia Agricultural Tax Exemption (GATE) certificate expires annually. Georgia Dept. of Rev., Sales and Use Tax FAQ—Nontaxable Sales (last visited Oct. 1, 2018). Georgia Form ST-5 remains valid until revoked in writing. See Georgia Form ST-5. Retention Periods All dealers must maintain certificates of exemption for three years after the date the return is filed. However, if an assessment has been made and an appeal is pending, books and records must be maintained until the final disposition of the appeal. Ga. Code Ann. §48-8-52(a); Ga. Comp. R. & Regs. r. 560-12-1-.23(1). BNA-SUTN GA 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted Georgia accepts the Multistate Tax Commission Uniform Sales and Use Certificate. Multistate Tax Commission, Uniform Sales & Use Tax Certificate - Multijurisdiction Form. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 states have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the States that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. Georgia accepts the MTC Form. Multistate Tax Commission, Uniform Sales & Use Tax Certificate - Multijurisdiction Form. BNA-SUTN GA 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted Georgia is a member of the Streamlined Sales Tax Agreement, thus sellers may use the SST multistate certificate of exemption SSTGB Form F0003. Ga. Comp. R. & Regs. r. 560-12-1-.08(2)(b); Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN GA 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted Georgia does not have any other provisions regarding multistate certificates. See Ga. Comp. R. & Regs. r. 560-12-1-.08. BNA-SUTN GA 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes Effective March 5, 2013, the seller must act in good faith in the acceptance of an exemption certificate. The good faith standard must be analyzed on a case-by-case basis. Georgia Letter Ruling SUT 2013-10-04-01 Documentation Issues (Oct. 4, 2013). An exemption certificate is accepted in good faith when the seller obtains from the purchaser:• a certificate that is fully completed; • a certificate that is in a form appropriate for the type of exemption claimed; • a certificate claiming an exemption that is statutorily available on the date of the transaction in the jurisdiction to which the transaction is sourced; • a certificate that is claiming an exemption that could be applicable to the item being purchased; and • a certificate that is claiming an exemption that is reasonable for the purchaser's type of business. Ga. Code Ann. §48-8-38(b); see Georgia Letter Ruling SUT 2017-16 Exemption Documentation (Nov. 30, 2017). For resale certificates, good faith additionally requires that the seller acquires a properly completed certificate from the purchaser and that:• the purchaser is engaged in the business of selling tangible personal property; • the purchaser has a valid sales tax registration number at the time of purchase and includes that registration number on the certificate;and • the seller has no reason to believe that the purchaser does not intend to resell the items purchased in his or her regular course of business. Ga. Code Ann. §48-8-38(c); see Georgia Letter Ruling SUT 2017-16 Exemption Documentation (Nov. 30, 2017). Prior to March 5, 2013, sellers were relieved of liability for transactions when they accepted fully completed exemption certificates from manufacturers. After March 5, 2013, all sellers must exercise good faith when accepting exemption certificates. Georgia Letter Ruling SUT 2013-10-04-01 Documentation Issues (Oct. 4, 2013). BNA-SUTN GA 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+No Specific Time Period Georgia has no guidance related to the timely acceptance of exemption certificates. If an exemption certificate is not provided, the transaction is presumed taxable unless otherwise exempt under state law. See Ga. Comp. R. & Regs. r. 560-12-1-.08. BNA-SUTN GA 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years Dealers making exempt sales must have on file for ready inspection by the Commissioner, one of the qualifying Certificates of Exemption, properly executed, and taken in good faith by the seller in order to be relieved of the burden of paying the tax. Records must be maintained for no less than three years. Ga. Code Ann. §48-8-38; Ga. Code Ann. §48-8-52(a)(1)(D); Ga. Comp. R. & Regs. r. 560-12-1-.08(2); Ga. Comp. R. & Regs. r. 560-12-1-.23. BNA-SUTN GA 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required All gross receipts of a seller are subject to the sales tax unless a properly completed exemption certificate is accepted by the seller. Ga. Comp. R. & Regs. r. 560-12-1-.08(1). BNA-SUTN GA 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required All gross receipts of a seller are subject to the sales tax unless a properly completed exemption certificate is accepted by the seller. Ga. Comp. R. & Regs. r. 560-12-1-.08(1). BNA-SUTN GA 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required All gross receipts of a seller are subject to the sales tax unless a properly completed exemption certificate is accepted by the seller. Ga. Comp. R. & Regs. r. 560-12-1-.08(1). BNA-SUTN GA 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized When the Commissioner deems it impractical or inequitable for a taxpayer to pay sales and use tax separately, the taxpayer may be given a direct-pay permit. Ga. Comp. R. & Regs. r. 560-12-1-.16. Prior to Jan. 1, 2017, there is no state specific application form. Instead, the permit is obtained by a written application whereby the taxpayer obligates itself to report and pay sales and use taxes on all taxable purchases of property and services directly to the Commissioner. Ga. Comp. R. & Regs. r. 560-12-1-.16. However, permits issued prior to Dec. 31, 2016 that are not issued through the Georgia Tax Center will expire and cannot be used to make purchases after that date. Direct pay permits issued through the Tax Center will become effective on Jan. 1, 2017, or the date of issuance, whichever is later. Ga. Comp. R. & Regs. r. 560-12-1-.16(2), effective April 24, 2016. Taxpayers must satisfy the following conditions to obtain a direct pay permit through the Georgia Tax Center:• have purchased more than $2 million of tangible personal property in the 12 months prior to the application, or have purchased an annual average amount exceeding $2 million of tangible personal property during the 36 months prior to the application; • be classified on the previous year's federal income tax return under one of nine North American Industry Classification System (NAICS)codes: ○ National Industry Code 517110 - Wired Telecommunications Carriers, ○ National Industry Code 517210 - Wireless Telecommunications Carriers (except Satellite), ○ National Industry Code 517410 - Satellite Telecommunications, ○ NAICS Industry Code 48111 - Scheduled Air Transportation, ○ NAICS Industry Code 48211 - Rail Transportation, ○ Industry Group Code 4841 - General Freight Trucking, ○ Economic Sector Code 21 - Mining, Quarrying, and Oil and Gas Extraction, ○ Economic Sector Code 22 - Utilities, or ○ Economic Sector Codes 31 - 33, Manufacturing. • complete the application form online; • agree to waive interest on refunds of sales and use tax remitted for purchases made on or after Jan. 1, 2017 without the payment of tax to a vendor;and • attest that the taxpayer can comply with sales and use tax laws and reporting requirements, is not delinquent on any tax filings, that direct payment will benefit the taxpayer's compliance and reduce administrative work regarding collection, verification, calculation or remittance of the tax, and that direct payment will improve overall compliance and result in improved accuracy. Ga. Comp. R. & Regs. r. 560-12-1-.16(3), effective April 24, 2016. Beginning Jan. 1, 2017, taxpayers permitted to report under this rule will furnish each seller of tangible personal property or taxable services with a photographic copy of its permit, unless the taxpayer has previously furnished the permit to the vendor and that permit if valid at the time of re-application. Ga. Comp. R. & Regs. r. 560-12-1-.16(7), effective April 24, 2016. Direct pay permits may not be used for the following beginning Jan. 1, 2017:• purchases of fuel subject to prepaid local tax defined in Ga. Code Ann. §48-8-2; • purchases of meals, beverages or tobacco; • purchases of local telephone services, transportation of persons, or lodging accommodations and associated ancillary charges; • purchases of admissions to places of amusement, entertainment, athletic events, displays or exhibitions, participation in games or sports, or charges for amusement devices; and • rental charges for periods of 31 or fewer consecutive days of motor vehicles. Ga. Comp. R. & Regs. r. 560-12-1-.16(6), effective April 24, 2016. BNA-SUTN GA 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years Georgia law requires every vendor to maintain sales records for a period of no less than three years. Ga. Code Ann. §48-8-52(a)(1); Ga. Comp. R. & Regs. r. 560-12-1-.23. Vendors are required to keep and preserve:• suitable records of taxable sales and purchases; • other books of account which are necessary to determine the amount of tax due; • other information as required by the Commissioner; • a complete inventory of the stock on hand and it value, taken at least once a year; and • for a period of three years, all invoices and other records of goods, ware, merchandise, and other taxable items. Ga. Code Ann. §48-8-52(a)(1); Ga. Comp. R. & Regs. r. 560-12-1-.23. All records and books must be available for examination by the Commissioner or any of his authorized agents. If the vendor has imported tangible personal property and did not keep adequate records, the Commissioner will determine the purchase price in any manner and then assess and collect the tax on the true purchase price of the property. Ga. Code Ann. §48-8-52. Wholesale Dealer Records Every wholesale dealer or jobber in Georgia must keep a record of all sales of tangible personal property made in Georgia whether the sales are for cash or on terms of credit. The record must contain the name and address of the purchaser, the date of the purchase, the article purchase, and the price at which the article is sold to the purchaser. The records are to be kept for three years and open to inspection by the Commissioner or any of his authorized agents. Ga. Code Ann. §48-8-53. BNA-SUTN GA 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both A dealer may file a claim for refund of erroneously or illegally assessed and collected taxes within the three-year statute of limitations from the date of payment of tax. Ga. Code Ann. §48-2-35(c). In order to secure a refund, a dealer must affirmatively show that the tax was paid by the dealer and not by the consumer or that such tax was collected from the consumer as tax and will be refunded to the consumer before the dealer receives the refund from the state. The Supreme Court of Georgia has ruled that the term “secure a refund” should not be construed to mean “apply for a refund” but rather means “acquire a repayment.”Based on this construction, a dealer is not required to repay funds prior to filing a refund claim on behalf of its consumers, but must repay funds prior to receiving repayment from the state. Ga. Comp. R. & Regs. r. 560-12-1-.25(2). See, e.g. New Cingular Wireless Pcs. LLC v. Georgia Dept. of Rev., Ga. Ct. App., No. S17G1256., 2018 BL 132688, April 16, 2018, reversing in part, vacating in part, and remanding with direction New Cingular Wireless Pcs. LLC v. Georgia Dept. of Rev., Ga. Ct. App., No. A16A2003., 2017 BL 52012, Feb. 21, 2017. Dealers should use Form ST-12 to request a refund. Ga. Comp. R. & Regs. r. 560-12-3-.17. Taxpayers required to file and pay their taxes electronically must also file refund claims electronically. Ga. Code Ann. §48-2-35(g), as added by 2015 Ga. H.B. 960, effective July 1, 2016; Ga. Comp. R. & Regs. r. 560-3-2-.26(7)(d), effective July 1, 2016. See Georgia Policy Bulletin SUT-2016-02. In addition, any person that has mistakenly or illegally paid sales taxes to a dealer that remitted the taxes to the state may file a claim for refund either initially with the commissioner or, alternatively, elect to seek a refund from the dealer, by submitting a written request for refund to the dealer, and file a claim for refund with the commissioner after being unable to obtain a refund from such dealer. The taxpayer must submit a notarized form attesting to the fact that the dealer will not seek a refund or credit of the taxes at issue. The dealer must also agree to provide all of the necessary documentation to verify that the dealer has remitted the tax at issue to the state. Ga. Code Ann. §48-2-35.1(d), as amended by 2013 Ga. S.B. 137, effective May 6, 2013. Cause of Action If a claim is denied or is not decided by the Commissioner within one year from the date of filing the claim, resident taxpayers may file a cause of action in a Superior Court of the county in which the taxpayer resides. Public utilities and nonresidents may file a cause of action in the county in which the taxpayer's principle place of business, or office of the highest corporate employee, within the state is located. Nonresident individuals and foreign corporations may only file a cause of action within Fulton County or in the Superior Court of the county in which the Commissioner in office at the time of the action is filed resides. Ga. Code Ann. §48-2-35(c)(4). No action or proceeding may be brought for the recovery of a refund before one year passes from the date of filing a claim for such refund, unless the Commissioner or the Commissioner's delegate renders a decision on the claim for refund within the year's time. Furthermore, no action or proceeding may be commenced after the later of:• the expiration of two years from the date the claim for refund was denied; or • if a valid protest is filed protesting the denial of the refund, 30 days after the Department of Revenue's ruling on such protest. Ga. Code Ann. §48-2-35(c)(6)(A). However, the statute of limitations may be extended by a time mutually agreeable to both the taxpayer and the Commissioner of Revenue. Such agreement must be in writing and be completed prior to the running of the statute of limitations or any extension thereto. Ga. Code Ann. §48-2-35(c)(6)(B); Collins v. Columbus Foundries Inc., 425 S.E.2d 281 (Ga. 1993). Interest on Refund Amounts Beginning July 1, 2016, all refund amounts will include interest at annual rate equal to the bank prime loan rate as posted by the Board of Governors of the Federal Reserve System, plus 3 percent. Interest accrues monthly, beginning on the date the tax was paid. Prior to July 1, 2016, interest was refunded at the rate of 1 percent per month. Ga. Code Ann. §48-2-35(a), as amended by 2015 Ga. H.B. 960, effective July 1, 2016. However, if a certificate or exemption determination letter issued by the Commissioner certifying that the purchaser is entitled to purchase tangible personal property or taxable services without the payment of sales and use tax has not been obtained and used prior to purchasing such tangible personal property or taxable services, a refund of sales and use taxes will be made without interest. Ga. Code Ann. §48-2-35.1(a). The Georgia Tax Tribunal On Jan. 1, 2013, the Georgia Tax Tribunal (GTT)began its operations to handle state tax disputes that cannot be resolved informally before the Department of Revenue. The Tribunal is completely separate from and independent of the Department of Revenue and while the Tribunal may resemble a judicial court, it is actually part of the executive branch of state government. A small claims case election is available if certain threshold amounts are not exceeded. Filing a petition with the GTT generally operates as a stay of enforcement or collection activity until the case is finalized. All decisions of the Tribunal (with the exception of small claims cases) may be appealed to the Superior Court of Fulton County. Ga. Code Ann. §48-2-59, as amended by 2012 Ga. H.B. 100, effective Jan. 1, 2013 (cases pending on Jan. 1, 2013 are governed by the law in effect on Dec. 31, 2012); Ga. Code Ann. §50–13A-2, as added by 2012 Ga. H.B. 100, effective July 1, 2012 (applicable to proceedings beginning after Jan. 1, 2013). Tourism Development Refund A refund of state and local sales and use tax remitted is available to approved companies that build new tourism attractions or expand existing attractions in Georgia pursuant to the Tourism Development Act. An approved company is one that has entered an agreement with the Department of Community Affairs to undertake a Tourism Attraction Project that has opened to the public and has become operational as a tourism attraction. Ga. Comp. R. & Regs. r. 560-12-2-.116. For new attractions, an annual sales and use tax refund is available for state and local taxes remitted during the calendar year immediately preceding the date of filing the refund claim. Ga. Comp. R. & Regs. r. 560-12-2-.116(3)(a); Ga. Comp. R. & Regs. r. 560-12-2-.116(2)(b). For an expansion of an existing tourism attraction, an incremental sales and use tax refund is available for taxes remitted. The incremental sales and use tax refund is calculated as the difference between a) post-expansion sales tax remitted from the date of completion of expansion construction through the end of the calendar year immediately preceding the date of filing the incremental sales and use tax refund claim, and b) pre-expansion sales tax remitted for that portion of the 12-month period preceding the commencement of expansion construction that corresponds to the post-expansion period. Ga. Comp. R. & Regs. r. 560-12-2-.116(3)(a); Ga. Comp. R. & Regs. r. 560-12-2-.116(2)(g). A tourism development refund is granted to an approved company for a period of ten years commencing on the date a new tourism attraction opens for business and begins collecting sales and use taxes or, for an expansion of an attraction, the date construction is completed. Ga. Comp. R. & Regs. r. 560-12-2-.116(3)(c). BNA-SUTN GA 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years A taxpayer may file a claim for a refund within three years after the date of an overpayment. Ga. Code Ann. §48-2-35(c)(1)(A). BNA-SUTN GA 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years Additional sales and use taxes must be assessed within three years after the return is filed. However, the taxpayer and the Commissioner may agree to extend the three year statute of limitations. Ga. Code Ann. §48-2-49(b)and (d). This agreement must be in writing, stating the duration of the additional time, and must be reached prior to the running of the statute of limitations to assess additional sales tax. This additional period may be extended, if need be, by subsequent agreements between the Commissioner and the tax payer. Furthermore, additional assessments may be made at any time if the taxpayer fails to file a return or if the taxpayer files a false or fraudulent return with the intent to evade tax. For purposes of this rule, any returns filed early are deemed filed on the last day prescribed for the filing of the return. Ga. Code Ann. §48-2-49(b)-(d). BNA-SUTN GA 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Georgia may imposes a range of civil penalties for violation of the rules and regulations relating to sales and use taxes. Ga. Comp. R. & Regs. r. 560-12-1-.22(7); Ga. Code Ann. §48-2-32(e)(1); Ga. Code Ann. §48-8-66. Untimely Filing Any return or remittance that is deemed delinquent will result in the loss of vendor's compensation and will accrue penalties and interest. Ga. Comp. R. & Regs. r. 560-12-1-.22(7). If a dealer fails to file a return, or pay the full amount of tax, a penalty is added to the tax of 5 percent or $5, whichever is greater. This penalty accrues every 30 days, or fraction of 30 days during which the failure continues. However, the penalty for any single violation shall not exceed 25 percent or $25 in the aggregate, whichever is greater. Ga. Code Ann. §48-8-66. On occasion vendors will be unable to file a timely return as the result of providential causes out of the vendor's control. In this event, the vendor should attach an affidavit to the return that sets forth the facts and circumstances relating to the failure to file. Georgia has not defined what providential causes will excuse an untimely filing. However, the statute generally states that so long as the return is filed within 10 days, and the Commissioner finds the affidavit satisfactory, the return may be accepted exclusive of penalties and interest. Ga. Code Ann. §48-8-66. Bad Checks When a check or money order is not paid, a penalty of 2 percent of the amount of the check or money order is charged. If, however, the amount for the check or money order is less than$1,250 then the penalty is $25. This penalty is in addition to any other penalties provided by law. Ga. Code Ann. §48-2-32(e)(1). Good Faith Exception The bad check penalty will not apply if the vendor can establish, to the Commissioner's satisfaction, that the check or money order was tendered in good faith and with reasonable cause to believe it would be duly paid. Ga. Code Ann. §48-2-32(e)(2). False or Fraudulent Returns In the case of false or fraudulent return, a penalty of 50 percent of the tax due is assessed. Ga. Code Ann. §48-8-66. Frivolous Refund Claims Any taxpayer who frivolously files a sales and use tax claim for refund will be subject to a penalty of 20 percent of the excessive amount. Generally, the most important factor in determining whether a taxpayer filed the claim for refund in good faith is the extent of the taxpayer's effort to assess the taxpayer's proper tax liability. Circumstances that may indicate good faith include an honest misunderstanding of fact or law that is reasonable in light of all the facts and circumstances relevant to the taxpayer, including experience, knowledge, and education. Further, an isolated computational or transcriptional error generally is not inconsistent with good faith. Ga. Code Ann. §48-2-35.1(c)(2). Collection Costs The Department will assess a collection fee equaling 20 percent of the assessed liability, in addition to other penalties and fees, when issuing a Notice of State Tax Execution. Ga. Code Ann. §48-16-10(a); Ga. Comp. R. & Regs. r. 560-1-2-.02. BNA-SUTN GA 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Georgia may imposes a range of criminal penalties for violation of the rules and regulations relating to sales and use taxes. Ga. Code Ann. §48-8-37(b); Ga. Code Ann. §48-8-7(b); Ga. Code Ann. §48-8-9. Tax Absorption No retailer may represent to the public, directly or indirectly, that the vendor will either absorb all or any part of the tax due upon sale, or relieve the purchaser of the payment of all or any part of the tax imposed under law. Ga. Code Ann. §48-8-36. Any person who does so will be guilty of a misdemeanor and, upon conviction, will be punished by a fine ranging from $25 to $250. In addition, the vendor may be imprisoned in the county jail for up to three months. Any person who is convicted of a second or subsequent violation of this rule will be punished by a fine of $500 and may be imprisoned for up to six months. Ga. Code Ann. §48-8-37(b). Failure to Collect Tax Where a dealer knowingly and willfully fails or refuses to collect sales and use tax either by him- or herself or through agents, the dealer may be guilty of a misdemeanor of a high and aggravated nature. In addition to the penalty of being liable for and paying the tax, the dealer, upon conviction, may be punished with a fine of not more than $5,000 and imprisonment for not more than one year. Subsequent convictions will be for a felony and may result in a fine up to $10,000 or imprisonment for up to five years, or both. Ga. Code Ann. §48-8-7. Failure to File a Return It is unlawful for any dealer to knowingly and willfully fail or refuse to furnish a return, supplemental return, or other data required by the commissioner. Vendors who fail to furnish the required return materials may be guilty of a misdemeanor of a high and aggravated nature. If convicted, the dealer may be punished with a fine of not more than $5,000 and may be imprisoned for up to one year, or both. Subsequent convictions will be for a felony and may result in a fine of not more than $10,000 or imprisonment up to five years, or both. Ga. Code Ann. §48-8-9. Additionally, a penalty of 50 percent of the tax due may be assessed, which is payable to the Department of Revenue. Ga. Code Ann. §48-8-66. Failure to Keep Records If a dealer, wholesale dealer, or jobber fails to keep records or open its records for inspection the dealer may be guilty of a misdemeanor. Ga. Code Ann. §§48-8-53, 54. Frivolous Refund Claims Any taxpayer who frivolously files a sales and use tax claim for refund will be subject to a penalty of 20 percent of the excessive amount. Generally, the most important factor in determining whether a taxpayer filed the claim for refund in good faith is the extent of the taxpayer's effort to assess the taxpayer's proper tax liability. Ga. Code Ann. §48-2-35.1(c)(2). Circumstances that may indicate good faith include an honest misunderstanding of fact or law that is reasonable in light of all the facts and circumstances relevant to the taxpayer, including experience, knowledge, and education. Further, an isolated computational or transcriptional error generally is not inconsistent with good faith. Ga. Code Ann. §48-2-35.1(c)(2). Refund Claims Filed in Bad Faith In addition to penalties imposed for frivolous refunds, when all or part of the excessive amount of the claim for refund is based upon a position which is knowingly and willfully advanced in bad faith and is patently improper, the taxpayer is guilty of a misdemeanor and, upon conviction, may be punished by a fine up to$1,000. Ga. Code Ann. §48-2-35.1(c)(3). BNA-SUTN GA 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes Georgia may waive the collection of penalties if the default was due to a reasonable cause and not due to gross or willful neglect or disregard of the law. Ga. Code Ann. §48-2-43. BNA-SUTN GA 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Annually. In Georgia, the interest rates assessed on underpayments and overpayments of tax are determined annually. Ga. Code Ann. §48-2-40, as amended by 2016 Ga. H.B. 960, effective July 1, 2016. Neither underpayment interest nor overpayment interest is subject to compounding in Georgia. Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Prime Rate + 3% The Georgia interest rate on underpayments of tax in a given year is determined by adding 3 percent to the prime rate in effect at the first weekly posting of statistical release H.15 by the Federal Reserve on or after Jan. 1 of that same year. Ga. Code Ann. §48-2-40, as amended by 2016 Ga. H.B. 960, effective July 1, 2016. Georgia Informational Bulletin SUT-16-02 (Jul. 1, 2016). Prior to Jul. 1, 2016, interest accrued at the rate of 12 percent (1 percent per month). Georgia Informational Bulletin SUT-16-02 (Jul. 1, 2016). Interest is imposed on any unpaid tax from the last date prescribed for payment until the date paid. The last date prescribed for payment is determined without regard to any extension of time for payment or jeopardy assessment before the last date prescribed for payment. Ga. Code Ann. §48-7-81. In Georgia, any return or remittance that is deemed delinquent will result in the loss of vendor's compensation and penalties and interest will accrue. Ga. Comp. R. & Regs. r. 560-12-1-.22(7). BNA-SUTN GA 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:7.5% 2Q:7.5% 3Q:7.5% 4Q:7.5% In 2018, the Georgia interest rate on underpayments of tax is 7.5 percent. Ga. Code Ann. §48-2-40; Georgia Policy Bulletin ADMIN-2018-01 (Jan. 1, 2018). BNA-SUTN GA 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:6.75% 2Q:6.75% 3Q:6.75% 4Q:6.75% In 2017, the Georgia interest rate on underpayments of tax is 6.75 percent. Ga. Code Ann. §48-2-40, as amended by 2015 Ga. H.B. 960, effective July 1, 2016; Georgia Policy Bulletin ADMIN-2017-01 (Jan. 1, 2017). BNA-SUTN GA 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:1% monthly 2Q:1% monthly 3Q:6.5% annually 4Q:6.5% annually In 2016, the Georgia interest rate on underpayments of tax is 12 percent for the first and second quarters, and 6.5 percent for the third and fourth quarters. Ga. Code Ann. §48-2-40, as amended by 2015 Ga. H.B. 960, effective July 1, 2016; Georgia Policy Bulletin SUT-2016-02 (July 1, 2016). BNA-SUTN GA 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2015, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2014, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2013, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2012, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2011, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2010, the Georgia interest rate on underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2009, the Georgia interest rate for underpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-40. BNA-SUTN GA 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Prime Rate + 3% The Georgia interest rate on overpayments of tax in a given year is determined by adding 3 percent to the prime rate in effect at the first weekly posting of statistical release H.15 by the Federal Reserve on or after Jan. 1 of that same year. Ga. Code Ann. §48-2-35(a), as amended by 2016 Ga. H.B. 960, effective July 1, 2016. Georgia Informational Bulletin SUT-16-02 (Jul. 1, 2016). Prior to July 1, 2016, interest was refunded at the rate of 12 percent (1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:7.5% 2Q:7.5% 3Q:7.5% 4Q:7.5% In 2018, the Georgia interest rate on overpayments of tax is 7.5 percent. Ga. Code Ann. §48-2-35(a); Georgia Policy Bulletin ADMIN-2018-01 (Jan. 1, 2018). BNA-SUTN GA 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:6.75% 2Q:6.75% 3Q:6.75% 4Q:6.75% In 2017, the Georgia interest rate on overpayments of tax is 6.75 percent. Ga. Code Ann. §48-2-35(a), as amended by 2015 Ga. H.B. 960, effective July 1, 2016; Georgia Policy Bulletin ADMIN-2017-01 (Jan. 1, 2017). BNA-SUTN GA 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:1% monthly 2Q:1% monthly 3Q:6.5% annually 4Q:6.5% annually In 2016, the Georgia interest rate for overpayments of tax is 12 percent for the first and second quarters, and 6.5 percent for the third and fourth quarters. Ga. Code Ann. §48-2-35(a), as amended by 2015 Ga. H.B. 960, effective July 1, 2016; Georgia Policy Bulletin SUT-2016-02 (July 1, 2016). BNA-SUTN GA 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2015, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2014, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2013, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2012, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2011, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2010, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2009, the Georgia interest rate on overpayments of tax is 12 percent(1 percent per month). Ga. Code Ann. §48-2-35(a). BNA-SUTN GA 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Georgia did not have a tax amnesty program in 2018. BNA-SUTN GA 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Georgia did not have a tax amnesty program in 2017. BNA-SUTN GA 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Georgia did not have a tax amnesty program in 2016. BNA-SUTN GA 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Georgia did not have a tax amnesty program for 2015. BNA-SUTN GA 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Georgia did not have a tax amnesty program in 2014. BNA-SUTN GA 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Georgia did not have a tax amnesty program in 2013. BNA-SUTN GA 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Georgia did not have a tax amnesty program in 2012. BNA-SUTN GA 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+Yes Effective Jan. 1, 2011, Georgia became an associate member of the Streamlined Sales Tax Agreement. Under this Agreement, a seller who registered to pay or to collect and remit applicable sales or use tax on sales made to purchasers in Georgia in accordance with the terms of the Agreement was relieved from the obligation to remit uncollected sales tax, provided that the seller was not registered to collect and remit sales or use tax in Georgia in the 12-month period preceding the effective date of the state's participation in the Agreement. Ga. Code Ann. §48-8-76(a)-(f);Streamlined Sales Tax Governing Board, Important Documents, Georgia. This amnesty precluded an assessment for uncollected or unpaid sales tax together with penalty or interest for sales made during the period the seller was not registered in the state, provided that the registration occurred within 12 months of the effective date of the state's participation in the agreement. This amnesty relief was subject to the following provisions:• Amnesty was not available to a seller with respect to any matter for which the seller received notice of the commencement of an audit which had to be resolved, including any related administrative and judicial processes. • Amnesty was not available with regard to sales or use taxes already paid or remitted to Georgia or to taxes collected by the seller. • Amnesty was fully effective, absent fraud or intentional misrepresentation, so long as the seller continued registration and continued payment or collection and remittance of applicable sales or use taxes for a period of at least 36 months. The statute of limitations applicable to asserting a tax liability was tolled during this 36 month period. • Amnesty was only applicable to sales or use taxes due from a seller in its capacity as a seller and not to sales or use taxes due from a seller in its capacity as a buyer. Ga. Code Ann. §48-8-76(a)-(f);Streamlined Sales Tax Governing Board, Important Documents, Georgia. While it may have been to a seller's benefit to take advantage of amnesty in Georgia, it could have resulted in exposure in other states. A Voluntary Disclosure Agreement may have provided the same benefits as participation in the amnesty program. If a company did not participate in the Georgia amnesty program, the company would've had to register and comply with other states participating in the Streamlined Sales Tax Agreement. BNA-SUTN GA 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Georgia did not have a tax amnesty program in 2010. BNA-SUTN GA 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No Georgia did not have a tax amnesty program in 2009. BNA-SUTN GA 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The Georgia Department of Revenue has implemented a voluntary disclosure program. See Georgia Dept. of Rev., Voluntary Disclosure Agreements (last visited Oct. 1, 2018). The voluntary disclosure program is administered by the Department of Revenue's Compliance Research Unit. To determine if a person is eligible for the program, the Department requires a look-back period. A look-back period is normally three years, but it depends on the nature of the company's or individual's activities and the size of past year's potential tax liabilities submitted on the application. Whether the penalties for taxes due for the period of non-filing are waived depends on the certainty of nexus, the size of the liability, and the explanation for the failure to file. However, the interest on the amount due for taxes for the look-back period cannot be waived. See Georgia Dept. of Rev., Voluntary Disclosure Agreements (last visited Oct. 1, 2018). BNA-SUTN GA 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+3 years The Georgia look-back period will usually be for a minimum of three years for all tax types. However, the length of the look-back period will depend on the nature of the company's activities and the size of past years' potential tax liabilities as submitted in the application. For corporate income tax, the look-back period also depends upon the existence of a net operating loss during the period. Ga. Code Ann. §48-2-49;Georgia Dept. of Rev., Voluntary Disclosure Agreements (last visited Oct. 1, 2018). BNA-SUTN GA 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Georgia participates in the Multistate Voluntary Disclosure Program (MVDP)which allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Georgia may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN GA 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized Sales and use taxes must be assessed within three years after the return is filed. Ga. Code Ann. §48-8-49(b). The Commissioner will make an estimate for the taxable period of retail sales of the dealer when any dealer fails to make a return and pay the tax or submits a grossly incorrect return or a return that is false or fraudulent. The Commissioner can also make assessments on the tax return of dealers who import tangible personal property or deal in rentals or leases. Ga. Code Ann. §48-8-51(b). BNA-SUTN GA 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted A taxpayer that disagrees with a final assessment may file an appeal with the Georgia Tax Tribunal or in the appropriate superior court. Ga. Code Ann. §48-2-59(a) and (b). Appeals to the tribunal or superior court must be filed as follows:• Prior to Jan. 1, 2018, within 30 days of the commissioner's decision. • Beginning Jan. 1, 2018, within 30 days of the commissioner's decision or at any time after the department records a state tax execution. Ga. Code Ann. §48-2-59(a) and (b). BNA-SUTN GA 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:8.5% 2Q:8.5% 3Q:8.5% 4Q:8.5% In 2019, the Georgia interest rate for underpayments of tax is 8.5 percent. Ga. Code Ann. §48-2-40; Georgia Policy Bulletin ADMIN-2019-01 (Jan. 1, 2019). BNA-SUTN GA 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:8.5% 2Q:8.5% 3Q:8.5% 4Q:8.5% In 2019, the Georgia interest rate for overpayments of tax is 8.5 percent. Ga. Code Ann. §48-2-35(a); Georgia Policy Bulletin ADMIN-2019-01 (Jan. 1, 2019). See Georgia Dept. of Rev., Penalty and Interest Rates (last visited Dec. 31, 2018). BNA-SUTN GA 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Georgia has not announced a tax amnesty program for 2019. BNA-SUTN GA 31.14.11.
+
+==================================================

@@ -1,0 +1,165 @@
+State: Massachusetts
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Depends Biodiesel that is used on the highway is subject to a special fuel excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. However, if biodiesel is not subject to a special fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Depends Butane that is used on the highway is subject to a special fuel excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. However, if butane is not subject to a special fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Depends Compressed natural gas that is used on the highway is subject to a special fuels excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. However, if compressed natural gas is not subject to a special fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Depends Undyed diesel that is used on the highway is subject to a fuel excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. However, if undyed diesel is not subject to a fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable Dyed diesel is subject to sales and use tax. Mass. Gen. L. ch. 64H, §2. BNA-SUTN MA 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Depends Gasoline that is used on the highway is subject to a fuel excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. However, if gasoline is not subject to a fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Depends Gasohol that is used on the highway is subject to a fuel excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. However, if gasohol is not subject to a fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64A, §1. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends There is no specific exemption from sales and use taxes for kerosene. Mass. Gen. L. ch. 64H, §6(g). However, fuel that is used on the highway is subject to a motor fuels or special fuels excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g). For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Depends Liquefied natural gas that is used on the highway is subject to a special fuels excise tax and is exempt from sales and use tax Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. However, if liquefied natural gas is not subject to a special fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Depends Propane that is used on the highway is subject to a special fuels excise tax and is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. However, if propane is not subject to a special fuel excise tax, it will be subject to sales and use tax. Mass. Gen. L. ch. 64H, §6(g); Mass. Gen. L. ch. 64E, §4. For more information on Massachusetts' special fuels excise tax, see Excise Tax Navigator at Massachusetts 8.2. BNA-SUTN MA 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Depends Heating oil is taxable, subject to a few exemptions. See Mass. Gen. L. ch. 64H, §6(g). However, heating oil is exempt under the following circumstances:• sales of gas and fuel used for residential purposes; Mass. Gen. L. ch. 64H, §6(i). • sales of gas or heating fuel for use by any business that has five or fewer employees that had gross income of less than $1,000,000 for the preceding calendar year, and that reasonably expects gross income of less than$1,000,000 for the current calendar year; Mass. Gen. L. ch. 64H, §6(qq). and BNA-SUTN MA 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+No Guidance Massachusetts does not address the taxability of other fuels. See Mass. Gen. L. ch. 64H, §6(g). BNA-SUTN MA 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends Sales of electricity are taxable, subject to a few exemptions. Mass. Gen. L. ch. 64H, §1, “tangible personal property”; Massachusetts Administrative Decision C277094 (Jan. 17, 2007) (a purchaser of electricity may not appeal a sales tax assessment because the incidence of tax falls upon the vendor). However, the commonwealth exempts from sales and use tax the sales, furnishing, or service of:• water; Mass. Gen. L. ch. 64H, §6(i)(1). • gas, steam, or electricity used for residential purposes; Mass. Gen. L. ch. 64H, §6(i)(2). • gas, steam, or electricity that is consumed and used directly and exclusively in an industrial plant in the actual manufacture of tangible personal property to be sold or in the heating of such industrial plant. Mass. Gen. L. ch. 64H, §6(i)(3). The exemption for gas, steam or electricity that is consumed for the purpose of manufacturing or heating is only allowed if at least 75 percent of the gas, steam or electricity at the industrial plant is used for those purposes. The term “industrial plant” means a factory at a fixed location primarily engaged in the manufacture, conversion, or processing of tangible personal property to be sold in the regular course of business. Mass. Gen. L. ch. 64H, §6(i). Massachusetts also offers an exemption for electricity purchased for use by a small business that has 5 or fewer employees and that had gross income of less that$1 million for the preceding calendar year, and that reasonably expects gross income of less that $1 million for the current calendar year. Mass. Gen. L. ch. 64H, §6(qq); Mass Regs. Code tit. 830, § 64H.6.11(3)(a). Qualifying small businesses must register for a Small Business Exemption certificate through MassTaxConnect. Mass Regs. Code tit. 830, § 64H.6.11(3)(a)(4); see Massachusetts Dept. of Rev., New Rules for Small Business Energy Exemption (last visited March 26, 2019). A vendor will be relieved of the burden of proving that purchases made by a qualifying small business are exempt and will be presumed to have acted in good faith if it takes a copy of the small business's current certificate or by verifying the small business's current Small Business Exemption registration. Mass Regs. Code tit. 830, § 64H.6.11(3)(b)(1). BNA-SUTN MA 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends Sales of natural gas are taxable, subject to a few exemptions. Mass. Gen. L. ch. 64H, §1, “tangible personal property”. As tangible personal property, these utilities are subject to tax. However, the commonwealth exempts from sales and use tax the sales, furnishing, or service of:• water; Mass. Gen. L. ch. 64H, §2; Mass. Gen. L. ch. 64H, §6(i)(1). • gas, steam, or electricity used for residential purposes; Mass. Gen. L. ch. 64H, §6(i)(2). • gas, steam, or electricity that is consumed and used directly and exclusively in an industrial plant in the actual manufacture of tangible personal property to be sold or in the heating of such industrial plant. Mass. Gen. L. ch. 64H, §6(i)(3). The exemption for gas, steam or electricity that is consumed for the purpose of manufacturing or heating is only allowed if at least 75 percent of the gas, steam or electricity at the industrial plant is used for those purposes. The term “industrial plant” means a factory at a fixed location primarily engaged in the manufacture, conversion, or processing of tangible personal property to be sold in the regular course of business. Mass. Gen. L. ch. 64H, §6(i); Massachusetts Administrative Decision C277094 (Jan. 17, 2007) (a purchaser of electricity may not appeal a sales tax assessment because the incidence of tax falls upon the vendor). Massachusetts also offers an exemption for gas purchased for use by a small business that has 5 or fewer employees and that had gross income of less that $1 million for the preceding calendar year, and that reasonably expects gross income of less that $1 million for the current calendar year. Mass. Gen. L. ch. 64H, §6(qq); Mass Regs. Code tit. 830, § 64H.6.11(3)(a). Qualifying small businesses must register for a Small Business Exemption certificate through MassTaxConnect. Mass Regs. Code tit. 830, § 64H.6.11(3)(a)(4); see Massachusetts Dept. of Rev., New Rules for Small Business Energy Exemption (last visited March 26, 2019). A vendor will be relieved of the burden of proving that purchases made by a qualifying small business are exempt and will be presumed to have acted in good faith if it takes a copy of the small business's current certificate or by verifying the small business's current Small Business Exemption registration. Mass Regs. Code tit. 830, § 64H.6.11(3)(b)(1). BNA-SUTN MA 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Depends Sales of steam are taxable, subject to a few exemptions. Mass. Gen. L. ch. 64H, §1, “tangible personal property”. Massachusetts exempts from sales and use tax the sales, furnishing, or service of:• water; Mass. Gen. L. ch. 64H, §6(i)(1). • gas, steam, or electricity used for residential purposes; Mass. Gen. L. ch. 64H, §6(i)(2). • gas, steam, or electricity that is consumed and used directly and exclusively in an industrial plant in the actual manufacture of tangible personal property to be sold or in the heating of such industrial plant. Mass. Gen. L. ch. 64H, §6(i)(3). The exemption for gas, steam or electricity that is consumed for the purpose of manufacturing or heating is only allowed if at least 75 percent of the gas, steam or electricity at the industrial plant is used for those purposes. The term “industrial plant” means a factory at a fixed location primarily engaged in the manufacture, conversion, or processing of tangible personal property to be sold in the regular course of business. Mass. Gen. L. ch. 64H, §6(i); Massachusetts Administrative Decision C277094 (Jan. 17, 2007) (a purchaser of electricity may not appeal a sales tax assessment because the incidence of tax falls upon the vendor). Massachusetts also offers an exemption for steam purchased for use by a small business that has 5 or fewer employees and that had gross income of less that $1 million for the preceding calendar year, and that reasonably expects gross income of less that $1 million for the current calendar year. Mass. Gen. L. ch. 64H, §6(qq); Mass Regs. Code tit. 830, § 64H.6.11(3)(a). Qualifying small businesses must register for a Small Business Exemption certificate through MassTaxConnect. Mass Regs. Code tit. 830, § 64H.6.11(3)(a)(4); see Massachusetts Dept. of Rev., New Rules for Small Business Energy Exemption (last visited March 26, 2019). A vendor will be relieved of the burden of proving that purchases made by a qualifying small business are exempt and will be presumed to have acted in good faith if it takes a copy of the small business's current certificate or by verifying the small business's current Small Business Exemption registration. Mass Regs. Code tit. 830, § 64H.6.11(3)(b)(1). BNA-SUTN MA 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Exempt The sales, furnishing or service of water is exempt from sales tax. Mass. Gen. L. ch. 64H, §6(i). BNA-SUTN MA 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+Depends Sales of machinery, or replacement parts thereof, used directly and exclusively in the furnishing of gas, water, steam or electricity when delivered to consumers through mains, lines or pipes are exempt from sales and use taxes. Mass. Gen. L. ch. 64H, §6(s). Massachusetts offers an exemption for heating fuel purchased for use by a small business that has 5 or fewer employees and that had gross income of less that $1 million for the preceding calendar year, and that reasonably expects gross income of less that $1 million for the current calendar year. Mass. Gen. L. ch. 64H, §6(qq); Mass Regs. Code tit. 830, § 64H.6.11(3)(a). Qualifying small businesses must register for a Small Business Exemption certificate through MassTaxConnect. Mass Regs. Code tit. 830, § 64H.6.11(3)(a)(4); see Massachusetts Dept. of Rev., New Rules for Small Business Energy Exemption (last visited March 26, 2019). A vendor will be relieved of the burden of proving that purchases made by a qualifying small business are exempt and will be presumed to have acted in good faith if it takes a copy of the small business's current certificate or by verifying the small business's current Small Business Exemption registration. Mass Regs. Code tit. 830, § 64H.6.11(3)(b)(1). BNA-SUTN MA 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for mining activities. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for oil machinery and equipment. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Taxable Services to oil wells are not subject to sales and use tax. Mass. Gen. L. ch. 64H, §6; Mass. Gen. L. ch. 64I, §2. BNA-SUTN MA 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for other property or services in the oil and gas industry. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for oil and gas activities. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Taxable Massachusetts does not provide any other sales or use tax exemptions for natural resource extraction. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Exempt Sales of machinery, or replacement parts thereof, used directly and exclusively in the furnishing of gas, water, steam or electricity when delivered to consumers through mains, lines, or pipes are exempt from sales and use taxes. Mass. Gen. L. ch. 64H, §6(s). BNA-SUTN MA 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Depends Sales of equipment directly relating to any solar, wind powered, or heat pump system, which is being utilized as a primary or auxiliary power system for the purpose of heating or otherwise supplying the energy needs of an individual's principal residence in the commonwealth, are exempt. Mass. Gen. L. ch. 64H, §6(dd). Solar Energy Massachusetts has a sales and use tax exemption for the sale of solar systems. Mass. Gen. L. ch. 64H, §6(dd). Sales of equipment directly relating to any solar system which is being used as a primary or auxiliary power system for the purpose of heating or supplying the energy needs of an individual's principal residence in Massachusetts is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(dd). Leases of such systems also qualify for the exemption. Massachusetts Letter Ruling 84-88 (Sep. 25, 1984). Further, sales of fans and duct work that are components of a solar heating system for use in a principal residence in Massachusetts are also exempt from the sales and use tax. Massachusetts Directive 86-2. However, structural components of a residence such as glass used in a solar sunspace are taxable. Massachusetts Directive 86-2; Massachusetts Letter Ruling 83-11. Also, solar water heating units qualify for the exemption, but traditional water heaters and tanks do not qualify for the exemption. Massachusetts Letter Ruling 81-36; Massachusetts Letter Ruling 82-87 Wind Energy Massachusetts has a sales and use tax exemption for the sale of windpowered systems. Mass. Gen. L. ch. 64H, §6(dd). Sales of equipment directly relating to any windpowered systems which is being used as a primary or auxiliary power system for the purpose of heating or supplying the energy needs of an individual's principal residence in Massachusetts is exempt from sales and use tax. Mass. Gen. L. ch. 64H, §6(dd). BNA-SUTN MA 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for energy conservation property. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Taxable Massachusetts does not provide any sales or use tax exemptions for wastewater treatment equipment. Mass. Gen. L. ch. 64H, §6. BNA-SUTN MA 30.7.
+
+==================================================

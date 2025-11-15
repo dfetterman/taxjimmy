@@ -1,0 +1,165 @@
+State: Kentucky
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Taxable Biodiesel is subject to Kentucky's sales and use tax as tangible personal property. Ky. Rev. Stat. Ann. §139.200(1); Ky. Rev. Stat. Ann. §139.310. BNA-SUTN KY 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Taxable Butane is subject to Kentucky's sales and use tax as tangible personal property. Ky. Rev. Stat. Ann. §139.200(1); Ky. Rev. Stat. Ann. §139.310. BNA-SUTN KY 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Depends Gross receipts from the sales of special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17); Ky. Rev. Stat. Ann. §138.210(18). Special fuels include compressed natural gas. 103 Ky. Admin. Regs. 43:330(2). BNA-SUTN KY 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Taxable Undyed is subject to Kentucky's sales and use tax as tangible personal property. Ky. Rev. Stat. Ann. §139.200(1); Ky. Rev. Stat. Ann. §139.310. BNA-SUTN KY 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Depends Gross receipts from the sales of special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17); Ky. Rev. Stat. Ann. §138.210(18). Special fuels include dyed diesel fuel used exclusively for non-highway purposes in off-highway equipment and in nonlicensed motor vehicles. Ky. Rev. Stat. Ann. §139.470(17). BNA-SUTN KY 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Depends Gross receipts from the sales of gasoline and special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17). BNA-SUTN KY 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Depends Gross receipts from the sales of gasoline and special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17). Special fuels appears to include gasohol, which is defined to mean a mixture of gasoline and at least ten percent 10 percent ethanol which is at least 198 proof for use in motor vehicles. Ky. Rev. Stat. Ann. §138.210(18); Ky. Rev. Stat. Ann. §247.910(2). BNA-SUTN KY 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Gross receipts from the sales of special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17). Special fuels include kerosene, but only if it is used wholly or in combination with special fuel as a motor fuel. Ky. Rev. Stat. Ann. §138.210(18). BNA-SUTN KY 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Depends Gross receipts from the sales of special fuels that are subject to the Gasoline and Special Fuels Tax are not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(17); Ky. Rev. Stat. Ann. §138.210(18). Special fuels include liquefied natural gas. 103 Ky. Admin. Regs. 43:330(2). BNA-SUTN KY 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Taxable Propane is subject to Kentucky's sales and use tax as tangible personal property. Ky. Rev. Stat. Ann. §139.200(1); Ky. Rev. Stat. Ann. §139.310. BNA-SUTN KY 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Depends Gross receipts from the sale of heating oil for residential uses is exempt from tax. Ky. Rev. Stat. Ann. §139.470(7)(a). BNA-SUTN KY 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Taxable Coal used in the manufacturing of electricity is specifically exempted from the sales and use tax. Ky. Rev. Stat. Ann. §139.480(2). BNA-SUTN KY 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends The nonresidential sale of electricity is subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(7)(a). Kentucky specifically exempts from tax the gross receipts from the sale of electricity for residential use. Ky. Rev. Stat. Ann. §139.470(7)(a). BNA-SUTN KY 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends The nonresidential sale of electricity, water, natural gas, and sewer services is subject to sales and use tax. Ky. Rev. Stat. Ann. §139.470(7)(a). Kentucky specifically exempts from tax the gross receipts from the sale of sewer, water, electricity, and other fuel services for residential use. Ky. Rev. Stat. Ann. §139.470(7)(a). BNA-SUTN KY 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Taxable Steam is subject to Kentucky's sales and use tax as tangible personal property. Ky. Rev. Stat. Ann. §139.200(1); Ky. Rev. Stat. Ann. §139.010(41). BNA-SUTN KY 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Depends Sewer services and water services are subject to Kentucky's sales tax, unless provided for exempt residential uses. Ky. Rev. Stat. Ann. §139.200(2)(b); Ky. Rev. Stat. Ann. §139.470(7)(a). Kentucky's sales and use tax applies to storm water and waste water fees charged to non-residential customers by municipalities and other retailers as part of sewer services, even if such fees are separately stated from other sewer service charges. Kentucky Sales Tax Facts December 2015. BNA-SUTN KY 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+Taxable Fuel is defined to include: natural gas; electricity; fuel oil; bottled gas; coal; coke; and wood. Ky. Rev. Stat. Ann. §139.470(7)(a). In determining whether an exemption for residential use applies to a taxpayer, the Department of Revenue exempts from tax all gross receipts from:• sales classified by a utility company as residential; and • sales classified by a municipally owned electric distributor. Ky. Rev. Stat. Ann. §139.470(7)(b). The exemption does not apply if the bill for the residential utilities is billed to the owner of a multi-unit residential rental facility, mobile home, and recreational vehicle park. Ky. Rev. Stat. Ann. §139.470(7)(c). BNA-SUTN KY 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Exempt Kentucky allows an exemption for tangible personal property to be used in industrial processing, which includes mining and quarrying, of tangible personal property. Ky. Rev. Stat. Ann. §139.470(9)(a). BNA-SUTN KY 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Exempt Kentucky allows an exemption for tangible personal property to be used in industrial processing, which includes refining and extraction of petroleum and natural gas. Ky. Rev. Stat. Ann. §139.470(9)(a). BNA-SUTN KY 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Nontaxable Kentucky allows an exemption for tangible personal property to be used in industrial processing, which includes refining and extraction of petroleum and natural gas. Ky. Rev. Stat. Ann. §139.470(9)(a). BNA-SUTN KY 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Exempt Kentucky allows an exemption for tangible personal property to be used in industrial processing, which includes refining and extraction of petroleum and natural gas. Ky. Rev. Stat. Ann. §139.470(9)(a). BNA-SUTN KY 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Exempt Kentucky provides a variety of exemptions for sales of machinery, equipment, and other items to farmers, who include persons regularly engaged in the business of producing crops, including timber. Ky. Rev. Stat. Ann. §139.480; 103 Ky. Admin. Regs. 30:091(1)(2). For more detailed information about the allowable exemptions for producing crops, including timber, see the Sales and Use Tax Navigator, at Kentucky 25. BNA-SUTN KY 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Taxable Kentucky provides a sales and use tax exemption for the use or consumption of natural, artificial or manufactured gas owned and consumed by a pipeline from its own lines as fuel to operate compressor stations and other facilities necessary to the marketing of such gas. 103 Ky. Admin. Regs. 30:160. BNA-SUTN KY 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Exempt Kentucky exempts from sales and use tax natural gasoline, manufactured gases, liquefied petroleum gases and fuels which are produced as by-products of a manufacturing or refining process and which are subsequently used or consumed directly in such manufacturing or refining process of the owner and producer of the by-products. 103 Ky. Admin. Regs. 30:160. Kentucky also exempts energy or energy-producing fuels used in the course of manufacturing, processing, mining, or refining and any related distribution, transmission, and transportation services for the energy that are billed to the user, to the extent that the cost of the energy or energy-producing fuels used, and related distribution, transmission, and transportation services for the energy that are billed to the user exceed 3 percent of the cost of production. Ky. Rev. Stat. Ann. §139.480(3), as amended by 2018 Ky. H.B. 487, effective July 1, 2018, and by 2019 Ky. H.B. 354, effective July 1, 2019. See 103 Ky. Admin. Regs. 30:140. Taxpayers who qualify for the exemption must apply for an Energy Direct Pay Authorization with the Department of Revenue. 103 Ky. Admin. Regs. 30:140(4)(1). Coal used in the manufacturing of electricity is specifically exempted from the sales and use tax. Ky. Rev. Stat. Ann. §139.480(2). BNA-SUTN KY 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Incentives Available Sales and use tax incentives for alternative energy purchases are available in Kentucky. Ky. Rev. Stat. Ann. §154.27-070. Specifically, Kentucky provides a sales and use tax incentive of up to 100 percent of tax paid for purchases of tangible personal property, including but not limited to materials, machinery, and equipment used to construct, retrofit, or upgrade an eligible alternative fuel project. Ky. Rev. Stat. Ann. §154.27-020 (describing Incentives for Energy Independence Act); Ky. Rev. Stat. Ann. §154.27-070 (sales and use tax incentives under Incentives for Energy Independence Act). BNA-SUTN KY 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Incentives Available Sales and use tax incentives for energy conservation purchases are available in Kentucky. Ky. Rev. Stat. Ann. §154.27-070. Specifically, Kentucky provides a sales and use tax incentive of up to 100 percent of tax paid for purchases of tangible personal property, including but not limited to materials, machinery, and equipment used to construct, retrofit, or upgrade an eligible energy-efficient alternative fuel or renewable energy project. Ky. Rev. Stat. Ann. §154.27-020 (describing Incentives for Energy Independence Act); Ky. Rev. Stat. Ann. §154.27-070 (sales and use tax incentives under Incentives for Energy Independence Act). BNA-SUTN KY 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Taxable Kentucky does not provide any sales and use tax exemptions for wastewater treatment machinery and equipment. Ky. Rev. Stat. Ann. §139.200. BNA-SUTN KY 30.7.
+
+==================================================

@@ -1,0 +1,165 @@
+State: Maine
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Depends Biodiesel is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If biodiesel is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Depends Butane is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If butane is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Depends Butane is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If butane is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Depends Undyed diesel is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If undyed diesel is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable Dyed diesel fuel is subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3204-A(8); Me. Rev. Stat. Ann. tit. 36, §1760. BNA-SUTN ME 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Depends Gasoline is exempt from sales tax if it is subject to Maine's motor fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If gasoline is not subject to Maine's motor fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's fuel excise tax, see Excise Tax Navigator, at Maine 8.1. BNA-SUTN ME 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Depends Gasohol is exempt from sales tax if it is subject to Maine's motor fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If Gasohol is not subject to Maine's motor fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's fuel excise tax, see Excise Tax Navigator, at Maine 8.1. BNA-SUTN ME 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Kerosene that is prepackaged or dispensed from a tank for retail sale in a container with a capacity of five gallons or less is presumed to meet the requirements of the home-heating sales tax exemption. Me. Rev. Stat. Ann. tit. 36, §1760(9); Maine Instructional Bulletin No. 13. A dealer may also make tax-free sales of amounts in excess of five gallons if the customer informs the dealer that the kerosene is being purchased for use in a residential building and the dealer is able to accept the customer's representation in good faith and the dealer has accepted an affidavit or has recorded the sale in a running log of all such sales made by that dealer. Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Depends Liquefied natural gas is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If liquefied natural gas is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Depends Propane is exempt from sales tax if it is subject to Maine's special fuel excise tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. If liquefied natural gas is not subject to Maine's special fuel excise tax, then it will be subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §3203; Me. Rev. Stat. Ann. tit. 36, §1760. For more information on Maine's special fuel excise tax, see Excise Tax Navigator, at Maine 8.2. BNA-SUTN ME 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Depends The sale of home heating oil that is prepackaged or dispensed from a tank for retail sale in a container with a capacity of five gallons or less is presumed to meet the requirements of the home heating sales tax exemption. Me. Rev. Stat. Ann. tit. 36, §1760(9); Maine Instructional Bulletin No. 13. A dealer may also make tax-free sales of amounts in excess of five gallons if the customer informs the dealer that the home heating oil is being purchased for use in a residential building and the dealer is able to accept the customer's representation in good faith and the dealer has accepted an affidavit or has recorded the sale in a running log of all such sales made by that dealer. Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Depends Wood A purchase of wood pellets, firewood, or 100-percent compressed wood product intended for use in a wood stove or fireplace is presumed to be purchased for use in residential cooking or heating when it is received by the purchaser at the retail location, and is therefore exempt. Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends Sales of electricity are subject to sales and use tax, except for the first 750 kilowatt hours purchased for residential use and electricity purchased for certain other exempt uses. Me. Rev. Stat. Ann. tit. 36, §1760(9-B), as amended by 2012 Me. L.D. 1655, effective May 21, 2012; Maine Instructional Bulletin No. 13. Without the statutory exemption, electricity is considered tangible personal property and is subject to sales tax. Me. Rev. Stat. Ann. tit. 36, §1752(17); Maine Instructional Bulletin No. 13. The sale and delivery of the first 750 kilowatt hours of residential electricity per month, as well as off-peak residential electricity used for space heating or water heating by electric thermal storage devices, is exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §1760(9-B), as amended by 2012 Me. L.D. 1655, effective May 21, 2012 (expanding the exemption to include off-peak residential electricity); Maine Instructional Bulletin No. 13. “Residential electricity”means electricity furnished to buildings designed and used for both human habitation and sleeping, with the exception of hotels. Me. Rev. Stat. Ann. tit. 36, §1760(9-B); Maine Instructional Bulletin No. 13. Examples of dwellings that qualify for the residential use exemption for electricity are homes, mobile homes, boarding homes, nursing homes, apartment houses, and seasonal dwellings. Examples of structures to which the residential use exemption for electricity does not apply include hotels, tourist and trailer camps, overnight cabins, the commercial aspect of a bed and breakfast, mobile home parks, outside area lighting when separately metered, and a home that is being constructed and has not yet been sold. Maine Instructional Bulletin No. 13; Maine Tax Alert September 2013. Electricity used by commercial farmers, commercial fishermen, commercial wood harvesters, and commercial aquacultural businesses in their respective commercial activities or support operations may be purchased exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §2013; Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends Natural gas is subject to sales tax unless purchased for heating or cooking in buildings designed and used for both human habitation and sleeping other than hotels. Me. Rev. Stat. Ann. tit. 36, §1760(9-C); Maine Instructional Bulletin No. 13. Buildings designed and used for human habitation and sleeping include: homes, mobile homes, boarding homes, nursing homes, apartment houses, and seasonal dwellings. Maine Instructional Bulletin No. 13. Examples of structures to which the residential use exemption does not apply include hotels, tourist and trailer camps, overnight cabins, motor homes, travel trailers, residential pools, residential garages, homes that are being constructed but have not yet been sold and the commercial aspect of a bed and breakfast. Maine Instructional Bulletin No. 13. Additionally, sales of gas in 30 pound or smaller containers are subject to sales tax unless the customer informs the dealer that the gas is being purchased for use in a residential building and the dealer is able to accept the customer's representation in good faith and the dealer has accepted an affidavit or has recorded the sale in a running log of all such sales made by that dealer. Maine Instructional Bulletin No. 13. In situations where a portion of the use of gas or fuel is taxable and a portion is exempt, the owner of the building must break down to the nearest 10 percent the taxable and nontaxable portions. The seller or utility, acting in good faith, may accept the estimate of the customer and should retain a copy of the letter or notification giving this breakdown. Maine Instructional Bulletin No. 13. For sales on or after Jan. 1, 2017, fuel used by commercial farmers, commercial fishermen, commercial wood harvesters, and commercial aquacultural businesses in their respective commercial activities or support operations may be purchased exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §2013, as amended by 2016 Me. S.P. 647, effective April 16, 2016; Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Taxable Steam used to heat buildings is subject to tax. This includes production areas in manufacturing. Code Me. R. §18-125-303.2(2)(B)(2); Maine Reference Guide to the Sales and Use Tax Law. BNA-SUTN ME 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Depends Sales of water are taxable, except for specified uses. Water purchased for use in buildings designed and used for human habitation and sleeping, with the exception of hotels, are exempt from sales and use tax. Me. Rev. Stat. Ann. tit. 36, §1760(39); Maine Instructional Bulletin No. 13. Exempt sales include deliveries to homes, mobile homes, apartment houses, boarding homes, and nursing homes. Sales of water to trailer parks for use by the park tenants are also exempt, as are sales to owners of seasonal dwellings. Examples of structures to which the residential use exemption for water does not apply include hotels, tourist and trailer camps, and overnight cabins. Maine Instructional Bulletin No. 13. If a portion of the use of water is taxable and a portion is exempt, then the building's owner must break down to the nearest 10 percent the taxable and nontaxable portions. The seller or utility, acting in good faith, may accept the estimate of the customer and should retain a copy of the letter or notification giving this breakdown. Maine Instructional Bulletin No. 13. Bottled water sold in retail locations are not exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §1760(39); Maine Instructional Bulletin No. 13. BNA-SUTN ME 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+No Guidance Maine does not address the tax treatment of other utilities. See Me. Rev. Stat. Ann. tit. 36, §1811; Me. Rev. Stat. Ann. tit. 36, §1861. BNA-SUTN ME 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Taxable Maine does not provide sales or use tax exemptions for mining. See Me. Rev. Stat. Ann. tit. 36, §2854. Specifically excluded from the meaning of “production” are severance of sand, gravel, oil, gas, or other natural resources produced. Me. Rev. Stat. Ann. tit. 36, §1752(9-B); Maine Instructional Bulletin No. 22. BNA-SUTN ME 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Maine does not provide sales or use tax exemptions for oil and gas extraction equipment. Me. Rev. Stat. Ann. tit. 36, §1752(9-B); Maine Instructional Bulletin No. 22. Specifically excluded from the meaning of “production” are the severance of sand, gravel, oil, gas, or other natural resources produced. Me. Rev. Stat. Ann. tit. 36, §1752(9-B); Maine Instructional Bulletin No. 22. BNA-SUTN ME 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Nontaxable Services to oil wells are not subject to sales and use tax. Me. Rev. Stat. Ann. tit. 36, §1752(9-B); Maine Instructional Bulletin No. 22. BNA-SUTN ME 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Taxable Maine does not provide sales or use tax exemptions for other property or services used in oil or gas extraction. Me. Rev. Stat. Ann. tit. 36, §1752(9-B); Maine Instructional Bulletin No. 22. BNA-SUTN ME 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Depends Purchases of depreciable machinery and equipment used for commercial wood harvesting purposes are exempt from sales and use tax. Me. Rev. Stat. Ann. tit. 36, §2013(1)(A); Code Me. R. §18-125-323.05; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). To qualify for the exemption, the machinery and equipment must meet three tests. It must be:• used directly in a qualified activity; Code Me. R. §18-125-323.01(2); Maine Instructional Bulletin No. 59 (Jan. 1, 2017). • used primarily (50% or more) in a qualified activity; Code Me. R. §18-125-323.01(5); Maine Instructional Bulletin No. 59 (Jan. 1, 2017). and • depreciable for federal income tax purposes. Code Me. R. §18-125-323.01(1); Maine Instructional Bulletin No. 59 (Jan. 1, 2017); see also Great N. Nekoosa Corp. v. Maine State Tax Assessor, 540 A.2d 770 (Me. 1988) (holding in 1988 that delimber-bunchers, machinery used for delimbing trees, purchased and used by a pulp and paper manufacturer did not qualify for the manufacturing exemption because the equipment was used in wood harvesting operations, which is excluded from the definition of production). Examples of machinery and equipment typically used for commercial wood harvesting purposes includes:• chainsaws; • chippers; • delimbers; • feller bunchers; • felling heads; • forwarders; • harvesters; But see Maine Administrative Decision BTA-2015-17 (June 20, 2016) (Maine Board of Tax Appeals held that tree harvesting machines taxpayer purchased prior to this exemption becoming effective were subject to sales and use tax). • mulchers; • skidders;and • slashers. Maine Instructional Bulletin No. 59 (Jan. 1, 2017). “Commercial Wood Harvesting”Defined Commercial wood harvesting is the commercial severance and yarding of trees for sale or further processing that will result in sales of forest products. Commercial wood harvesting begins with the severance of trees and includes all activities thereafter that are an integral and essential part of commercial wood harvesting up to, but not including, the loading of forest products for transport to market. Me. Rev. Stat. Ann. tit. 36, §2013(B-1); Code Me. R. §18-125-323.05; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). Commercial wood harvesting includes the construction and maintenance of skid roads, skid trails, and winter haul roads. A “skid road” or “skid trail” is a route that is primarily used for hauling or dragging forest products from the stump to the yard or landing and requires minimal excavation for construction. A “winter haul road” is a route or track across frozen ground or compacted snow and ice that is used primarily for access to a yard or landing, but does not include a road with a gravel surface. Code Me. R. §18-125-323.05; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). The construction and maintenance of land management and travel roads is not commercial wood harvesting. “Land management and travel roads” consist of a bed of exposed soil or gravel with other improvements which may include ditching, culverts, or bridges. These roads are at least semi-permanent and maintained to provide various uses including transport of forest products, forest management, agricultural, recreational, and other transport activities. Construction equipment purchased for constructing and maintaining land management and travel roads is not equipment traditionally used in wood harvesting. Code Me. R. §18-125-323.05; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). Previously, two activities specifically excluded from the meaning of commercial agricultural production were: engaging in forestry and lumber operations of any sort; and tree farming (other than farming of fruit-bearing trees). Purchases by a person engaging in commercial timber activities were not eligible for the exemption from the sales and use tax for machinery and equipment, electricity, and products used in agricultural activities. Code Me. R. §18-125-323. Electricity Used in a Qualifying Commercial Wood Harvesting Activity or Support Operation Maine exempts electricity used in qualifying commercial wood harvesting activities or support operations. The exemption is applied on a meter-by-meter basis. If a single meter supplies electricity to be used in both qualifying and non-qualifying activities, then tax must be paid to the utility provider, and the purchaser must apply directly for a refund based on a prorated portion of the electricity used in qualified activities. Code Me. R. §18-125-323.06; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). Support activities include storage operations, maintenance operations, and related administrative activities. Support activities do not include activities conducted by a separate business, reselling products procured or produced by someone else, retail store operations, or unrelated administrative activities. Code Me. R. §18-125-323.06; Maine Instructional Bulletin No. 59 (Jan. 1, 2017). Other Commercial Wood Harvesting Exemptions For sales on or after Jan. 1, 2017, fuel used by commercial wood harvesters in their commercial activities or support operations may be purchased exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §2013, as amended by 2016 Me. S.P. 647, effective April 16, 2016. Maine also exempts sales of tree seedlings for use in commercial forestry activities. Me. Rev. Stat. Ann. tit. 36, §1760(73). Additionally, a trade-in credit is allowed for lumber harvesting equipment that qualifies as “special mobile equipment.” The credit reduces the value of the sale price for purposes of determining sales tax. Me. Rev. Stat. Ann. tit. 36, §1765(7); Me. Rev. Stat. Ann. tit. 36, §1752(14-B). BNA-SUTN ME 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+No Guidance Maine does not address sales and use tax on other natural resource extraction. See Me. Rev. Stat. Ann. tit. 36, §1811; Me. Rev. Stat. Ann. tit. 36, §1861. BNA-SUTN ME 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Taxable Maine does not provide sales and use tax exemptions for energy production. See Me. Rev. Stat. Ann. tit. 36, §1760. BNA-SUTN ME 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Depends Solar energy equipment is exempt from sales tax. Me. Rev. Stat. Ann. tit. 36, §1760(38). Electrical energy or water stored for the purpose of generating electricity is exempt from sales or use tax if the sale is between a wholly owned subsidiary and its parent corporation, except if purchased for resale. Me. Rev. Stat. Ann. tit. 36, §1760(91). BNA-SUTN ME 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Taxable Maine does not provide sales and use tax exemptions for energy conservation equipment. See Me. Rev. Stat. Ann. tit. 36, §1760. BNA-SUTN ME 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Depends Maine does not provide any sales and use tax exemptions for wastewater treatment equipment. Me. Rev. Stat. Ann. tit. 36, §1760. BNA-SUTN ME 30.7.
+
+==================================================

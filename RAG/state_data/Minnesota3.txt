@@ -1,0 +1,165 @@
+State: Minnesota
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Exempt Biodiesel is subject to the petroleum tax, and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116; Minnesota Petroleum Tax Fact Sheet 500. BNA-SUTN MN 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Exempt Butane is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Exempt Compressed natural gas is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Exempt Undyed diesel is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable Sales or use tax is due on petroleum products used for nonhighway purposes unless the petroleum tax was paid and not refunded, or a specific sales tax exemption applies. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. See Minnesota Petroleum Tax Fact Sheet 300. BNA-SUTN MN 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Exempt Gasoline is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Exempt Gasohol is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Exempt Kerosene is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Exempt Liquefied natural gas is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Exempt Propane is subject to the petroleum tax and is therefore exempt from sales and use tax. Minn. Stat. §296A.09; Minn. R. 8130.5300; Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Exempt Fuel oil, coal, steam, propane gas, LP gas, and kerosene delivered to residential customers for residential heating are exempt from both petroleum tax and sales and use tax. Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Depends Effective July 1, 2017, special fuel used for certain motor vehicles is exempt from Minnesota's sales and use tax. Minn. Stat. §297A.68(19), as amended by 2017 Minn. H.F. 1, First Special Session, Art. 3, § 22, effective July 1, 2017. Minnesota exempts special fuel used:• to power a refrigeration unit mounted on a licensed motor vehicle, provided that the unit has an engine separate from the one used to propel the vehicle and the fuel is used exclusively for the unit; • to power an unlicensed motor vehicle that is used solely or primarily to move semitrailers within a cargo yard, warehouse facility, or intermodal facility; or • to operate a power take-off unit or auxiliary engine in or on a licensed motor vehicle, whether or not the unit or engine is fueled from the same or a different fuel tank as that from which the motor vehicle is fueled. Minn. Stat. §297A.68(19), as amended by 2017 Minn. H.F. 1, First Special Session, Art. 3, § 22, effective July 1, 2017; see Minnesota Sales Tax Fact Sheet 116. In general, however, fuel used in construction activities or for heating commercial buildings is subject to Minnesota's sales and use tax. Minnesota Sales Tax Fact Sheet 116. BNA-SUTN MN 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends The sale of electricity, gas, water, or steam for use or consumption is subject to Minnesota's sales and use tax, except when sold for residential use as a primary heat source during enumerated months. Minn. Stat. §297A.61(3)(e); see Minnesota Local Governments Industry Guide. Specifically, the following utilities are not taxable when sold for residential use natural gas or electricity used as a primary source of residential heat during the billing months of November, December, January, February, March, and April: fuel oil, coal, wood, steam, hot water, propane, LP gas, and water services. Minn. Stat. §297A.61(3)(e); Minn. Stat. §297A.99; Minnesota Sales Tax Fact Sheet 157. All charges associated with furnishing utilities or making utility services available are considered part of sales price and subject to tax except for mandated federal law programs and taxes legally imposed directly on the consumer that are separately stated on the purchaser's bill. Minn. R. 8130.1100(4). Examples of taxable charges are:• demand charge; • fixed or basic monthly charge; • franchise fee; • fuel clause adjustment; • minimum charge; • reconnection fee; • service charge; • service connection charge; • standby fee;and • surcharge. Minn. R. 8130.1100(4)(A) - Minn. R. 8130.1100(4)(J). Minnesota offers an exemption to qualified data centers for electricity used to operate and maintain the qualified data center. Minnesota Dept. of Rev., Qualified Data Centers (Oct. 1, 2016). If a taxpayer has a separate utility meter for data center equipment, the taxpayer's exemption percentage on that meter is 100 percent. However, in most situations a predominant use or energy study is required if taxable and nontaxable uses are made through a single meter. Minnesota Sales Tax Fact Sheet 129. For more information on Qualified Data Centers, see Sales and Use Tax Navigator at Minnesota 19.1. BNA-SUTN MN 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends The sale of gas for use or consumption is subject to Minnesota's sales and use tax, except when sold for residential use as a primary heat source during enumerated months. Minn. Stat. §297A.61(3)(e); see Minnesota Local Governments Industry Guide. Specifically, gas utilities are not taxable when sold for residential use as a primary source of residential heat during the billing months of November, December, January, February, March, and April. Minn. Stat. §297A.61(3)(e); Minn. Stat. §297A.99; Minnesota Sales Tax Fact Sheet 157. All charges associated with furnishing utilities or making utility services available are considered part of sales price and subject to tax except for mandated federal law programs and taxes legally imposed directly on the consumer that are separately stated on the purchaser's bill. Minn. R. 8130.1100(4). Examples of taxable charges are:• demand charge; • fixed or basic monthly charge; • franchise fee; • fuel clause adjustment; • minimum charge; • reconnection fee; • service charge; • service connection charge; • standby fee;and • surcharge. Minn. R. 8130.1100(4)(A) - Minn. R. 8130.1100(4)(J). Minnesota allows for exemptions for utilities used in production, including, electricity, gas, steam, or water used or consumed in agricultural or industrial production; utilities used directly in providing certain taxable services; and electricity used to operate qualified data centers. See Minnesota Sales Tax Fact Sheet 129 for detailed information about specific utility exemptions. BNA-SUTN MN 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Depends The sale of steam for use or consumption is subject to Minnesota's sales and use tax, except when sold for residential use as a primary heat source during enumerated months. Minn. Stat. §297A.61(3)(e). Specifically, the following utilities are not taxable when sold for residential use natural gas or electricity used as a primary source of residential heat during the billing months of November, December, January, February, March, and April: fuel oil, coal, wood, steam, hot water, propane, LP gas, and water services. Minn. Stat. §297A.61(3)(e); Minn. Stat. §297A.99; Minnesota Sales Tax Fact Sheet 157. All charges associated with furnishing utilities or making utility services available are considered part of sales price and subject to tax except for mandated federal law programs and taxes legally imposed directly on the consumer that are separately stated on the purchaser's bill. Minn. R. 8130.1100(4). Examples of taxable charges are:• demand charge; • fixed or basic monthly charge; • franchise fee; • fuel clause adjustment; • minimum charge; • reconnection fee; • service charge; • service connection charge; • standby fee;and • surcharge. Minn. R. 8130.1100(4)(A) - Minn. R. 8130.1100(4)(J). Minnesota allows for exemptions for utilities used in production, including, electricity, gas, steam, or water used or consumed in agricultural or industrial production; utilities used directly in providing certain taxable services; and electricity used to operate qualified data centers. See Minnesota Sales Tax Fact Sheet 129 for detailed information about specific utility exemptions. BNA-SUTN MN 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Depends Water for residential use is not taxable, but water for non-residential use is taxable. Minn. Stat. §297A.61(3)(e); Minn. Stat. §297A.99; Minnesota Local Governments Industry Guide; Minnesota Sales Tax Fact Sheet 157. Charges for sewer services are never taxable. Minn. Stat. §297A.61(3)(e); Minn. Stat. §297A.99; Minnesota Local Governments Industry Guide; Minnesota Sales Tax Fact Sheet 157. BNA-SUTN MN 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+No Guidance Minnesota does not specify the tax treatment of other utilities. Minn. Stat. §297A.61(3); Minnesota Local Governments Industry Guide. BNA-SUTN MN 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Depends Capital equipment used in mining is exempt from sales and use tax. Materials consumed in mining are also exempt from sales and use tax. Minn. Stat. §297A.68(2)(c); Minn. Stat. §297A.68(5)(a). Mining means the extraction of minerals, ores, stone, or peat. Minn. Stat. §297A.68(5)(d). BNA-SUTN MN 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Minnesota does not exempt any property used in connection with oil and gas extraction. Minn. Stat. §297A.68. BNA-SUTN MN 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Nontaxable Services to oil wells are not subject to sales and use tax. Minn. Stat. §297A.68; Minn. Stat. §272.02. BNA-SUTN MN 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Taxable Minnesota does not exempt any other property or services used in connection with oil and gas extraction. Minn. Stat. §297A.68. BNA-SUTN MN 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Depends Logging equipment, including chain saws used for commercial logging, is exempt from sales and use tax. Minn. Stat. §297A.69(4). Logging equipment means new or used machinery, equipment, implements, accessories, and contrivances used directly and principally in the commercial cutting or removal or both of timber or other solid wood forest products intended to be sold ultimately at retail. Logging equipment includes machinery used for bucking, bunching, debarking, delimbing, felling, forwarding, loading, piling, skidding, topping, and yarding operations performed on timber and chain saws. Minn. Stat. §297A.61(37). For sales and use tax purposes, logging is considered to be agricultural production. Minnesota Sales Tax Fact Sheet 153. For more information about property used in agricultural production, see the Sales and Use Tax Navigator, at Minnesota 25.1. BNA-SUTN MN 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Exempt Mill liners, grinding rods, and grinding balls that are substantially consumed in the production of taconite or other ores, metals, or minerals are exempt when sold to or stored, used, or consumed by qualified persons. Minn. Stat. §297A.68. BNA-SUTN MN 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Exempt Minnesota considers the generation of electricity to be industrial production. Accordingly, materials consumed in the generation of electricity are exempt from sales and use tax. Minn. Stat. §297A.68(5). BNA-SUTN MN 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Exempt Sales of solar energy systems and wind energy conservation systems are exempt from sales and use tax in Minnesota. Minn. Stat. §297A.67(29); Minn. Stat. §297A.68(12). In addition, materials used to manufacture, install, construct, repair, or replace wind energy conservation systems are also exempt. Minn. Stat. §297A.68(12). A “solar energy system”is a set of devices whose primary purpose is to collect solar energy and convert and store it for useful purposes, or to produce generated power by means of any combination of collecting, transferring, or converting solar-generated energy. “Useful purposes” include heating and cooling buildings or other energy-using processes. Minn. Stat. §216C.06(17). A “wind energy conversion system” (WECS) is any device, such as a wind charger, windmill, or wind turbine, which converts wind energy to a form of usable energy. Minn. Stat. §216C.06(19). BNA-SUTN MN 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+No Guidance Minnesota does not provide any guidance on the taxability of energy conservation equipment. Minn. Stat. §272.02. BNA-SUTN MN 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Exempt Tangible personal property used in a wastewater treatment facility for the treatment, recovery, and stabilization of metals, oils, chemicals, water, sludges, or other inorganic materials, is exempt from sales and use tax. Minn. Stat. §272.02(10). BNA-SUTN MN 30.7.
+
+==================================================

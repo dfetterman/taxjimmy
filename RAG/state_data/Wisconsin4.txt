@@ -1,0 +1,411 @@
+State: Wisconsin
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable The sales and use tax applies to the gross receipts from the sale, lease, or rental of an aircraft, and the purchase of aircraft parts, unless used in interstate or foreign commerce. Wis. Admin. Code Tax § 11.84(1)(a); Wis. Admin. Code § Tax 11.84(3)(a). No aircraft may be registered without proof that the sales tax has been paid or a valid exemption was claimed. Wis. Admin. Code Tax § 11.84(1)(c). The tax applies to aircraft registered or customarily hangared, or both in Wisconsin, even though the aircraft may also be used out-of-state. Wis. Admin. Code Tax § 11.84(1)(c). Use Tax Exemptions (‘Fly-away’ Exemption) The use tax does not apply to aircraft for an individual's personal use purchased by a nonresident outside of Wisconsin at least 90 days before bringing the aircraft into Wisconsin in connection with a change of domicile to Wisconsin. Wis. Admin. Code Tax § 11.84(1)(d). The use tax does not apply to aircraft registered in Wisconsin if:• the aircraft is purchased in another state; • the aircraft's owner or lessee has paid all of the sales and use taxes imposed in respect to it by the state where it was purchased; • the Department of Revenue has determined that the owner, is the owner is a corporation, trust, or partnership, was formed to qualify for the exemption from the Wisconsin use tax; and • the owner or lessee is: ○ a corporation or all corporations with which the corporation may file a consolidated return is organized under the laws of Wisconsin or partnership and none of the partners who have management or control responsibilities is domiciled in Wisconsin, nor has real property or tangible personal property, except aircraft and property such as hangars, accessories, attachments, fuel, and part required or aircraft operation in Wisconsin; Wis. Admin. Code Tax § 11.84(1)(e)(3)(a) - (3)(b). ○ an individual not domiciled in Wisconsin; Wis. Admin. Code Tax § 11.84(1)(e)(3)(c). or ○ an estate, trust, or cooperative, and that estate, that trust and its grantor or that cooperative does not have real property or tangible personal property , except aircraft and property such as hangars, accessories, attachments, fuel, and part required or aircraft operation in Wisconsin. Wis. Admin. Code Tax § 11.84(1)(e)(3)(d). Occasional Sales An occasional sale of an aircraft in Wisconsin is taxable unless:• the transfer is to the spouse, parent, stepparent, father-in-law, mother-in-law, child, stepchild, son-in-law, or daughter-in-law of the transferor; • the aircraft was previously registered in Wisconsin in the transferor's name; and • the transferor is not engaged in the business of selling aircraft. Wis. Admin. Code Tax § 11.84(1)(b). Leases or Rentals Leases and rentals of motor vehicles, trailers, semitrailers, and aircraft, not constituting “transportation equipment”, that require only one payment, are sourced to the location where the lessee receives the property. This is generally the lessor or dealer's location. Wis. Stat. §77.522(3)(b); Wisconsin News for Tax Professionals – Oct. 31, 2014. Leases and rentals of motor vehicles, trailers, semitrailers, and aircraft, not constituting “transportation equipment”, that require multiple payments are sourced to the primary location of such motor vehicles, trailers, semitrailers, or aircraft as indicated by an address for the property that is provided by the lessee and that is available in records that the lessor maintains in the ordinary course of the lessor's business. Wis. Stat. §77.522(3)(b). If the lease for a motor vehicle, trailer, semitrailer, or aircraft calls for multiple payments, but the lessee chooses to pay in a single payment, the one payment sourcing rule does not apply and the lease is sourced to the primary location of the motor vehicle, trailer, semitrailer, or aircraft. Wisconsin 2016 Tax Practitioner Questions and Answers. BNA-SUTN WI 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Exempt Effective July 1, 2014, the sales of aircraft parts are exempt from sales and use tax, regardless of how the aircraft is used. Wis. Stat. §77.52(2)(a)(10), as amended by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wisconsin News for Tax Professionals – June 17, 2014. BNA-SUTN WI 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Exempt Aircraft maintenance and repair services are exempt from tax. Wis. Stat. §77.52(2)(a)(10), as amended by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Admin. Code Tax § 11.84(2)(a)(3). BNA-SUTN WI 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Effective July 1, 2014, charges for the repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of any aircraft or any aircraft parts are no longer subject to sales tax. Wis. Stat. §77.52(2)(a)(10), as amended by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wisconsin Sales and Use Tax Report 2-14Wisconsin News for Tax Professionals – June 17, 2014. However, supplies for aircraft remain taxable. Examples non-exempt supplies aircraft include the following: • engine oil; • hydraulic fluid; • deicing fluids; and • oxygen. Wisconsin News for Tax Professionals – June 17, 2014. BNA-SUTN WI 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Exempt Effective July 1, 2014, charges for the repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of any aircraft or any aircraft parts are no longer subject to sales tax. Wis. Stat. §77.52(2)(a)(10), as amended by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wisconsin Sales and Use Tax Report 2-14Wisconsin News for Tax Professionals – June 17, 2014. It should be noted that as of Aug. 22, 2016, the Department of Revenues regulation Wis. Admin. Code Tax § 11.84(2)(a)(3) concerning aircraft other than commercial aircraft, still provides that charges for air frame and engine, inspection, maintenance and repair are taxable. The regulation is in conflict the present version of Wis. Stat. §77.54(5)(a) as enacted by 2014 Wis. S.B. 348 in 2014. Wis. Admin. Code Tax § 11.84(2)(a)(2). BNA-SUTN WI 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Sales of general aviation fuel are subject to aviation fuel taxes, and are exempt from the sales and use tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.84(2)(a)(2). The sale of motor vehicle fuel, general aviation fuel, or alternate fuel is exempt unless the motor vehicle fuel or alternative fuel tax is refunded because the buyer does not use the fuel in operating a motor vehicle on the public highways. Wis. Stat. § 77.54(11); Wisconsin Publication 222; Wisconsin Publication MF-106; Wisconsin Publication MF-107; Wisconsin Publication MF-108. BNA-SUTN WI 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt The sales and use tax does not apply to the gross receipts from the sale, lease, or rental of an aircraft used in interstate or foreign commerce. Wis. Stat. §77.52(2)(a)(10), as amended by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Admin. Code Tax § 11.84(3)(a). Tax does not apply to the sales price from aircraft, including accessories, attachments, parts, and fuel sold to persons using the aircraft as certified or licensed carriers of persons or property in interstate or foreign commerce under authority of the laws of the United States or any foreign government. Scheduled air carriers and commuter carriers with air carrier operating certificates qualify for the exemption.Wis. Admin. Code Tax § 11.84(3)(a); Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wisconsin News for Tax Professionals – June 17, 2014. Also exempt are charges to repair, service, alter, fit, clean, paint, coat, tow, inspect, or maintain the aircraft. Wis. Admin. Code Tax § 11.84(3)(b). BNA-SUTN WI 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of repair and replacement parts aircraft used in interstate commerce are exempt from sales and use tax in Wisconsin. Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wis. Admin. Code Tax § 11.84(3)(a). The exemption includes accessories, attachments, parts, and fuel. Wis. Admin. Code Tax § 11.84(3)(a). BNA-SUTN WI 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Exempt Charges to repair, service, alter, fit, clean, paint, coat, tow, inspect, or maintain interstate and common carrier aircraft are exempt from sales and use tax in Wisconsin Wis. Admin. Code Tax § 11.84(3)(b). BNA-SUTN WI 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Sales tax does not apply to the sales price from aircraft, including accessories, attachments, parts, and fuel sold to persons using the aircraft as certified or licensed carriers of persons or property in interstate or foreign commerce under authority of the laws of the United States or any foreign government Wis. Stat. §77.54(5)(a), as enacted by 2014 Wis. S.B. 348, effective July 1, 2014; Wisconsin Sales and Use Tax Report 2-14Wisconsin News for Tax Professionals – June 17, 2014. BNA-SUTN WI 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Exempt Charges to repair, service, alter, fit, clean, paint, coat, tow, inspect, or maintain interstate and common carrier aircraft are exempt from sales and use tax in Wisconsin Wis. Admin. Code Tax § 11.84(3)(b). BNA-SUTN WI 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Exempt Sales of general aviation fuel are subject to aviation fuel taxes, and are exempt from the sales and use tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.84(2)(a)(2). The sale of motor vehicle fuel, general aviation fuel, or alternate fuel is exempt unless the motor vehicle fuel or alternative fuel tax is refunded because the buyer does not use the fuel in operating a motor vehicle on the public highways. Wis. Stat. § 77.54(11); Wisconsin Publication 222; Wisconsin Publication MF-106; Wisconsin Publication MF-107; Wisconsin Publication MF-108. BNA-SUTN WI 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Motor vehicles are subject to sales tax in Wisconsin. Wis. Admin. Code Tax § 11.83(2); Wisconsin Publication 202. The Wisconsin Department of Transportation is required to collect use tax along with titling and registration fees if no exemption applies. Wisconsin Tax Bulletin No. 197. Motor Vehicle Leases Wisconsin treats lease payments related to motor vehicles as a series of recurring monthly sales to the lessee, which are subject to sales and use taxes. Wis. Admin. Code Tax § 11.29(1); Wis. Admin. Code Tax § 11.79(1). Fees associated with motor vehicle leasing are taxable. Wis. Admin. Code Tax § 11.79(4)(a). Fees associated with motor vehicle leases include security deposits, document fees, tire fees, and cash down payments. Wis. Admin. Code Tax § 11.79(4)(a). Wisconsin treats a lease's exercised purchase option price as a separate taxable transaction. A Terminal Rental Adjustment Clause (TRAC) provides for a preset purchase option price. Parties often use TRACs when leasing over-the-road equipment, like semi-trucks and tractor trailers. The advantage to a TRAC is that it allows both parties to control for depreciation costs, which can vary substantially depending on use. The parties need not estimate the depreciation and amortize it over the life of the lease. Wis. Admin. Code Tax § 11.79(4)(a). Wisconsin treats agreements with TRACs as leases, consistent with I.R.C. §7701(h)(1), which stipulates that if an agreement otherwise conforms with the definition of a lease, and if the lessee is never treated as the owner during the course of the lease term, then the agreement should be treated as a lease, the TRAC notwithstanding. Wis. Stat. §77.51(7)(a); Wis. Admin. Code Tax § 11.29(1). A lease does not include a transfer of possession or control of tangible personal property under an agreement requiring transfer of title upon completion of the required payments and payment of an option price does not exceed the greater of $100 or 1 percent of the total required payments. Wis. Stat. §77.51(7)(b)(2). As a result, the sales tax on a finance lease, which is a type of agreement that typically meets the above definition, would be due up-front instead of on a monthly basis. Wis. Stat. §77.61(1)(b). Sourcing: The Wisconsin Department of Revenue provides guidance to explain that when determining where an automobile lease occurs, there are different results for one-payment leases and multiple-payment leases. The guidance explains that if there is only one lease payment, then the lease takes place where the customer receives the automobile (typically, the lessor or dealer's location). In contrast, if there are multiple lease payments, then the lease takes place where the lessee will customarily keep the automobile(typically, the vehicle's primary location based on the address provided by the lessee to the lessor). Wis. Stat. §77.522(3)(b); Wisconsin News for Tax Professionals – March 3, 2016. If the lease for a motor vehicle calls for multiple payments, but the lessee chooses to pay in a single payment, the one payment sourcing rule does not apply and the lease is sourced to the primary location of the motor vehicle. Wisconsin 2016 Tax Practitioner Questions and Answers. Commercial Radio and Television Station Vehicles Effective July 1, 2014, Wisconsin exempts from sales and use tax qualified purchases by licensed commercial radio or television stations in Wisconsin. To qualify for the exemption, the property must meet four criteria. Namely, the tangible personal property must be used [1] exclusively and [2] directly [3] to originate or integrate various sources of program material for commercial radio or television transmissions that are [4] generally available to the public free of charge without a subscription or service agreement. Wis. Stat. §77.54(23n), as enacted by 2013 Wis. A.B. 5, effective July 1, 2014; see also Wisconsin Publication 247 (explaining the “new exemption for certain radio and television stations”). Regarding motor vehicles, agency guidance explains that satellite and microwave trucks generally qualify for exemption. Equipment on those trucks (e.g., transmitters and satellite dishes) also qualify because the equipment is used to originate a signal and send it to the radio or television station for use in the origination and integration of the program material. Other motor vehicles might qualify, too. Wisconsin Publication 247. Taxis Leased to Drivers A taxicab company may hire drivers as employees or independent contractors. If a taxicab company leases its taxis to its drivers, the lease receipts are subject to Wisconsin sales or use tax. The lease receipts are subject to tax regardless of how they are determined:• periodic fee (e.g., daily, weekly, monthly); • percentage of income (e.g., 35 percent of each fare collected); • mileage basis (e.g., $0.50 per mile driven); or • combination of methods or some other basis. Wisconsin Tax Bulletin No. 193 - Articles. Vehicles Used in Waste Reduction or Recycling In addition, the state exempts from the sales price motor vehicles not required to be licensed for highway use and which are used exclusively and directly in conjunction with waste reduction or recycling activities which reduce the amount of solid waste generated, reuse solid waste, recycle solid waste, compost solid waste or recover energy from solid waste. Wis. Stat. § 77.54(5)(c). The sales price for mobile units used for mixing and processing and the motor vehicle or trailer on which the unit is mounted is exempt from tax. Wis. Stat. § 77.54(5)(d). Accessories, parts and supplies for the vehicles are also exempt. Motor Vehicle Salvage Pools Purchases of damaged motor vehicles sold and distributed at wholesale are subject to sales and use tax, unless an exemption applies. Wisconsin Sales and Use Tax Report 1-15. The salvage pool's purchases of towing services and motor vehicle inspection or repair services are subject to sales or use tax, unless and exemption applies. Wisconsin Sales and Use Tax Report 1-15. The salvage pool's sales of motor vehicles, part accessories and attachments, towing services, vehicle inspection or repair services are also subject to tax. Wisconsin Sales and Use Tax Report 1-15. Volkswagen Settlement and Buyback Program As part of the Volkswagen settlement with federal and California regulators, Volkswagen has agreed to provide cash payments to owners of certain Volkswagen and Audi diesel vehicles. Wisconsin Tax Bulletin No. 196. If an owner chooses to sell his or her vehicle back to the manufacturer:• the owner's sale of the vehicle to Volkswagen is not subject to sales tax; • no refund of the tax paid on the original sale of the vehicle may be claimed by Volkswagen, the dealer, or the owner; and • if an owner uses the money received from Volkswagen to purchase another vehicle from a dealer, the full purchase price of the new vehicle is subject to tax. Wisconsin Tax Bulletin No. 196. If an owner keeps his or her vehicle and receives cash and an emission modification, no sales tax is due because no sale is taking place. Wisconsin Tax Bulletin No. 196. Utility Vehicles Off-road motorcycles, utility-terrain vehicles, all-terrain vehicles, and similar motor vehicles are subject to Wisconsin's sales and use tax. Wisconsin Publication 202. Motor Vehicle Dealers' Measure of Use Tax Wisconsin licensed motor vehicle dealers are permitted to report use tax on a fixed dollar amount per plate per month for the use of motor vehicles assigned to certain employees and dealership owners. Wisconsin Tax Bulletin No. 198. Effective Jan. 1, 2019, the amount subject to use tax is increased from $157 to $162 per plate per month. To calculate use tax, $162 is multiplied by the appropriate use tax rate to arrive at the use tax due per plate per month. Wisconsin Tax Bulletin No. 202. Effective Jan. 1, 2018, the amount subject to use tax is increased from $154 to $157 per plate per month. To calculate use tax, $157 is multiplied by the appropriate use tax rate to arrive at the use tax due per plate per month. Wisconsin Tax Bulletin No. 198. BNA-SUTN WI 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Wisconsin imposes sales and use tax on sales of parts for repair, service, and maintenance of a motor vehicle. Wis. Admin. Code Tax § 11.83(2)(d); Wisconsin Publication 202. BNA-SUTN WI 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Wisconsin imposes sales and use tax on repair and maintenance services performed on a motor vehicle, including charges to install accessories or attachments. Wis. Admin. Code Tax § 11.83(2)(d); Wisconsin Publication 202. BNA-SUTN WI 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Wisconsin imposes sales and use tax on sales of parts for repair, service, and maintenance of a motor vehicle. Wis. Admin. Code Tax § 11.83(2)(d); Wisconsin Publication 202. BNA-SUTN WI 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Wisconsin imposes sales and use tax on sales of parts for repair, service, and maintenance of a motor vehicle. Wis. Admin. Code Tax § 11.83(2)(d); Wisconsin Publication 202. After-Market Services Charges for after-market services to motor vehicles are subject to sales and use tax in Wisconsin. Such services include rustproofing of a motor vehicle, apply paint protection to a motor vehicle, or etching unique identification information(e.g., VIN) on a motor vehicle. Wisconsin Publication 202. BNA-SUTN WI 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor vehicle fuel sold for highway use is subject to motor vehicle fuel tax, and is exempt from the sales and use tax. Motor vehicle fuel sold for non-highway use is subject to sales and use taxes rather than motor vehicle fuel tax. Wis. Stat. §77.54(11); Wisconsin Publication 202. The sale of motor vehicle fuel, general aviation fuel, or alternate fuel is exempt unless the motor vehicle fuel or alternative fuel tax is refunded because the buyer does not use the fuel in operating a motor vehicle on the public highways. Wis. Stat. § 77.54(11); Wisconsin Publication 222; Wisconsin Publication MF-106; Wisconsin Publication MF-107; Wisconsin Publication MF-108. Additionally, beginning Sept. 1, 2011, the sale of vegetable oil or animal fat that is converted by an individual into the first 1,000 gallons of motor vehicle fuel used by that individual in his or her personal motor vehicle is exempt from sales and use tax, even if that fuel is exempt from the motor vehicle fuel excise tax. The exemption does not apply to vegetable oil or animal fat that is converted into motor vehicle fuel by a person other than an individual. Wis. Stat. § 77.54(11m). BNA-SUTN WI 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Passenger car rentals are subject to Wisconsin ‘sales and use tax. Wis. Stat. §77.52(1b); Wis. Admin. Code Tax § 11.29(1); Wis. Admin. Code Tax § 11.79(1). BNA-SUTN WI 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Taxable If an individual makes any use of tangible personal property or taxable services purchased for resale other than retention, demonstration, or display while holding the property or services for sale, lease, or rental in the regular course of the purchaser's operations, then the use shall be taxable to the purchaser under Wis. Stat. §77.53 at the time the property or services were first used by the purchaser. Wis. Stat. §77.52(15). The measure of tax is the purchase price of the property or services to the purchaser. Wis. Stat. §77.52(15). BNA-SUTN WI 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Wisconsin imposes sales and use tax on sales of parts for repair, service, and maintenance of a motor vehicle. Wis. Admin. Code Tax § 11.83(2)(d); Wisconsin Publication 202. BNA-SUTN WI 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Wisconsin exempts from sales and use tax sales, licenses, leases, and rentals of motor trucks, truck tractors, road tractors, buses, trailers, and semitrailers sold to common or contract carriers who use such vehicles exclusively as common or contract carriers, including the urban mass transportation of passengers. Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(a); Wisconsin Publication 202. To qualify as an exempt sale to a common carrier, a purchaser must have an LC, IC, or MC number issued by the appropriate federal or state agency and use the exempt property exclusively in common or contract carriage. Wisconsin Tax Bulletin No. 196. Also exempt are accessories, attachments, parts, supplies, and materials for vehicles used by contract carriers. Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(a), effective July 1, 2014; Wisconsin Publication 202. This exemption includes the following items if they are assigned to and carried on vehicles exclusively used as common or contract carriers: dollies, piano boards, ladders, walk boards, tire chains, fire extinguishers, flares, bug deflectors, engine block heaters, defrost fans, auxiliary heaters and cooling unites and their fuel, radios, flag kits, and items designed to be used with a vehicle which protect or secure the vehicle's load including tape, fitted tarpaulins, tarpaulin straps, furniture pads and covers, load holding chains, logistic straps, shoring breams, cell phones, tracking devices, GPS units, and on board recorders. Wis. Admin. Code Tax § 11.16(1)(b). BNA-SUTN WI 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Accessories, attachments, parts, supplies and materials for motor trucks, truck tractors, road tractors, buses, trailers and semitrailers, sold to common or contract carriers who use such vehicles exclusively as common or contract carriers, including the urban mass transportation of passengers, are exempt from sales and use tax. Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(a); Wisconsin Publication 202. “Exclusively”means that the tangible personal property must be used solely as common or contract carriers to the exclusion of all other uses, except that the exemption will not be invalidated by an infrequent and sporadic use other than as a common or contract carrier. Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(am). Accessories, attachments, parts and supplies for exempt vehicles are exempt from the sales and use tax. Wis. Admin. Code Tax § 11.16(1)(b). This exemption includes the following items if they are assigned to and carried on vehicles used exclusively as common or contract carriers: • dollies; • piano-boards; • ladders; • walk boards; • tire chains; • fire extinguishers; • flares; • bug deflectors; • engine block heaters; • defroster fans; • auxiliary heaters; • cooling units; • fuel; • radios; • flag kits including flags and reflectors; and • items designed to be used with a vehicle which protect or secure the vehicle's load including tape, fitted tarpaulins, tarpaulin straps, furniture pads and covers, load holding chains, logistic straps, and shoring beams. Wis. Admin. Code Tax § 11.16(1)(b). This exemption does not include corrugated boxes, containers, and related materials that are transferred to customers in conjunction with the selling, performing, or furnishing of a moving service, as provided in Wis. Admin. Code Tax § 11.16(1)(g) BNA-SUTN WI 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance to exempt vehicles are exempt from sales and use tax in Wisconsin. Wis. Admin. Code Tax § 11.16(1)(c). BNA-SUTN WI 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Accessories, attachments, parts, supplies and materials for motor trucks, truck tractors, road tractors, buses, trailers and semitrailers, sold to common or contract carriers who use such vehicles exclusively as common or contract carriers, including the urban mass transportation of passengers are exempt from sales and use tax Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(a); Wisconsin Publication 202. BNA-SUTN WI 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance to exempt vehicles is exempt from sales and use tax in Wisconsin. Wis. Admin. Code Tax § 11.16(1)(c). BNA-SUTN WI 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Sales of fuel used in exempt vehicles are exempt from sales and use tax in Wisconsin. Wis. Admin. Code Tax § 11.16(1)(c). The sale of motor vehicle fuel, general aviation fuel, or alternate fuel is exempt unless the motor vehicle fuel or alternative fuel tax is refunded because the buyer does not use the fuel in operating a motor vehicle on the public highways. Wis. Stat. § 77.54(11); Wisconsin Publication 222; Wisconsin Publication MF-106; Wisconsin Publication MF-107; Wisconsin Publication MF-108. Additionally, beginning Sept. 1, 2011, the sale of vegetable oil or animal fat that is converted by an individual into the first 1,000 gallons of motor vehicle fuel used by that individual in his or her personal motor vehicle is exempt from sales and use tax, even if that fuel is exempt from the motor vehicle fuel excise tax. The exemption does not apply to vegetable oil or animal fat that is converted into motor vehicle fuel by a person other than an individual. Wis. Stat. § 77.54(11m). BNA-SUTN WI 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Exempt Accessories, attachments, parts, supplies and materials for motor trucks, truck tractors, road tractors, buses, trailers and semitrailers, sold to common or contract carriers who use such vehicles exclusively as common or contract carriers, including the urban mass transportation of passengers are exempt from sales and use tax Wis. Stat. §77.54(5)(b); Wis. Admin. Code Tax § 11.16(1)(a); Wisconsin Publication 202. BNA-SUTN WI 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Wisconsin imposes sales and use tax on gross receipts from the sale, lease, or rental of boats, barges, boat accessories, jet skis, vessels and attachments, parts, supplies, and materials. Wis. Admin. Code Tax § 11.85(1)(a). A boat purchased outside Wisconsin by a nonresident and used by a nonresident while temporarily in Wisconsin is exempt from tax, if the boat is not used in Wisconsin in the conduct of a trade, occupation, business, profession, or in the performance of personal service for wages or fees. Furthermore, the use tax does not apply to boats for an individual's personal use purchased by a nonresident outside Wisconsin at least 90 days before bringing the boats into Wisconsin in connection with a change of domicile to Wisconsin. Wis. Admin. Code Tax § 11.85(2)(d). Wisconsin use tax is not imposed on the storage, use, or other consumption of a boat in Wisconsin that is owned by a nonresident if:• the boat is purchased in Illinois, Iowa, Michigan, or Minnesota; • the boat is purchased by a person domiciled in the same state in which the purchase occurred; • the boat is berthed in Wisconsin boundary waters adjacent to the state of domicile of the purchaser; and • the boat is purchased in a transaction that is an exempt occasional sale under the laws of the state in which the purchase is made. Wis. Stat. §77.53(17m); Wisconsin Tax Bulletin No. 197. The sales of tangible personal property or taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed resale or other exemption certificate. Wis. Admin. Code Tax § 11.85(5). Sales of Watercraft by Dealers and Other Retailers Retailers are required to collect sales or use tax on the sale of watercraft when a purchaser takes possession of the watercraft in Wisconsin, even if the purchaser takes the watercraft to a location outside of Wisconsin. If the retailer does not collect the tax, the purchaser will pay the tax at the time the watercraft is registered in Wisconsin. If no registration is required for the watercraft, use tax is due. Wisconsin Tax Bulletin No. 190 – Articles; Wisconsin Tax Bulletin No. 193 - Articles. Sales of Watercraft by a Private Party An individual is not required to collect sales or use taxes when selling his or her personal watercraft. Sales or use taxes are paid at the time the watercraft is registered in Wisconsin. If no registration is required for the watercraft, the purchaser owes use tax. Payment must be made by the purchaser when registering the watercraft with the Department of Natural Resources. If no registration is required for the watercraft, the use tax can be reported on the purchaser's individual income tax return or by completing a Form UT-5. Wisconsin Tax Bulletin No. 190 – Articles; Wisconsin Tax Bulletin No. 193 - Articles. BNA-SUTN WI 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Wisconsin imposes sales and use tax on gross receipts from the sales of parts, supplies, and materials for boats, barges, boat accessories, jet skis, vessels. Wis. Admin. Code Tax § 11.85(1)(a). The sales of tangible personal property or taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed resale or other exemption certificate. Wis. Admin. Code Tax § 11.85(5). BNA-SUTN WI 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Wisconsin imposes sales and use tax on charges for repairs, service, cleaning, painting, coating, towing, inspecting and maintaining boats and their accessories or component parts. Wis. Admin. Code Tax § 11.85(1)(c). Services purchased outside Wisconsin, which would be taxable if purchased in Wisconsin, with respect to property later used in Wisconsin, are subject to use tax. Wis. Admin. Code Tax § 11.85(1)(c). Charges for services involved in installing an item on a boat for a consumer are also taxable. Wis. Admin. Code Tax § 11.85(1)(b). Additionally, charges for docking and storing new and used watercraft are subject to use tax. Wis. Admin. Code Tax § 11.85(1)(d); Wisconsin Tax Bulletin No. 190. The sales of tangible personal property or taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed resale or other exemption certificate. Wis. Admin. Code Tax § 11.85(5). BNA-SUTN WI 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Wisconsin imposes sales and use tax on gross receipts from the sales of parts, supplies, and materials for boats, barges, boat accessories, jet skis, vessels. Wis. Admin. Code Tax § 11.85(1)(a). The sales of tangible personal property or taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed resale or other exemption certificate. Wis. Admin. Code Tax § 11.85(5). BNA-SUTN WI 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Wisconsin imposes sales and use tax on charges for repairs, service, cleaning, painting, coating, towing, inspecting and maintaining boats and their accessories or component parts. Wis. Admin. Code Tax § 11.85(1)(c). Services purchased outside Wisconsin, which would be taxable if purchased in Wisconsin, with respect to property later used in Wisconsin, are subject to use tax. Wis. Admin. Code Tax § 11.85(1)(c). The sales of tangible personal property or taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed resale or other exemption certificate. Wis. Admin. Code Tax § 11.85(5). BNA-SUTN WI 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Depends Whether motorboat fuel is taxable depends on the type of motorboat and the type of fuel. Wisconsin Tax Bulletin No. 197. For recreational motorboats, gasoline and undyed diesel fuel are subject to the motor vehicle fuel tax rather than the sales and use tax. Wis. Stat. § 77.54(11); Wisconsin Tax Bulletin No. 197; Wisconsin Publication 202. Dyed diesel fuel cannot be used in recreational motor boats. Wisconsin Tax Bulletin No. 197. Generally, gasoline, undyed diesel fuel and dyed diesel fuel for commercial motorboats are taxable. However, sales of fuel for use in commercial vessels and barges of 50-ton burden or over primarily engaged in interstate or foreign commerce or commercial fishing are exempt from tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.16(3)(a); Wisconsin Tax Bulletin No. 197. Fuel sold for use in motorboats that are regularly employed in carrying persons for hire for sport fishing are exempt from tax if the owner and all operators are licensed to operate the boat for that purpose and if the boats are regularly used in and upon Lake Superior, Lake Michigan, Green Bay, Sturgeon Bay, Sawyer's Harbor and the Fox River from its mouth up to the dam at De Pere, any river or stream tributary of Lake Michigan or Green Bay from its mouth upstream to the first dam or lake, or any other river or stream tributary of Lake Michigan or Green Bay that is designated by the department.. Wis. Stat. § 77.54(30(a)(7); Wisconsin Tax Bulletin No. 197. BNA-SUTN WI 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of vessels and barges primarily engaged in interstate or foreign commerce or commercial fishing that are documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from tax. Wis. Admin. Code Tax § 11.85(2)(c). However, sales of consumable supplies or furnishings not attached to the vessel or barge are not exempt from sales or use tax. Wis. Stat. § 77.54(13). Sales to Ships. Sales of tangible personal property, items, property, and goods and taxable services delivered to operators of foreign flag ships or ships under the U.S. flag in a Wisconsin harbor are subject to tax, unless the retailer receives a properly completed exemption certificate from the purchaser. Wis. Admin. Code Tax § 11.85(5). Sales of Consumable Supplies Sales of bedding, linen, table and kitchenware, tables, chairs, lubricants, work clothes, acetylene gas, paper towels, etc., used on commercial vessels or barges of 50 ton burden or over engaged primarily in interstate or foreign commerce or commercial fishing are subject to sales and use tax. Wis. Admin. Code Tax § 11.85; Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of accessories, attachments, and parts attached to a vessel or barge primarily engaged in interstate or foreign commerce or commercial fishing that is documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from sales and use tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.85(2)(c). However, sales of consumable supplies or furnishings not attached to the vessel or barge are not exempt from sales or use tax. Wis. Admin. Code Tax § 11.85(4); Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of exempt commercial vessels is exempt from tax. Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Sales of accessories, attachments, and parts attached to a vessel or barge primarily engaged in interstate or foreign commerce or commercial fishing that is documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from sales and use tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.85(2)(c). However, sales of consumable supplies or furnishings not attached to the vessel or barge are not exempt from sales or use tax. Wis. Admin. Code Tax § 11.85(4); Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of exempt commercial vessels is exempt from tax. Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Depends Whether motorboat fuel is taxable depends on the type of motorboat and the type of fuel. Wisconsin Tax Bulletin No. 197. Generally, gasoline, undyed diesel fuel and dyed diesel fuel for commercial motorboats are taxable. However, sales of fuel for use in commercial vessels and barges of 50-ton burden or over primarily engaged in interstate or foreign commerce or commercial fishing are exempt from tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.16(3)(a); Wisconsin Tax Bulletin No. 197. Fuel sold for use in motorboats that are regularly employed in carrying persons for hire for sport fishing are exempt from tax if the owner and all operators are licensed to operate the boat for that purpose and if the boats are regularly used in and upon Lake Superior, Lake Michigan, Green Bay, Sturgeon Bay, Sawyer's Harbor and the Fox River from its mouth up to the dam at De Pere, any river or stream tributary of Lake Michigan or Green Bay from its mouth upstream to the first dam or lake, or any other river or stream tributary of Lake Michigan or Green Bay that is designated by the department.. Wis. Stat. § 77.54(30(a)(7); Wisconsin Tax Bulletin No. 197. BNA-SUTN WI 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Exempt Sales of vessels and barges primarily engaged in commercial fishing that are documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from tax. Wis. Admin. Code Tax § 11.85(2)(c). BNA-SUTN WI 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Exempt Sales of accessories, attachments, and parts attached to a vessel or barge primarily engaged in commercial fishing that is documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from sales and use tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.85(2)(c). BNA-SUTN WI 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of commercial fishing vessels is exempt from tax. Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Depends Sales of accessories, attachments, and parts attached to a vessel or barge primarily engaged in commercial fishing that is documented under the laws of the U.S. showing a net volumetric tonnage of 50 tons or more are exempt from sales and use tax. Wis. Stat. § 77.54(13)Wis. Admin. Code Tax § 11.85(2)(c). BNA-SUTN WI 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance of commercial fishing vessels is exempt from tax. Wis. Admin. Code Tax § 11.16(3)(b). BNA-SUTN WI 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Sales of fuel for use in commercial vessels and barges of 50-ton burden or over primarily engaged in commercial fishing are exempt from tax. Wis. Stat. § 77.54(13); Wis. Admin. Code Tax § 11.16(3)(a). BNA-SUTN WI 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable Sales of commercial fishing equipment, not attached to the vessel, are subject to sales and use tax. Wis. Stat. § 77.54(13). BNA-SUTN WI 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable Sales of commercial fishing tools or supplies, not attached to the vessel, are subject to sales and use tax. Wis. Stat. § 77.54(13). BNA-SUTN WI 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of rail freight or passenger cars, locomotives or other rolling stock used in railroad operations are exempt from sales tax. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(a); see Wisconsin Administrative Decision S-4641, Fort Howard Paper Co. v. Wisconsin Dept. of Rev. (April 20, 1978). The term “railroad operations” is not specifically defined by Wisconsin sales and use tax statutes or regulations. However, case law indicates that the state takes a broadly inclusive view of what constitutes railroad operations for purposes of the exemption. Wisconsin Administrative Decision S-4641, Fort Howard Paper Co. v. Wisconsin Dept. of Rev. (April 20, 1978). In Fort Howard Paper Co. v. Wisconsin Dept. of Rev., the taxpayer, a paper company, used a “railroad-type segment” on its loading/unloading station at its production facility. The Wisconsin Tax Appeals Commission determined that the rails and switching equipment at the loading/unloading station constituted “railroad operations” for the purposes of the exemption. See Wisconsin Administrative Decision S-4641, Fort Howard Paper Co. v. Wisconsin Dept. of Rev. (April 20, 1978); see also Wis. Admin. Code Tax § 11.16(2)(c)(2) (bracing materials, rough lumber, and dunnage do not qualify for railroad exemption). BNA-SUTN WI 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of parts and accessories for rail freight or passenger cars, locomotives or other rolling stock used in railroad operations are exempt from sales tax. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(a). BNA-SUTN WI 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Exempt The exemption for rolling stock extends to repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance to exempt rolling stock. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(b)(1). BNA-SUTN WI 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Sales of parts and accessories for rail freight or passenger cars, locomotives or other rolling stock used in railroad operations are exempt from sales tax. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(a). However, the exemption does not apply to rails, crossties, and other road building and maintenance materials. Sales of crossties to a common or contract carrier may qualify for an exemption if they are shipped wholly or in part by way of the purchasing carrier under a bill of lading, whether the freight is paid in advance or the shipment is made freight charges collect, to a point outside Wisconsin if the property is transported outside Wisconsin for use by the carrier in the conduct of its business as a carrier. The exemption will not be invalidated because of interruption of the shipment for storage, drying, processing, or creosoting of the crossties in Wisconsin. Wis. Admin. Code Tax § 11.16(2)(c) Bracing materials, rough lumber, and dunnage materials and Ice to refrigerate a railway cars do not qualify for the above-described exemption. BNA-SUTN WI 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Exempt The sale or furnishing of repair, service, alteration, fitting, cleaning, painting, coating, towing, inspection, and maintenance to exempt rolling stock is not subject to sales and use tax. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(b)(1). BNA-SUTN WI 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Depends Sales of fuel for rail freight or passenger cars, locomotives or other rolling stock used in railroad operations are exempt from sales and use taxes. Wis. Stat. § 77.54(12) Additionally, fuel used to heat a caboose or run a compressor that cools a railway car is exempt from sales and use tax. Wis. Stat. § 77.54(12); Wis. Admin. Code Tax § 11.16(2)(b)(3). BNA-SUTN WI 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable Wisconsin sales and use tax does not apply to sales of passenger transportation services by air. Wis. Stat. §77.52(2)(a), et seq.; Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, the consumption of taxable tangible personal property used to provide such services is taxable unless otherwise exempt. Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). BNA-SUTN WI 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Wisconsin sales and use tax does not apply to sales of passenger transportation services by rail. Wis. Stat. §77.52(2)(a), et seq.; Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, the consumption of taxable tangible personal property used to provide such services is taxable unless otherwise exempt. Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). BNA-SUTN WI 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Wisconsin sales and use tax does not apply to sales of passenger transportation services by water. Wis. Stat. §77.52(2)(a), et seq.; Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, the consumption of taxable tangible personal property used to provide such services is taxable unless otherwise exempt. Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). BNA-SUTN WI 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Wisconsin sales and use tax does not apply to sales of passenger transportation services by bus. Wis. Stat. §77.52(2)(a), et seq.; Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, the consumption of taxable tangible personal property used to provide such services is taxable unless otherwise exempt. Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). BNA-SUTN WI 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Exempt Wisconsin sales and use tax does not apply to taxicab or transit services. Wis. Stat. §77.52(2)(a); Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, a taxicab company may hire drivers as employees or independent contractors. If a taxicab company leases its taxis to its drivers, the lease receipts are subject to Wisconsin sales or use tax. Wis. Stat. §77.71(1); Wisconsin Tax Bulletin No. 193 - Articles. BNA-SUTN WI 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable Wisconsin sales and use tax does not apply to sales of passenger transportation services by limousine Wis. Stat. §77.52(2)(a), et seq.; Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). However, the consumption of taxable tangible personal property used to provide such services is taxable unless otherwise exempt. Wis. Stat. §77.53(1); Wis. Stat. §77.53(1b). BNA-SUTN WI 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable A retailer's receipts from providing the moving or transportation of tangible personal property are not subject to tax Wisconsin Tax Bulletin No. 172; Wis. Stat. §77.52(2)(a) et seq. BNA-SUTN WI 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable A retailer's receipts from providing the moving or transportation of tangible personal property are not subject to tax. Wis. Stat. §77.52(2)(a) et seq; Wisconsin Tax Bulletin No. 197; Wisconsin Tax Bulletin No. 172. When the seller is providing a moving service or warehouse storage space, rather than the rental of a storage container, no part of the seller's charge is subject to tax. Wisconsin Tax Bulletin No. 176 - Tax Releases; Wis. Stat. §77.52(2)(a), et seq. Disassembly and reassembly charges that are provided with the sale of moving services are part of the sales price of the moving services if:• the primary objective of the customer is to have the property moved from one location to another; and • the disassembly and reassembly charges are not separate and optional charges to the customer. Wisconsin Tax Bulletin No. 197. BNA-SUTN WI 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Taxable Charges for parking motor vehicles or aircraft are taxable. Wis. Stat. §77.52(2)(a)(9). BNA-SUTN WI 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Taxable Charges for the docking or storage of boats are taxable. Wis. Stat. §77.52(2)(a)(9); Wis. Stat. §77.52(2)(a), et seq; Wisconsin Tax Bulletin No. 195 Charges for installing, removing, repairing, cleaning, maintaining, or providing other services to seasonal docks, floating piers, swim rafts, and other similar property are taxable. Charges for moving a seasonal dock, floating pier or swim raft from one location to another are not taxable. Wisconsin Tax Bulletin No. 190 - Articles; Wisconsin News for Tax Professionals – Sept. 10, 2015. The sale of or service to an anchoring system for one of these items is exempt from tax as a real property improvement, if the anchoring system is permanently affixed to the real estate and is intended to remain installed year-round. The seller must pay sales or use tax on the purchase of the pier and other materials and supplies used in making the real property improvement. Wisconsin News for Tax Professionals – Sept. 10, 2015. BNA-SUTN WI 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Depends Charges for towing a motor vehicle are taxable unless the purchase of the motor vehicle within the state would be exempt from sales tax. Wis. Stat. §77.52(2)(a)(8m). BNA-SUTN WI 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Taxable Car washing services are subject to sales and use tax. Wis. Admin. Code Tax § 11.67(3)(l); see also Wisconsin Fact Sheet 2108. Examples of taxable services offered by car wash operator include vacuuming and shampooing upholstery, cleaning windows, waxing and polishing cars, cleaning tires and rims and changing oil and filters. Wis. Admin. Code Tax § 11.67(3)(l). Services to Exempt Property Car wash services for the following items are exempt from sales tax if the service provider receives a fully completed exemption certificate:• motor trucks, tractors, and trailers used exclusively in common or contract carriage by common or contract carriers; • farm machines used exclusively and directly in farming; and • motor vehicles held for sale by a retailer. Wisconsin Fact Sheet 2108. Sales of Gasoline With Car Wash Car washes provided free of charge with the purchase of gasoline are exempt from tax, provided the same grade of gasoline may be purchased for the same price without obtaining the car wash. If a car wash is obtained for a discounted sales price with the purchase of gasoline, the discounted sales price for the car wash is subject to tax. Wisconsin Fact Sheet 2108. Purchases by Car Washes Most purchases of property used by car wash operators are subject to tax, including purchases of equipment, repair parts and labor, and supplies. A car wash operator may purchase without tax, for resale, property that is physically transferred to the customer(or the customer's vehicle) when providing a car wash. Wisconsin Fact Sheet 2108. If a car wash is provided free with the purchase of gasoline, the car wash operator's purchase of wax, air fresheners, and protectants is taxable. Items that are given away may not be purchased without tax, for resale. However, if the car wash operator offers a promotion where a customer is required to purchase a taxable product in order to receive a free car wash, the car wash operator may still purchase property without tax, for resale, that it physically transfers to the customer. Wisconsin Fact Sheet 2108. BNA-SUTN WI 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+No Guidance Wisconsin does not directly address whether car detailing services are taxable;however, if treated similarly to car washing services car detailing services are generally taxable. Wis. Admin. Code Tax § 11.67(3)(l); see also Wisconsin Fact Sheet 2108. BNA-SUTN WI 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+None Wisconsin's statutes and regulations generally do not tax transportation services. Wis. Stat. §77.52(2)(a) et seq. BNA-SUTN WI 29.15.
+
+==================================================

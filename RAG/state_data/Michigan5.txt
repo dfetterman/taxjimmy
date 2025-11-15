@@ -1,0 +1,201 @@
+State: Michigan
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Michigan does not impose sales and use tax on sales of real property. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Three-part Test In Sequist v. Fabiano, the Michigan Supreme Court established a three-prong test used to determine whether and when tangible personal property becomes sufficiently affixed to real property that it should be treated as a fixture. See Sequist v. Fabiano, 265 N.W. 488 (Mich. 1936); see also Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016) (describing in detail Michigan's case law regarding fixtures). The test's three prongs are:• annexation of the tangible personal property to the real property, either actually or constructively; • adaptation or application of the item to the use or purpose of the part of the real property to which it is connected; and • intention to make the item a permanent accession to the real estate. Sequist v. Fabiano, 265 N.W. 488 (Mich. 1936); see also Wayne County, Mich. v. Britton Trust, 563 N.W.2d 674 (Mich. 1997) (citing Morris v. Alexander, 175 N.W. 264 (Mich. 1919)); Michigan Administrative Decision 244224 (June 24, 1994); Brunt Assocs. v. Michigan Dept. of Treas., 2017 BL 835 (Mich. Ct. App. 2017); Michigan Treasury Update --March 2017. Annexation Actual annexation occurs when an object is physically affixed to real property. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). Furthermore, even if an object is not physically affixed, it can become a fixture via “constructive annexation.”Constructive annexation “has frequently been applied in the case of articles which are not themselves actually or directly annexed to the realty, but are part of, or accessory to, articles which are so annexed. Thus, where the principal part of machinery is [a] fixture due to actual annexation to the realty, the parts of it, although not actually annexed to the freehold, are fixture[s] where they would, if removed, leave the principal part unfit for use, and where of themselves they are not capable of general use elsewhere.” Sequist v. Fabiano (Mich. 1936); see also Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). Adaptation or Application Adaptation or application refers to the “relationship between chattel and the use which is made of the realty to which the chattel is annexed. . . . [A]n object introduced onto the realty may become a fixture if it is a necessary or at least a useful adjunct to the realty, considering the purpose to which the latter is devoted.” Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016), quoting Wayne County, Mich. v. Britton Trust (Mich. 1997). The Michigan Department of Revenue explains that if an item functions as part of the particular building or if it carries out part of the function of real property, then that item will likely constitute real property. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). Property that has been adapted to the use or purpose of the real estate includes screens that are built to fit the windows of a particular building, drive-up window equipment, vault doors, and theatre seats bolted to the floor of a theatre. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016); see also Michigan Administrative Decision 429973 (May 10, 2013). Intention to Make Permanent In Michigan, the parties' intentions largely determine whether an article attached to real estate becomes a fixture. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016) (citing Morris v. Alexander, 175 N.W. 264 (Mich. 1919)). Michigan guidance explains that the “objective, visible facts” (i.e., the surrounding circumstances)manifest the parties' intentions, not the “annexor's secret subjective intent.” Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016), citing Mich. Natl. Bank, Lansing v. Lansing, Mich., 293 N.W.2d 626, 96 Mich. App. 551, 96 Mich. App. 551 (1980), 293 N.W.2d 626 (Mich. Ct. App. 1980). Further, the guidance distinguishes permanency from perpetuity, explaining that for an article to become a fixture, the parties need not intend to make the structure last forever. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016), citing Tuinier v. Charter Twp. of Bedford, 599 N.W.2d 116, 235 Mich. App. 663, 671-72 (Mich. Ct. App. 1999). The department characterizes as “personal property” any:• portable air compressor; • freestanding appliance; • window unit air conditioner; • ductwork for equipment; • generator used for specific equipment; or • plumbing for specific equipment. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). In contrast, the department characterizes as “real property” any:• air compressor for a central building system; • awning; • built-in appliance; • central air conditioning system for a building; • building or home cabinet; • carpeting; • ductwork for a building; • elevator; • fire protection sprinkler for a building; • generator that services a building; • hot water heater; • plumbing for a building;or • floor-bolted theater seat. Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). Furthermore, the Michigan Revenue Administrative Bulletin 2016-4 summarizes Michigan court or Tax Tribunal decisions that apply the three-part test. Those examples show that under the particular facts and circumstances of the cases, at least one Michigan court or Tax Tribunal has identified as a fixture a greenhouse, grain storage bin, or wooden pole-mounted outdoor warning siren. In contrast, at least one Michigan court or Tax Tribunal has identified as tangible personal property a modular home or a methane-producing landfill cell. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016), citing Tuinier v. Charter Twp. of Bedford, 599 N.W.2d 116, 235 Mich App 663, 671–72 (Mich. Ct. App. 1999) (greenhouses); Miedma Metal Bldg. Sys., Inc. v. Michigan Dept. of Treas., 338 N.W.2d 924, 127 Mich App 533 (Mich. Ct. App. 1983) (grain storage bins); Michigan Administrative Decision 241717 (June 8, 1999), aff'd, Hi-Tech Housing, Inc. v. Michigan Dept. of Treas. (Mich. Ct. App. 2001) (unpublished per curium), leave to appeal denied 466 Mich 866 (2002) (modular homes); Granger Land Dev. Co. v. Michigan Dept. of Treas., 780 N.W.2d 611, 286 Mich App 601, 610–11 (Mich. Ct. App. 2009), leave to appeal denied 487 Mich 853 (2010) (methane-producing landfill cells); W. Shore Servs., Inc. v. Michigan Dept. of Treas., 2015 BL 233483 (Mich. Ct. App. 2015) (unpublished per curium) (wooden pole-mounted outdoor warning sirens). BNA-SUTN MI 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Depends Michigan does not treat the sale and installation of appliances, electronics, machinery, and equipment per se as a taxable sale and installation of tangible personal property. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). The sale and installation of freestanding appliances is treated as a sale and installation of tangible personal property, whereas the sale and installation of built-in appliances is treated as a nontaxable real property service. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). The characterization of the sale and installation of electronics, machinery, and equipment is determined by the facts and circumstances of the particular case, applying Michigan's three-part test. See Sequist v. Fabiano, 265 N.W. 488 (Mich. 1936). BNA-SUTN MI 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Real Property The sale and installation of plumbing fixtures is treated as a nontaxable real property service. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Real Property The sale and installation of flooring and custom window treatments is treated as a nontaxable real property service. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Depends Michigan does not treat the sale and installation of signage per se as a taxable sale and installation of tangible personal property. See Mich. Comp. Laws §205.51, et seq. Instead, the characterization of the sale and installation of these items is determined by the facts and circumstances of the particular case, applying Michigan's three-part test. See Sequist v. Fabiano, 265 N.W. 488 (Mich. 1936). BNA-SUTN MI 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+Depends Michigan does not treat leasehold improvements per se as tangible personal property. See Mich. Comp. Laws §205.51, et seq. Instead, the characterization of leasehold improvements is determined by the facts and circumstances of the particular case, applying Michigan's three-part test. See Sequist v. Fabiano, 265 N.W. 488 (Mich. 1936). BNA-SUTN MI 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Depends Michigan does not impose sales and use tax on construction services. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). Nevertheless, a contractor is responsible for paying sales and use tax on all items of tangible personal property purchased by the contractor and used in rendering construction services, because the contractor is treated as the consumer of those materials. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Mich. Comp. Laws §205.71(2); Mich. Comp. Laws §205.92(g)(i) (defining “consumer”as a person who has purchased tangible personal property or services for storage, use, or other consumption in Michigan, including a person acquiring tangible personal property if engaged in the business of constructing, altering, repairing, or improving the real estate of others); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). Contractors are also required to pay use tax on tangible personal property used or consumed in the performance of a construction contract on behalf of an exempt government agency or nonprofit organization, even if the exempt contractee purchased the tangible personal property. Michigan Treasury Update -August 2016 However, a contractor is not responsible for paying use tax on tangible property that is supplied by a non-exempt contractee and used for construction services rendered on behalf of that contractee. Mich. Comp. Laws §205.94ee, as added by 2018 Mich. S.B. 887, effective June 20, 2018; Michigan Treasury Update - September 2018. Construction services include constructing, altering, repairing, or improving real estate for others. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). For more information on the taxation of construction contractors, see 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN MI 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable The customer is not obligated to pay sales or use tax on the lump-sum charges for the completion of a construction contract. Mich. Comp. Laws §205.52(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). In the case of lump-sum charges for construction services along with charges for parts, materials, and supplies, a contractor is responsible for paying tax on the total gross proceeds of the sale, unless they obtain a sales tax license and pay the tax on the sale of tangible personal property, including such property sold in connection with the repair work. If the contractor itemizes the contract, they will only have to pay tax on the tangible personal property sold. Mich. Admin. Code r. 205.117(3);Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B);Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable In the case of lump-sum charges for construction services along with charges for parts, materials, and supplies, a contractor must pay sales and use tax on the purchase of tangible personal property purchased. Mich. Admin. Code r. 205.117(3); Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable In the case of separately stated charges for construction services, a contractor is responsible for paying the sales and use tax only on parts, materials, and supplies, while the services are not taxable. Mich. Admin. Code r. 205.117(3); Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Taxable In the case of separately stated charges for construction services from charges for parts, materials, and supplies, a contractor is responsible for paying the sales and use tax on parts, materials, and supplies. Mich. Admin. Code r. 205.117(3); Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). BNA-SUTN MI 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Taxable In the case of charges for construction services separately stated from charges for parts, materials, and supplies, a contractor is responsible for paying the sales and use tax only on parts, materials, and supplies, while the services are not taxable. Mich. Admin. Code r. 205.117(3).; Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). A contractor who has paid sales or use tax to purchase the materials, supplies, or equipment used in completing a job cannot charge sales or use tax directly to their customer. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). However, a contractor may include the amount of tax in the total contract price as an overhead cost. Michigan Revenue Administrative Bulletin 2016–18. Even if a contractor acquires tangible personal property, although the contractor did not purchase the property, the contractor is still responsible for paying sales or use tax on the property. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Nontaxable Michigan does not impose sales and use tax on construction services to real property. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). Construction services include constructing, altering, repairing, or improving real estate for others. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Nontaxable The contractor is responsible to pay sales and use tax on separately stated parts, materials, equipment, and supplies used in rendering repair services for real property, unless an exemption applies. Mich. Admin. Code r. 205.117(3).; Mich. Comp. Laws § 205.51(1)(d)(iii)(B); Mich. Comp. Laws § 205.92(f)(iii)(B). BNA-SUTN MI 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Nontaxable Michigan does not impose sales and use tax on services to or sales of real property. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). However, Michigan does tax the tangible personal property used to render services to real property, unless an exemption applies. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93(1); Brunt Assoc. v. Michigan Dept. of Treas., 2016 BL 384057 (Mich. Ct. App. 2016) (contractor liable to remit use tax when it affixed property to real estate); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Nontaxable Michigan does not impose the sales and use tax on services to real property. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). BNA-SUTN MI 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Nontaxable Michigan does not impose the sales and use tax on maintenance services to real property. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). BNA-SUTN MI 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Excavation and demolition services are not specifically enumerated as taxable services; therefore, excavation and demolition services are exempt from Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Site cleanup services are not specifically enumerated as taxable services;therefore, site cleanup services are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable The sale and installation of plumbing fixtures is treated as a nontaxable real property service. See Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable Electricians'services to real property are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Nontaxable HVAC installation services are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Nontaxable HVAC repair services are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016-4 (Feb. 1, 2016). BNA-SUTN MI 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Nontaxable Gutter cleaning services are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Nontaxable Window cleaning services are not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Nontaxable The service of power washing buildings is not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Nontaxable The service of power washing sidewalks and parking lots is not subject to Michigan's sales and use tax. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends The painting and selling of detached metal, wood, cardboard or paper signs constitute a retail sale and tax applies on the full selling price without deduction for any costs incurred in producing the sign. Mich. Admin. Code r. 205.119. A sign painter, working on the property of others, is a service provider and a sales tax license is not required unless, in addition to this work, he also makes retail sales of manufactured signs. Sales of tangible personal property to sign painters for use or consumption in performing services for others are taxable. Mich. Admin. Code r. 205.119. Painting and lettering services to existing real property are nontaxable real property services. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.93a. BNA-SUTN MI 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Depends Michigan's sales and use tax treatment of construction services and tangible personal property used in rendering those services varies depending upon whether the contractor is treated as a retailer or a manufacturer. Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). Contractors Engaged in the Business of Selling Tangible Personal Property at Retail Contractors may be engaged in the business of making sales of tangible personal property at retail, as well as in the business of altering, constructing, repairing, or improving real property for others. A contractor may make sales at retail when the contractor sells supplies to another contractor to complete a construction contract, or when the contractor sells tangible personal property in the course of performing a construction contract and the property is not consumed or affixed to the real property. Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). A contractor who is engaged in the business of making retail sales is required to be licensed as a retailer under sales and use tax law. Mich. Comp. Laws §205.95(1); Mich. Comp. Laws §205.53(1); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). A contractor engaged in the business of being a retailer is entitled to purchase materials exempt from sales tax as sales for resale. However, when a contractor-retailer withdraws tangible personal property purchased free from tax from inventory, the contractor is responsible for paying use tax on the value of the property removed. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). Manufacturer-Contractors For a manufacturer-contractor who either maintains an inventory of its product that is available for sale to others or makes its product available for sale to others by publication or price list, and affixes that product to real estate located in Michigan, the use tax base is the direct production costs and the indirect production costs of the product that are incident to and necessary for production or manufacturing. Mich. Comp. Laws §205.93a(1)(f); Michigan Revenue Administrative Bulletin 2016–24. This is referred to as the “finished goods inventory value”of the product. Michigan Revenue Administrative Bulletin 2016–24. The “finished goods inventory value”is calculated according to the full absorption method of inventory valuation for manufacturers as described in 26 CFR 1.471-11. Michigan Revenue Administrative Bulletin 2016–24. For a manufacturer-contractor who does not maintain an inventory of its product available for sale to others or make its product available for sale to others by publication or price list, and affixes that product to real estate located in Michigan, the use tax base is the sum of the materials, cost of the property, and the cost of labor to manufacture, fabricate, or assemble the property affixed to the real estate in the state, but excluding the cost of labor to cut, bend, assemble, or attach the property at the site for affixation to real estate in Michigan. Mich. Comp. Laws §205.93a(1)(g); Michigan Revenue Administrative Bulletin 2016–24. BNA-SUTN MI 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Defined The term “contractor” includes subcontractors directly engaged in the business of constructing, altering, repairing, or improving real estate for others. Mich. Comp. Laws §205.71(1). Subcontractors are treated as the consumer of the materials they use and are subject taxation;thus, subcontractors will receive the same sales and use tax treatment as contractors. Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93; Mich. Comp. Laws §205.71(2); Michigan Revenue Administrative Bulletin 2016–18 (Sept. 20, 2016). BNA-SUTN MI 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Depends Contractors generally may not claim an exempt entity contractee's exemption for purchases of tangible personal property that they will install as fixtures to real property. See Farnell Contracting, Inc. v. Mich. Dep't of Treasury, 2017 BL 454546 (Mich. Ct. App. 2017). However, Michigan does have three exemptions applicable to contracts with exempt entities:contracts for nonprofit hospitals, contracts for nonprofit housing entities, and contracts for church sanctuaries. Mich. Comp. Laws §205.54w(1); Mich. Comp. Laws §205.54p(1); Michigan Revenue Administrative Bulletin 2016-18 (Sept. 20, 2016). “Nonprofit hospital”includes that portion of a building to which any of the following applies:• is owned or operated by an entity exempt under I.R.C. §501(c)(3) that is licensed as a hospital; • is owned or operated by a governmental unit in which medical attention is provided; or • is owned or operated by an entity or entities exempt under I.R.C. §501(c)(2) or (3) in which medical attention is provided. Mich. Comp. Laws §205.54w(3)(a)(i). An additional exemption is the qualified convention facility exemption. The sale of tangible personal property for use in construction or renovation of a qualified convention facility is also exempt from sales tax. See Mich. Comp. Laws §205.54d(m); Mich. Comp. Laws §205.94z, as added by 2013 Mich. S.B. 711, effective March 25, 2014; see also Mich. Comp. Laws §205.94(1)(z), as amended by 2014 Mich. S.B. 622, retroactively effective Jan. 1, 2005 (expanding the list of exemptions to include construction materials which have been affixed to and made a structural part of real estate located in another state). For more information about Michigan's treatment of exempt entities for purposes of its sales and use tax, see the Sales and Use Tax Navigator, at Michigan 8.2. Transformational Brownfield Plans Michigan allows a sales and use tax exemption for tangible personal property used on eligible property included in a transformational brownfield plan, provided the property becomes affixed to or made a part of the real property or infrastructure improvements included within a transformational brownfield plan. Mich. Comp. Laws §205.54d(n), as added by 2017 Mich. S.B. 113, effective July 24, 2017; Mich. Comp. Laws §205.94dd, as added by 2017 Mich. S.B. 114, effective July 24, 2017. For more information on transformational brownfield plans, see the Sales and Use Tax Navigator, at Michigan 7.8. BNA-SUTN MI 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Taxable Mobile and manufactured homes are not specifically exempted from sales and use tax, thus it is presumed that they are subject to tax. Mich. Comp. Laws §205.51a(r); Mich. Comp. Laws §205.52(1); Mich. Comp. Laws §205.92(k); Mich. Comp. Laws §205.93(1). Sales tax is due on mobile homes in the same manner as prescribed for motor vehicles and must be paid to the Secretary of State. Michigan Revenue Administrative Bulletin 1991-20 (Nov. 27, 1991). Tax Base Michigan's Equalization Act imposes tax on the sale or transfer of any manufactured home (as well as vehicle, ORV, aircraft, snowmobile, or watercraft) based on the retail dollar value of the property at the time of acquisition, rather than the purchase price. To the extent that the purchase price is less than the retail dollar value of the property, equalization tax is imposed on the difference. The department of revenue determines the “retail dollar value”using the National Auto Dealers Association (NADA) valuation guide. Mich. Comp. Laws §205.179; Michigan Revenue Administrative Bulletin 2017-26 (Dec. 15, 2017). Michigan exempts sales of mobile homes that are not for resale to a resident tribal member if the mobile home is: (1) used as the resident tribal member's principal residence; and (2) located within that resident tribal member's tribe agreement area. Mich. Comp. Laws §205.54aa. Transfers Between Family Members Michigan exempts transfers from use tax where the transferee or purchaser is the spouse, mother, father, brother, sister, child, stepparent, stepchild, stepbrother, stepsister, grandparent, grandchild, legal ward, or a legally appointed guardian with a certified letter of guardianship, of the transferor. Mich. Comp. Laws 205.93(3)(a); Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). Additionally, effective Jan. 1, 2014, transfers of certain vehicles to certain “in-laws” are also exempt from use tax. Mich. Comp. Laws §205.94bb; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018); see also Michigan Internal Policy Directive 2015-1 (May 28, 2015). Specifically, Michigan exempts from sales and use tax the transfer of a vehicle, if the transferee or purchaser is the father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, or grandparent-in-law or the transferor. Vehicles include off-road vehicles, manufactured homes, aircraft, snowmobiles, and watercraft. 2014 Mich. H.B. 5261, retroactively effective, 4bb added, Jan. 1, 2014; Michigan Revenue Administrative Bulletin 2018-5 (March 5, 2018). BNA-SUTN MI 28.8.
+
+==================================================

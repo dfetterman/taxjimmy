@@ -1,0 +1,165 @@
+State: Wisconsin
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Exempt The sale of biodiesel is exempt from sales tax in Wisconsin, but is subject to motor fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a). For a more information about motor fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.1. BNA-SUTN WI 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Taxable Wisconsin does not specifically address the taxability of butane; as there are no express exemptions for butane, it is subject to sales tax. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). BNA-SUTN WI 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Taxable Wisconsin does not specifically address the taxability of compressed natural gas (CNG); as there are no express exemptions for CNG, it is subject to sales tax. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). However, CNG sold for residential use is tax-exempt during November, December, January, February, March, and April. Wis. Stat. §77.54(30)(a)(2). BNA-SUTN WI 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Exempt The sale of undyed diesel is exempt from sales tax in Wisconsin, but is subject to motor fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a). For a more information about motor fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.1. BNA-SUTN WI 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable Dyed diesel for off-highway use other than use in a snowmobile, motorcycle or all terrain vehicle not registered for private use, or a recreational boat is not subject to excise tax and thus subject to sales tax. Wis. Stat. §77.54(11); Wis. Stat. §78.01(2m); Wis. Admin. Code Tax § 11.49(2)(a). Otherwise, the sale of undyed diesel is exempt from sales tax in Wisconsin, but is subject to motor fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a). Purchases by Foreign Missions Wisconsin provides that sales of fuel, not subject to Wisconsin's excise taxes, are subject to Wisconsin's sales and use tax. However, such fuel is exempt from sales tax as well when purchased by holders of an exemption card from the Office of Foreign Missions (”OFM”) or an OFM approved credit card. Wisconsin Tax Bulletin 195. For more information about the Wisconsin's exemption for Diplomats of Foreign Governments, see the Sales and Use Tax Navigator, at Wisconsin 8.1.4. For a more information about motor fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.1. BNA-SUTN WI 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Exempt The sale of gasoline is exempt from sales tax in Wisconsin, but is subject to motor fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a). For a more information about motor fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.1. BNA-SUTN WI 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Exempt The sale of gasohol is exempt from sales tax in Wisconsin, but is subject to motor fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a); see Wisconsin Tax Bulletin No. 19 - Articles. For a more information about motor fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.1. BNA-SUTN WI 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Kerosene is exempt from sales tax when sold for residential use. Wis. Stat. §77.54(30)(a)(1); Wisconsin Sales and Use Tax Report 1-84. Kerosene sold for nonresidential use is taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). BNA-SUTN WI 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Taxable Wisconsin does not specifically address the taxability of liquefied natural gas (“LNG”); as there are no express exemptions for LNG, it is subject to sales tax. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). However, LNG sold for residential use is tax-exempt during November, December, January, February, March, and April. Wis. Stat. §77.54(30)(a)(2). BNA-SUTN WI 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Exempt The sale of propane, or liquefied petroleum gas (“L.P. fuel”)is exempt from sales tax in Wisconsin, but is subject to special fuel excise tax. Wis. Stat. §77.54(11); Wis. Admin. Code Tax § 11.49(2)(a). For a more information about special fuel excise tax, see the Excise Tax Navigator, at Wisconsin 8.2. BNA-SUTN WI 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Depends Heating oil is exempt from sales tax when sold for residential use. Wis. Stat. §77.54(30)(a)(1); Wisconsin Tax Bulletin No. 83. Heating oil sold for nonresidential use is taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). BNA-SUTN WI 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Depends Coal, fuel oil, peat, propane, fuel cubes produced from solid waste, and wood are tax-exempt when sold for residential use. Wis. Stat. §77.54(30)(a)(1). Further exempt is any residue that is used as fuel in a business activity and that results from the harvesting of timber or the production of wood products. Wis. Stat. §77.54(30)(a)(4). BNA-SUTN WI 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends Electricity is included in the definition of tangible personal property and sales of electricity are generally subject to sales and use tax in Wisconsin. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). However, sales of electricity during November, December, January, February, March, and April are exempt when the electricity is sold for residential use. Wis. Stat. §77.54(30)(a)(2). In addition, the following charges by utilities in conjunction with electric services are not taxable:• connection or reconnection charges; Wis. Admin. Code Tax § 11.57(2)(a). • charges for electricity delivered to residents of Indian reservations or Indian tribal governing boards; Wis. Admin. Code Tax § 11.57(2)(b). • repair charges billed to persons who damaged utility property; Wis. Admin. Code Tax § 11.57(2)(c). • charges for services provided in connection with house moving; Wis. Admin. Code Tax § 11.57(2)(d). • charges constituting contributions in aid of construction, such as payments by a customer to have a line extended to the customer's property; Wis. Admin. Code Tax § 11.57(2)(f). • installation charges for poles sold to customers and installed on land owned by the customers; Wis. Admin. Code Tax § 11.57(2)(g). • charges for “wheeling” energy for another utility; Wis. Admin. Code Tax § 11.57(2)(h). and • low-income assistance fees. Wis. Admin. Code Tax § 11.57(2)(o). BNA-SUTN WI 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends Natural gas is included in the definition of tangible personal property and sales of natural gas are generally subject to sales and use tax in Wisconsin. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). However, sales of natural gas during November, December, January, February, March, and April are exempt when the natural gas is sold for residential use. Wis. Stat. §77.54(30)(a)(2). In addition, the following charges by utilities in conjunction with natural gas service are not taxable:• connection or reconnection charges; Wis. Admin. Code Tax § 11.57(2)(a). • charges for natural gas delivered to residents of Indian reservations or Indian tribal governing boards; Wis. Admin. Code Tax § 11.57(2)(b). • repair charges billed to persons who damaged utility property; Wis. Admin. Code Tax § 11.57(2)(c). • charges for services provided in connection with house moving; Wis. Admin. Code Tax § 11.57(2)(d). • charges for pilot relights of yard gas lamps; Wis. Admin. Code Tax § Tax 11.57(2)(e). • charges constituting contributions in aid of construction, such as payments by a customer to have a line extended to the customer's property; Wis. Admin. Code Tax § 11.57(2)(f). • labor charges for the installation of a complete furnace or built-in appliance; Wis. Admin. Code Tax § 11.57(2)(j). and • low-income assistance fees. Wis. Admin. Code Tax § 11.57(2)(o). BNA-SUTN WI 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Depends Steam is included in the definition of tangible personal property and sales of steam are generally subject to sales and use tax in Wisconsin. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.57(1). However, steam sold for residential use is tax-exempt. Wis. Stat. §77.54(30)(a)(1). BNA-SUTN WI 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Exempt Sales of water that is delivered through mains are exempt from sales tax. Wis. Stat. §77.54(17). Additionally, connection and reconnection charges associated with water services are not taxable. Wis. Admin. Code Tax § 11.57(2)(a). BNA-SUTN WI 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+Not Addressed Wisconsin does not specifically address the taxability of other utilities. Wis. Stat. §77.54(30). BNA-SUTN WI 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Taxable Mining is excluded from the manufacturing activities that qualify for sales tax exemptions in Wisconsin; as such, property used and consumed in mining is generally taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.39(4)(L)(4). BNA-SUTN WI 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Machinery and equipment used in oil and gas extraction is subject to sales and use tax. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.39(4)(L)(4). Oil and gas extraction are excluded from the manufacturing activities that qualify for sales tax exemptions in Wisconsin; as such, property used and consumed in oil and gas extraction is generally taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.39(4)(L)(4). However, oil refineries are qualified manufacturers. Wis. Admin. Code Tax § 11.39(3)(u). Purchases of machinery, equipment, ingredients, component parts, consumables, packaging materials, fuel, and electricity for direct and exclusive use in the refining of oil are tax-exempt. Wis. Stat. § 77.54(2); Wis. Stat. § 77.54(6)(am)(1); Wis. Stat. § 77.54(6)(am)(2); Wis. Stat. § 77.54(30)(a)(6), as amended by 2017 Wis. S.B. 89, § 23, effective June 23, 2017 (adding the word “directly” in the provision exempting fuel used in manufacturing). BNA-SUTN WI 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Nontaxable Services to wells are not subject to sales and use tax. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.39(4)(L)(4). BNA-SUTN WI 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Depends Oil and gas extraction are excluded from the manufacturing activities that qualify for sales tax exemptions in Wisconsin; as such, property used and consumed in oil and gas extraction is generally taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wis. Admin. Code Tax § 11.39(4)(L)(4). BNA-SUTN WI 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Depends Silviculture, or the business of raising trees for timber, lumber, or other wood products, is considered farming; machinery and equipment used exclusively and directly in farming and items that are consumed in the business of farming are exempt from sales tax. Wis. Stat. §77.54(3); Wis. Stat. §77.54(3m); Wis. Admin. Code Tax § 11.12(2)(k)(1). For more information about sales tax-exemptions for farming, see the Sales and Use Tax Navigator, at Wisconsin 25. Additionally sales of off-highway, heavy mechanical equipment used exclusively and directly in the harvesting or process raw timber products in the field by a person in the logging business are exempt. Wis. Stat. §77.54(39). Off-highway heavy mechanical equipment includes, but is not limited to, feller bunchers, slashers, delimbers, chippers, hydraulic loaders, loaders, skidder-forwarders, skidders, timber wagons, and tractors. The term does not include hand tools such as axes, chains, chain saws, and wedges. Wis. Stat. §77.54(39). BNA-SUTN WI 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Depends The extraction of frac sand is excluded from the manufacturing activities that qualify for sales tax exemptions in Wisconsin; as such, property used and consumed in extracting frac sand is generally taxable. Wis. Stat. §77.51(20); Wis. Stat. §77.52(1)(a); Wisconsin Tax Bulletin No. 176 - Articles. However, the business of washing, cleaning, grading, and drying extracted material to produce frac sand is manufacturing. Wis. Admin. Code Tax § 11.39(3)(ze); Wisconsin Tax Bulletin No. 176 - Articles. Purchases of machinery, equipment, ingredients, component parts, consumables, packaging materials, fuel, and electricity for direct and exclusive use in the washing, cleaning, grading, and drying of frac sand are tax-exempt. Wis. Stat. § 77.54(2); Wis. Stat. § 77.54(6)(am)(1); Wis. Stat. § 77.54(6)(am)(2); Wis. Stat. § 77.54(30)(a)(6), as amended by 2017 Wis. S.B. 89, § 23, effective June 23, 2017 (adding the word “directly” in the provision exempting fuel used in manufacturing). For more information sales tax exemptions for manufacturing, see the Sales and Use Tax Navigator, at Wisconsin 27.1. BNA-SUTN WI 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Taxable Persons in the business of providing electrical or gas utility service are the consumers of the tangible personal property and taxable services used in providing utility services and must pay sales tax on these items. Wis. Admin. Code Tax § 11.57(3)(a); Wis. Admin. Code Tax § 11.86(2)(a). Tangible personal property used by utility providers includes, but is not limited to, overhead utility facilities, circuit breakers, and other equipment, but not their foundations, installed to control the flow of electricity. Wis. Admin. Code Tax § 11.86(1)(c). Other overhead property by which lines are supported or in which they are contained or connected if erected or installed under an easement or license on land owned by a person other than the utility company are also included. Wis. Admin. Code Tax § 11.86(1)(c). “Utility facilities” include telephone, telegraph, and television lines; electrical, water and gas transmission and distribution lines; and poles, transformers and towers, including pipes conduits, sleeves, risers for cable television lines, or other property by which lines are supported or in which they are contained or connected. Wis. Admin. Code Tax § 11.86(1)(a). “Real property” includes underground utility facilities; lines, poles, foundations, towers, gravel and any buildings of a substation located on a utility's own land; and concrete foundations, anchors, crushed rock, and backfill whether or not on land owned by the utility. Wis. Admin. Code Tax § 11.86(1)(b). Materials used in construction or forming real property are taxable when purchased by the contractor. Wis. Admin. Code Tax § 11.86(2)(b). BNA-SUTN WI 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Exempt Any product who power source is wind energy, direct radiant energy received from the sun, or gas generated from anaerobic digestion of animal manure or other agricultural waste is exempt from tax. Wis. Stat. § 77.54(56); Wis. Admin. Code Tax § 11.10(1)(a). The exemption applies if the product produces at least 200 watts of alternating current or 600 British thermal units per day. The exemption does not apply to an uninterruptible power source designated primarily for computers. Wis. Stat. § 77.54(56); Wis. Admin. Code Tax § 11.10(1)(b). The following items are “products”and may qualify for this exemption:• wind turbine generators, including the blade assembly and the tower; Wis. Admin. Code Tax § 11.10(3)(a). • gas powered electric generators; Wis. Admin. Code Tax § 11.10(3)(b). • gas fueled furnaces; Wis. Admin. Code Tax § 11.10(3)(c). • gas fueled space heaters; Wis. Admin. Code Tax § 11.10(3)(c). • gas fueled water heaters; Wis. Admin. Code Tax § 11.10(3)(c). • photovoltaic cells, modules, and arrays, including any tracking equipment that maintains optimal orientation to the sun; Wis. Admin. Code Tax § 11.10(3)(d). • solar thermal collectors; Wis. Admin. Code Tax § 11.10(3)(e). • inverters used to transform direct current produced by another “product”into alternating current, including any property used to convey the direct current from the product to the inverter; Wis. Admin. Code Tax § 11.10(3)(f). and • hardware required for the installation of a “product.” Wis. Admin. Code Tax § 11.10(3)(g). The following items are not “products”and are subject to sales tax, unless another exemption applies:• an item that consumes the electricity, heat, or power generated by a “product;” Wis. Admin. Code Tax § 11.10(4)(a). • the foundation for a “product;” Wis. Admin. Code Tax § 11.10(4)(b). • property necessary to convey, transfer, or alter electricity, heat, or power generated by a “product” (except for inverters used to transform direct current produced by a “product” into alternating current); Wis. Admin. Code Tax § 11.10(4)(c). and • items used to store electricity, heat, or power produced by a “product;” Wis. Admin. Code Tax § 11.10(4)(d). BNA-SUTN WI 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Depends Wisconsin has not addressed tangible personal property and services used in energy conservation for purposes of its sales and use tax. Property used in energy conservation is taxable unless another exemption applies. See Wis. Stat. § 77.51, et seq. BNA-SUTN WI 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Depends Tangible personal property used or consumed in municipal wastewater treatment plants is exempt from sales and use tax. See Wis. Stat. § 77.51, et seq; Wis. Admin. Code Tax § 11.11(3), effective July 1, 2018. BNA-SUTN WI 30.7.
+
+==================================================

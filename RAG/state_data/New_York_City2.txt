@@ -1,0 +1,459 @@
+State: New York City
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+New York State Department of Taxation and Finance The New York City sales and use tax are collected and administered by the New York Department of Taxation and Finance under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The New York City parking surtax and tax on credit reporting services are also collected by the state Department of Taxation and Finance. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). BNA-SUTN NYC 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+No Local Tax New York City does not allow for the imposition of local sales and use taxes. N.Y.C. Admin. Code §11-2001. BNA-SUTN NYC 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required The New York City sales and use tax, parking surtax, and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The following people must file a certificate of registration with the Commissioner of Taxation and Finance: • every person who is commencing business or opening a new place of business; • every person purchasing or selling tangible personal property for resale commencing business or opening a new place of business; • every person selling automotive fuel including persons who are not distributors; • every person who takes possession of or pays for business assets under circumstances requiring notification by such person to the commissioner under the bulk sales statute; • every person selling cigarettes including persons who or which are not agents;and • every person who has had his or her certificate authority revoked. N.Y. Tax Law §1134(a)(1)(i). A vendor registered with the state of New York and issued a Certificate of Authority is authorized to collect both state sales and use tax and New York City sales and use tax. N.Y. Tax Law §1134(a)(2). For more information vendor registration requirements, see the Sales and Use Tax Navigator, at New York 31.2. BNA-SUTN NYC 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, every person required to collect any tax imposed is personally liable for the tax imposed, collected, or required to be collected. Persons required to collect tax include:• vendors of tangible personal property or services; • every recipient of amusement charges; • every operator of a hotel; • any officer, director, or employee of a corporation or of a dissolved corporation; • any employee and any member of a partnership; • any employee, manager, or member of a limited liability company; or • any employee of an individual proprietorship, who as an officer, director, employee, or manager is under a duty to act or has acted for the entity in complying with any collection requirement. N.Y. Tax Law §1133; N.Y. Tax Law §1131(1). For more information regarding responsible parties, see the Sales and Use Tax Navigator, at New York 31.3.1. BNA-SUTN NYC 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes If a purchaser fails to pay a tax to the person required to collect the tax, then the purchaser must pay the tax directly to the Department of Taxation and Finance. N.Y. Tax Law §1133(b). BNA-SUTN NYC 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). Generally, in New York, a person is under a duty to act if he or she is authorized to sign a corporation's tax returns, is responsible for maintaining the corporate books, or is responsible for the corporation's management. N.Y. Comp. Codes R. and Regs. tit. 20, §526.11(b)(2); In re Pappas, New York Tax Appeals Tribunal Decision Nos. 822124 and 822125 (Dec. 11, 2005), aff'g in part New York Division of Tax Appeals Determination Nos. 822124 and 822125 (Aug. 21, 2014) (finding that an investor who was not involved in a donut franchise's day-to-day operations was a responsible party because he signed the franchise agreement, was listed as the LLC's president, had signature authority over the bank accounts, and had the authority to sign checks or tax returns; but investor was not a responsible party for the entire period at issue because he had been “locked out” of the business); In re Tak Wing Tam, New York Division of Tax Appeals Determination Nos. 817213 and 817214 (July 26, 2001), citing In re Constantino, New York Tax Appeals Tribunal Decision No. 802335 (Sept. 27, 1990); see also In re Marchello, New York Tax Appeals Tribunal Decision No. 821443 (April 14, 2011). Indeed, merely holding corporate office does not, per se, impose tax liability on a person. Rather, New York determines whether the person must collect and remit tax on a case-by-case basis. N.Y. Comp. Codes R. and Regs. tit. 20, §526.11(b)(2). The pivotal question is whether the individual has or could have sufficient authority and control over the corporation's affairs. See In re Sidote, New York Division of Tax Appeals Determination No. 825772 (Aug. 13, 2015), citing Ianniello v. New York Tax Appeals Trib., 209 A.D.2d 740, 617 N.Y.S.2d 973 (N.Y. App. Div. Nov. 3, 1994). Liability of LLC or Partnership's Members Unlike in the case of a corporate officer, New York imposes per se liability for unpaid sales tax on a limited liability company or partnership's members. In In re Santo, the New York Tax Appeals Tribunal ruled that a member of a restaurant LLC who was in charge of running the day-to-day operations was personally liable for the entity's unpaid sales tax debts. The tribunal found that the member, Joseph Santo, was personally liable for the entity's unpaid sales taxes even though he held a minority interest and delegated responsibility for filing tax return to another member. At the initial hearing, the ALJ ruled that Santo was not personally liable for the sales tax debt because he was a minority investor who lacked the power to exercise tax collection responsibilities on behalf of the LLC. Reversing the ALJ's determination, the tribunal found that as an LLC member, Santo was strictly liable for the LLC's tax debt, and it was an error to treat him as if he were an officer or employee of a corporation. In re Sidote, New York Division of Tax Appeals Determination No. 825772 (Aug. 13, 2015). Payment Directly to Tax Commission by Customer If a customer has failed to pay a tax to the person required to collect the tax, then the customer must pay the tax directly to the tax commission. N.Y. Tax Law §1133(b). BNA-SUTN NYC 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable New York is not a full member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales and Use Tax Governing Board, State Info. The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). BNA-SUTN NYC 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Not Applicable The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). New York is not a full member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales and Use Tax Governing Board, State Info. BNA-SUTN NYC 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. Monthly Sales and Use Tax Return – ST-809 Quarterly Sales and Use Tax Return – Form ST-100 Annual Sales and Use Tax Return – Form ST-101 Resale Exemption Certificate – ST-120 Exempt Use Certificate – ST-121 Farmer's and Commercial Horse Boarding Operator's Exemption Certificate – ST-125 BNA-SUTN NYC 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). New York State requires payment of tax to accompany the return. N.Y. Tax Law §1137(e)(1). Monthly returns are filed for monthly period ending on the last day of each month and each return must be filed within 20 days after the end of each month. Quarterly returns are filed for periods ending the last day of February, May, August, and November, and each return must be filed within 20 days after the end of the quarterly period. N.Y. Tax Law §1136(b). Annual returns must be filed for the period beginning March 1st and ending with the last day of February in the following year. The return must be filed with the department on or before March 20th of each subsequent year. N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(d)(4)(i). For more information on filing frequency and due dates, see the Sales and Use Tax Navigator, at New York 31.5.1. BNA-SUTN NYC 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Payment of tax is due with the return. N.Y. Tax Law §1137(e)(1). Monthly returns are filed for monthly periods ending on the last day of each month and each return must be filed within 20 days after the end of each month. N.Y. Tax Law §1136(b). Persons with combined total taxable receipts, purchases subject to tax, rents, and amusement charges of $300,000 or more in every quarter of the preceding four quarters must file a monthly return. N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(b). Quarterly returns are filed for periods ending on the last day of February, May, August, and November, and each return must be filed within 20 days after the end of the quarterly period. N.Y. Tax Law §1136(b). Persons with taxable receipts of $300,000 or less in every quarter of the preceding four quarters must file quarterly returns. N.Y. Tax Law §1136(a)(1). Annual returns must be filed for the period beginning on March 1st and ending with the last day of February in the following year. The return must be filed within 20 days after the end of the period. N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(d)(4)(i). Any person required to file quarterly returns whose total tax liability for the four preceding quarters for which data is available within the six most recent quarters did not exceed $3,000 may file an annual return. N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(d)(2). BNA-SUTN NYC 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Available An extension of time for filing may be granted, for a maximum of three months for good cause shown. N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(i). BNA-SUTN NYC 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. New York does not provide filing extensions for sales and use tax specifically for disaster relief. However, an extension of time for filing may be granted, for a maximum of three months for good cause shown. See N.Y. Tax Law §1101-N.Y. Tax Law §1150; N.Y. Comp. Codes R. & Regs. tit. 20, §533.3(i). BNA-SUTN NYC 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, payment by electronic fund transfer is required by taxpayers: • whose state and local sales and compensating use taxes are more than $500,000 from June 1 to May 31; • who have more than $5 million in prepaid state and local sales and compensating use taxes imposed on motor fuel and diesel motor fuel from June 1 to May 31; or • who have more than$5 million of taxes on motor fuel and diesel motor fuel imposed pursuant to a petroleum business from June 1 to May 31. N.Y. Tax Law §10(b)(1); N.Y. Comp. Codes R. & Regs. tit. 20, §2397.2(a)(1)(iii). Taxpayers not meeting the above-referenced threshold may apply for permission to participate in the program on a voluntary basis. N.Y. Tax Law §10(e); N.Y. Comp. Codes R. & Regs. tit. 20, §2397.2(d). For more information regarding electronic funds transfer at the state level, see the Sales and Use Tax Navigator, at New York 31.6.1. BNA-SUTN NYC 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Taxpayers, who are participating in the program, who elect the ACH debit payment option must, in the last business day before the applicable due date, report their tax payment via telephone or website. N.Y. Comp. Codes R. and Regs. tit. 20, §2397.4(a)(1). BNA-SUTN NYC 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+5%,$200 Maximum The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, a vendor required to collect tax for quarterly or longer periods is allow a credit against the taxes and fees of 5 percent, if the vendor files the return on or before the filing due date and pays the total amount shown on the return. N.Y. Tax Law §1137(f)(1); N.Y. Tax Law §1137(f)(2). For sales tax returns required to be filed quarterly or longer periods ending after March 1, 2007, the maximum amount of the credit is $200. N.Y. Tax Law §1137(f)(2); New York TSB-M-06(12)S (Sept. 27, 2006). For more information regarding vendor collection discounts at the state level, see the Sales and Use Tax Navigator, at New York 31.7. BNA-SUTN NYC 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The Department of Taxation and Finance issues exemption certificates, examples of forms of which include: purchase for resale, capital improvements, transactions involving exempt organizations, and exempt uses. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(c)(1). An exemption certificate is considered properly completed when it contains the following: • date prepared; • name and address of the purchaser; • name and address of the vendor; • signature of the purchaser or purchaser's representative; • identification number of the purchaser as shown on the certificate of authority, or the exempt organization number as shown on the exempt organization certificate, if any number is provided; and • any other information needed to complete the specific certificate. N.Y. Comp. Codes R. &Regs. tit. 20, §532.4(b)(2)(ii). New York State exemption certificates are also valid for the New York City sales and use tax. See, e.g., New York Form ST-121, New York State and Local Sales and Use Tax Exempt Use Certificate. In addition, the Manhattan Resident Parking Tax Exemption allows residents to apply for an exemption certificate from the 8 percent parking surtax provided the vehicle meets the following requirements: • it is individually owned by the applicant; • it is registered to the owner's primary residence in Manhattan; • it is parked in a long-term rented space for a month or more; and • it is driven for personal use only (commercial, rental, or company vehicles are not eligible for the exemption). N.Y.C. Rules tit. 19, §19-02; see also New York TB-ST-679. For more information regarding New York State's exemption certificates, see the Sales and Use Tax Navigator, at New York 31.8.1. Hotel Room Occupancy Tax Because the hotel tax is administered by the city, rather than the state, the city requires specific procedures, depending on who is claiming an exemption. See N.Y.C. Admin. Code §11-2511(5); N.Y.C. Admin. Code 11-2502(g). BNA-SUTN NYC 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In New York, an exemption certificate remains valid until suspended, revoked, or it has expired. N.Y. Tax Law §1132(c)(1). BNA-SUTN NYC 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Not Accepted The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 States have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the States that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. New York does not accept this form. Multistate Tax Commission, Member States. New York does not accept the MTC Uniform Sales and Use Tax Certificate. Multistate Tax Commission, Member States. BNA-SUTN NYC 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). New York is not a member to the Streamlined Sales Tax agreement, and is not obligated to accept the SST tax exemption certificate SSTGB Form F0003. Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN NYC 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). New York does not have any other provisions regarding multistate certificates. N.Y. Tax Law §1132. BNA-SUTN NYC 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In New York, a vendor who in good faith accepts from a purchaser a properly completed exemption certificate within 90 days after delivery of the property is relieved from liability for failure to collect the sales tax. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(b)(2). Exemption certificates must be dated and retained by the vendor to prove exempt sales. N.Y. Comp. Codes R. & Regs. tit. 20, §533.2(b)(4). A certificate or other document is accepted in good faith when a vendor has no knowledge that the exemption certificate issued by the purchaser is false or fraudulently presented. If reasonable ordinary due care is exercised, knowledge will not be imputed to the seller required to collect the tax. N.Y. Comp. Codes R. &Regs. tit. 20, §532.4(b)(2)(ii). Also, once a vendor is advised by the Division of Taxation that its services are subject to sales tax, the vendor can no longer rely “in good faith” on exemption certificates. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(b)(2)(i); see In re Crown Sec., LLC, New York Tax Appeals Tribunal Decision Nos. 824873 and 824957 (July 2, 2015), aff'g New York Division of Tax Appeals Determination Nos. 824873 and 824957 (May 1, 2014). A vendor is not relieved from liability when it fails to obtain an exemption certificate or had knowledge that the certificate issued was false or fraudulently presented. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(b)(5). Every vendor accepting a certificate must maintain a method of associating an exempt sale with the applicable exemption certificate. N.Y. Comp. Codes R. & Regs. tit. 20, §533.2(b)(4). A purchaser who issues a false or fraudulent exemption certificate may be subject to a penalty of 100 percent of the tax that would have been due, a $50 penalty for each certificate issued, other monetary penalties, and criminal penalties. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(c)(3). BNA-SUTN NYC 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+90 Days The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In New York, a vendor must accept an exemption certificate within 90 days after delivery of the property in order to be relieved from liability for failure to collect the sales tax. N.Y. Tax Law §1132(c)(1); N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(b)(2). BNA-SUTN NYC 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. The state requires that records of every sale be maintained for a three year period. N.Y. Tax Law §1135(g); N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). BNA-SUTN NYC 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). Examples of exemption certificates issued by the Department of Taxation and Finance include forms for purchase for resale, capital improvements, transactions involving exempt organizations, and exempt use. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(c)(1). BNA-SUTN NYC 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). Entity exemption certificates include: New York City and State The exemption from hotel tax for New York State and any of its agencies, instrumentalities, public corporations, and political subdivisions applies when an employee or representative of the state rents a room in a hotel while on official business. If the employee pays with personal funds, the employee should furnish the hotel operator with a properly completed NYS Form AC-946 Tax Exemption Certificate or a completed NYS Form ST-129, Exemption Certificate, Tax on occupancy of hotel rooms. Where the employee or representative makes a direct payment to the hotel (via state check or standard voucher), the hotel should make a photocopy of the check or voucher. New York City Finance Memorandum 08-1REV (Aug. 23, 2011); New York Form ST-129, New York State and Local Sales and Use Tax Exemption Certificate, Tax on occupancy of hotel or motel rooms. International Organizations To establish this exemption, the employee or representative must rent the hotel room while on official business and must furnish the hotel operator with a properly completed NYS Form ST-119.1, Exempt Organization Exempt Purchase Certificate. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). Diplomatic Missions In order to establish this exemption, the employee or representative must furnish the operator of the hotel with a copy of a letter of exemption issued by the Department of Finance. To obtain an exemption letter, one must apply to the Department of Finance in writing and include a copy of the appropriate treaty or reciprocal agreement between the foreign government and the United States. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). Exempt Organizations under New York Tax Law §1116(a)(4) In order to establish this exemption, the organization must be identified on the hotel bill or invoice along with the individual that occupied the room. In order for the exemption to apply, the bill must be paid with the organization's credit card, case, or other funds. If the bill is paid with the individual's personal funds, the exemption does not apply. A signed statement by the employee or representative of the exempt organization that certifies that the organization has paid the hotel bill is sufficient to substantiate this requirement. To claim the exemption, the employee or representative must furnish the hotel operator with a completed NYS Form ST-119.1, Exempt Organization Exempt Purchase Certificate. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). For veteran posts or veteran organizations exempt under N.Y. Tax Law §1116(a)(5), the authorized representative must furnish the hotel operator with a properly completed NYS Form ST-119.5, Exempt Organization Certification for Hotel or Motel Occupancy by Representatives of Veterans Organizations. Payment may be made either directly by the organization or with the personal funds of the authorized representative. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). In order for exempt Indian tribes or nations under N.Y. Tax Law §1116(a)(6) to take advantage of the exemption, the exempt tribe or nation must be identified on the hotel bill or invoice and payment must be paid directly from the funds of the tribe or nation. If a member, officer or employee pays the hotel bill with personal funds, the exemption does not apply. The representative must furnish to the hotel operator with a completed NYS Form ST-119.1, Exempt Organization Exempt Purchase Certificate. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). In order for any other exempt organization to take advantage of the exemption from hotel tax, it must furnish the hotel operator with a letter of exemption from Hotel Tax issued by the Department of Finance. To obtain an exemption letter, one must apply to the Department of Finance in writing and include an affidavit stating: • the type of organization; • the purposes for which it is organized; • its actual activities; • the source and disposition of its income; • whether or not any of its income is credited to surplus or may inure to any private stockholder or individual; and • any other facts that may affect its right to the exemption. New York City Finance Memorandum 08-1REV (Aug. 23, 2011). BNA-SUTN NYC 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). Examples of exemption certificates issued by the Department of Taxation and Finance include forms for purchase for resale, capital improvements, transactions involving exempt organizations, and exempt use. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(c)(1). Use-based exemption certificates include:• New York Form ST-120 - Resale Certificate (A resale certificate is used to claim exemption from tax on the purchase of property and services that will be resold to a customer. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(d)(1). A blanket resale certificate may be filed with the vendor by a purchaser to cover additional purchases of the same general type. N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(d)(4). • New York Form ST-120.1 -Contractor Exempt Purchase Certificate; • New York Form ST-121 - New York State and Local Sales and Use Tax Exempt Use Certificate (An exempt use certificate is used to claim exemption from sales tax on purchases of property or services used for an exempt purpose.); N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(e)(1). • New York Form ST-121.1- Exemption Certificate for Tractors, Trailers, Semitrailers, or Omnibuses; • New York Form ST-121.2 -Certificate of Exemption for Purchases of Promotional Materials; • New York Form ST-121.3 - Exemption Certificate for Computer System Hardware; • New York Form ST-121.4 -Textbook Exemption Certificate; • New York Form ST-121.5 - Exempt Use Certificate for Operators of Internet Data Centers (Web Hosting); • New York Form ST-121.9 - New York State and Local Sales and Use Tax Exempt Purchase Certificate for Certain Property and Services Used in Dramatic and Musical Arts Performances; • New York Form ST-123 - IDA Agent or Project Operator Exempt Purchase Certificate(effective for projects beginning on or after June 1, 2014); • New York Form ST-124 - Certificate of Capital Improvement (A certificate of capital improvement is used to claim exemption from sales tax on the purchase of an addition or alteration to real property that is permanent.); N.Y. Comp. Codes R. & Regs. tit. 20, §532.4(f). • New York Form ST-125 Farmer's and Commercial Horse Boarding Operator's Exemption Certificate; • New York Form ST-126 Exemption Certificate for the Purchase of a Racehorse; • New York Form ST-129 - New York State and Local Sales and Use Tax Exemption Certificate - Tax on occupancy of hotel or motel rooms; • New York Form ST-930 - Certification of Tax Status of Information or Entertainment Services Provided Via Telephony or Telegraphy or Telephone or Telegraph Services; and • New York Form TP-385- Certification of Residential use of Energy Purchases. BNA-SUTN NYC 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, if at the time of sale, it is impossible to determine the manner in which the tangible personal property or services will be used, the purchaser may request to pay the tax directly to the commissioner rather than to the vendor. N.Y. Tax Law §1132(c)(2). For more information regarding direct pay permits at the state level, see the Sales and Use Tax Navigator, at New York 31.8.10. BNA-SUTN NYC 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In New York State, every person required to collect and pay over taxes must keep records of every sale, purchase, amusement charge, or occupancy, all amounts paid, and the tax payable. N.Y. Tax Law §1135(a)(1); see New York TB-ST-770. Records must be kept for a three year period and made available for inspection and examination upon the request of the commissioner. N.Y. Tax Law §1135(g); N.Y. Comp. Codes R. & Regs. tit. 20, §533.2(a). Any person electing to maintain all or a portion of the record in electronic format must also make this format accessible to the commissioner. N.Y. Tax Law §1135(h). Where no written document is given to the customer, the seller must keep a daily record of all cash and credit sales in a day book or similar book. N.Y. Comp. Codes R. & Regs. tit. 20, §533.2(b); see New York TB-ST-770. For more information regarding record-keeping requirements at the state level, see the Sales and Use Tax Navigator, at New York 31.9. BNA-SUTN NYC 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Vendor The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The tax commissioner will refund or credit any tax erroneously, illegally or unconstitutionally collected or paid, if an application for the refund is filed with the tax commission:• in the case of tax paid by the applicant to a person required to collect tax, within three years after the date when the tax was payable; • the case of a tax, penalty, or interest paid by the applicant to the commission, within three years after the date when such amount was payable; • in the case of a tax due from the seller and paid by the applicant to the commission where the applicant is a purchaser, within two years after notice is given by the commission to the purchaser of the total amount of any tax which the state claims to be due from the seller. N.Y. Tax Law §1139(a). In addition, claims for credit or refund of an overpayment of sales tax must be filed within three years from the time the return was filed or two years from the time the tax was paid, whichever is later. N.Y. Tax Law §1139(c). For more information regarding refunds at the state level, see the Sales and Use Tax Navigator, at New York 31.10. BNA-SUTN NYC 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, the tax commission will refund or credit any tax erroneously, illegally or unconstitutionally collected or paid, if an application for the refund is filed with the tax commission in the case of a tax paid by the applicant to a person required to collect tax, within three years after the date when the tax was payable, in the case of tax, penalty or interest paid by the applicant to the tax commission, within three years after the date when such amount was payable or in the case of a tax due from the seller and paid by the applicant to the tax commission where the applicant is a purchaser, within two years after notice is given by the tax commission to the purchaser of the total amount of any tax which the state claims to be due from the seller. N.Y. Tax Law §1139(a). A claim for refund of an overpayment of tax must be filed by the taxpayer within three years from the time the return was filed or two years from the time the tax was paid, whichever is later. N.Y. Tax Law §1139(c). BNA-SUTN NYC 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, the rules of civil practice law or any other law relative to limitations of time for the enforcement of a civil remedy do not apply to any proceeding taken by the state or the tax commission to levy, appraise, assess, determine, or enforce of the collection of a tax or penalty. There is a three year statute of limitations from the date of filing a return for the assessment of additional tax. When no return has been filed, the tax may be assessed at any time. Further, the statute of limitations will not run and the tax may be assessed at any time when a purchaser furnishes a vendor with a false or fraudulent certificate of resale or other exemptions certificate with the intent to evade tax. N.Y. Tax Law §1147(b). For more information regarding New York State's statute of limitations, see the Sales and Use Tax Navigator, at New York 31.11.2. BNA-SUTN NYC 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In New York State, any person who fails to file a return, pay, or pay over any tax to the tax commission within the time required is subject to a penalty of 10 percent of the amount of tax due if such failure is for not more than one month. There is an additional 1 percent penalty, which will not exceed 30 percent in the aggregate, for each additional month or fraction thereof which the failure to file or pay continues. Further, the penalty imposed for failure to file a return within 60 days of the filing deadline is the lesser of $100 or 100 percent of the amount required to be shown as a tax on the return. The penalty for failure to file a return by a person required to register with the commission is not less than $50. N.Y. Tax Law §1145(a)(1)(i). Persons who omit amounts in excess of 25 percent of the amount of such taxes required to be shown on the return are subject to a penalty of 10 percent of the amount of such omission. N.Y. Tax Law §1145(a)(1)(vi). For more information regarding New York State's penalties, see the Sales and Use Tax Navigator, at New York 31.12.1. BNA-SUTN NYC 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). If a taxpayer fails to make, render, sign, certify, or file any return or report, criminal penalties may be imposed. N.Y. Tax Law §1801(a)(1); New York TB-ST-805. If a taxpayer willfully fails to remit the state and local taxes collected, criminal penalties may be imposed. N.Y. Tax Law §1801(a)(5); New York TB-ST-805. BNA-SUTN NYC 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The New York City sales and use tax is collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. New York may waive penalties and interest imposed due to reasonable cause in certain circumstances. N.Y. Tax Law §1145; N.Y.C. Admin. Code §11-2001(d). BNA-SUTN NYC 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Quarterly New York City determines interest rates for underpayments and overpayments of tax on a quarterly basis. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y. Tax Law §1142(9); N.Y. Tax Law §1145(a)(1)(ii). Both underpayment interest and overpayment interest will be compounded daily. N.Y. Tax Law §1142(9). BNA-SUTN NYC 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Statutory rate The New York State Tax Commission collects and administers the New York City sales and use tax; parking surtax; and tax on credit reporting services under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). If any amount of tax is not paid on or before the last date that payment is required, interest is charged on the unpaid amount at the rate specified in N.Y. Tax Law §1145(a)(1)(ii) (14.5 percent). N.Y. Tax Law §1145(a)(1); New York Tax Department: Interest Rates -- Period 10/01/16 - 12/31/2016. If the underpayment is determined to be due to reasonable cause and not wilful neglect, the Commissioner may impose interest at the corporation tax late payment assessment rate. N.Y. Tax Law §1145(a)(1). BNA-SUTN NYC 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.11. BNA-SUTN NYC 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.10. BNA-SUTN NYC 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.9. BNA-SUTN NYC 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.8. BNA-SUTN NYC 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.7. BNA-SUTN NYC 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.6. BNA-SUTN NYC 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.5. BNA-SUTN NYC 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.4. BNA-SUTN NYC 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.3. BNA-SUTN NYC 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.2. BNA-SUTN NYC 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal short-term rate + 2% The New York State Tax Commission collects and administers the New York City sales and use tax; parking surtax; and tax on credit reporting services under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The interest rate on overpayments is determined by adding 2 percent to the federal short-term rate, as determined in accordance with I.R.C. §1274(d). The rate is set quarterly by the New York Department of Taxation and Finance. N.Y. Tax Law §1139(d)(1); N.Y. Tax Law §1142(9); N.Y. Tax Law §1096(e). No interest is paid on a sales tax refund if the refund is issued within three months of the return due date, the return filing date, or the filing date of an application for a sales tax refund or credit, whichever is later. N.Y. Tax Law §1139(d)(2). BNA-SUTN NYC 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.11. BNA-SUTN NYC 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.10. BNA-SUTN NYC 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.9. BNA-SUTN NYC 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.8. BNA-SUTN NYC 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.7. BNA-SUTN NYC 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.6. BNA-SUTN NYC 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.5. BNA-SUTN NYC 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.4. BNA-SUTN NYC 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.3. BNA-SUTN NYC 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.2. BNA-SUTN NYC 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Neither New York State nor New York City had a tax amnesty program in 2018. BNA-SUTN NYC 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Neither New York State nor New York City had a tax amnesty program in 2017. BNA-SUTN NYC 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Neither New York State nor New York City had a tax amnesty program in 2016. BNA-SUTN NYC 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Neither New York State nor New York City had a tax amnesty program in 2015. BNA-SUTN NYC 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Neither New York State nor New York City had a tax amnesty program for 2014. BNA-SUTN NYC 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Neither New York State nor New York City had a tax amnesty program in 2013. BNA-SUTN NYC 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Neither New York State nor New York City had a tax amnesty program in 2012. BNA-SUTN NYC 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Neither New York State nor New York City had a tax amnesty program in 2011. BNA-SUTN NYC 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+Yes New York City did not have an amnesty program in 2010. However, taxpayers had the option of participating in the New York State amnesty program. New York TSB-M-09(13)C (Dec. 14, 2009); New York TSB-M-09(14)I (Dec. 14, 2009); New York TSB-M-09(12)M (Dec. 14, 2009); New York TSB-M-09(10)R (Dec. 14, 2009); New York TSB-M-09(20)S (Dec. 14, 2009). Taxpayers participating in the program received a reduction in the accrued interest and penalty they owed on eligible tax liabilities. New York TSB-M-09(13)C (Dec. 14, 2009); New York TSB-M-09(14)I (Dec. 14, 2009); New York TSB-M-09(12)M (Dec. 14, 2009); New York TSB-M-09(10)R (Dec. 14, 2009); New York TSB-M-09(20)S (Dec. 14, 2009). For more information regarding New York State's 2010 amnesty program, see the Sales and Use Tax Navigator, at New York 31.14. BNA-SUTN NYC 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No Neither New York State nor New York City had a tax amnesty program in 2009. BNA-SUTN NYC 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). Accordingly, persons owing New York City sales and use tax may participate in New York State's voluntary disclosure program and request that the city tax be included in the agreement. Under the New York State Voluntary Disclosure and Compliance Program, the Commissioner will waive any applicable penalties, including the additional rate of interest after the execution of a voluntary disclosure and compliance agreement by the eligible taxpayer and Commissioner for the following: • failure to pay any sales and use tax liability; • failure to file a sales or use tax return or report; and • failure to pay estimated tax. N.Y. Tax Law §1700(3). For more information regarding amnesty and voluntary disclosure programs at the state level, see the Sales and Use Tax Navigator, at New York 31.15. BNA-SUTN NYC 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Not Specified The New York City sales and use tax is collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. New York's voluntary disclosure and compliance program does not set a specific look-back period but allows taxpayers that owe for more than three years to request a limited look-back clause during the application process. N.Y. Tax Law § 1700;N.Y. Taxn. and Fin., Voluntary Disclosure and Compliance Program - Limited Look-Back. For more information regarding amnesty and voluntary disclosure programs at the state level, see the Sales and Use Tax Navigator, at New York 31.15. BNA-SUTN NYC 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Does Not Participate New York City does not participate in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN NYC 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). In the state of New York, for purposes of determining the correct amount of sales and use tax due, the Department of Taxation and Finance has the authority to examine and audit the records, books, or other relevant information that taxpayers are required to maintain relating to the taxes. N.Y. Tax Law §1138(a)(1). For more information regarding audits at the state level, see the Sales and Use Tax Navigator, at New York 31.16. BNA-SUTN NYC 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). The issuance of a Notice of Determination of sales tax deficiency, interest, or penalty triggers a 90 day deadline for protesting such determination. N.Y. Tax Law §2000; In re Papaye Rest., Inc., New York Tax Appeals Tribunal Decision No. 826418 (May 12, 2016); In re Reuben, New York Division of Tax Appeals Determination No. 827052 (May 12, 2016) (90-day deadline runs from actual receipt if the Division of Tax Appeals cannot establish that Notice of Determination was sent to taxpayer's last known address). If the taxpayer is dissatisfied with the result of the audit, he may file a petition for a hearing with the Division of Tax Appeals, or request an informal hearing with the Bureau of Conciliation and Mediation Services. N.Y. Tax Law §171(3-a). Conciliation conferences are informal meetings conducted by a conciliation conferee with the purpose of resolving taxpayer disputes in a quick and inexpensive manner without resorting to a formal hearing. N.Y. Tax Law §170(3-a). Requests for conciliation conferences must be filed within the statute of limitations for filing petitions for hearing in the Division of Tax Appeals. N.Y. Regs. §4000.3. If a dispute is not resolved on audit or through the conciliation process, the next step is requesting a hearing before the Division of Tax Appeals. The division, which administers disputes between the department and taxpayers, is managed and operated by the Tax Appeals Tribunal. N.Y. Tax Law §2000. The taxpayer generally bears the burden of proof at the hearing. However, on certain issues, the division the burden of proof, including:• whether the taxpayer has been guilty of fraud with an intent to evade taxes; • whether the petitioner is liable as the transferee of property of a taxpayer; • whether the taxpayer is liable for an increase in a deficiency assessed after a notice of deficiency is mailed and a petition filed; • whether the taxpayer is liable for the civil penalty of filing a frivolous return; and • whether the taxpayer is liable for the civil penalty for aiding in the making of a fraudulent tax return. N.Y. Tax Law §689(e)(1) - (4). Either the taxpayer or the department may request a review by the tax appeals tribunal of the Tax Appeal Tribunal's determination. N.Y. Tax Law §2006(7). Within four months following notice of the decision of the tax appeals tribunal, the taxpayer may seek judicial review in the Appellate Division of the Supreme Court by instituting an Article 78 proceeding. Importantly, the department may not seek judicial review of an adverse tribunal decision. Appeals from the tribunal are taken to the Appellate Division, Third Department, and from there to the New York Court of Appeals. Ultimately, taxpayers may petition for certiorari to the U.S. Supreme Court. N.Y. Tax Law §2016. In certain circumstances, a taxpayer may not be limited to pursuing administrative remedies through the Tax Appeals Tribunal and appears by way of CPLR Article 78 review. When there is an issue involving the constitutionality of a statute or whether the tax statute applies to a person or transaction at all, an action seeking declaratory judgment may be commenced in the New York State Supreme Court (the trial court of the state). R &G Outfitters, Inc. v. Bouchard, 101 A.D.2d 642, 475 N.Y.S.2d 549 (N.Y. App. Div. 1984). BNA-SUTN NYC 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+See New York State. For information concerning interest for underpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.2.12. BNA-SUTN NYC 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+See New York State. For information concerning interest for overpayments in New York City, see Sales and Use Tax Navigator, at New York 31.13.3.12. BNA-SUTN NYC 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Neither New York State nor New York City has announced a tax amnesty program for 2019. BNA-SUTN NYC 31.14.11.
+
+==================================================

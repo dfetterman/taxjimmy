@@ -1,0 +1,81 @@
+State: Alaska
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+No Tax Alaska does not impose a state sales and use tax. Local jurisdictions are authorized to impose sales and use tax. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.700(a). BNA-SUTN AK 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+No Tax Alaska does not impose a state sales and use tax. Local jurisdictions are authorized to impose sales and use tax. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.700(a). BNA-SUTN AK 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+Local Tax Authorized Boroughs and cities are authorized to impose sales and use taxes. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.700(a). Boroughs Boroughs may levy and collect sales tax on sales, rents, and on services provided in the borough. The sales tax may apply to any or all of these sources. Boroughs levying sales tax are also authorized to impose a use tax on the storage, use, or consumption of tangible personal property in the borough. The rate of the use tax must be equal to the sales tax and the use tax may only be levied on buyers. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.650(b). Cities The authority given to cities to impose sales and use tax depends on whether the city is located within a borough, and whether that borough itself imposes a sales and use tax. A city in a borough that levies and collects area-wide sales and use taxes may levy sales and use taxes on all sources taxed by the borough in the manner provided for boroughs. The borough may also authorize a city, by ordinance, to levy and collect sales and use taxes on other sources, subject to certain restrictions. Alaska Stat. §29.45.700(a). Cities in boroughs that do not levy and collect sales and use taxes or cities that are not inside boroughs may levy and collect sales and use taxes in the manner provided for boroughs. Alaska Stat. §29.45.700(b); Alaska Stat. §29.45.700(c). Cities that levy and collect sales and use taxes under Alaska Stat. §29.45.700(a) (area-wide collection) may not levy and collect sales tax on:• a purchase made with food coupons, food stamps, or other types of allotments under the Supplemental Nutrition Assistance Program; Alaska Stat. §29.45.700(d)(1); Alaska Stat. §29.45.650(f)(1). • a purchase made with food instruments, food vouchers, or other types of certificates issued under the Special Supplemental Food Program for Women, Infants, and Children; Alaska Stat. §29.45.700(d)(2); Alaska Stat. §29.45.650(f)(2). • the physical transfer of refined fuel, unless the transfer is made in connection with a sale or use in the city; Alaska Stat. §29.45.700(e); Alaska Stat. §29.45.650(j)(1). • wholesale sales or transfers of fuel refined in the city; • the sale, lease, rental, storage, consumption, or distribution in the state of or the provision of services relating to an orbital space facility, space propulsion system, or space vehicle, satellite, or station of any kind possessing space flight capacity, including the components of them; Alaska Stat. §29.45.650(h)(1). or • the sale, lease, rental, storage, consumption, or use of tangible personal property placed on or used aboard an orbital space facility, space propulsion system, or space vehicle, satellite, or station of any kind, regardless of whether the tangible personal property is returned to the state for subsequent use, storage, or consumption. An exemption under this paragraph is not affected by the failure of a launch to occur, the destruction of a launch vehicle, or a component of a launch vehicle. Alaska Stat. §29.45.650(h)(2). Notice of Imposition (Applies Only to Boroughs) If the borough levies and collects a sales and use tax, notice of the imposition of the sales and use tax must be made in the form set out in Alaska Stat. §29.45.020. In using that form, the borough assembly should substitute its estimate of the equivalent sales tax rate for each of the categories of financial assistance for the millage equivalency. The notice must be provided as follows:• by publishing in a newspaper of general circulation in the borough a copy of the notice once each week for a period of three successive weeks, with publication to occur not later than 45 days after the final adoption of the borough's budget; or • if there is no newspaper of general circulation in the borough, by posting a copy of the notice for at least 20 days in at least two public places in the borough, with posting to occur not later than 45 days after the final adoption of the borough's budget. Alaska Stat. §29.45.660(a). Compliance with these notice provisions is a perquisite to receipt of community revenue sharing (detailed in Alaska Stat. §§ 29.60.850 through 29.60.879). Annual community revenue sharing allocations will be withheld until municipal officials demonstrate that the notice requirements have been met. Alaska Stat. §29.45.660(b). Adoption and Modification of Sales and Use Tax (Applies Only to Boroughs) A new sales and use tax or an increase in the rate of levy for a preexisting tax approved by ordinance does not take effect until ratified by a majority of the voters at an election. Alaska Stat. §29.45.670. Incorporation of Cities or Boroughs Contingent on Tax Incorporation of a Borough: A petition for incorporation of a borough may request that a sales and use tax proposition be placed on the same ballot. The petition must state the proposed tax rate. The petition may request that incorporation be dependent on the passage of the tax proposition; if so, then the incorporation proposition fails if the tax proposition fails. Alaska Stat. §29.45.680. Incorporation of Second Class Cities: A petition for incorporation of a second class city may request that a sales and use tax proposal be placed on the same ballot. The petition must state the proposed tax rate. The petition may request that incorporation be dependent on the passage of the tax proposition. If so, then the incorporation proposition fails if the tax fails. Alaska Stat. §29.45.710. BNA-SUTN AK 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes Excise Taxes Alaska imposes several excise taxes. See Alaska Stat. §43.60.010. Those taxes include, but are not limited to:• an alcoholic beverage tax; Alaska Stat. §43.60.010. • a cigarette tax; Alaska Stat. §43.50.010; Alaska Stat. §43.50.090; Alaska Stat. §43.50.190; Alaska Stat. §43.50.610. • an insurance premium tax; Alaska Stat. §21.09.210. and • a motor vehicle and aviation fuels tax. Alaska Stat. §43.40.010. For more information about excise taxes in Alaska, see the Excise Taxes Navigator, beginning at the Excise Taxes Navigator, at Alaska 1. BNA-SUTN AK 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+No Tax Alaska does not impose a state sales and use tax, but grants local jurisdictions the authority to impose sales and use tax. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.700(a). BNA-SUTN AK 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+No Tax Alaska does not impose a state sales and use tax. Planning Point: In South Dakota v. Wayfair, Inc., the U.S. Supreme Court determined that, consistent with the Commerce Clause, a state may tax out-of-state activities if those activities have a substantial nexus with the taxing state. Substantial nexus does not require physical presence. As a result many states have enacted “economic nexus” laws which require out-of-state retailers, such as those located in Alaska, to collect and remit sales tax. South Dakota v. Wayfair, Inc., 2018 BL 219995 (U.S. 2018). BNA-SUTN AK 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Not Defined Alaska does not define “sale” or “retail sale.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Not Defined Alaska does not define “lease.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Not Defined Alaska does not define “use” or “storage, use, or consumption.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined Alaska defines “personal property” as tangible property other than real property, such as merchandise, stock in trade, machinery, equipment, furniture, fixtures, vehicles, boats, and aircraft. Alaska Stat. §29.71.800(16). BNA-SUTN AK 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Not Defined Alaska does not define “intangible property.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Not Defined Alaska does not define “retailer” or “vendor.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Not Defined Alaska does not define “purchaser” or “consumer.” Alaska Stat. §29.71.800. As Alaska does not impose a state-level sales and use tax, definitions will generally be found in local jurisdictions' sales and use tax laws. BNA-SUTN AK 1.4.7.
+
+==================================================

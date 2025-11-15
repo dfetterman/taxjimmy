@@ -1,0 +1,51 @@
+State: Alaska
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+Yes Each taxing jurisdiction within Alaska may have its own sourcing rules. However, it is typical that the jurisdictions will tax a transaction based on the place of sale. See, e.g., Kenai Peninsula Borough Finance Dept., Sales Tax Home. The taxability of a sale of goods is typically determined by the place where the sale occurs, and the taxability of services and the rental of property are determined by the place where the service is performed or where the rental property is located. See, e.g., Kenai Peninsula Borough Finance Dept., Sales Tax Home. BNA-SUTN AK 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Yes If sales tax has already been paid to another taxing jurisdiction on a transaction subject to use tax in a borough, use tax is only owed to the borough to the extent of the difference between the sales tax paid and the amount of the use tax levied. Alaska Stat. §29.45.650(c). This applies to sales tax levied by any taxing jurisdiction, regardless of whether it is inside or outside the state. Proof of sales tax paid must be made to the borough tax collector on the form required by the borough tax collector. Alaska Stat. §29.45.650(c). BNA-SUTN AK 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 4.3.3.
+
+==================================================

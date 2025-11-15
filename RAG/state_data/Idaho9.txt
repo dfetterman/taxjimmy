@@ -1,0 +1,33 @@
+State: Idaho
+
+
+
+Topic: Overview: Taxation of Property and Services Taxation of Property
+
+Taxable Tangible personal property sold at retail is subject to sales and use tax unless an exemption applies. Idaho Code §63-3619(a); Idaho Code §63-3621; Idaho Regs. §35.01.02.011.03.g. BNA-SUTN ID 9.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Taxation of Services
+
+Enumerated Services Only Idaho only levies a sales tax on the provision within the state of certain specifically enumerated services. Idaho Code §63-3619. When a sale of tangible personal property includes incidental services, the tax is applied to the total charge, with the exception of separately stated transportation and installation fees. Idaho Code §63-3613. In order to determine if a transaction is a retail sale of tangible personal property or a sale of services, the following tests should be applied:• If the service rendered is inconsequential, then the entire transaction is taxable. If consequential services are rendered, then it must be determined whether the transfer of the property is an inconsequential part of the transaction. If so, then none of the consideration paid is taxable. • In determining whether a mixed transaction qualifies as a sale of services, the object of the transaction should be analyzed: i.e., is the buyer seeking the service itself or the property produced by the service. • When a mixed transaction involves the transfer of tangible personal property and the performance of a service, both of which are consequential elements whose costs may be separately stated, then two separate transactions exist. The one attributable to the sale of tangible personal property is subject to sales tax while the service portion is exempt. Idaho Code §63-3609; Idaho Regs. §35.01.02.011.02. BNA-SUTN ID 9.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Mixed Transactions and the True Object Test
+
+Depends When a sale of tangible personal property includes incidental services that would otherwise be exempt, the tax applies to the total amount charged except for separately stated transportation and installation fees. Idaho Regs. §35.01.02.011.02. If an exempt service is provided in conjunction with the transfer of an otherwise taxable item of tangible personal property, the sale is exempt if the property transferred is considered incidental to the provision of the service. Idaho Regs. §35.01.02.011.02; Idaho Commission Decisions Docket No. 25979 (June 26, 2014) (charges for setting up and dismantling/removing office trailers was not subject to tax). To determine whether a specific sale is a sale of tangible personal property, a sale of services, or a mixed transaction, all the facts surrounding the case must be studied. Idaho Regs. §35.01.02.011.03. To determine whether a transfer of tangible personal property is a taxable retail sale or is merely incidental to a service transaction, it is necessary to determine whether the transaction involves a consequential or inconsequential professional or personal service. If the service rendered is inconsequential, then the entire transaction is taxable. If a consequential service is rendered, then it must be determined whether the transfer of the tangible personal property is an inconsequential part of the transaction. If so, then none of the consideration paid is taxable. Idaho Regs. §35.01.02.011.02.a. To determine whether a transaction qualifies as a sale of exempt services, the object of the transaction must be determined. If the buyer is seeking the service itself, the transaction will be considered to be a service transaction and not subject to tax. However, if the objective of the buyer is to procure the property produced by the service, the transaction is taxed in its entirety. Idaho Regs. §35.01.02.011.02.b; see also Ryder v. Idaho State Tax Comn., 939 P.2d 564 (Idaho 1997) (holding that a mobile paging service that leased mobile devices to customers was subject to sales tax on the lease as part of a mixed transaction involving both services and tangible personal property). Example: An architect is hired to prepare construction plans for a house. He prepares the plans and delivers them to his client. Result: This is a sale of services. The transfer of the tangible personal property (i.e., the plans) is inconsequential to the transaction. No sales or use tax is due on the sale of the plans. Idaho Regs. §35.01.02.011.03.c. BNA-SUTN ID 9.3.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Bundled Transactions
+
+Depends If an exempt service and taxable tangible personal property are provided and both are considered consequential elements of the transaction, the entire bundle is subject to tax if not separately stated. Idaho Regs. §35.01.02.011.02.c. If the exempt services and the taxable tangible personal property are separately stated, two separate transactions exist and tax can be calculated accordingly. Idaho Regs. §35.01.02.011.02.c. The one attributable to the sale of tangible personal property is subject to sales tax while the other is not. Idaho Regs. §35.01.02.011.02.c. BNA-SUTN ID 9.3.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Local Jurisdictions, Taxability Distinctions
+
+Conforms to State Idaho county sales and use taxes apply to the same items taxable under the state sales and use tax statutes. 2003 Idaho H. 428 (was formerly Idaho Code §63-2604). A resort city local tax may be imposed on one or any combination of the following: charges for the rental of sleeping accommodations for a period of 30 days or less; alcoholic beverages sold for consumption on the premises where sold; and any items subject to Idaho state sales tax. Idaho Code §50-1046. BNA-SUTN ID 9.4.
+
+==================================================

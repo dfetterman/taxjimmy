@@ -1,0 +1,459 @@
+State: South Carolina
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+South Carolina Department of Revenue The South Carolina Department of Revenue is directed to administer and enforce the state's sales and use tax provisions. S.C. Code Ann. §12-36-2660. BNA-SUTN SC 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+South Carolina Department of Revenue Most local sales and use taxes are administered and collected by the South Carolina Department of Revenue in the same manner as the state sales and use taxes. See, e.g., S.C. Code Ann. §4-10-90(A); S.C. Code Ann. §4-10-350(A). However, where tangible personal property is delivered onto the Catawba Indian reservation from a location off the reservation and outside of South Carolina where the seller is not registered with the South Carolina Department of Revenue, the Catawba Indian Tribe is responsible for the administration and collection of the tribal use tax. S.C. Code Ann. §27-16-130(H)(3)(d). Also, local taxes on sales of accommodations and sales of prepared meals are collected directly by the local jurisdictions. S.C. Code Ann. §6-1-520; S.C. Code Ann. §6-1-720; see South Carolina Information Letter No. IL 19-16 (Aug. 1, 2019), superseding South Carolina Information Letter No. IL 19-9 (May 1, 2019), superseding South Carolina Information Letter No. IL 19-5 (March 1, 2019) (announcing general local sales and use tax information for local taxes administered by the state Department of Revenue). BNA-SUTN SC 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required A retailer that is responsible for collecting and remitting sales tax must file an application for a retail license with the South Carolina Department of Revenue for each retail sales location. S.C. Code Ann. §12-36-510; S.C. Code Ann. §12-36-540; 117 S.C. Code Regs. §300. An application should include the name, address, and other required information as requested by the commissioner for each location, along with a license tax of $50 for each retail license. S.C. Code Ann. §12-36-540; S.C. Code Ann. §12-36-510(1). A retail license is valid until cancelled or revoked as long as the holder continues in the same business as designated on the license. There is a rebuttable presumption that a retailer is no longer in the same business if there are no retail sales for 24 consecutive months. Moreover, a retail license must be displayed at all times and is generally not transferable. S.C. Code Ann. §12-36-550 (retailers may receive permission to transfer their license from one location to another without incurring additional license tax liability, when the business location has been abandoned and there is a simultaneous move to a new location); 117 S.C. Code Regs. §300.4. Retailers are required to obtain a retail license for each permanent branch, establishment, or agency and pay a license tax of fifty dollars for each retail license at the time of application. S.C. Code Ann. §12-36-510(A)(1). Every artist and craftsman selling at arts and crafts shows and festivals, products they have created or assembled, is required to obtain a retail license and pay a license tax of twenty dollars at the time of application. This license may be used only for one location at a time. S.C. Code Ann. §12-36-510(A)(2). Every retailer operating a transient or temporary business within South Carolina is required to obtain a retail license and pay a license tax of fifty dollars at the time of application. This license may be used only for one location at a time. S.C. Code Ann. §12-36-510(A)(3). The following persons or entities are not required to register for a retail license:• persons who make irregular sales, not more than once per quarter, at flea markets or yard sales; • organizations that conduct concession sales at festivals whose net proceeds are for public or charitable purposes; • persons that provide accommodations to transients for a week or less in any quarter; and • nonprofit organizations that are exempt from South Carolina sales and use tax under §12-36-2120(41). S.C. Code Ann. §12-36-510(B). The South Carolina Department of Revenue has taken the position that Amazon Services, LLC is the retailer responsible for collecting and remitting sales and use tax on all sales made through Amazon.com, including sales of products listed on the platform by third-party suppliers. Amazon Services, LLC is currently challenging this position in South Carolina's Administrative Law Court. The South Carolina Department of Revenue has announced that until this issue is resolved it will accept retail sales tax applications from third-party suppliers whose products are sold on Amazon.com, and permit these sellers to collect and remit sales and use tax. South Carolina Dept. of Rev., SCDOR Now Accepting Retail Sales Tax Applications From Third Party Suppliers of Products Sold on Amazon.com to SC Purchasers (Feb. 23, 2018). Revocation of Vendor License The Department of Revenue may revoke a retail license when the holder fails, neglects, violates, or refuses to comply with any laws or regulations governed by the department. If the department has revoked a retailer's license for whatever reason, the commission may review and reinstate the license when the taxpayer has satisfied all previous outstanding obligations. S.C. Code Ann. §12-54-90. Failure to Pay License Tax South Carolina provides that the failure to pay the license tax, obtain the license, or comply with any lawful regulations of the commission is liable for a penalty not exceed $500. S.C. Code Ann. §12-36-570. BNA-SUTN SC 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Seller South Carolina law requires sellers to collect sales tax from all applicable purchases and to remit the tax to the South Carolina Department of Revenue. S.C. Code Ann. §12-36-910; S.C. Code Ann. §12-36-1340. BNA-SUTN SC 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes Every person storing, using, or otherwise consuming in South Carolina tangible personal property purchased at retail is liable for use tax, until the tax is paid. S.C. Code Ann. §12-36-1330. A receipt from a retailer:maintaining a place of business in this State, or authorized by the department to collect the use tax, is sufficient to relieve the purchaser from further liability for tax to which the receipt refers. S.C. Code Ann. §12-36-1330. BNA-SUTN SC 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Aside from the retailer, other parties that are responsible to remit sales or use tax include the taxpayer's officers, partners, or employees who have the duty to pay tax. S.C. Code Ann. §12-54-195(A). If a seller fails to collect or remit sales and use tax, then a responsible person may be held personally liable to pay the tax. S.C. Code Ann. §12-54-195(B); South Carolina Administrative Law Court Decision No. 13-ALJ-17-0244-CC (March 17, 2017) (Petitioner, who during a period of time was an officer and majority shareholder of the corporation, was found not liable for the sales tax, interest, or penalty owed by the business, for not filing a sales tax return, because the return in question was supposed to be filed two months after the petitioner lost his position of responsibility within the company. The loss of position meant the petitioner was no longer considered a responsible person that could be held liable for tax collected but not remitted by the company.). BNA-SUTN SC 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable South Carolina is not a member of the Streamlined Sales Tax Agreement and does not provide liability relief to taxpayers who rely on erroneous information provided as part of a streamlined sales tax matrix. The legislature has enacted the Simplified Sales and Use Tax Administration Act and authorized the Department to enter multistate discussions. S.C. Code Ann. §12-35-10; S.C. Code Ann. §12-35-40. However, taxpayers who reasonable rely on written advice from the Department of Revenue are relieved from any penalty and interest associated with the taxpayer's failure to file a timely return or payment. S.C. Code Ann. §12-58-100. BNA-SUTN SC 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability The seller is relieved of liability for sales and use tax due where the seller contracts with a certified service provider to process the seller's transactions, provided the seller has not misrepresented the types of items its sells or committed fraud. S.C. Code Ann. §12-35-100. Under South Carolina law, certified service providers who contract with sellers for the collection and remittance of sales and use tax are considered agents for such sellers and are liable for the sales and use tax due on all transactions processed for the seller. S.C. Code Ann. §12-35-100. Providers of a certified automated system are liable to South Carolina for any underpayments of tax attributable to errors in the functioning of automated system. However, sellers who use a certified automated system remain liable to state for reporting and remitting sales and use tax. S.C. Code Ann. §12-35-100. BNA-SUTN SC 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided Individuals and businesses that are required to collect and remit sales and use taxes must file return forms with the taxes when they are paid to the South Carolina Department of Revenue. S.C. Code Ann. §12-36-2570(A); see South Carolina Revenue Ruling No. 18-9 (June 7, 2018), superseding South Carolina Revenue Ruling No. 16-6 (July 6, 2016). A valid return consists of a true and accurate statement of the following:• gross proceeds of wholesale sales; • gross proceeds of retail sales; • sales price of property; and • any other information required by the Department of Revenue. S.C. Code Ann. §12-36-2570(B). The following are forms provided by the Department of Revenue:• South Carolina ST-3: State Sales and Use Tax Return; • South Carolina ST-388: State Sales, Use, and Accommodations Tax Return; • South Carolina ST-455: State Sales, Use, Maximum Tax and Special Filers Tax Return; • South Carolina UT-3: Use Tax Payment Return For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. Accommodations Tax Return Taxpayers operating more than one business in South Carolina that is subject to sales tax on accommodations must separately state on their return the gross proceeds from business that is conducted within and without the corporate limits of municipalities. A taxpayer must generate separate reports for rental units that the taxpayer owns in separate counties or municipalities. S.C. Code Ann. §12-36-920(D). The South Carolina Department of Revenue may enter into an agreement with a taxpayer in order to allow the taxpayer to collect and remit taxes based on statistical factors set forth by an agreement. This method does not apply to a taxpayer's purchases for resale. S.C. Code Ann. §12-36-2570(E). Special Event Returns Taxpayers that may incur sales and use tax while holding a special event must file a special event return in lieu of procuring a retail license. The return is valid only for one special event. Generally, the special event return must be filed and paid within five days of the conclusion of the event. Special event returns need not be filed by artists, craftsmen, or transient retailers. S.C. Code Ann. §12-36-510(C). “Special event” means a promotional show, trade show, fair, or carnival lasting less than twelve consecutive days for which an admissions fee is charged. S.C. Code Ann. §12-36-510(C). BNA-SUTN SC 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month South Carolina law requires most taxpayers to file sales and use tax returns on a monthly basis, but permits qualifying taxpayers to file on a 28-day, quarterly, annual, or seasonal basis. S.C. Code Ann. §12-36-2580; S.C. Code Ann. §12-36-2590; S.C. Code Ann. §12-36-2570(A); see South Carolina Revenue Ruling No. 18-9 (June 7, 2018), superseding South Carolina Revenue Ruling No. 16-6 (July 6, 2016). A sales or use tax return will be considered timely filed if the postmark falls on or before the filing due date. S.C. Code Ann. §12-36-2570(C). Monthly Returns Monthly returns must be filed on or before the 20th day of the month that follows the close of the preceding reporting period. S.C. Code Ann. §12-36-2570(A). Twenty-eight Day Returns With authorization of the South Carolina Department of Revenue taxpayers may file sales and use tax returns on a 28-day period. Twenty-eight day returns must be filed on or before the 28th day following the close of the period covered by the return. S.C. Code Ann. §12-36-2570(D). Quarterly Filing With authorization of the South Carolina Department of Revenue, taxpayers incurring an average sales and use tax liability of $100 or less for any month may file and pay the tax on a quarterly basis. S.C. Code Ann. §12-36-2580. Quarterly returns must be filed on or before the 20th day of the month following the close of the preceding quarter. Therefore, quarterly sales and use tax returns are due on the following dates:• first quarter returns are due by April 20th; • second quarter returns are due by July 20th; • third quarter returns are due by Oct. 20th; and • fourth quarter returns are due by Jan. 20th. S.C. Code Ann. §12-36-2580. Annual Filing and Seasonal Filing With authorization of the South Carolina Department of Revenue, taxpayers may file sales and use tax returns annually or seasonally. Taxpayers that file an annual use tax return must file by Jan. 20th following the close of the previous year. See South Carolina Form ST-3, State Sales and Use Tax Return. Seasonal Returns Generally, a sales and use tax return must be filed and paid monthly. However, with approval from the South Carolina Department of Revenue, a taxpayer may file returns on a seasonal basis, whereby returns are filed for months of business operation. See South Carolina Form ST-3, State Sales and Use Tax Return. Special Event Returns Generally, a special event return must be filed and paid within five days of the conclusion of the event. S.C. Code Ann. §12-36-510(C). BNA-SUTN SC 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing South Carolina law requires most taxpayers to pay the sales and use tax due on monthly basis, but permits qualifying taxpayers to file on a 28-day, quarterly, annual, or seasonal basis. S.C. Code Ann. §12-36-2570(C); S.C. Code Ann. §12-36-2580; see South Carolina Revenue Ruling No. 18-9 (June 7, 2018), superseding South Carolina Revenue Ruling No. 16-6 (July 6, 2016). Monthly Returns Payment of tax is due in monthly installments on or before the 20th day of the month following the month in which the tax accrues. S.C. Code Ann. §12-36-2570(C). Quarterly Returns With authorization of the South Carolina Department of Revenue, taxpayers incurring an average sales and use tax liability of $100 or less for any month may file and pay the tax on a quarterly basis. S.C. Code Ann. §12-36-2580. Quarterly returns must be filed on or before the 20th day of the month following the close of the preceding quarter. Therefore, quarterly sales and use tax returns are due on the following dates:• first quarter returns are due by April 20th; • second quarter returns are due by July 20th; • third quarter returns are due by Oct. 20th; and • fourth quarter returns are due by Jan. 20th. S.C. Code Ann. §12-36-2580. Annual Filing and Seasonal Filing With authorization of the South Carolina Department of Revenue, taxpayers may file sales and use tax returns annually or seasonally. Taxpayers that file an annual use tax return must file by Jan. 20th following the close of the previous year. See South Carolina Form ST-3, State Sales and Use Tax Return. Seasonal Returns Generally, a sales and use tax return must be filed and paid monthly. However, with approval from the South Carolina Department of Revenue, a taxpayer may file returns on a seasonal basis, whereby returns are filed for months of business operation. See South Carolina Form ST-3, State Sales and Use Tax Return. BNA-SUTN SC 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes The Commissioner of the South Carolina Department of Revenue may extend the time for filing monthly sales and use tax returns where good cause exists for up to one month. S.C. Code Ann. §12-54-70(a); S.C. Code Ann. §12-36-2570(c). However, the Department will grant a maximum of a six month extension. In addition to the request for an extension, a taxpayer must file a tentative return, which reflects 100 percent of the estimated tax along with a remittance in the amount of the estimated tax liability. Taxpayers who do not file monthly must remit at least 90 percent of the tax to be paid along with the tentative return. Taxpayers that do not remit 100 percent of the estimated tax may face a penalty on the difference between the amount remitted and the tax required to be paid. Failure to comply with extension requirements will prevent the grant of future extensions. S.C. Code Ann. §12-54-70. BNA-SUTN SC 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. In South Carolina, the Department of Revenue may extend, for no more than six months, the time for the filing returns or remitting of tax due. S.C. Code Ann. §12-54-70(a). 2018 The South Carolina Department of Revenue is providing relief to taxpayers affected by Hurricane Florence. Those who live or have businesses in counties designated as federal disaster areas due to Hurricane Florence, whose tax records are located in these counties, whose returns are prepared by tax professionals located in these counties, and who are relief workers are eligible for the tax relief. The state will offer the same relief as the IRS, therefore it will apply to tax filing and payment deadlines from Sept. 8, 2018 up to Jan. 31, 2019 for income tax returns - original and extended, estimated income tax payments, and quarterly payroll and excise tax filings. All applicable due dates will be extended to Jan. 31, 2019. The state will also consider additional relief on a case-by-case basis. Taxpayers are directed to submit completed returns and payments. If a taxpayer receives a notice with penalties due, the taxpayer may then make a request for a penalty waiver by either calling or writing the department or by submitting a completed Form C-672 or a letter that provides the same information to the department. South Carolina Dept. of Rev., Hurricane Florence Tax Relief Deadline is January 31 (Jan. 25, 2019); South Carolina Information Letter No. IL 18-13 (Oct. 3, 2018); see also South Carolina News Release 9/18/2018. 2017 The South Carolina Department of Revenue is providing tax relief to taxpayers who reside in federal disaster areas. Federal disaster areas include Florida, Georgia, Puerto Rico, and the Virgin Islands, as well as parts of South Carolina, parts of Texas and parts of California. South Carolina Dept. of Rev., Disaster Tax Relief. The deadline for returns and payments due between Sept. 6, 2017 and Jan. 31, 2018 is extended to Jan. 31, 2018. Taxpayers qualify for relief if:• the taxpayer is a resident or business of an affected South Carolina county; • tax records are located in an affected South Carolina county or in a federally declared disaster area; • tax preparer is located in an affected South Carolina county or in a federally declared disaster area; • the taxpayer is a relief worker; or • the taxpayer is in a federally declared disaster area. South Carolina Dept. of Rev., Disaster Tax Relief. Affected taxpayers must request relief by contacting the South Carolina Department of Revenue via mail, email, or telephone.• Mail:SC Department of Revenue, Disaster Tax Relief, PO BOX 125 Columbia, SC 29214-0802 • Email: disastertaxrelief@dor.sc.gov • Telephone:1-844-898-8542 South Carolina Dept. of Rev., Disaster Tax Relief. 2016 The South Carolina Department of Revenue is providing tax relief to victims of Hurricane Matthew. Taxpayers with a business, tax records, residence or tax preparer in the following counties are eligible for relief: Allendale, Bamberg, Barnwell, Beaufort, Berkeley, Charleston, Colleton, Darlington, Dillon, Dorchester, Florence, Georgetown, Hampton, Horry, Jasper, Lee, Marion, Orangeburg, Sumter and Williamsburg. The due dates for returns and payments due on or after Oct. 4, 2016 and before March 15, 2017 will be postponed until March 15, 2017. Additionally, the department has suspended the enforced collection of any assessed liabilities and will waive any penalties associated with the suspension of collection activities. South Carolina Information Letter No. IL 16-12 (Oct. 14, 2016); South Carolina Dept. of Rev., Hurricane Matthew Tax Relief. 2015 Taxpayers affected by the October 2015 flooding in South Carolina qualify for relief from the Department of Revenue, following the same relief as offered by the Internal Revenue Service regarding federal tax filing deadlines. Relief is available to taxpayers in the following counties: Bamberg, Berkeley, Calhoun, Charleston, Clarendon, Colleton, Darlington, Dorchester, Florence, Georgetown, Greenwood, Horry, Kershaw, Lee, Lexington, Newberry, Orangeburg, Richland, Sumter and Williamsburg. Accordingly, the due dates for returns due on or after Oct. 1, 2015 and on or before Feb. 16, 2016 have been postponed until Feb. 16, 2016. Associated penalties and fees are also waived. Qualifying taxpayers must write “SC Flood” on the top of paper returns if relying on this relief when filing; electronic filers do not need to take additional steps to qualify. South Carolina Information Letter No. IL 15-14 (Oct. 28, 2015) (revised version); see South Carolina Dept. of Rev., Tax Relief for Victims of 2015 Flood. BNA-SUTN SC 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers The South Carolina Department of Revenue has an electronic filing program for the payment of sales and use taxes. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019); see South Carolina Revenue Ruling No. 18-9 (June 7, 2018), superseding South Carolina Revenue Ruling No. 16-6 (July 6, 2016). Certain taxpayers with a liability of $15,000 or more during a filing period must participate in the South Carolina EFT program. S.C. Code Ann. §12-54-250(A). Taxpayers with less than $15,000 in tax due are permitted to participate in South Carolina's EFT program, but are not required to do so. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). Mandatory EFT participants may withdraw if:• for a period of 12 consecutive months or four consecutive quarters, the qualifying threshold amount of $15,000 is not satisfied; or • for a period of 12 consecutive months the number of payments remitted to the South Carolina Department of Revenue has fallen below the 24-payment requirement (for withholding only). South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). The Department of Revenue is authorized to require certain tax payments to be initiated on or before the payment due date, with funds being deposited into the South Carolina Department of Revenue bank account within two banking days after the due date. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019);South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). BNA-SUTN SC 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted “Electronic Funds Transfer System” (EFT) offers two methods of payment. Taxpayers may pay by Automated Clearing House Debit (ACH Debit) or Automated Clearing House Credit (ACH Credit). South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). The ACH Debit allows the taxpayer to use a telephone or internet system through a South Carolina Department of Revenue agent and allows the Department of Revenue to debit the taxpayer's bank account by the amount entered into the system by the taxpayer. The ACH Credit permits taxpayers to send funds to the South Carolina Department of Revenue's bank account through a banking program offered by their financial institution. Before payments can be made through the EFT program a taxpayer must register with the South Carolina Department of Revenue using Form D128-Registration Application for Electronic Funds Transfer. South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). Taxpayers must initiate ACH Debit payments on or before the due date. For an ACH Debit payment to be timely, it must settle in the state's bank account no later than two banking days after the due date. South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). A taxpayer using ACH Credit must contact their depository, or currency management service provider, and instruct them to initiate the transaction on or before the due date. For an ACH Credit payment to be timely, it must settle in the state's bank account no later than two banking days after the due date. To initiate an ACH Credit, a taxpayer must be set up to do so with their bank. South Carolina Dept. of Rev., ACH Credit Instructions and Guidelines (June 22, 2015). BNA-SUTN SC 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+2%or 3% South Carolina law offers a 2% or 3% discount on state sales taxes to vendors that collect and remit the tax to the South Carolina Department of Revenue on a timely basis. The maximum discount that a vendor may receive is $3,000. S.C. Code Ann. §12-36-2610. The discount available to vendors depends on the amount of sales taxes due. A 3 percent discount is given for taxes due of less than $100. A 2 percent discount is allowed on state sales taxes due of $100 or more. S.C. Code Ann. §12-36-2610. In no event may the discount provided exceed $3,000 during any one fiscal year. If vendors file electronically, the maximum discount that is available is $3,100. Vendors that make sales into South Carolina who cannot be required to register for sales and use tax purposes under applicable law, but who nevertheless voluntarily register to collect and remit use tax on items of tangible personal property sold to customers in South Carolina may receive a discount in an amount up to $10,000. Vendors will not receive a discount for sales taxes paid that are delinquent, or where a return was filed after the due date or after the expiration of any extension granted by the department. S.C. Code Ann. §12-36-2610. BNA-SUTN SC 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes South Carolina provides taxpayers with exemption certificates which may be used to purchase tangible personal property free from sales and use tax. A retailer is liable for any sales tax due on a purchase unless the retailer receives a properly completed resale certificate. S.C. Code Ann. §12-36-2680. Absent any fraud on the part of the seller, the seller acceptance of a exemption certificate relieves the seller of any sales and use tax liability on the sale. If a purchaser improperly claims an exemption or exclusion by use of a certificate, a seller may be relieved from any tax otherwise applicable, provided the seller did not fraudulently fail to collect or remit the tax, or both, or solicit a purchaser to participate in an unlawful claim of an exemption. The liability for tax shifts to the purchaser who improperly claimed the exemption or exclusion by use of the certificate. S.C. Code Ann. §12-36-2510(C). Failure to obtain an exemption certificate will result in the seller being liable for tax on the transaction. BNA-SUTN SC 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+No Specific Time Period There is no stated expiration period for an exemption certificate in South Carolina. BNA-SUTN SC 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted South Carolina accepts the Multistate Tax Commission's Uniform Sales and Use Tax Exemption Certificate. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019); Uniform Sales and Use Tax Exemption Certificate. This certificate stipulates: “In order for the certificate to be accepted in good faith by the Seller, Seller must exercise care that the property or service being sold is of a type normally sold wholesale, resold, leased, rented, or incorporated as an ingredient or component of a product manufactured by Buyer and then resold in the usual course of its business.” South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019); Uniform Sales and Use Tax Exemption Certificate. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 states have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the states that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. South Carolina will accept the MTC certificate. BNA-SUTN SC 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted South Carolina is not a member to the Streamlined Sales Tax agreement, and is under no obligation to accept SST tax exemption certificate SSTGB Form F0003. BNA-SUTN SC 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Accepted The Department of Revenue provides an exemption certificate. South Carolina does not require taxpayers to use the provided certificate, but does require that the information requested on the certificate be provided on any certificate accepted by the seller. South Carolina Revenue Procedure No. RP 08-2 (May 5, 2008). State Specific Exemption Certificates • South Carolina Form ST-8: Exemption Certificate • South Carolina Form ST-8A: Resale Certificate South Carolina Revenue Procedure No. RP 03-3 (June 10, 2003), superseding South Carolina Revenue Procedure Bulletin No. 01-7 (June 25, 2001). • South Carolina Form ST-8F: Agricultural Exemption Certificate South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). BNA-SUTN SC 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes If an individual or business entity sells tangible personal property, and does not collect sales tax because the purchaser has presented an apparently valid exemption certificate, then the person or business will not be held liable for the unpaid sales or use tax. S.C. Code Ann. §12-36-2510(C). Instead, the department will collect or recover the tax due from the party who made the illegal tax-free purchase or from the person who benefited from the illegal tax-free purchase. S.C. Code Ann. §12-36-2510(C). BNA-SUTN SC 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+No Specific Time Period South Carolina does not have any guidance on the timeframe during which an exemption certificate should be obtained. See South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). BNA-SUTN SC 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+6 Years The state does not specify the duration of time that a seller should retain exemption certificates, but tax may be assessed up to six years after a return was filed. S.C. Code Ann. §12-54-85(A). The statute of limitations on assessing sales tax in South Carolina is three years after the date the return is filed. If it is determined on audit that the tax due was twenty percent or more above the amount reported on a return, notice of determination of tax due must be given not later than six years after the last day on which the return was due or six years after the return was filed, whichever is later. Therefore, a taxpayer should maintain such records for a minimum of six years from such filings. S.C. Code Ann. §12-54-85(A). BNA-SUTN SC 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required Retail vendors that are required to have a state sales tax license covering retail sales made to final consumers are required to have a certificate of exemption to cover the purchaser's sales for resale. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). The South Carolina Department of Revenue form for the retailer's resale certificate is Form ST-8A. The presentation of a resale certificate by a purchaser will relieve a seller of liability for sales tax, and transfer liability to the purchaser, if:• the resale certificate presented to the seller by the purchaser contains all the information required by the department and has been fully and properly completed; • the seller did not fraudulently fail to collect or remit the tax, or both; and • the seller did not solicit a purchaser to participate in an unlawful claim that a sale was for resale. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). BNA-SUTN SC 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required South Carolina issues exemption certificates to certain non-profit taxpayers that allow the taxpayers to make tax-free purchases. S.C. Code Ann. §12-36-2510. If the purchased tangible personal property is later used for a non-exempt purpose, the holder of an exemption certificate will be liable for any taxes due. S.C. Code Ann. §12-36-2510(A)(2)(b). Sellers must maintain proper records of all exempt sales made to certificate holders, and must present this information to the South Carolina Department of Revenue upon request. S.C. Code Ann. §12-36-2510(B)(3); South Carolina Revenue Procedure No. RP 03-3 (June 10, 2003), superseding South Carolina Revenue Procedure Bulletin No. 01-7 (June 25, 2001). Organizations automatically qualify for an exemption certificate if they:• are selling tangible personal property; • are exempt from property tax under S.C. Code Ann. §12-36-2120(41);and • file Form ST-387. South Carolina Revenue Procedure No. RP 03-3 (June 10, 2003), superseding South Carolina Revenue Procedure Bulletin No. 01-7 (June 25, 2001). Organizations may qualify for exemption certificates if they:• are selling, or will sell tangible personal property; • are an organization referenced in S.C. Code Ann. §12-36-2120(41); and • provide documents that conclusively demonstrate the exclusive use or intended use of its net proceeds are for exempt purposes and also demonstrate that no benefit inures or will inure to any individual. South Carolina Revenue Procedure No. RP 03-3 (June 10, 2003), superseding South Carolina Revenue Procedure Bulletin No. 01-7 (June 25, 2001). Organizations do not qualify for exemption certificates if they:• purchase tangible personal property for only their own use or consumption and not for resale; or • are exempt from property tax under a code section other than one of the property tax sections listed in S.C. Code Ann. §12-36-2120(41). South Carolina Revenue Procedure No. RP 03-3 (June 10, 2003), superseding South Carolina Revenue Procedure Bulletin No. 01-7 (June 25, 2001). BNA-SUTN SC 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted When an exempt sale is made pursuant to a certificate on file, the purchaser must note on the purchase invoice the exempt items and state that the items are to be used for exempt purposes. S.C. Code Ann. §12-36-2680. BNA-SUTN SC 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized Where the nature of a taxpayer's business makes it very difficult at the time of purchase to determine the applicability of sales or use tax, the South Carolina Department of Revenue may issue permits that allow the purchaser to make purchases without paying sales tax to the vendor. S.C. Code Ann. §12-36-2510. Instead of paying the sales tax at the time of purchase of tangible personal property, the purchaser remains liable for remitting the applicable sales tax directly to the department, unless an additional exemption applies. S.C. Code Ann. §12-36-2510. In the event that an exemption or exclusion does not apply, the tax is due upon withdrawal, use, or consumption of the tangible personal property purchased with the direct pay certificate. S.C. Code Ann. §12-36-2510. The South Carolina Department of Revenue issues direct pay permits on a case-by-case basis. Telephone conversation with South Carolina Dept. of Rev., July 15, 2009. BNA-SUTN SC 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years South Carolina law requires individuals and businesses making taxable sales to keep and preserve suitable records of the proceeds of sales or gross receipts of sales for a period of three years. S.C. Code Ann. §12-36-2540. This includes any books, papers, memoranda, records, statements, returns, or other accounts that may be necessary to determine the amount of tax for which he or she is liable. S.C. Code Ann. §12-36-2540(A); S.C. Code Ann. §12-54-210. Individuals or businesses that make both taxable retail sales and non-taxable wholesale sales must maintain their books and records in a manner that shows the separate gross proceeds from the taxable and non-taxable sales. If a taxpayer's books and records do not adequately reflect the distinction between taxable and non-taxable sales, then all sales will be subject to sales tax. S.C. Code Ann. §12-36-2540(B). BNA-SUTN SC 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Vendor Taxpayers who have paid sales or use tax, and who believe an overpayment has occurred, may file a petition for a refund with the South Carolina Department of Revenue. S.C. Code Ann. §12-60-470(A). A claim for refund must list certain information to be considered complete, including:• the name, address, and telephone number of the taxpayer; • the applicable taxpayer identification number; • the tax period or date for which the tax was paid; • the nature and kind of tax paid; • the amount that the taxpayer claims was over paid; • a statement of facts supporting the taxpayer's position; • a statement outlining the reasons for the claim, including law or other authority upon which the taxpayer relies; and • any other relevant information the department may reasonably require. S.C. Code Ann. §12-60-470(B). Refund Applied to Outstanding Liability If the department determines that a refund is due, the amount of the refund plus accrued interest will first be credited by the department against any outstanding final tax liabilities the taxpayer owes to the department. Later, any remaining balance will be refunded to the taxpayer. S.C. Code Ann. §12-60-490. Refunds Initiated by the Department If the department determines that money has been incorrectly collected from a taxpayer, the department may grant a refund to the taxpayer or other person on its own accord, even if no refund claim has been filed. S.C. Code Ann. §12-60-470(G). Assignment of Refunds In most cases, South Carolina law mandates that only the taxpayer that originally was liable for paying or remitting sales tax may request or receive a refund. In the case of sales tax, this is the retailer. In the case of use tax, this is the purchaser. However, South Carolina law allows taxpayers to assign a refund to another person or entity as long as the claim for refund has previously been allowed and approved by the department, the amount of the refund has been decided, and the assignment is in writing. S.C. Code Ann. §12-60-470(C). BNA-SUTN SC 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years Taxpayers must submit a petition for refund of sales or use taxes paid within three years from the original date the return was filed, or two years from the date of the payment of the tax, whichever is later. S.C. Code Ann. §12-54-85(F)(1). If no return was timely filed, then the taxpayer must submit a claim for refund within two years of the date of the payment of the tax. S.C. Code Ann. §12-54-85(F)(1). BNA-SUTN SC 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years Under most circumstances, the South Carolina Department of Revenue may make an assessment of unpaid sales or use taxes within three years following the due date of the return or the date the return was filed, whichever is later. S.C. Code Ann. §12-54-85(A). Additionally, if a responsible party understates the total amount of sales tax due on a return by 20 percent or more, the department may make an assessment within six years after the due date of the return, or the date the return was filed, whichever is later. S.C. Code Ann. §12-54-85(C)(3); see South Carolina Revenue Ruling No. 18-9 (June 7, 2018), superseding South Carolina Revenue Ruling No. 16-6 (July 6, 2016). Waiving the Statute of Limitations If no return is filed, or if a fraudulent return is filed, then the South Carolina Department of Revenue may make an assessment at any time. S.C. Code Ann. §12-54-85(C)(1); S.C. Code Ann. §12-54-85(C)(2). Additionally, the taxpayer and the department may mutually agree to extend the statute of limitations for a certain period of time, or for an indefinite period of time. S.C. Code Ann. §12-54-85(C)(4). BNA-SUTN SC 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes South Carolina law imposes a range of civil and criminal penalties on individuals or businesses that violate tax laws and regulations relating to sales and use tax. S.C. Code Ann. §12-54-43; S.C. Code Ann. §12-54-44; S.C. Code Ann. §12-54-200. These penalties vary in amount and severity depending on the nature of the violation. Penalty for Failure to Obtain License Retailers who engage in business without a retail license or after a license is revoked are guilty of a misdemeanor punishable by a maximum fine of $200 and/or maximum imprisonment period of 30 days. S.C. Code Ann. §12-36-560. Penalty for Failure to Pay Sales or Use Tax South Carolina law imposes a penalty for failure to pay sales or use tax by the date the taxes are due. During the first 30 days following the due date, the penalty is 0.05 percent of the outstanding amount due, with an additional 0.05 percent penalty during each additional month or fraction of the month, not to exceed a total 25 percent penalty in the aggregate. S.C. Code Ann. §12-54-43(D). Penalty for Failure to Report Local Sales Taxes South Carolina law imposes a penalty on a taxpayer that fails to correctly report local sales taxes that are required to be reported on a sales and use tax return. The penalty amount is equal to 5 percent of the amount of tax not properly reported on the return. Moreover, there is an additional 5 percent penalty for each additional month or fraction of a month, not exceeding a 25 percent penalty in the aggregate. S.C. Code Ann. §12-54-43(C). Penalty for Negligence or Disregard of Law or Rules If a taxpayer negligently disregards the rules and regulations relating to sales and use tax, but without any intent to defraud the state, then a penalty equal to 5 percent of the sales tax due will be imposed. S.C. Code Ann. §12-54-43(F). Penalty for Fraudulently Failing to File or Evade Tax South Carolina law imposes a 75 percent penalty on any taxpayer who, with the intent to evade or defeat the collection of the sales tax, fraudulently files a return or fraudulently fails to file a return. Additionally, a 50 percent penalty is imposed on any taxpayer who attempts in any other manner to evade or defeat a tax or payment of tax. S.C. Code Ann. §12-54-43(G). Penalty for Use of Sales Tax Exemption Certificate to Evade Tax South Carolina law imposes a 5 percent penalty for each transaction, with the penalty not to exceed the aggregate of 50 percent, where a person uses an exemption certificate to buy property that will be used for a purpose other than the exemption that is claimed, where the certificate holder intends to evade payment of sales tax to the seller. S.C. Code Ann. §12-54-43(M). BNA-SUTN SC 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Taxpayers that willfully attempt to evade or defeat a tax are guilty of a felony punishable by a fine of up to $10,000 and/or imprisonment up to five years. S.C. Code Ann. §12-54-44(B)(1). Taxpayers that fail to collect and remit a tax are guilty of a felony punishable by a fine of up to $10,000 and/or imprisonment for up to five years. S.C. Code Ann. §12-54-44(B)(2). A taxpayer that willfully fails to pay an estimated tax or file a return is guilty of a misdemeanor punishable by a fine of up to $10,000 and/or imprisonment for up to one year. S.C. Code Ann. §12-54-44(B)(2). BNA-SUTN SC 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes. The South Carolina Department of Revenue may waive, dismiss, or reduce penalties assessed, unless the action is specifically prohibited by some other provision. S.C. Code Ann. §12-54-160. BNA-SUTN SC 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Quarterly South Carolina determines interest rates for underpayments and overpayments of tax on a quarterly basis. S.C. Code Ann. §12-54-25(D); I.R.C. §6621. Generally, both underpayment interest and overpayment interest will be compounded daily. S.C. Code Ann. §12-54-25(D); see I.R.C. §6622(a). However, interest that accrues on an underpayment of declaration of estimated tax will not be compounded. S.C. Code Ann. §12-54-55(2); see I.R.C. §6622(b); I.R.C. §6655. BNA-SUTN SC 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Federal Rate The interest rate on underpayments in South Carolina is the federal rate for underpayments under I.R.C. §6621. S.C. Code Ann. §12-54-25(D). In South Carolina, if any tax is not paid when due, then interest is due on the unpaid portion from when the tax was due until it is fully paid. S.C. Code Ann. §12-54-25(A). Interest is compounded daily. However simple interest applies to underpayment of declaration of estimated tax. South Carolina Information Letter No. IL 16-7 (June 13, 2016). BNA-SUTN SC 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:4% 2Q:5% 3Q:5% 4Q:5% In 2018, the South Carolina interest rate on underpayments of tax is 4 percent for the first quarter, and 5 percent for the last three quarters. S.C. Code Ann. §12-54-25(D); South Carolina Information Letter No. IL 18-11 (Sept. 10, 2018); South Carolina Information Letter No. IL 18-7 (July 10, 2018); South Carolina Information Letter No. IL 18-2 (March 8, 2018). BNA-SUTN SC 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2017, the South Carolina interest rate on underpayments of tax is 4 percent. S.C. Code Ann. §12-54-25(D); South Carolina Information Letter No. IL 17-14 (Sept. 12, 2017). BNA-SUTN SC 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:3% 2Q:4% 3Q:4% 4Q:4% In 2016, the South Carolina interest rate on underpayments of tax is 3 percent for the first quarter, and 4 percent for the last three quarters. South Carolina Information Letter No. IL 16-9 (Sept. 26, 2016). BNA-SUTN SC 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2015, the South Carolina interest rate on underpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2014, the South Carolina interest rate on underpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the South Carolina interest rate on underpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the South Carolina interest rate on underpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:3% 2Q:4% 3Q:4% 4Q:3% In 2011, the South Carolina interest rate on underpayments of tax is 3 percent for the first quarter, 4 percent for the second and third quarters, and 3 percent for the fourth quarter. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2010, the South Carolina interest rate on underpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2009, the South Carolina interest rate on underpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal Rate Any tax that South Carolina refunds or credits includes interest on the credited or refunded amount. Interest accrues from the latest of the date the tax was paid, the return's original due date, or the last day prescribed for paying the tax if no return is required. It stops accruing on either the date the refund was sent or delivered to the taxpayer or the date the credit was made. S.C. Code Ann. §12-54-25(C). The interest rate on overpayments in South Carolina is the federal rate for overpayments under I.R.C. §6621. S.C. Code Ann. §12-54-25(D). However, for fiscal years 2017-2018, 2016-2017, 2015-2016, and 2014-2015 (i.e., July 1 through June 30), the state's budget bill directs the Department to reduce the payment rate on overpayments by three percent. See South Carolina Information Letter No. IL 17-14 (Sept. 12, 2017); South Carolina Information Letter No. IL 16-9 (Sept. 26, 2016); South Carolina Information Letter No. IL 15-13 (Sept. 14, 2015); South Carolina Information Letter No. IL 14-13 (Sept. 5, 2014). BNA-SUTN SC 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:1% 2Q:2% 3Q:2% 4Q:2% In 2018, the South Carolina interest rate on overpayments of tax is 1 percent for the first quarter, and 2 percent for the last three quarters. South Carolina Information Letter No. IL 18-11 (Sept. 10, 2018); South Carolina Information Letter No. IL 18-7 (July 10, 2018); South Carolina Information Letter No. IL 18-2 (March 8, 2018). The Department of Revenue is directed to reduce the rate of interest paid on eligible refunds by three percentage points. South Carolina Information Letter No. IL 18-7 (July 10, 2018); South Carolina Information Letter No. IL 17-14 (Sept. 12, 2017). BNA-SUTN SC 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:1% 2Q:1% 3Q:1% 4Q:1% In 2017, the South Carolina interest rate on overpayments of tax is 1 percent. South Carolina Information Letter No. IL 17-14 (Sept. 12, 2017). The Department of Revenue is directed to reduce the rate of interest paid on eligible refunds by three percentage points. South Carolina Information Letter No. IL 17-14 (Sept. 12, 2017); South Carolina Information Letter No. IL 16-9 (Sept. 26, 2016). BNA-SUTN SC 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:0% 2Q:1% 3Q:1% 4Q:1% In 2016, the South Carolina interest rate on overpayments of tax is 0 percent for the first quarter, and 1 percent for the last three quarters. South Carolina Information Letter No. IL 16-9 (Sept. 26, 2016). The interest rate on overpayments is reduced by a total of 3 percentage points from the applicable rate. South Carolina Information Letter No. IL 16-9 (Sept. 26, 2016); South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). BNA-SUTN SC 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:0% 2Q:0% 3Q:0% 4Q:0% In 2015, the South Carolina interest rate on overpayments of tax is 0 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016) (noting state's budget bill requirement that the Department reduce interest rates on refunds by three percentage points for fiscal year July 1, 2015 through June 30, 2016). BNA-SUTN SC 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:0% 4Q:0% In 2014, the South Carolina interest rate on overpayments of tax is 3 percent for the first and second quarters, and 0 percent for the third and fourth quarters. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016); see 2014 S.C. H.B. 4701, §§92.10 and 117.91, effective July 1, 2014; South Carolina Information Letter No. IL 14-12 (Sept. 2, 2014). However, the Department of Revenue is directed to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate through 2014. South Carolina Information Letter No. IL 13-18 (Dec. 10, 2013); South Carolina Information Letter No. IL 14-3 (Mar. 17, 2014); South Carolina Information Letter No. IL 14-8 (June 13, 2014); South Carolina Information Letter No. IL 14-13 (Sept. 5, 2014); 2013 S.C. H.B. 3710, Part IB, Sections 92 and 117; 2014 Act No. 286, Part IB, Sections 92 and 117. BNA-SUTN SC 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the South Carolina interest rate on overpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). However, Budget Provisos 72.13 and 89.108 direct the Department of Revenue to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above listed rate through June 30, 2013. South Carolina Information Letter No. IL 12-20 (Dec. 17, 2012); South Carolina Information Letter No. IL 13-5 (Mar. 4, 2013); see 2012 Act No. 288, Part IB, Sections 72 and 89. In addition, Budget Provisos 92.10 and 117.94 direct the department to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate beginning on July 1, 2013. South Carolina Information Letter No. IL 13-11 (June 26, 2013); South Carolina Information Letter No. IL 13-14 (Sept. 11, 2013);2012 H.B. 3710, Part IB, Sections 92 and 117. BNA-SUTN SC 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the South Carolina interest rate on overpayments of tax is 3 percent. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). However, Budget Provisos 72.17 and 89.116 direct the Department of Revenue to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above listed rate through June 30, 2012. South Carolina Information Letter No. IL 11-20 (Dec. 1, 2011); South Carolina Information Letter No. IL 12-3 (Feb. 23, 2012); see 2011 Act No. 73, Part IB, Sections 72 and 89. In addition, Budget Provisos 72.13 and 89.102 direct the department to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate beginning on July 1, 2012. South Carolina Information Letter No. IL 12-8 (Jul. 9, 2012); South Carolina Information Letter No. IL 12-12 (Sept. 6, 2012);2012 H.B. 4813, Part IB, Sections 72 and 89. BNA-SUTN SC 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:3% 2Q:4% 3Q:4% 4Q:3% In 2011, the South Carolina interest rate on overpayments of tax is 3 percent for the first quarter, 4 percent for the second and third quarters, and 3 percent for the fourth quarter. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). However, Budget Provisos 72.17 and 89.142 direct the Department of Revenue to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above listed rate through June 30, 2011. South Carolina Information Letter No. IL 10-14 (Dec. 9, 2010); South Carolina Information Letter No. IL 11-3 (Feb. 18, 2011); see 2010 Act No. 291, Part IB, Sections 72 and 89. In addition, Budget Provisos 72.17 and 89.116 direct the department to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate beginning on July 1, 2011. South Carolina Information Letter No. IL 11-10 (June 30, 2011); South Carolina Information Letter No. IL 11-14 (Aug. 25, 2011);2011 H.B. 3700, Part IB, Sections 72 and 89. BNA-SUTN SC 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2010, the South Carolina interest rate on overpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). However, Budget Proviso 72.17 directs the Department of Revenue to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above listed rate through June 30, 2010. South Carolina Information Letter No. IL 09-22 (Nov. 29, 2009); South Carolina Information Letter No. IL 10-2 (Mar. 12, 2010); see 2009 Act No. 23, Part IB, Section 72. In addition, Budget Provisos 72.17 and 89.142 direct the department to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate beginning on July 1, 2010. South Carolina Information Letter No. IL 10-5 (June 21, 2010); South Carolina Information Letter No. IL 10-8 (Aug. 25, 2010);2010 Act No. 291, Part IB, Sections 72 and 89. BNA-SUTN SC 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2009, the South Carolina interest rate on overpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. South Carolina Information Letter No. IL 16-4 (Mar. 17, 2016). However, Budget Proviso 72.17 directs the Department of Revenue to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above listed rate through June 30, 2009. South Carolina Information Letter No. IL 08-25 (Dec. 12, 2008); South Carolina Information Letter No. IL 09-3 (Mar. 12, 2009); see 2008 Act No. 310, Part IB, Section 72. In addition, Budget Proviso 72.17 directs the department to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the above rate beginning on July 1, 2009. South Carolina Information Letter No. IL 09-7 (May 29, 2009); South Carolina Information Letter No. IL 09-15 (Aug. 24, 2009);2009 Act No. 23, Part IB, Section 72. BNA-SUTN SC 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No The South Carolina Department of Revenue did not have a tax amnesty program for 2018. BNA-SUTN SC 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2017. BNA-SUTN SC 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2016. BNA-SUTN SC 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2015. Effective June 8, 2015, the Department of Revenue may designate an amnesty period that “has a beginning and ending date from time to time as determined by the department.” During the amnesty period, the department waives penalties and interest (or a portion, at its discretion) for taxpayers who voluntarily file delinquent returns and pay all taxes owed. S.C. Code Ann. §12-4-397(A), as added by 2015 S.C. S.B. 526, effective June 8, 2015; South Carolina Information Letter No. IL 15-11 (Sept. 4, 2015) (list of significant changes in tax and regulatory laws (both permanent and temporary) enacted during the 2015 legislative section). Under the law, the department must provide 60 days' notice before the amnesty period begins. S.C. Code Ann. §12-4-397(A), as added by 2015 S.C. S.B. 526, effective June 8, 2015; South Carolina Information Letter No. IL 15-11 (Sept. 4, 2015). To qualify for the amnesty program, a taxpayer must file a Request for Amnesty form. Further, the taxpayer must:• voluntarily file all delinquent tax returns and pay in full all taxes due; • voluntarily file an amended tax return (to correct an incorrect or insufficient original return) and pay all taxes due; or • voluntarily pay in full all previously assessed tax liabilities due within an extended amnesty period. S.C. Code Ann. §12-4-397(C)(3), as added by 2015 S.C. S.B. 526, effective June 8, 2015. (The extended amnesty period begins at the close of the standard amnesty period and runs for a time period determined by the department. The department may set up installment agreements as long as all taxes are paid within the extended amnesty period. An installment agreement must be agreed upon before the close of the standard amnesty period); South Carolina Information Letter No. IL 15-11 (Sept. 4, 2015). If a taxpayer receives amnesty, then the department will not initiate a criminal investigation or refer the taxpayer to the Office of the Attorney General for criminal prosecution for the tax or tax periods covered by the granting of amnesty. However, the department does not grant amnesty to a taxpayer who is the subject of a state tax-related criminal investigation or prosecution. Nor does the department waive penalties and interest attributable to any one filing period if the taxpayer has outstanding liabilities for other periods. But if a taxpayer has an appeal pending with respect to an assessment and pays all taxes owed, then the taxpayer may participate in the amnesty program. Paying the outstanding liability does not constitute a forfeiture of appeal or an admission of liability for the disputed assessment. S.C. Code Ann. §12-4-397(F), as added by 2015 S.C. S.B. 526, effective June 8, 2015; South Carolina Information Letter No. IL 15-11 (Sept. 4, 2015). The department must be reimbursed the administrative costs associated with the amnesty period in the amount of 5 percent of collected funds. The enacting legislation allows the department to retain that amount and expend it for budgeted operations. S.C. Code Ann. §12-4-397(G), as added by 2015 S.C. S.B. 526, effective June 8, 2015. Compromised liabilities may be eligible for relief under the amnesty period at the department's discretion. S.C. Code Ann. §12-4-397(J), as added by 2015 S.C. S.B. 526, effective June 8, 2015; see also S.C. Code Ann. §12-4-320(3) (discussing compromised liabilities). If a taxpayer has an overdue tax debt that remains unpaid, then the department may impose an additional 10-percent collection assistance fee. The department may impose the collection assistance fee on any overdue tax debt at the close of the extended amnesty period or up to one year after. S.C. Code Ann. §12-4-397(J), as added by 2015 S.C. S.B. 526, effective June 8, 2015; see also S.C. Code Ann. §12-55-30 (defining the term “overdue tax debt”). BNA-SUTN SC 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2014. BNA-SUTN SC 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2013. BNA-SUTN SC 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2012. BNA-SUTN SC 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2011. BNA-SUTN SC 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2010. BNA-SUTN SC 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No The South Carolina Department of Revenue did not offer an amnesty program in 2009. BNA-SUTN SC 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The South Carolina Department of Revenue offers a voluntary disclosure program for taxpayers who may have nexus with the state but are not registered with the department to collect or remit taxes. South Carolina Revenue Procedure Bulletin No. RPB 09-2 (March 6, 2009). To be considered for the program, a taxpayer or a representative of a taxpayer must meet certain conditions. Initial contact with the South Carolina Department of Revenue may be on a named or unnamed basis. South Carolina Revenue Procedure Bulletin No. RPB 09-2 (March 6, 2009). Taxpayers that participate in the program must file all past-due returns and pay all sales taxes(plus interest) that are due for an applicable look-back period, but they avoid all penalties associated with the delinquent amounts. South Carolina Revenue Procedure Bulletin No. RPB 09-2 (March 6, 2009). The voluntary disclosure program is not available to a taxpayer that:• has been contacted by the department to schedule an audit or has been notified that an examination is pending prior to the time its name is disclosed to the department in connection with participation in the voluntary filing program; • is involved in an audit or litigation with the department; • requests an advisory opinion regarding the existence of nexus; • does not respond timely and completely to a nexus questionnaire if requested by the department; • does not provide adequate facts for the South Carolina Department of Revenue's Nexus/Discovery Section to determine the existence of nexus; • failed to file a return as the result of fraud or gross negligence; or • is requesting voluntary disclosure participation for non-business individual income taxes. South Carolina Revenue Procedure Bulletin No. RPB 09-2 (March 6, 2009). BNA-SUTN SC 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+3 years South Carolina's voluntary disclosure program look-back period is generally three years. South Carolina Revenue Procedure No. RP 09-2 (March 6, 2009), superseding South Carolina Revenue Procedure No. RP 07-1 (Dec. 14, 2007). The program's look-back period is for the applicable amount of time, immediately preceding ended tax years that nexus existed with South Carolina from the time a taxpayer or its representative initially contacts the department regarding participation in the voluntary disclosure program, as follows:• annual filing (nexus existed for 3 or more years) - 3 year look-back period • annual filing (nexus existed for less than 3 years) - the look-back period is for the number of years nexus existed • monthly/quarterly filing - number of 36 month or 12 quarterly periods South Carolina Revenue Procedure No. RP 09-2 (March 6, 2009), superseding South Carolina Revenue Procedure No. RP 07-1 (Dec. 14, 2007). A look back can be extended where voluntary disclosure is approved after the date a tax return is due subsequent to the look back period. A look-back period can be shortened if the department agrees that nexus is uncertain. South Carolina Revenue Procedure No. RP 09-2 (March 6, 2009), superseding South Carolina Revenue Procedure No. RP 07-1 (Dec. 14, 2007). BNA-SUTN SC 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates South Carolina participates in the Multistate Voluntary Disclosure Program(MVDP). Multistate Tax Comn., Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Comn., Multistate Voluntary Disclosure Program. South Carolina may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Multistate Tax Comn., Multistate Voluntary Disclosure Program. BNA-SUTN SC 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized For the purpose of determining the correct amount of sales and use tax due, the South Carolina Department of Revenue has the authority to examine and audit the records, books, or other relevant information that taxpayers are required to maintain relating to sales and use tax. S.C. Code Ann. §12-54-100(A). The taxpayer, upon request, may delay the examination up to 30 days, unless there exists reasonable evidence that the taxpayer intends to destroy or remove items from South Carolina that are necessary for the examination or investigation. S.C. Code Ann. §12-54-100(C). Also, the South Carolina Department of Revenue has the authority to summon records, books, and witnesses to give testimony necessary to determine the correct sales and use tax owed. The Director of the South Carolina Department of Revenue may employ proper and reasonable audit methods, including the use of sampling, in order to conduct a necessary examination or investigation. S.C. Code Ann. §12-54-100. BNA-SUTN SC 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted If a taxpayer disagrees with the Department of Revenue's proposed assessment, it may appeal by sending a written request within 90 days of the date on the proposed assessment to the address on the proposed assessment. South Carolina Dept. of Rev., Information Guide - Tax Appeal Procedures for State Tax Assessments and License Revocations (Other Than Property Tax). The written protest must contain: • name; • address; • telephone number; • taxpayer identification number(s); • tax period or date for which the tax was proposed; • the nature and kind of tax in dispute; and • a statement of facts supporting the appeal, including any law or other authority. South Carolina Dept. of Rev., Information Guide - Tax Appeal Procedures for State Tax Assessments and License Revocations (Other Than Property Tax). Once a protest is filed, the Department will handle the appeal using the Department's internal procedures for handling a denial of a claim for refund. If the Department ultimately determines that the appeal should be denied, a representative within the Department's General Counsel for Litigation will prepare a written department determination addressing the issues raised by the appeal. If the taxpayer has exhausted his administrative remedies, the taxpayer may appeal the department determination to the Administrative Law Court. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). If a taxpayer has exhausted his administrative remedies, the taxpayer may request a contested case hearing before the Administrative Law Court if the taxpayer disagrees with the department determination. The request for a contested case hearing must be made in writing within 30 days after the date the department determination was sent by first class mail or hand delivered to the taxpayer. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). A refund denial will become final if the taxpayer does not request a contested case hearing within 30 days of the date the department determination was sent by first class mail or delivered to the taxpayer. South Carolina Sales and Use Tax Manual, 2019 Edition (April 2019). BNA-SUTN SC 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:6% 2Q:6% 3Q:5% 4Q:TBA In 2019, the South Carolina interest rate on underpayments of tax is 6 percent in the first and second quarters and 5 percent in the third quarter. S.C. Code Ann. §12-54-25(D); South Carolina Information Letter No. IL 19-15 (June 7, 2019); South Carolina Information Letter No. IL 19-6 (Feb. 27, 2019); South Carolina Information Letter No. IL 18-16 (Dec. 11, 2018). BNA-SUTN SC 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:3% 2Q:3% 3Q:2% 4Q:TBA In 2019, the South Carolina interest rate on overpayments of tax is 3 percent in the first and second quarters and 2 percent in the third quarter. S.C. Code Ann. §12-54-25(D); South Carolina Information Letter No. IL 19-15 (June 7, 2019); South Carolina Information Letter No. IL 19-6 (Feb. 27, 2019); South Carolina Information Letter No. IL 18-16 (Dec. 11, 2018). The department is directed to reduce the rate of interest paid on eligible refunds by a total of three percentage points from the underpayment interest rate. South Carolina Information Letter No. IL 19-15 (June 7, 2019); South Carolina Information Letter No. IL 19-6 (Feb. 27, 2019); South Carolina Information Letter No. IL 18-16 (Dec. 11, 2018). BNA-SUTN SC 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No The South Carolina Department of Revenue has not announced a tax amnesty program for 2019. BNA-SUTN SC 31.14.11.
+
+==================================================

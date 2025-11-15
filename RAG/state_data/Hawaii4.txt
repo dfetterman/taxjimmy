@@ -1,0 +1,411 @@
+State: Hawaii
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of aircraft are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. Aircraft means any contrivance used or designed for navigation of or flight in the air. Haw. Regs. §19-31.1-1. “Aircraft”includes airplanes, helicopters, and gliders. Haw. Regs. §19-31.1-1. The leasing or renting of any aircraft or the keeping of any aircraft solely for leasing or renting to lessees or renters using the aircraft for commercial transportation of passengers and goods is exempt from gross receipts and use tax. Haw. Rev. Stat. §238-1; Haw. Rev. Stat. §237-24.3(11). The use or consumption of aircraft when the transfer to, or the acquisition by, the person using or consuming the aircraft, or the rental for the use of the aircraft, has actually been or actually is taxed under the general excise tax, is exempt from use tax. Haw. Rev. Stat. §238-3(f). Temporary Presence Temporary use of property, not of a perishable or quickly consumable nature, such as aircraft, where the property is imported into Hawaii for temporary use and not intended to be and is not kept permanently in Hawaii, is exempt from use tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Depends The use of material, parts, or tools imported or purchased for aircraft repair service are exempt from tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Hawaii's general excise tax is specifically levied on providers of repair and installation services, but does not apply to amounts received from the servicing of aircraft. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. Aircraft service and maintenance means all scheduled and unscheduled tasks performed within an aircraft service and maintenance facility for the inspection, modification, maintenance, and repair of aircraft and related components including, but not limited to, engines, hydraulic and electrical systems. Haw. Rev. Stat. §237-24.9(b). Aircraft service and maintenance facility means a facility for aircraft service and maintenance that is not less than thirty thousand square feet in area, and which may include ancillary space which is integral to the facility, such as parts and inventory warehouse space, tool rooms, and related administrative and employee space. Haw. Rev. Stat. §237-24.9(b). BNA-SUTN HI 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Generally, aircraft parts and materials are subject to tax. However, the use of material, parts, or tools imported or purchased for aircraft service and maintenance, or the construction of an aircraft service and maintenance facility, are exempt from tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are taxable in Hawaii, but amounts received from the servicing and maintenance of aircraft are not subject to tax. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for aircraft fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of aircraft are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. Aircraft means any contrivance used or designed for navigation of or flight in the air. Haw. Regs. §19-31.1-1. “Aircraft” includes airplanes, helicopters, and gliders. Haw. Regs. §19-31.1-1. Exemptions The leasing or renting of any aircraft or the keeping of any aircraft solely for leasing or renting to lessees or renters using the aircraft for commercial transportation of passengers and goods is exempt from gross receipts and use tax. Haw. Rev. Stat. §238-1; Haw. Rev. Stat. §237-24.3(11). Also, the use or consumption of aircraft when the transfer to, or the acquisition by, the person using or consuming the aircraft, or the rental for the use of the aircraft, has actually been or actually is taxed under the general excise tax, is exempt from use tax. Haw. Rev. Stat. §238-3(f). Leases The importation of any aircraft or aircraft engines by a lessee or renter engaged in interstate air, as defined by 49 U.S.C. 40102, is exempt from the use tax. Haw. Rev. Stat. §238-1; Hawaii Letter Ruling No. 2010-32 (Dec. 2, 2010) (leased commercial aircraft used in interstate commerce not subject to state use tax when the aircraft are leased or purchased subject to a conditional sales contract or sold pursuant to installment mortgage financing); Haw. Rev. Stat. §237-24.3(11). Temporary Presence Temporary use of property, not of a perishable or quickly consumable nature, such as aircraft, where the property is imported into Hawaii for previous temporary use and not intended to be and is not kept permanently in Hawaii, is exempt from use tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends The use of materials or parts purchased for aircraft service and maintenance are exempt from tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Hawaii's general excise tax is specifically levied on providers of repair and installation services, but does not apply to amounts received from the servicing and maintenance of aircraft. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. Aircraft service and maintenance means all scheduled and unscheduled tasks performed within an aircraft service and maintenance facility for the inspection, modification, maintenance, and repair of aircraft and related components including, but not limited to, engines, hydraulic and electrical systems. Haw. Rev. Stat. §237-24.9(b). Aircraft service and maintenance facility means a facility for aircraft service and maintenance that is not less than thirty thousand square feet in area, and which may include ancillary space which is integral to the facility, such as parts and inventory warehouse space, tool rooms, and related administrative and employee space. Haw. Rev. Stat. §237-24.9(b). BNA-SUTN HI 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Materials, parts, or other maintenance items purchased for aircraft service and maintenance are exempt from tax. Haw. Rev. Stat. §238-1. BNA-SUTN HI 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are taxable in Hawaii, but amounts received from the servicing and maintenance of aircraft are not subject to tax. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for aircraft fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Sales of motor vehicles are subject to Hawaii's general excise and use taxes. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. Motor vehicle means any vehicle, motor vehicle, or truck, except for tractors, trailers, and amphibious vehicles. Haw. Rev. Stat. §437-1.1. Motor Vehicle Trade-ins Gross income does not include the sale price of an item accepted as partial payment on any new item sold, if the full sale price of the new item is included in the “gross income”or “gross proceeds of sales. Haw. Rev. Stat. §237-3(b). Therefore, the value of a trade-in may be excluded from gross income and gross proceeds of sales. Under the use tax regulations and in the context of motor vehicles, landed cost is reduced by a trade-in allowance. Haw. Regs. §18-238-2(g)(2). Landed cost consists of the invoice price plus freight, insurance, custom duty, and any other charges incident to landing the motor vehicle in Hawaii, less:• trade-in allowance for old car; • any charges for license plates outside Hawaii; and • a depreciation allowance of 10 percent for normal use outside Hawaii, but this rate may be adjusted depending upon the mileage and condition of the car. Haw. Regs. §18-238-2(g)(2). The landed value of the motor vehicle does not include any retail sales tax paid to another state or local government. Haw. Regs. §18-238-2(g)(2). Motor Vehicle Leases Where a motor vehicle is customarily rented or leased for six months or less, it is presumed that the vehicle is subject to the rental motor vehicle surcharge tax. Haw. Regs. §18-251-2-03. See the Excise Tax Navigator at Hawaii 9.2 for more information regarding the rental motor vehicle surcharge tax. Complimentary Vehicles Hawaii imposes rental motor vehicle surcharge tax on motor vehicles provided in conjunction with public relations activities, promotional activities or get-away prize packages. Haw. Regs. §18-251-1-04(b). Example: Bigtime Car Co. participates in a visitor industry project to encourage travel agents to cultivate Hawaii as a vacation destination. Bigtime Car Co. provides six cars for a one-week familiarization tour of the islands. Result: All six of the cars are subject to the rental motor vehicle surcharge tax. Haw. Regs. §18-251-1-04(b). BNA-SUTN HI 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for motor vehicles are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Hawaii general excise tax is specifically levied on providers of repair and installation services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of oil, filters, and other maintenance items for motor vehicles are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Motor vehicle maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for motor vehicle fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Income derived from the lease of property is subject to the state of Hawaii general excise tax. Haw. Rev. Stat. §238-6(a). For more information on taxes on passenger car rentals in Hawaii, see Excise Taxes Navigator, at Hawaii 9.2. BNA-SUTN HI 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Taxable A retailer or wholesaler who withdraws tangible personal property that has been imported into Hawaii from inventory for use is subject to the general 4 percent use tax. Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Sales of tires are subject to Hawaii's general excise tax. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable Sales of motor vehicles are subject to Hawaii's general excise and use taxes. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. Motor vehicle means any vehicle, motor vehicle, or truck, except for tractors, trailers, and amphibious vehicles. Haw. Rev. Stat. §437-1.1. Leases Where a motor vehicle is customarily rented or leased for six months or less, it is presumed that the vehicle is subject to the rental motor vehicle surcharge tax. Haw. Regs. §18-251-2-03. See the Excise Tax Navigator at Hawaii 9.2 for more information regarding the rental motor vehicle surcharge tax. BNA-SUTN HI 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for motor vehicles are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Taxable Hawaii general excise tax is specifically levied on providers of repair and installation services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of oil, filters, and other maintenance items for motor vehicles are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Taxable Motor vehicle maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for motor vehicle fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Sales of tires are subject to Hawaii's general excise tax. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of water vessels are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13. Vessel means any watercraft or other artificial contrivance of whatever description which is used, or capable of being used, or intended to be used, as a means of transportation by water. Haw. Rev. Stat. §271G-5(8). The following are exempt from Hawaii's use tax:• the use of goods imported into Hawaii by the owner of a vessel or vessels engaged in interstate or foreign commerce and held for and used only as ship stores for the vessels; • the use of oceangoing vehicles for passengers or passenger and goods transportation from one point to another within Hawaii as a public utility; and • the use or consumption of vessels when the transfer to, or the acquisition by, the person using or consuming the vessel, or the rental for the use of the vessel, has actually been or actually is taxed under chapter 237. Haw. Rev. Stat. §238-3(f). Commercial fishing vessels constructed with state funds prior to July 1, 1969 are exempt from Hawaii's use tax. Haw. Rev. Stat. §238-3(h). BNA-SUTN HI 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for water vessels are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Taxable The Hawaii tax is specifically levied on providers of repair and installation services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010)(proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). BNA-SUTN HI 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of oil, filters, and other maintenance items for water vessels are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010) (proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). BNA-SUTN HI 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for water vessel fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of water vessels are subject to the Hawaii general excise tax unless an exemption applies. Haw. Rev. Stat. §237-13. Vessel means any watercraft or other artificial contrivance of whatever description which is used, or capable of being used, or intended to be used, as a means of transportation by water. Haw. Rev. Stat. §271G-5(8). The following are exempt from Hawaii's use tax:• the use of goods imported into Hawaii by the owner of a vessel or vessels engaged in interstate or foreign commerce and held for and used only as ship stores for the vessels; • the use of oceangoing vehicles for passengers or passenger and goods transportation from one point to another within Hawaii as a public utility; and • the use or consumption of vessels when the transfer to, or the acquisition by, the person using or consuming the vessel, or the rental for the use of the vessel, has actually been or actually is taxed under chapter 237. Haw. Rev. Stat. §238-3(f). Commercial fishing vessels constructed with state funds prior to July 1, 1969 are exempt from Hawaii's use tax. Haw. Rev. Stat. §238-3(h). BNA-SUTN HI 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for water vessels are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Taxable The Hawaii tax is specifically levied on providers of repair and installation services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010)(proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). BNA-SUTN HI 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of oil, filters, and other maintenance items for water vessels are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Taxable Maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010)(proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). BNA-SUTN HI 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for water vessel fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of commercial fishing vessels are subject to the Hawaii general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for commercial fishing vessels are subject to the Hawaii general excise or use tax. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Taxable The Hawaii tax is specifically levied on providers of repair and installation services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010)(proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). BNA-SUTN HI 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of oil, filters, and other maintenance items for water vessels are subject to the Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Taxable Maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. However, shipbuilding and ship repairs rendered to federally owned surface vessels or surface vessels engaged in interstate or international trade are exempt. Haw. Rev. Stat. §237-28.1; see also Hawaii Letter Ruling No. 2010-03 (March 3, 2010)(proceeds received by a contractor for repair services performed on a vessel donated to a nonprofit museum under the Navy Ship Donation Program are exempt from general excise tax because the Navy retained substantial rights in the ship and, therefore, there was not a complete transfer of the ship to the museum). BNA-SUTN HI 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for water vessel fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. BNA-SUTN HI 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable The gross receipts from the sales of nets and other commercial fishing equipment are subject to general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable The gross receipts from the sales of tools and other commercial fishing supplies are subject to general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The gross receipts from the sales of rolling are subject to the Hawaii general excise or use taxes. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable The gross receipts from the sales of repair and replacement parts for rolling stock are subject to Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Taxable The Hawaii tax is specifically levied on providers of repair and installation services. See Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable The gross receipts from the sales of filter, oil, and other maintenance items for rolling stock are subject to Hawaii general excise or use taxes unless an exemption applies. Haw. Rev. Stat. §237-13(2); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Taxable Maintenance services are taxable in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-24.9(a); Haw. Rev. Stat. §238-2. BNA-SUTN HI 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Taxable Hawaii statutes and regulations do not provide use-based exemptions for rolling stock fuel. Haw. Rev. Stat. §237-24 et seq.; Haw. Rev. Stat. §238-2; Haw. Regs. §18-237-13.01 et seq. However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Depends General excise tax does not apply to transportation services provided by airlines. Hawaii Announcement No. 2001-21 (Nov. 16, 2001). However, transportation services by motor carriers, common carriers by water, and contract carriers other than motor carriers are subject to the general excise tax as service businesses. Haw. Rev. Stat. §237-7; Haw. Rev. Stat. §237-18(h). BNA-SUTN HI 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Taxable Transportation services by contract carriers other than motor carriers are subject to the general excise tax as service businesses. Haw. Rev. Stat. §237-7; Haw. Rev. Stat. §237-18(h). BNA-SUTN HI 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Taxable Transportation services by common carriers by water are subject to the general excise tax as service businesses. Haw. Rev. Stat. §237-7; Haw. Rev. Stat. §237-18(h). BNA-SUTN HI 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Taxable Bus transportation services are subject to the general excise tax. Haw. Rev. Stat. §237-7; Haw. Rev. Stat. §237-18(h). BNA-SUTN HI 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable Hawaii's general excise tax does not apply to transit services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-8.6(d). BNA-SUTN HI 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Taxable Transportation services by limousine carriers are subject to the general excise tax as service businesses. Haw. Rev. Stat. §237-7; Haw. Rev. Stat. §237-18(h). BNA-SUTN HI 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Depends Agricultural Commodities Transportation Amounts received from the loading, transportation, and unloading of agricultural commodities shipped for a producer or produce dealer on one island of Hawaii to a person or organization on another island of Hawaii are not subject to Hawaii's general excise tax. Haw. Rev. Stat. §237-24.3(1). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). Loading and Unloading of Cargo The gross income or gross receipts received from loading or unloading cargo from ships, barges, vessels, or aircraft, whether or not the carriers travel between Hawaii and other states or countries or between the islands of Hawaii is not subject to Hawaii's general excise tax. Haw. Rev. Stat. §237-24.3(4)(A). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). Amounts received from the following are also excluded from the general excise tax:• the transportation of pilots or governmental officials to ships, barges, or vessels offshore; • rigging gear; • checking freight and similar services; • standby charges; and • the use of moorings and running mooring lines. Haw. Rev. Stat. §237-24.3(4)(C). Tugboat Services Tugboat services are exempt from the general excise tax. Haw. Rev. Stat. §237-24.3(4)(B). The exemption includes pilotage fees performed within the state and the towage of ships, barges, or vessels in and out of state harbors, or from one pier to another. Haw. Rev. Stat. §237-24.3(4)(B). This exemption was temporarily suspended from July 1, 2011 through June 30, 2013. 2011 Haw. S.B. 754; Hawaii Announcement No. 2013-04 (June 5, 2013). BNA-SUTN HI 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Taxable There is no statutory or regulatory exemption for moving services; therefore, the general excise tax applies to moving services. See Haw. Rev. Stat. §237-13. BNA-SUTN HI 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable The state of Hawaii general excise tax does not apply to parking. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-8.6(d). The county surcharge applies to the same base as the state general excise tax. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §237-8.6(d). Therefore, the county surcharge does not apply to parking. For more information on parking taxes and other storage fees in Hawaii, see Excise Taxes Navigator, at Hawaii 9.6. BNA-SUTN HI 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Taxable Tangible property and services are subject to the general excise and use tax, unless there is an exemption from the tax. There is no statutory or regulatory exemption for boat slip and mooring fees therefore, the general excise tax and use tax apply to boat slip and mooring fees. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 BNA-SUTN HI 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable Hawaii does not have an enumerated exemption for towing services. Gross income received by persons engaging in these services within Hawaii is subject to the general excise tax. Haw. Rev. Stat. §237-13(6); Haw. Regs. §18-237-13-06.05(b)(2). BNA-SUTN HI 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Taxable Hawaii does not have an enumerated exemption for car wash services. Gross income received by persons engaging in these services within Hawaii is subject to the general excise tax. Haw. Rev. Stat. §237-13(6); Haw. Regs. §18-237-13-06.05(b)(2). BNA-SUTN HI 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Taxable Hawaii does not have an enumerated exemption for car detailing services. Gross income received by persons engaging in these services within Hawaii is subject to the general excise tax. Haw. Rev. Stat. §237-13(6); Haw. Regs. §18-237-13-06.05(b)(2). BNA-SUTN HI 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Taxable Tangible property and services are subject to the general excise and use tax, unless specifically exempted, therefore other transportation property and services not specifically exempted are subject to tax in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 BNA-SUTN HI 29.15.
+
+==================================================

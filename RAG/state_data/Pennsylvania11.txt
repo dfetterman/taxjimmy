@@ -1,0 +1,81 @@
+State: Pennsylvania
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+Yes A state sales tax is imposed upon each separate sale at retail of tangible personal property or enumerated services within the Commonwealth of Pennsylvania. 72 Pa. Stat. §7202(a). The tax must be collected by the vendor from the purchaser and remitted to the Commonwealth. If a purchaser fails to pay the tax to the vendor, the Commonwealth may collect the tax from either the purchaser or the vendor. 72 Pa. Stat. §7202(a); 61 Pa. Code §31.2(5). Pennsylvania does not impose sales tax on sales of intangible property. See, e.g., Pennsylvania Board of Finance and Revenue Decision No. 1416754 (March 1, 2016) (copyright clearances are substantially intangible in nature). BNA-SUTN PA 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+Yes A state use tax is imposed upon tangible personal property purchased at retail and used within the Commonwealth of Pennsylvania. This tax also applies to certain enumerated services. 72 Pa. Stat. §7202(b). This tax generally must be paid to the Commonwealth by the person using such property or services within Pennsylvania. However, the person using such property or services is not liable for the payment of use tax to the Commonwealth with respect to property or services on which the purchaser has already paid Pennsylvania sales or use tax to the vendor of the property or services. 72 Pa. Stat. §7202(b); Pennsylvania Board of Finance and Revenue Decision No. 1509665 (Aug. 5, 2016) (use tax is incurred by a purchaser on taxable goods and services if it is not paid to the vendor). BNA-SUTN PA 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+Local Tax Authorized Certain local districts are also authorized to impose additional local sales and use taxes; namely, Philadelphia as a first class city and Allegheny County as a second class county. 53 Pa. Stat. §6924.301.1(a). The local tax is in addition to the state tax; furthermore, there are no transactions that are only subject to local tax. 61 Pa. Code §60.16(a)(11). First Class Cities (Philadelphia) A city of the first class is a city having a population of one million or more. 53 Pa. Stat. §101. The local sales and use tax enacted by a first class city is imposed on the sale of tangible personal property and services that are subject to the Commonwealth's sales and use tax. 53 Pa. Stat. §12720.503(a); 53 Pa. Stat. §12720.503(b); 53 Pa. Stat. §12720.506(1); 61 Pa. Code §60.16(b)(2); see also Philadelphia Code §19-2701(1); and Philadelphia Code §19-2701(2). The sales tax rate that Philadelphia may impose is 2 percent. 53 Pa. Stat. §6924.301.1(a); 2013 Pa. H.B. 465; Pennsylvania General Sales Tax Information. All provisions that apply to the Commonwealth's sales and use tax, except for situsing rules, apply to the local tax. 53 Pa. Stat. §12720.502. For more information on the local sourcing rules for first class cities, see the Sales and Use Tax Navigator, at Pennsylvania 4.1.4. For more information on local jurisdictions and taxability distinctions, see the Sales and Use Tax Navigator, at Pennsylvania 9.4. Second Class Counties (Allegheny County) The second class counties are counties having a population of at least 800,000 and less than 1,500,000. 16 Pa. Stat. §210(2). The local sales and use tax enacted by a second class county is imposed on the sale or use of tangible personal property and services that are subject to the Commonwealth's sales and use tax. 16 Pa. Stat. §6152-B(a); 16 Pa. Stat. §6152-B(b); see Allegheny County Code §475-14(A). The sales tax rate that a second class county may impose is 1 percent. 16 Pa. Stat. §6152-B(b); Pennsylvania General Sales Tax Information. Furthermore, all provisions that apply to the Commonwealth's sales and use tax, except for situsing rules, apply to the local tax. 16 Pa. Stat. §6151-B;Allegheny County Code §475-14(A). For more information on the local sourcing rules for second class counties, see the Sales and Use Tax Navigator, at Pennsylvania 4.1.4. For more information on local jurisdictions and taxability distinctions, see the Sales and Use Tax Navigator, at Pennsylvania 9.4. BNA-SUTN PA 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes Pennsylvania does not impose sales and use tax on hotel rentals; instead, it imposes a hotel occupancy excise tax. 72 Pa. Stat. §7202; 72 Pa. Stat. §7209; 72 Pa. Stat. §7210. For more information about excise taxes in Pennsylvania, see the Excise Tax Navigator, beginning at Pennsylvania 1.1. BNA-SUTN PA 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+Est. 1954 The Pennsylvania sales and use tax was first imposed in 1954 at the rate of 1 percent. The rate increased several times from 1954 to 1963 and was increased to 6 percent in 1968. The sales and use tax rate has remained at 6 percent since 1968. Pennsylvania Tax Compendium -Dec. 2014. Pennsylvania has historically imposed tax on services related to the repair or maintenance of tangible personal property such as automobile repairs and general repair and installation services. In the fall of 1991, the Pennsylvania sales and use tax was extended to several additional services. 72 Pa. Stat. §7201(k); 61 Pa. Code §31.1(4). BNA-SUTN PA 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+Yes On June 18, 2016, Pennsylvania reissued its notice of taxable and exempt property, Pennsylvania Informational Notice - Taxable and Exempt Property 16-1028. The reissued notice now clarifies that ‘canned software' is taxable, regardless of its delivery method. Pennsylvania Informational Notice - Taxable and Exempt Property 16-1028. The notice also changes the Pennsylvania Department of Revenue's stance on the taxability of wetting solutions for contact lenses, which are now considered exempt from sales tax. Pennsylvania Informational Notice - Taxable and Exempt Property 16-1028. On Feb. 9, 2017, the Pennsylvania Department of Revenue issued Letter Ruling No. SUT-17-001, stating that support to canned computer software and other digital property is subject to sales and use tax. Pennsylvania Letter Ruling No. SUT-17-001 (Revised April 4, 2017). On April 4, 2017, the Pennsylvania Department of Revenue issued a revised version of Letter Ruling No. SUT-17-001, specifying that software training is not included in the definition of “support” services. The department considers “support”to mean the providing of advice or guidance concerning otherwise taxable digital or electronic tangible personal property. This includes, but is not limited to what is commonly referred to as help desk support or call center support. Pennsylvania Letter Ruling No. SUT-17-001 (Revised April 4, 2017). BNA-SUTN PA 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Defined “Sale at retail” includes any transfer, for a consideration, of the ownership, custody or possession of tangible personal property, including the grant of a license to use or consume, whether such transfer be absolute or conditional and by whatsoever means the transfer is effected. Moreover, the provision of certain enumerated services are also considered to be sales at retail and subject to tax. 72 Pa. Stat. §7201(k). “Sale at retail”does not include any transfer of tangible personal property or rendition of services for the purpose of resale. 72 Pa. Stat. §7201(k)(8)(i). However, the burden of proof is on the taxpayer to establish that the property in question was purchased for the purpose of resale. Pennsylvania Board of Finance and Revenue Decision No. 1511982 (Aug. 31, 2016); Pennsylvania Board of Finance and Revenue Decision No. 1516138 (Aug. 26, 2016). BNA-SUTN PA 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Not Defined Pennsylvania does not define “lease” for purposes of its sales and use tax. See 72 Pa. Stat. §7201, et seq. BNA-SUTN PA 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Defined Pennsylvania defines “use” to mean the exercise of any right or power incidental to the ownership, custody or possession of tangible personal property and includes, but is not limited to transportation, storage or consumption of tangible personal property. 72 Pa. Stat. §7201(o). Also within the meaning of “use” is the attainment by a purchaser of certain enumerated services. 72 Pa. Stat. §7201(o). The use of tangible personal property purchased at retail on which certain services have been performed is deemed to be a use of the services so performed. 72 Pa. Stat. §7201(o)(7). Use tax is not imposed on tangible personal property or those services to tangible personal property described in 72 Pa. Stat. §7201(k)(2), (k)(3), and (k)(4) if such tangible personal property or services are purchased for resale. 72 Pa. Stat. §7201(k)(8)(i); 72 Pa. Stat. §7201(f)(1) to 72 Pa. Stat. §7201(f)(4); 72 Pa. Stat. §7201(k)(2) to 72 Pa. Stat. §7201(k)(4). BNA-SUTN PA 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined In Pennsylvania, “tangible personal property” means corporeal personal property. 72 Pa. Stat. §7201(m); 61 Pa. Code §31.1(3). Tangible personal property includes: • goods; • wares; • merchandise; • steam; • natural, manufactured, and bottled gas for non-residential use; • electricity for non-residential use; • prepaid telecommunications; • premium cable or premium video programming service; • spirituous or vinous liquor and malt or brewed beverages and soft drinks; • interstate telecommunications service originating or terminating in the Commonwealth and charged to a service address in the Commonwealth; and • intrastate telecommunications service, with the exception of: o subscriber line charges and basic local telephone service for residential use, and o charges for telephone calls paid for by inserting money into a telephone accepting direct deposits of money to operate, provided further, the service address of any intrastate telecommunications service in the Commonwealth, regardless of how or where billed or paid. In the case of any such interstate or intrastate telecommunications service, any charge paid through a credit or payment mechanism which does not relate to a service address, such as a bank, travel, credit or debit card, but not including prepaid telecommunications, is deemed attributable to the address of origination of the telecommunications service. 72 Pa. Stat. §7201(m); 61 Pa. Code §31.1(3). BNA-SUTN PA 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Not Defined Pennsylvania does not define “intangible property.” See 72 Pa. Stat. §7201, et seq. BNA-SUTN PA 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Defined A “vendor”is any person maintaining a place of business in the Commonwealth, selling or leasing tangible personal property, or rendering services, the sale or use of which is subject to the tax. See 72 Pa. Stat. §7201(p). “Vendor” does not include any employee who, in the ordinary scope of employment, renders services to his employer in exchange for wages and salaries. See 72 Pa. Stat. §7201(p). Every person, association, fiduciary, partnership, corporation, or other entity who maintains a place of business in Pennsylvania and who effects the sale at retail or delivery to Pennsylvania locations of tangible personal property or taxable services is required to obtain a sales tax license and accordingly collect and remit applicable sales tax. 61 Pa. Code §34.1(a); Pennsylvania Sales, Use, and Hotel Occupancy Tax Form REV-717. BNA-SUTN PA 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Defined A “purchaser”is any person who acquires, for a consideration, the ownership, custody or possession by sale, lease or otherwise, of tangible personal property, or who obtains services in exchange for a purchase price but not including an employer who obtains services from his employees in exchange for wages or salaries when such services are rendered in the ordinary scope of their employment. 72 Pa. Stat. §7201(h). BNA-SUTN PA 1.4.7.
+
+==================================================

@@ -1,0 +1,165 @@
+State: Hawaii
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Taxable There is no statutory or regulatory exemption for biodiesel, therefore the general excise tax and use tax apply to sales of biodiesel. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Taxable There is no statutory or regulatory exemption for butane, therefore the general excise tax and use tax apply to sales of butane. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. BNA-SUTN HI 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Taxable There is no statutory or regulatory exemption for compressed natural gas, therefore the general excise tax and use tax apply to sales of compressed natural gas. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2. BNA-SUTN HI 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Taxable There is no statutory or regulatory exemption for undyed diesel, therefore the general excise tax and use tax apply to sales of undyed diesel. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable There is no statutory or regulatory exemption for dyed diesel, therefore the general excise tax and use tax apply to sales of dyed diesel. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Taxable There is no statutory or regulatory exemption for gasoline, therefore the general excise tax and use tax apply to sales of gasoline. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Taxable There is no statutory or regulatory exemption for gasohol, therefore the general excise tax and use tax apply to sales of gasohol. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Taxable There is no statutory or regulatory exemption for kerosene, therefore the general excise tax and use tax apply to sales of kerosene. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Taxable There is no statutory or regulatory exemption for liquefied natural gas, therefore the general excise tax and use tax apply to sales of liquefied natural gas. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Taxable There is no statutory or regulatory exemption for propane, therefore the general excise tax and use tax apply to sales of propane. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Taxable There is no statutory or regulatory exemption for heating oil, therefore the general excise tax and use tax apply to sales of heating oil. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Taxable Tangible personal property is subject to the general excise and use tax, unless specifically exempt. Therefore, other fuel not specifically exempted is subject to tax in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, amounts collected by distributors as fuel taxes on “liquid fuel” imposed by chapter 243 (Fuel Tax Law) and the amounts collected by such distributors as a fuel tax imposed by any act of the U.S. Congress are excluded from the general excise tax and use tax base. Haw. Rev. Stat. §237-24(8). BNA-SUTN HI 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends Sales of electric power to a public utility company owned and operated by the state, or any county or other political subdivision thereof for resale to the public are subject to tax as a tax on the business of a producer, at the rate assessed producers. Haw. Rev. Stat. §237-13.5 Public utilities subject to the public service company tax and those owned and operated by Hawaii, its counties, or other political subdivisions are exempt from the general excise tax. Haw. Rev. Stat. §237-23(a). Public utilities do not include property owners that sell electricity generated by renewable energy systems located on their property to their tenant or to electric utilities. Such sales of electricity are subject to general excise tax. Haw. Rev. Stat. §269-1, as amended by 2013 Haw. S.B. 19, effective Jul. 3, 2013; Hawaii Announcement No. 2013-23. For more information on taxes on public utilities in Hawaii, see Excise Taxes Navigator, at Hawaii 11.1. BNA-SUTN HI 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Taxable Tangible and intangible property are subject to the general excise and use tax, unless there is an exemption from the tax. There is no statutory or regulatory exemption for natural gas; therefore, the general excise tax and use tax apply to natural gas. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, sales to public service companies are exempt if they are subject to Chapter 239 of the Public Service Company Tax. Haw. Rev. Stat. §237-23(a). BNA-SUTN HI 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Taxable Tangible and intangible property are subject to the general excise and use tax, unless there is an exemption from the tax. There is no statutory or regulatory exemption for steam; therefore, the general excise tax and use tax apply to steam. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 BNA-SUTN HI 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Taxable Tangible and intangible property and services are subject to the general excise and use tax, unless there is an exemption from the tax. There is no statutory or regulatory exemption for water and sewer services; therefore, the general excise tax and use tax apply to water and sewer services. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 However, sales to public service companies are exempt if they are subject to Chapter 239 of the Public Service Company Tax. Haw. Rev. Stat. §237-23(a). BNA-SUTN HI 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+Taxable Tangible and intangible property and services are subject to the general excise and use tax, unless specifically exempted, therefore other utilities not specifically exempted are subject to tax in Hawaii. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 BNA-SUTN HI 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Taxable Hawaii does not have an enumerated exemption for mining activities, or equipment used in mining activities. Gross income received by persons engaging in these activities within Hawaii is subject to the general excise tax. Haw. Rev. Stat. §237-13(6); Haw. Regs. §18-237-13-06.05(b)(2). BNA-SUTN HI 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Hawaii does not have an enumerated exemption for oil extraction equipment. Thus, sales of such items are subject to general excise tax. Haw. Rev. Stat. §237-13(6); Haw. Regs. §18-237-13-06.05(b)(2). BNA-SUTN HI 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Taxable Services to oil wells are subject to general excise tax. Haw. Rev. Stat. §237-27(b). BNA-SUTN HI 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Exempt Refiners of petroleum products are exempt from the general excise tax on petroleum products resulting from the refiner's business, provided that the petroleum products will be further refined by another refiner who will be liable for the tax on the end products. Haw. Rev. Stat. §237-27(b). “Petroleum products” means petroleum;any distillate, fraction, or derivative of petroleum; natural gas or its components; gas manufactured from a petroleum product; and any product derived from the gas, such as benzene, xylene, toluene, acetylene, tars, components of tars, and ammonia. Haw. Rev. Stat. §237-27(a). BNA-SUTN HI 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Depends Timber production equipment is subject to the general excise tax. However, other materials or commodities essential to the planting, growth, nurturing, and production of agricultural products, including timber, are subject to tax at the wholesale rate of 0.5 percent. Haw. Regs. §18-237-4(a)(3). Hawaii defines “agricultural producer” to include producers of timber. Haw. Regs. §18-237-4. BNA-SUTN HI 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+No Guidance Hawaii does not discuss the taxability of other natural resource extraction activities. Haw. Rev. Stat. §237-13; Haw. Rev. Stat. §238-2 BNA-SUTN HI 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Exempt Amounts received by an electric generating facility arising from a transaction involving a sale and leaseback entered into by a political subdivision of Hawaii where the facility is owned or under construction by the subdivision prior to May 10, 1988, are exempt from the general excise tax in Hawaii. Haw. Rev. Stat. §237-27.6(a). The amounts received must:• be received by an operator of a facility under an operating contract with a political subdivision where the: (A) operator, or its successor, entered into an operating contract prior to May 10, 1988; (B) operator enters into a lease of the facility from the owner at a time that coincides with the time the owner and the political subdivision entering into a sale and leaseback transaction; and (C) amounts are used by the operator to make rental payments to the owner; Haw. Rev. Stat. §237-27.6(b)(1). • be received as rental payments by the owner of the facility from the operator of the facility; Haw. Rev. Stat. §237-27.6(b)(2). • not exceed the payments made by the owner of the facility under the sale and leaseback transaction to the political subdivision; Haw. Rev. Stat. §237-27.6(b)(3). and • not exceed debt service costs incurred by the political subdivision for the construction of the facility. Haw. Rev. Stat. §237-27.6(b)(4). Electric generating facility means a facility for the generation of electric energy, the construction of which has been financed pursuant to Haw. Rev. Stat. §47-4 and constitutes an undertaking as defined in section Haw. Rev. Stat. §49-1 Haw. Rev. Stat. §237-27.6(c). . BNA-SUTN HI 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Taxable Hawaii does not have an enumerated exemption for alternative energy equipment. Thus, sales of such items are subject to the general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Taxable Hawaii does not have an enumerated exemption for energy conservation equipment. Thus, sales of such items are subject to the general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Taxable Hawaii does not have an enumerated exemption for wastewater treatment equipment. Thus, sales of such items are subject to the general excise tax. Haw. Rev. Stat. §237-13. BNA-SUTN HI 30.7.
+
+==================================================

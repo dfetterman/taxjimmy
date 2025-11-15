@@ -1,0 +1,33 @@
+State: Colorado
+
+
+
+Topic: Overview: Taxation of Property and Services Taxation of Property
+
+Taxable All tangible personal property sold or used in Colorado is subject to Colorado sales and use tax unless a specific exemption applies. Colo. Rev. Stat. §39-26-104(1)(a); Colo. Rev. Stat. §39-26-202(1). BNA-SUTN CO 9.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Taxation of Services
+
+Nontaxable In Colorado only certain enumerated services are subject to Colorado sales and use tax. Colo. Rev. Stat. §39-26-104(1)(a); Colo. Rev. Stat. §39-26-202(1). BNA-SUTN CO 9.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Mixed Transactions and the True Object Test
+
+True Object Test Colorado uses the “true object” test to determine the taxability of transactions involving the transfer of tangible personal property in connection with the provision of nontaxable services. 39 Colo. Code Regs. §26-SR-40. If a transaction is regarded as a sale of tangible personal property, as opposed to the provision of a service, tax applies to the gross receipts, without any deduction for labor or other expense of producing the property. 39 Colo. Code Regs. §26-SR-40. Before applying this test, the threshold issue that must be addressed is whether the tangible personal property and nontaxable services are “meaningfully separable.” Noble Energy Inc. v. Colorado Dept. of Rev., 232 P.3d 293 (Colo. Ct. App. 2010). To determine whether property and services are meaningfully separable, courts focus on whether the costs of the tangible personal property can be separated from the amounts charged for the services and whether the property and services are of significant value to the customer independent of each other. See, e.g., Boulder, Colo. v. Leanin' Tree, Inc., 72 P.3d 361 (Colo. 2003); Colorado General Information Letter GIL-12-014 (Dec. 31, 2012); Colorado Private Letter Ruling PLR-11-007 (Dec. 20, 2011). To be meaningfully separable, the amounts allocable to the tangible personal property and services need not actually be separately stated on an invoice or other record of sale. If the property and services are determined to be meaningfully separable, tax is imposed on the separable charge for the tangible personal property. If not, the true object test is applied to determine whether the transaction constitutes the sale of a nontaxable service or the sale of taxable tangible personal property. The courts apply a multi-factor test in making this determination, analyzing the following factors: the value of the tangible personal property compared to the value of the service; whether there was an alternative method of transfer;the length of time any intangible property provided retains its value;constraints on the purchaser's ability to use the tangible personal property; the disposition of the tangible personal property after it has yielded its intangible component; whether the tangible personal property is the finished product sought by the purchaser; and the skill and expertise used to create the tangible personal property. Noble Energy Inc. v. Colorado Dept. of Rev., 232 P.3d 293 (Colo. Ct. App. 2010). If the true object of the transaction is found to be the acquisition of the tangible personal property, then the entire amount charged is subject to tax. If the true object is determined to be the nontaxable service rendered, the entire amount paid is exempt from tax. In determining the true object of the transaction, the test is viewed from the buyer's perspective. 39 Colo. Code Regs. §26-SR-40; Noble Energy Inc. v. Colorado Dept. of Rev., 232 P.3d 293 (Colo. Ct. App. 2010); Colorado General Information Letter GIL-12-011 (Nov. 6, 2012); Colorado General Information Letter GIL-14-001 (Nov. 6, 2012) (finding that the true object of a transaction was the service of producing promotional videos and not the sale of the DVD or thumb drive). BNA-SUTN CO 9.3.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Bundled Transactions
+
+Taxable Colorado vendors are responsible for the payment of tax on the gross sales of tangible personal property made by the vendor during a taxable period. Colo. Rev. Stat. §39-26-106(2)(a); Colo. Rev. Stat. §39-26-105(1). A vendor's gross sales include all sales of tangible personal property to which a specific exemption does not apply. Colo. Rev. Stat. §39-26-106(2)(a); Colo. Rev. Stat. §39-26-105(1); Colo. Rev. Stat. §39-26-105(5). The burden of proving that the sale of any particular item of tangible personal property is exempt from taxation lies on the vendor and is subject to any reasonable requirements of proof prescribed by the Executive Director of the Department of Revenue. Colo. Rev. Stat. §39-26-105(1)(c). Accordingly, where a vendor sells taxable and non-taxable tangible personal property in a bundled transaction for a single non-itemized price, a heavy burden lies on the vendor to prove that a portion of the amount paid is not taxable. In most cases the vendor will likely be unable to provide such proof to the satisfaction of the Department of Revenue. Consequently, the entire amount paid for property in a bundled transaction will generally be subject to tax. However, Colorado recognizes a “Separate Statement Rule” that allows the calculation and payment of taxes on only the taxable portion of bundled sales if the price of the individual items in the bundled transaction is separately state. Typically, this separation would be enough to overcome the burden of proof. Additionally, the Colorado Department of Revenue has promoted an exception to the Separate Statement Rule when the taxable portion is de minimis. If the taxable items in a bundled transaction comprise 10 percent or less of the total retail sales price, the retailer may pay any applicable use tax on the de minimis amount, and exempt fully the sales tax on the bundle. Colorado Private Letter Ruling PLR-12-006 (Dec. 12, 2012). BNA-SUTN CO 9.3.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Local Jurisdictions, Taxability Distinctions
+
+Differs from State Home rule counties and cities may impose tax on transactions that the state does not, such as situations where the true object of the transaction is a nontaxable service under the state sales and use tax. Colo. Const. art. XX, § 6; Colorado Private Letter Ruling PLR-13-005. BNA-SUTN CO 9.4.
+
+==================================================

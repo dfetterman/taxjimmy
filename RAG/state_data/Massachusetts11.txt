@@ -1,0 +1,81 @@
+State: Massachusetts
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+Yes Massachusetts imposes a sales tax on retails sales of tangible personal property or services performed in the Commonwealth. Mass. Gen. L. ch. 64H, §2. BNA-SUTN MA 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+Yes The Commonwealth also imposes a use tax upon the use, consumption, or storage within the commonwealth of tangible personal property or services. Mass. Gen. L. ch. 64I, §2. Massachusetts has a rebuttable presumption that “tangible personal property shipped or brought to the commonwealth by the purchaser was purchased from a retailer for storage, use, or other consumption in the commonwealth, provided that such property was shipped or brought into the commonwealth within six months after its purchase.” Mass. Gen. L. ch. 64I, §8(f). BNA-SUTN MA 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+No Local Tax The Massachusetts legislature has not passed legislation authorizing Massachusetts municipalities to impose local sales and use tax. See generally Mass. Gen. L. ch. 64D, §1. However, Massachusetts law provides for various local excise taxes, including the option for cities and towns to impose a local sales tax upon the sale of restaurant meals, so long as the meal originates within the city or town. The option provides that the tax may be imposed at a rate of 0.75 percent of the gross receipts derived from the sale of restaurant meals. The meals vendor is responsible for collecting, reporting, and remitting the tax to the Commissioner of Revenue. The local options meals tax is to be paid to the Commissioner at the same time and in the same manner as the sales tax. Mass. Gen. L. ch. 64L, §2; see Massachusetts Dept. of Rev., City & Town (Nov. 1, 2018) (discussing various local option taxes available to municipalities). BNA-SUTN MA 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes Excise Taxes The commonwealth empowers municipal governments to impose various excise taxes. Mass. Gen. L. ch. 64G, §1(g); see Massachusetts Dept. of Rev., City & Town (Nov. 1, 2018) (discussing various local option taxes available to municipalities). Massachusetts imposes several excise taxes, including but not limited to:• an alcoholic beverage tax; Mass. Gen. L. ch. 138, §21. • a cigarette and tobacco tax; Mass. Gen. L. ch. 64C, §1 through Mass. Gen. L. ch. 64C, §28. and • a room occupancy tax. Mass. Gen. L. ch. 64G, §1 through Mass. Gen. L. ch. 64G, §12. For more information about Massachusetts' excise taxes, see the Excise Tax Navigator, beginning at Massachusetts 1.1. Replacement Taxes The Streamlined Sales and Use Tax Agreement prohibits member states from imposing a “prohibited replacement tax” which is a tax outside of the sales and use tax that is imposed on products defined in the Agreement. Generally, the Streamlined Sales Tax Governing Board will make a finding regarding whether or not a member state has imposed a replacement tax. Massachusetts is not a member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales and Use Tax Governing Board, State Info; Streamlined Sales and Use Tax Agreement as amended through December 16, 2016. BNA-SUTN MA 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+Est. 1966 Massachusetts enacted its first sales and use tax in 1966 at the rate of 5 percent. Massachusetts Sales Tax Description. The rate was increased to 6.25 percent in 2009. Massachusetts Sales Tax Description. BNA-SUTN MA 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+Accelerated Sales Tax Remittance On Oct. 31, 2017, the Massachusetts Department of Revenue issued an Accelerated Sales Tax Feasibility Study that analyzed and assessed the impact of implementing an accelerated sales tax remittance program. Massachusetts Dept. of Rev., Accelerated Sales Tax Feasibility Study (Oct. 31, 2017). The study assesses the technical and compliance feasibility of implementing an accelerated sales tax remittance program(ASTR). The 13-page report concludes that the complex nature of the effort to develop and implement ASTR, particularly for stakeholders like vendors and transaction processors, “within acceptable levels of cost and risk mitigation” in time to meet the state legislature's deadline of June 2018 is not feasible. However, the study did not rule out the feasibility of implementing ASTR over a longer time frame, and found that ASTR is achievable with existing technology. Massachusetts Dept. of Rev., Accelerated Sales Tax Feasibility Study (Oct. 31, 2017). Sales Tax Holiday Reinstated Massachusetts held an annual sales tax holiday during one weekend in August from 2010 to 2015, but did not authorize the holiday in 2016 or 2017. 2015 Mass. H.B. 3659 (authorizing a 2015 sales tax holiday). The sales tax holiday has been reinstated for 2018 and 2019, and will be held over the course of a two-day period in August. Mass. Gen. L. ch. 64H, §6A, as added by 2018 Mass. H.B. 4640, effective July 1, 2019; 2018 Mass. H.B. 4732. From 2010 to 2015, and again in 2018, for one weekend in August, in each of those years, almost all retail items priced below $2,500 were exempt from sales tax. 2018 Mass. H.B. 4732; 2015 Mass. H.B. 3659 (authorizing a 2015 sales tax holiday); Massachusetts Technical Information Release TIR 15-7 (Aug. 6, 2015) (explaining the 2015 state tax holiday). For more information about sales tax holidays, see the Sales and Use Tax Navigator, at Massachusetts 7.14. BNA-SUTN MA 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Defined “Sale at retail” or “retail sale” is defined as a sale of services or tangible personal property or both for any purpose other than resale in the regular course of business. Mass. Gen. L. ch. 64H, §1. The delivery in the commonwealth of tangible personal property if the delivery is to a consumer or to a person for redelivery to a consumer is a retail sale in the commonwealth by the person making the delivery. The retailer will include the retail selling price of the property as part of gross receipts. Mass. Gen. L. ch. 64H, §1. The definition of a “sale”and “selling” includes: • any transfer of title or possession, or both, exchange, barter, lease, rental, conditional or otherwise, of tangible personal property for a consideration, in any manner or by any means whatsoever; • the producing, fabricating, processing, printing, or imprinting of tangible personal property for a consideration for consumers who furnish either directly or indirectly the materials used in the producing, fabricating, processing, printing, or imprinting; • the furnishing and distributing of tangible personal property for a consideration by social clubs and fraternal organizations to their members or others; • a transaction whereby the possession of property is transferred but the seller retains the title as security for the payment of the price; • a transfer for a consideration of the title or possession of tangible personal property that has been produced, fabricated or printed to the special order of the customer, or of any publication; • the furnishing of information by printed, mimeographed, or multi-graphed matter or by duplicating written or printed matter in any other manner;and • the performance of services for a consideration excluding services performed by an employee for an employer, services performed by a general partner for the partnership, and the performance of services for which the provider is compensated by means of an honorarium. Mass. Gen. L. ch. 64H, §1. Planning Point: Confusion can arise for service providers such as reupholsters or cabinetmakers who may assume they are providing a non-taxable service or fall under the Massachusetts contractor rule and thus, believe their activities do not fall under the definition of “sale or selling.” The Massachusetts regulation on Services Enterprises clarifies that the reupholstering of furniture, including the making of a new slipcover, is a fabrication subject to Massachusetts sales tax whether or not the reupholsterer states the material charge and labor charge separately in the bill. Mass. Regs. Code tit. 830, §64H.1.1(5)(e) The department also clarified the sales/use tax treatment of commercial cabinetmakers making sales to customers in Massachusetts, including sales to home improvement contractors and homeowners in a 2014 directive. The department held that a cabinet manufacturer or fabricator must charge tax to the contractor or homeowner, as the case may be, based on the total sales price charged by that manufacturer and further that such a cabinet manufacturer or fabricator will be treated as a vendor with respect to such sales and may not characterize itself as either a contractor or subcontractor for sales or use tax. Massachusetts Directive 14-2 (May 08, 2014) (superseding Massachusetts Letter Ruling 88-8. (May. 04, 1988)) In Massachusetts, however, the term “sale at retail” or “retail sale” does not include:• sales of tickets for admissions to places of amusement and sports; • sales of transportation services; • professional, insurance, or personal service transactions which involve no sale or which involve sales as inconsequential segments for which no separate charges are made; or • any sale in which the only transaction in the commonwealth is the mere execution of the contract of sale and in which the tangible personal property sold is not in the commonwealth at the time of such execution. Mass. Gen. L. ch. 64H, §1. BNA-SUTN MA 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Not Defined Massachusetts does not specifically define the term “lease.” Mass. Gen. L. ch. 64H, §1(i). However, “lease”and “rental” are included within the definition of “sale”and “selling.” Mass. Gen. L. ch. 64H, §1(i). Furthermore, “lease”and “rental” is included within the definition of “purchase and purchased” for purposes of the use tax. Mass. Gen. L. ch. 64I, §1. BNA-SUTN MA 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Defined “Use”means and includes the exercise of any right or power over tangible personal property incident to the ownership of that property, and enjoyment of the benefit of a service. Mass. Gen. L. ch. 64I, §1. Any sale that is exempt from the sales tax is also exempt from the use tax. Mass. Gen. L. ch. 64I, §7(b). Property need not be used exclusively or even primarily in Massachusetts to be considered purchased for use within Massachusetts. See Towle v. Massachusetts Comr. of Rev., 397 Mass. 599, 605 (Mass. 1986). The terms “store”and “storage”, and “use” do not include the keeping, retaining, or exercising of any right or power over tangible personal property for the purpose of subsequently transporting it outside of the commonwealth for use thereafter solely outside of the commonwealth, or for the purpose of being processed, fabricated, or manufactured into other tangible personal property to be transported outside of the commonwealth and thereafter used solely outside of the commonwealth. Mass. Gen. L. ch. 64I, §1; Massachusetts Letter Ruling 11-5 (Pharmaceutical compounds shipped to fill/finish manufacturers in Massachusetts and temporarily stored there were not subject to use tax; vials and syringes were sent to Massachusetts to be filled with the pharmaceutical compounds and subsequently shipped outside Massachusetts for use in other states); Massachusetts Letter Ruling 80–14 (Mar. 25, 1980) ((Tangible personal property purchased by an airline from an out-of-state vendor with shipment terms F.O.B. vendor's state and delivered into Massachusetts via common carrier were not subject to Massachusetts sales tax because the tangible personal property delivered into Massachusetts was subsequently shipped via the airline on an airline bill of lading to Minnesota or a foreign location. Citing, Mass. Gen. L. ch. 64I, §1(5), “storage and use does not include the keeping, retaining, or exercising any right or power over tangible personal property for the purpose of subsequently transporting it outside the Commonwealth for use thereafter solely outside the Commonwealth.”) BNA-SUTN MA 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined In Massachusetts, “tangible personal property” means personal property of any nature consisting of any produce, goods, wares, merchandise, and commodities brought into, produced, manufactured or that are in Massachusetts. Mass. Gen. L. ch. 64H, §1. “Tangible personal property” includes gas, electricity, and steam. Mass. Gen. L. ch. 64H, §1. However, “tangible personal property” does not include rights and credits, insurance policies, bills of exchange, stocks and bonds and similar evidences of indebtedness or ownership. Mass. Gen. L. ch. 64H, §1. BNA-SUTN MA 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Not Defined Massachusetts does not define the term “intangible property.” Mass. Gen. L. ch. 64H, §1. BNA-SUTN MA 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Defined A “retailer”in Massachusetts includes every person engaged in the business of making sales at retail. Mass. Gen. L. ch. 64H, §1. More specifically, this includes every person engaged in the making of retail sales at auctions of tangible personal property whether owned by the person or others, every person engaged in the business of making sales for storage, use or other consumption, whether owned by the person or others for storage, use or other consumption, every salesman, representative, peddler, or canvasser who the commissioner regards as an agent of a dealer who sells tangible personal property, or the state, or any political subdivision, or their respective agencies engaged in making sales of retail of a kind ordinarily made by private persons. Mass. Gen. L. ch. 64H, §1. BNA-SUTN MA 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Defined In Massachusetts, “purchaser” means any person who has purchased tangible personal property or services sold at retailer and includes a buyer, vendee, lessee, licensee or grantee. Mass. Gen. L. ch. 64I, §1. BNA-SUTN MA 1.4.7.
+
+==================================================

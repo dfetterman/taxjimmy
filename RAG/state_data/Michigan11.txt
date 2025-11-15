@@ -1,0 +1,81 @@
+State: Michigan
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+Yes The sales tax in Michigan is imposed upon the gross proceeds from retail sales of tangible personal property. Mich. Comp. Laws §205.51; Mich. Comp. Laws §205.52; Mich. Comp. Laws §205.93. The sales tax is levied upon persons engaged in the business of making sales at retail in Michigan. Mich. Comp. Laws §205.52(1). BNA-SUTN MI 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+Yes The complementary use tax is imposed on the privilege of using, storing, or consuming tangible personal property in the state. Mich. Comp. Laws §205.93(1). The use tax does not apply when the Michigan sales tax has been paid. Mich. Comp. Laws §205.94(1)(a). BNA-SUTN MI 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+No Local Tax Michigan localities are not authorized to impose a local sales and use tax. However, the Michigan Constitution grants broad taxing authority to charter counties, cities, and villages in Michigan. Mich. Const., art. VII, §2; Mich. Const., art. VII, §21. However, in 1970, the Michigan Attorney General concluded that localities do not have the authority to levy a sales and use tax. Michigan Attorney General Opinion 1969-70, No. 4694 (June 18, 1970). As a result, sales and use tax is not imposed at the local level within the state of Michigan. Mich. Dept. of Treas., Who Needs A Sales Tax License?; Streamlined Sales Tax Governing Bd., Current State Tax Rates. While a sales and use tax is not authorized at the local level, each charter county, city, and village is granted the power to levy “other taxes” for public purposes, subject to limitations and prohibitions of the constitution or Michigan law. Mich. Const., art. VII, §2; Mich. Const., art. VII, §21. Most significantly, a city or village cannot impose a tax (other than an ad valorem property tax) unless the tax was in effect on Jan. 1, 1964, or is otherwise provided by state law. Mich. Comp. Laws §141.91. BNA-SUTN MI 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes Excise Taxes Michigan imposes several excise taxes. See, e.g., Mich. Comp. Laws §436.1101. Examples of these excise taxes include, but are not limited to:• an alcoholic beverage tax; Mich. Comp. Laws §436.1101 through Mich. Comp. Laws §436.2207. • a cigarette tax; Mich. Comp. Laws §205.421 through Mich. Comp. Laws §205.434. and • a motor fuel tax. Mich. Comp. Laws §207.1001 through Mich. Comp. Laws §207.1432a. For more information about excise taxes in Michigan, see the Excise Tax Navigator, beginning at Michigan 1.1. Replacement Taxes The Streamlined Sales and Use Tax Agreement prohibits member states from imposing a “prohibited replacement tax” which is a tax outside of the sales and use tax that is imposed on products defined in the Agreement. Generally, the Streamlined Sales Tax Governing Board will make a finding regarding whether or not a member state has imposed a replacement tax. Streamlined Sales and Use Tax Agreement, as amended through Dec. 14, 2018, Section 334; Streamlined Sales Tax Governing Board Rules and Procedures, as amended through May 3, 2018. Michigan is a full member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales Tax Governing Board, Taxability Matrix, Michigan (version 2018.0). BNA-SUTN MI 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+Est. 1933 Michigan first enacted its sales tax in 1933. Michigan enacted a use tax to complement the sales tax in 1937. Michigan's Sales and Use Taxes - 2003. BNA-SUTN MI 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+Data Centers Sales of data center equipment from Jan. 1, 2016 to Dec. 31, 2035 are exempt. Mich. Comp. Laws §205.54ee(1), as added by 2015 Mich. S.B. 616, effective Dec. 23, 2015. The exemption also applies to the use or consumption of data center equipment. Mich. Comp. Laws §205.94cc(1), as added by 2015 Mich. S.B. 617, effective Dec. 23, 2015. BNA-SUTN MI 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Defined “Sale”means any transaction in which tangible personal property or services are purchased or rented for storage, use, or other consumption in Michigan. Mich. Comp. Laws §205.92(p). For example, the transfer of tangible personal property for points redeemed under a rewards points program is considered a taxable “sale” of the tangible personal property. Schoeneckers, Inc. v. Michigan Dept. of Treas., No. 450419, 2014 BL 24523 (Mich. Ct. App. 2014), aff'd 2015 BL 298475 (Mich. 2015). BNA-SUTN MI 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Defined “Lease”or “rental” means any transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration and may include future options to purchase or extend. Mich. Comp. Laws §205.51a(m). Lease or rental does not include:• a transfer of possession or control of tangible personal property under a security agreement or deferred payment plan that requires the transfer of title upon completion of the required payments; • a transfer of possession or control of tangible personal property under an agreement requiring transfer of title upon completion of the required payments and payment of an option price that does not exceed $100.00 or 1 percent of the total required payments, whichever is greater; • the provision of tangible personal property along with an operator for a fixed or indeterminate period of time, where that operator is necessary for the equipment to perform as designed; or • an agreement covering motor vehicles or trailers if the amount of consideration may be increased or decreased by reference to the amount realized upon sale or disposition of the property. Mich. Comp. Laws §205.51a(m). BNA-SUTN MI 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Defined “Use”means the exercise of a right or power over tangible personal property incident to the ownership of that property. Use includes the transfer of property in a transaction where possession is given. Mich. Comp. Laws §205.92(b). The conversion of tangible personal property originally acquired for an exempt use is a taxable use. Mich. Comp. Laws §205.92(b). “Storage” means the keeping or retaining of property in Michigan for any purpose after the property loses its interstate character. Mich. Comp. Laws §205.92(c). In NACG Leasing LLC v. Michigan Dept. of Treas., the Michigan Supreme Court held that a taxpayer was subject to use tax when it purchased an aircraft from an out-of-state company, and simultaneously leased the aircraft to a related entity that had possession and control over the aircraft in Michigan at the time of transfer. The court concluded that the taxpayer “used”the aircraft, because in leasing the aircraft, the taxpayer exercised a right incident to ownership in Michigan. NACG Leasing LLC v. Michigan Dept. of Treas., No. 146234, 2014 BL 36494 (Mich. Ct. App. 2014); see also CDM Leasing LLC v. Michigan Dept. of Treas., No. 317987, 2014 BL 357426 (Mich. Ct. App. 2014) (subjecting taxpayer to use tax on an aircraft leased for personal use). In Podmajersky v. Michigan Dept. of Treas., the taxpayer was found responsible for use tax on a yacht that had been immobilized in Michigan within 90 days of its purchase. While the court of appeals discussed at length the taxpayer's attempts to avoid paying use tax in any jurisdiction, they ultimately settled on a strict interpretation of their use tax imposition statute, deciding that since the yacht was stored and used in Michigan within 90 days of its purchase, it was subject to Michigan use tax. Podmajersky v. Michigan Dept. of Treas., 2013 BL 214298 (Mich. Ct. App. 2013). Where a company marketed its products to hospitals in Michigan and then sent those products to Michigan hospitals for exclusive use in Michigan with no expectation that the instruments would return from Michigan, the company “used” its products in Michigan. Michigan Administrative Decision 17-005054 (May 6, 2019). In order to be entitled to an exemption from use tax, the burden rests on the taxpayer to show that the sales tax was due and paid on the sale of tangible personal property. Andrie, Inc. v. Michigan Dept. of Treas., 2014 BL 175757 (Mich. 2014) (a Michigan corporation was not able to demonstrate that it paid sales tax on purchases of fuel and other supplies for its marine construction and transportation business because the invoices for those items did not list sales tax as a separate line item; the court held that there is no presumption that sales tax is automatically included in the purchase price of an item when a receipt does not list sales tax as a separate item, therefore, the corporation was not entitled to an exemption from use tax). BNA-SUTN MI 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined In Michigan, “tangible personal property” means personal property that can be seen, weighed, measured, felt, or touched or that is in any other manner perceptible to the senses. Mich. Comp. Laws §205.92(k). “Tangible personal property” includes electricity, water, gas, steam, and prewritten computer software. Mich. Comp. Laws §205.92(k). Human tissue specimens also fit within the meaning of tangible personal property. See Michigan Letter Ruling LR 2017-1 (March 21, 2017). BNA-SUTN MI 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Not Defined Michigan does not define “intangible property.” Mich. Comp. Laws §205.92. BNA-SUTN MI 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Not Defined Michigan does not define the term “retailer.” Michigan defines “seller”as a person from whom a purchase is made including every person selling tangible personal property or services for storage, use, or other consumption in Michigan. Mich. Comp. Laws §205.92(d). BNA-SUTN MI 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Defined “Consumer”means the person who has purchased tangible personal property or services for storage, use, or other consumption in Michigan. Mich. Comp. Laws §205.92(g). “Consumer”includes:• a person acquiring tangible personal property if engaged in the business of constructing, altering, repairing, or improving the real estate of others; and • a person who has converted tangible personal property or services acquired for storage, use, or consumption in Michigan that is exempt from sales and use tax to storage, use, or consumption in Michigan that is not exempt from sales and use tax. Mich. Comp. Laws §205.92(g). BNA-SUTN MI 1.4.7.
+
+==================================================

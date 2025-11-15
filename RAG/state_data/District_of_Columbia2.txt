@@ -1,0 +1,459 @@
+State: District of Columbia
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+The District of Columbia Office of Tax and Revenue The Mayor of the District of Columbia is responsible for administration of sales and use taxes in the District. D.C. Code Ann. § 47-2023; D.C. Code Ann. § 47-2024. BNA-SUTN DC 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+No Tax There are no local option sales or use taxes in the District of Columbia. D.C. Code Ann. § 47-2002. BNA-SUTN DC 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required A vendor engaging in the business of making any retail sales subject to sales and use tax must obtain a certificate of registration. D.C. Code Ann. §47-2026(a); D.C. Code Ann. §47-2212. Having a representative, agent salesman, canvasser, or solicitor operating in the District of Columbia for the purpose of making sales at retail, or the taking of orders qualifies a vendor as engaging in business in the District of Columbia; therefore, trade show attendees fitting this description are required to obtain a certificate of registration. D.C. Code Ann. §47-2026(a), D.C. Code Ann. §47-2212;D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). See generally D.C. Code Ann. §47-2001(f). Each applicant for a certificate must make out and deliver to the Mayor a statement showing the name of the applicant, each retail establishment where the applicant's business is to be conducted, the kind or nature of the business and other information the Mayor may require. Upon receipt of the application the Mayor issues the applicant, without charge, a certificate of registration for each retail establishment designated in the application, authorizing the applicant to engage in business at the retail establishment. The certificate of registration is nontransferable, and must be displayed in the applicant's place of business. D.C. Code Ann. §47-2026(b), D.C. Code Ann. §47-2212. In the case of a vendor who has no fixed place of business and sells from 1 or more vehicles, each vehicle is considered a retail establishment. In the case of a vendor who has no fixed place of business and does not sell from a vehicle, the application for a certificate of registration should name the address to which any notice or other communication may be sent to the applicant, and the designated place will be considered the retail establishment. D.C. Code Ann. §47-2026(c), D.C. Code Ann. §47-2212. Anyone that engages in the business of selling tangible personal property at retail, or that makes any sale subject to sales or use tax without a certificate of registration will, upon conviction, be fined not more than $50 for each and every day that retail sales were made without possession of a registration certificate. D.C. Code Ann. §47-2026(d), D.C. Code Ann. §47-2212. Certification of Clean Hands Applicants for any license or permit, including a business license, must submit a Clean Hands certification form with their application, certifying that they do not owe more than $100 to the D.C. government. The application may be completed online or through email. See D.C. Office of Tax and Rev., New Online Clean Hands Application. BNA-SUTN DC 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor Corporate officers are considered vendors and are therefore responsible for collecting the taxes and can be held personally liable for nonpayment of tax liabilities. Kelly v. District of Columbia, 765 A.2d 976 (D.C. 2001). The District of Columbia is authorized to impose a lien because sales and use taxes can be collected in the same manner as personal property taxes, which includes the imposition of a lien against property. Kelly v. District of Columbia, 765 A.2d 976 (D.C. 2001). BNA-SUTN DC 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes Purchasers are liable for use tax on any taxable items or services for which sales tax was not paid. D.C. Code Ann. §47-2205. BNA-SUTN DC 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes An officer or director of a corporation, general partner of a partnership, or similar principal of a business is liable for a penalty equal to the tax, including interest and penalties, not collected or paid to the District of Columbia for which the business is liable. D.C. Code Ann. §47-4491(a). The penalty is not imposed if reasonable cause is established or after the expiration of a certain time period. D.C. Code Ann. §47-4491(c); D.C. Code Ann. §47-4491(d); D.C. Code Ann. §47-4221; D.C. Code Ann. §47-4312. If more than one officer, director, general partner, or similar principal is liable for the penalty with respect to a tax, each officer, director, general partner, or similar principal that pays the penalty is entitled to recover from other officers, directors, general partners, or similar principals who are liable for the penalty an amount equal to the excess of the amount paid by the officer, director, general partner, or similar principal over his proportionate share of the penalty. A claim for recovery may be made only in a proceeding in which the District of Columbia is not a party. D.C. Code Ann. §47-4491(e). The District of Columbia may also impose liens upon the personal property of corporate officers for unpaid sales and use taxes. Kelly v. District of Columbia, 765 A.2d 976 (D.C. 2001) A penalty is not imposed on an unpaid member of the board of trustees or directors of an organization exempt from tax under this title if the member:• is solely serving in an honorary capacity; D.C. Code Ann. §47-4491(f)(1)(A). • does not participate in the day-to-day or financial operations of the organization; D.C. Code Ann. §47-4491(f)(1)(B). and • does not have actual knowledge of the failure to pay taxes for which the penalty is imposed. D.C. Code Ann. §47-4491(f)(1)(C). However, this protection does not apply if no other individual is liable. D.C. Code Ann. §47-4491(f)(2). BNA-SUTN DC 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable The District of Columbia is not a member of the Streamlined Sales and Use Tax Agreement, and does not rely on the SST Matrix. Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN DC 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Not Applicable The District of Columbia is not a member of the Streamlined Sales and Use Tax Agreement, and does not have any provisions regarding certified service providers. Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN DC 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided The District of Columbia specifies sales and use tax forms. Beginning November 1, 2017, the 2018 Sales and Use Tax forms will all be electronic, and there will be no paper forms or booklets available. District of Columbia OTR's 2018 Electronic Funds Transfer Payment Guide (Oct. 26, 2017). The District of Columbia currently uses the following forms:• Application for Exemption from D.C. Sales and Use Tax – FR-164 • Claim for Refund – FP-331 • Certificate of Resale – FR-368 • Combined Registration Application – FR-500 Returns The District of Columbia currently uses the following return forms:• Consumer Use Tax Return – FR-329 • Sales and Use Tax Annual Return – FR-800A • Sales and Use Tax Monthly Return – FR-800M • Sales and Use Tax Quarterly Return – FR-800Q For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. BNA-SUTN DC 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of Month A return must be filed with the Mayor of the District of Columbia on or before the 20th day of each month. D.C. Code Ann. §47-2015(a); D.C. Code Ann. §47-2211(a). If a taxpayer's liability for sales and use tax is less than $50 per month, a return may be filed and payment made on an annual basis. Currently, the annual filing period ends on Sept. 30 each year and begins on Oct. 1, with a return due on Oct. 20. However, prior to 2011, the filing period followed the calendar year and ended on Dec. 31, with the return due on the 20th day of January. D.C. Code Ann. §47-2015(a); D.C. Code Ann. §47-2211(a); D.C. Mun. Regs. tit. 9, §420.10; see D.C. Office of Tax & Rev., New Sales and Use Tax Annual Filing and Payment Requirement (Sept. 6, 2011). But see D.C. Mun. Regs. tit. 9, §420.11. BNA-SUTN DC 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Payment is due at the time of filing. D.C. Code Ann. §47-2016(a). The taxes for the period for which a return is required to be filed by a vendor are due and payable to the Collector on the date limited for the filing of the return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of gross receipts and taxes due thereon. D.C. Code Ann. §47-2016(b). BNA-SUTN DC 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes The collector may, for good cause shown, extend the time for filing any return for a period not to exceed 30 days. D.C. Mun. Regs. tit. 9, §421.1. Each request for an extension of time must be in writing addressed to the Collector and must contain concise statements of the reasons why an extension of time is desired. D.C. Mun. Regs. tit. 9, §421.3; D.C. Mun. Regs. tit. 9, §421.4. Failure of a vendor or retailer to receive a return form is not grounds for extending the time for filing any return or grounds for remission of penalties and interest.D.C. Mun. Regs. tit. 9, §421.2 BNA-SUTN DC 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Yes The collector may, for good cause shown, extend the time for filing any return for a period not to exceed 30 days. D.C. Mun. Regs. tit. 9, §421.1. BNA-SUTN DC 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers Sales and use tax payments are required to be filed electronically if the amount of the payment due for a period is equal to or exceeds $10,000. District of Columbia OTR Notice 2009-06 (Sept. 15, 2009). The threshold of $10,000 is reduced from the previous threshold of $25,000, and business taxpayers are required to use electronic funds transfer for tax payments greater than $5,000. See D.C. Code Ann. §47-4402(c); District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). An electronic funds transfer(EFT) is a transfer of funds, other than a transaction by check, draft, or similar paper instrument, that is initiated through an electronic terminal, telephone, or computer or magnetic tape for the purpose of ordering, instructing, or authorizing a financial institution to debit or credit an account. This includes point of sale transfers, automated teller machine transfers, direct deposit or withdrawal of funds, transfers initiated by telephone, and transfers resulting from debit card transactions. D.C. Code Ann. §47-4402(a). There are four methods of EFT payments:ACH Debit, Electronic check (E-check), ACH Credit, and Credit/Debit Card. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). BNA-SUTN DC 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Required for Certain Taxpayers On MyTaxDC.gov and eTSC, the District provides ACH debit and ACH credit payment options for certain taxpayers. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). ACH Credit ACH credit is for business or fiduciary taxpayers only. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). The taxpayer directly credits OTR's bank account by authorizing his or her bank to credit the District's bank by debiting his or her account. This is mainly used for bulk withholding, but businesses can and do use it for other business tax types. You do not need to be registered with eTSC to use this feature. ACH credit is between the entity and the entity's financial institution. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). ACH Debit ACH debit is used for registered eTSC business taxpayers only at this time. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). Bank account information is stored within the on-line eTSC account. The DC system stores only one bank account per entity, regardless of tax type. Taxpayers give the right to debit the money from their bank account. Taxpayers must be registered eTSC users and be signed in to use this feature. eTSC does not allow the use of foreign bank accounts for business ACH Debits. District of Columbia OTR's 2018 Electronic Funds Transfer (EFT) Payment Guide (Oct. 26, 2017). BNA-SUTN DC 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+No The District of Columbia does not offer any vendor collection discounts. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Unless the purchaser presents to the vendor a certificate signed by the purchaser and bearing the name and address of the purchaser, along with the number of his registration certificate to the effect that the property or service was purchased for resale or the property or service is exempt, the sales are subject to tax. D.C. Code Ann. §47-2010. Retention Periods The District has a three year statute of limitations, thus the exemption certificates should be maintained for at least three years after the related transaction. D.C. Code Ann. §47-4301. Consequences of Failing to Obtain Exemption Certificates Failure to obtain an exemption certificate results in the transaction being subject to tax. D.C. Code Ann. §47-2010. Exemption Certificate Substitutions, Data Elements The certificate must be in the form that the Mayor prescribes and, in case no certificate is furnished or obtained prior to the time the sale is made, the tax applies as if the sales were made at retail. D.C. Code Ann. §47-2010. District-Specific Exemption Certificates Examples of exemption certificates include:• D.C. Form FP-337 –Qualified High Technology Companies (QHTCs) Exempt Purchase Certificate; • D.C. Form OTR-308 – Application for Specific Exemption From District of Columbia Sales and Use Tax; and • D.C. Form OTR-553 –Contractors Exempt Purchase Certificate. BNA-SUTN DC 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked; 5 years An exemption certificate issued to a semi-public institution prior to Nov. 1, 2017, is valid until revoked by the Office of Tax and Revenue. D.C. Code Ann. §47-2005; D.C. Muni. Regs. tit. 9, §417.9(c). An exemption certificate issued to a semi-public institution after Nov. 1, 2017, is valid for five years from the issue date. D.C. Muni. Regs. tit. 9, §417.9(b). BNA-SUTN DC 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+No The District does not accept the Multistate Tax Commission certificate. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §414.2. Prior to Nov. 1, 2017, the District accepted the MTC Certificate as a resale certificate if it contained the purchaser's sales and use tax registration number. However, beginning Nov. 1, 2017, the D.C. Office of Tax and Revenue(OTR) only accepts resale certificates on forms authorized by the OTR, which can be obtained through the OTR website. D.C. Mun. Regs. tit. 9, §414.2 Planning Point: As of Jan. 22, 2018, the MTC Certificate available on the Multistate Tax Commission website has been updated to reflect that the District will not accept the MTC Certificate as a resale certificate. BNA-SUTN DC 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted The District is not a member to the Streamlined Sales Tax agreement, and is not obligated to accept SST tax exemption certificate SSTGB Form F0003. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted The District of Columbia does not accept any other multistate certificates. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+No The District has no specific provisions within its sales and use tax statues and regulations discussing good faith acceptance of exemption certificates. If an exemption certificate is not provided, the transaction is presumed taxable unless otherwise exempt under D.C. law. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+No Specific Time Period The District has no specific provisions within its sales and use tax statues and regulations discussing good faith acceptance of exemption certificates. If an exemption certificate is not provided, the transaction is presumed taxable unless otherwise exempt under D.C. law. D.C. Code Ann. §47-101 et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years The District has a three year statute of limitations on issuing assessments once a return is filed, thus, exemption certificates should be maintained for at least three years after the related transaction. D.C. Code Ann. §47-4301. BNA-SUTN DC 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required If a person purchases tangible personal property for the purpose of resale, or to use or incorporate the property as a material or part of other tangible personal property to be produced for sale by manufacturing, assembling, processing, or refining, the purchaser must provide a certificate of resale to the vendor at the time of or prior to making the purchase. D.C. Mun. Regs. tit. 9, §414.1. The certificate of resale must state the purpose for which the property is purchased, must show the purchaser's certificate of registration number, and must be signed and dated by the purchaser. D.C. Mun. Regs. tit. 9, §414.2. If a person purchases tangible personal property for purposes other than those enumerated in the certificate of resale, that certificate of resale cannot be used and the purchaser must reimburse the vendor for the sales tax or file a return and pay the tax as a consumer or user under the use tax, as the case may be. D.C. Mun. Regs. tit. 9, §414.6. BNA-SUTN DC 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Accepted The District provides entity exemption certificates. D.C. Mun. Regs. tit. 9, §417.4; D.C. Mun. Regs. tit. 9, §417.9. Semipublic Institutions A semipublic institution purchasing property at retail for its own maintenance and operation must obtain from the Collector a certificate of exemption stating that the institution is entitled to the exemption. If the semipublic institution does not present the certificate of exemption to the vendor the vendor must collect the reimbursement for the tax. D.C. Mun. Regs. tit. 9, §417.9; D.C. Mun. Regs. tit. 9, §418.1, et seq. Foreign Diplomatic Corps If a purchaser of tangible personal property is a member of a foreign diplomatic corps and personally presents an identification card issued to that purchaser by the State Department, exempting the person from excise taxes, the card shall be authority for the vendor not to add reimbursement for the sales tax to the sales price of the property. The vendor must show on the record of each sale the name of the purchaser, the date of sale, the amount of the sale, and the State Department identification card number. D.C. Mun. Regs. tit. 9, §417.4; D.C. Mun. Regs. tit. 9, §419.1, et seq. BNA-SUTN DC 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted The District provides use-based exemption certificates. D.C. Mun. Regs. tit. 9, §417.9. BNA-SUTN DC 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Not Authorized The District of Columbia does not offer direct pay permits. D.C. Code Ann. §47-101, et seq.; D.C. Mun. Regs. tit. 9, §400.1 et seq. BNA-SUTN DC 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 years The District has record-keeping requirements for vendors and governmental entities. D.C. Code Ann. §47-2024(4); D.C. Code Ann. §47-2213; D.C. Code Ann. §47-2018(f). Vendors The Mayor has the power to require any vendor selling to persons within the District of Columbia to keep detailed records of the nature and value of personal property sold for use within the District of Columbia, and to provide that information to the Mayor upon request. D.C. Code Ann. §47-2024(4); D.C. Code Ann. §47-2213. Under this authority, each vendor is required to maintain records that will enable the vendor's accounts to be audited, including records specifically required to be made or preserved by the provisions of the sales and use tax chapters. D.C. Muni. Regs. tit. 9, §420.8; D.C. Code Ann. §47-2024(4); D.C. Code Ann. §47-2213; see Karriem v. Gray, 623 A.2d 112 (D.C. 1993) (finding that it was valid to seize a vendor's license when the vendor failed to maintain proper records). Government All reports, applications, and returns received by the Mayor under the provisions of the sales and use tax chapters must be preserved for at least three years or until the Mayor orders them to be destroyed. D.C. Code Ann. §47-2018(f). BNA-SUTN DC 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Purchaser Any tax that has been erroneously or illegally collected must be refunded if application is filed with the Mayor within three years from the payment of the tax. The application may be made by the person that actually paid the tax. D.C. Code Ann. §47-2020(a). When an application is made by a vendor that has collected reimbursement of the tax, no actual refund may be made to the vendor until the vendor sufficiently establishes that the vendor has repaid to the purchaser the amount for which the application for refund is made. In lieu of any refund, a credit may be allowed on payment due from the applicant. D.C. Code Ann. §47-2020(a). Application for a refund or credit is considered an application for a revision of any tax, penalty, or interest complained of and the Mayor may receive evidence to make a determination. D.C. Code Ann. §47-2020(c). BNA-SUTN DC 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years Any tax that has been erroneously or illegally collected must be refunded if application is filed with the Mayor within three years from the payment of the tax. D.C. Code Ann. §47-2020(a). BNA-SUTN DC 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years The amount of a tax imposed must be assessed within three years after the return was filed (whether or not the return was filed after the date due). D.C. Code Ann. §47-4301(a). For purposes of this determination, a return filed prior to the due date is considered to be filed on the last day. D.C. Code Ann. §47-4301(b). If the taxpayer omits on its return an amount over 25 percent of the amount lawfully due, an assessment may be made within six years after the return was filed. D.C. Code Ann. §47-4301(d)(2). In the case of a false or fraudulent return with the intent to evade tax, a willful attempt in any manner to defeat or evade tax imposed by this title, a failure to file a return, or filing of a real property tax exemption application, the tax may be assessed, or a proceeding in court for the collection of the tax may begin without assessment, at any time. D.C. Code Ann. §47-4301(d). Notices of Assessment Effective Oct. 1, 2015, D.C.'s Office of Tax and Revenue will issue a Notice of Proposed Audit Changes at least 30 days prior to issuance of a Notice of Proposed Assessment. The Notice of Proposed Audit Changes will toll/stop the running of the statute of limitations on assessment and collection for 90 days from the date of the notice, or until a Notice of Proposed Assessment is issued, whichever is first. The statute of limitations is also tolled from the date of issuance of a Notice of Proposed Assessment until a final assessment is made, or until a decision is made by the Office of Administrative Hearings. D.C. Code Ann. §47-4303, as amended by 2015 D.C. B. 158 § 7082, effective Oct. 22, 2015 (retroactive to Oct. 1, 2015); D.C. Code Ann. §47-4312 as amended by 2015 D.C. B. 158 § 7082, effective Oct. 22, 2015 (retroactive to Oct. 1, 2015); see District of Columbia OTR Notice 2015-06 (Nov. 16, 2015). BNA-SUTN DC 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Several civil penalties are imposed including accuracy-related penalties, fraud penalties, and failure to file or pay penalties. D.C. Code Ann. §47-4211(b); D.C. Code Ann. §47-4212(a); D.C. Code Ann. §47-4213; D.C. Code Ann. §47-4101(a). Accuracy-Related Penalties In the case of a substantial valuation misstatement, a penalty is imposed in the amount of 20 percent of the portion of an underpayment that is attributable to negligence or the substantial valuation misstatement. D.C. Code Ann. §47-4211(b)(1). A substantial valuation misstatement is the reporting of the value of a property or the adjusted basis of a property that is greater than or equal to 200 percent, or less than or equal to 50 percent, of the amount determined to be the correct amount of the valuation or adjusted basis. D.C. Code Ann. §47-4211(a)(4). In the case of a gross valuation misstatement, a penalty is imposed in the amount of 40 percent of the portion of an underpayment that is attributable to negligence or the gross valuation misstatement. D.C. Code Ann. §47-4211(b)(2). A gross valuation misstatement is the reporting of the value of a property or the adjusted basis of a property that is greater than or equal to 400 percent, or less than or equal to 25 percent, of the amount determined to be the correct amount of the valuation or adjusted basis. D.C. Code Ann. §47-4211(a)(2). These penalties do not apply to the portion of an underpayment on which a penalty is imposed for fraud under section 47-4212. D.C. Code Ann. §47-4211(c)(1). Additionally, these penalties are not imposed unless the portion of the underpayment for the taxable year attributable to the substantial valuation misstatement exceeds $5,000($10,000 in the case of a corporation). D.C. Code Ann. §47-4211(c)(2). Fraud Penalties If a portion of an underpayment of tax is attributable to fraud, a penalty is imposed at 75 percent of the portion of the underpayment that is attributable to fraud. D.C. Code Ann. §47-4212(a). If the Mayor establishes that any portion of an underpayment is attributable to fraud, the entire underpayment is to be deemed to be attributable to fraud, except with respect to any portion of the underpayment that the taxpayer establishes, by a preponderance of the evidence, is not attributable to fraud. D.C. Code Ann. §47-4212(b). Fraud is indicated where a taxpayer willfully fails to pay a tax imposed by this title or attempts to evade or defeat the tax or payment. D.C. Code Ann. §47-4212(d). Failure to File or Pay Penalties In the case of a failure to file a return by the due date, unless it is shown that the failure is due to reasonable cause and not willful neglect, a penalty is imposed at 5 percent of the amount of the tax if the failure is for not more than one month, with an additional 5 percent for each additional month or fraction thereof during which the failure continues, not exceeding a total of 25 percent. D.C. Code Ann. §47-4213(a)(1). In the case of a failure to pay the amount shown as tax on a return on or before the due date, unless it is shown that the failure is due to reasonable cause and not willful neglect, a penalty is imposed at 5 percent of the amount of the tax if the failure is for not more than one month, with an additional 5 percent for each additional month or fraction thereof during which the failure continues, not exceeding a total of 25 percent. D.C. Code Ann. §47-4213(a)(2). In the case of a failure to pay an amount in respect of a tax that is required to be shown on a return within 30 calendar days from the date of notice and demand for payment, unless it is shown that the failure is due to reasonable cause and not due to willful neglect, a penalty is imposed at 5 percent of the amount of the tax if the failure is for not more than one month, with an additional 5 percent for each additional month or fraction thereof during which the failure continues, not exceeding a total of 25 percent. D.C. Code Ann. §47-4213(a)(3). Failure to Keep Adequate Records of Sales and Receipts A vendor's license can be seized by the District of Columbia for failure to keep adequate records of sales and receipts. The Department is permitted to estimate the sales tax due and make a jeopardy assessment. Further, the District of Columbia has the authority to enact regulations requiring the confiscation of a vendor's license in the event that the vendor fails to keep sufficient records of sales and receipts. Karriem v. Gray, 623 A.2d 112 (D.C. 1993) BNA-SUTN DC 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Several criminal penalties are imposed for attempt to evade or defeat tax, failure to collect or pay tax, and failure to pay tax, make return, keep records, or supply information. D.C. Code Ann. §47-4211(b); D.C. Code Ann. §47-4212(a); D.C. Code Ann. §47-4213; D.C. Code Ann. §47-4101(a). Attempt to Evade or Defeat Tax A person that willfully attempts to evade or defeat a tax or payment is guilty of a felony if the tax evaded or attempted to be evaded exceeds $10,000. Upon conviction, the person may not be fined more than $10,000 or three times the amount of the tax evaded or attempted to be evaded, whichever is greater, or imprisoned not more than 10 years, or both, together with the costs of prosecution. D.C. Code Ann. §47-4101(a). A person that willfully attempts to evade or defeat a tax or payment is guilty of a misdemeanor if the tax evaded or attempted to be evaded is $10,000 or less. Upon conviction, the person may not be fined more than $5,000, or imprisoned not more than 180 days, or both, together with costs of prosecution. D.C. Code Ann. §47-4101(b). Failure to Collect or Pay Tax A person that willfully fails to collect or truthfully account for and pay over the tax is guilty of a felony if the amount to be collected or accounted for and paid over exceeds $10,000. Upon conviction, the person may be fined not more than $10,000 or three times the amount of the tax evaded or attempted to be evaded, whichever is greater, or imprisoned not more than ten years, or both, together with the costs of prosecution. D.C. Code Ann. §47-4102(a). A person that fails to collect or truthfully account for and pay over the tax is guilty of a misdemeanor if the amount to be collected or accounted for and paid over is $10,000 or less. Upon conviction, the person may be fined not more than $5,000, or imprisoned not more than 180 days, or both, together with costs of prosecution. D.C. Code Ann. §47-4102(b). Failure to Pay Tax, Make Return, Keep Records, or Supply Information A person required to pay a tax or estimated tax, or required to make a return, keep any records, or supply any information, that willfully fails to pay the tax, pay the estimated tax, make the return, keep the records, or supply the information, is guilty of a misdemeanor. Upon conviction, the person may be fined not more than $5,000, or imprisoned not more than 180 days, or both, together with costs of prosecution. D.C. Code Ann. §47-4103(a). A person required to pay a tax or estimated tax, or required to make a return, keep any records, or supply any information, who otherwise fails to pay the tax, pay the estimated tax, make the return, keep the records, or supply the information, is guilty of a misdemeanor. Upon conviction, the person may be fined not more than $3,000, or imprisoned not more than 180 days, or both, together with costs of prosecution. D.C. Code Ann. §47-4103(b). BNA-SUTN DC 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The District of Columbia may waive penalties if there is reasonable cause for the underpayment and the taxpayer acted in good faith. D.C. Code Ann. § 47-4221. Reasonable cause generally exists if, based on all the facts and circumstances, the taxpayer exercises ordinary business care and prudence in determining his or her tax obligations, but was unable to comply with a prescribed duty within the prescribed time. Ordinary business care and prudence includes making provision for business obligations to be met when reasonably foreseeable events occur. Relief for reasonable cause is available for the following penalties:• accuracy-related penalty under D.C. Code Ann. § 47-4211; • failure to pay penalty under D.C. Code Ann. § 47-4213; • failure to file penalty under D.C. Code Ann. § 47-4213; • return preparer penalties under D.C. Code Ann. § 47-4217; and • personal liability for failure to collect or pay tax under D.C. Code Ann. § 47-4491. D.C. Code Ann. § 47-4221. Erroneous assessments or assessments made after the period of limitations may be abated on appeal. D.C. Code Ann. § 47-4222. BNA-SUTN DC 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Fixed by statute In the District of Columbia, interest rates on underpayments of tax are set by statute, while interest rates on overpayments are determined annually. D.C. Code Ann. §47-4201; D.C. Code Ann. §47-4202(c)(2). Interest accrued on underpayments of tax is compounded daily, However, interest that accrues on overpayments of tax is not compounded. D.C. Code Ann. §47-4201(d)(2); D.C. Code Ann. §47-4201(c)(2). BNA-SUTN DC 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Statutory rate The District of Columbia interest rate on underpayments of tax is set forth in D.C. Code Ann. §47-4201. The rate is 10 percent per year and has been in effect since Jan. 1, 2003. D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2018, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2017, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2016, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2015, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2014, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2013, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2012, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2011, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2010, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2009, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal discount rate + 1% The District of Columbia interest rate on overpayments of tax is calculated by adding 1 percent to the primary credit discount rate for the Richmond Federal Reserve Bank as of Sept. 30 of the preceding year, rounded to the nearest whole number. The rate may not exceed 6 percent per year. D.C. Code Ann. §47-4202(c)(2). BNA-SUTN DC 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2018, the District of Columbia's interest rate on overpayments of tax is 3 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, Historical Discount Rates. BNA-SUTN DC 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2017, the District of Columbia's interest rate on overpayments of tax is 2 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, Historical Discount Rates; Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates, Sept. 30, 2016. BNA-SUTN DC 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2016, the District of Columbia's interest rate on overpayments of tax is 2 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, FAQs: Interest Rates; Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates, Sept. 28, 2015. BNA-SUTN DC 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2015, the District of Columbia's interest rate on overpayments of tax is 2 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, FAQs: Interest Rates; Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates, Sept. 29, 2014. BNA-SUTN DC 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2014, the District of Columbia's interest rate on overpayments of tax is 2 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, FAQs: Interest Rates; Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates, Sept. 30, 2013. BNA-SUTN DC 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2013, the District of Columbia's interest rate on overpayments of tax is 2 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, FAQs: Interest Rates; Board of Governors of the Federal Reserve System, H.15 Selected Interest Rates, Oct. 1, 2012. BNA-SUTN DC 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2012, the District of Columbia's interest rate on overpayments of tax is 6 percent. D.C. Code Ann. §47-4202(c)(1). BNA-SUTN DC 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2011, the District of Columbia's interest rate on overpayments of tax is 6 percent. D.C. Code Ann. §47-4202(c)(1). BNA-SUTN DC 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2010, the District of Columbia's interest rate on overpayments of tax is 6 percent. D.C. Code Ann. §47-4202(c)(1). BNA-SUTN DC 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2009, the District of Columbia's interest rate on overpayments of tax is 6 percent. D.C. Code Ann. §47-4202(c)(1). BNA-SUTN DC 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No The District of Columbia did not have a tax amnesty program for 2018. BNA-SUTN DC 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No The District of Columbia did not have a tax amnesty program in 2017. BNA-SUTN DC 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No The District of Columbia did not have a tax amnesty program in 2016. BNA-SUTN DC 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No The District of Columbia did not have a tax amnesty program in 2015. BNA-SUTN DC 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No The District of Columbia did not have a tax amnesty program in 2014. BNA-SUTN DC 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No The District of Columbia did not have a tax amnesty program in 2013. BNA-SUTN DC 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No The District of Columbia did not have a tax amnesty program in 2012. BNA-SUTN DC 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No The District of Columbia did not have a tax amnesty program in 2011. BNA-SUTN DC 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+Yes The District of Columbia provided a Tax Amnesty Program from Aug. 2, 2010, through Sept. 30, 2010. The program provided opportunities for taxpayers with unpaid obligations to pay their taxes without civil or criminal penalties or fees. Individuals and businesses with unpaid tax obligations relating to returns with a due date prior to Dec. 31, 2009 were eligible to participate if they applied for the program within the amnesty period. D.C. Code Ann. §47-4407(b);D.C. Office of the Chief Financial Officer, Tax Amnesty Program (July 29, 2010). The Chief Financial Officer was authorized to require a taxpayer seeking amnesty to submit documents or records that were deemed necessary by the Chief Financial Officer to determine the truthfulness or accuracy of a return or report. D.C. Code Ann. §47-4407(a); D.C. Code Ann. §47-4407(c). BNA-SUTN DC 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No The Chief Financial Officer was authorized to establish, implement, and administer a tax amnesty program for liabilities owed prior to Dec. 31, 2009, but no amnesty program was enacted during 2009. D.C. Code Ann. §47-101, et seq.; D.C. Mun. Regs. tit. 9, §400.1, et seq. BNA-SUTN DC 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The District of Columbia Office of Tax and Revenue (“OTR”)accepts applications from taxpayers for voluntary disclosure. D.C. Office of Tax and Rev., Voluntary Disclosure Program. The OTR's position on voluntary disclosure agreements is determined by the facts and circumstances in each separate disclosure. D.C. Office of Tax and Rev., Voluntary Disclosure Program. According to the OTR, the following are general guidelines for any voluntary disclosure applicant:• Any taxpayer can apply to remedy a sales or use tax obligation. • In most cases, OTR will agree to limit the look-back period to the lesser of three years or the date when the taxpayer established nexus in the District of Columbia. In egregious situations, however, OTR may require a five-year look-back period. • For sales or gross receipts tax cases, if the taxpayer collected sales tax or reimbursement for gross receipts tax from their customers, but did not remit the tax to the District of Columbia, the look-back period imposed will be the greater of five years or the date nexus was established in the District of Columbia. • If the tax liability in certain cases is a substantial amount, OTR may agree to establish a payment agreement if an adequate amount is paid up-front. However, if the taxpayer fails to make any scheduled payments in a timely manner, the agreement could be considered as null and void. OTR reserves the right to assess additional penalty and interest on the remaining balance of tax due at that time. • Nonprofits can use the voluntary disclosure process to report any prior-year taxes (i.e. franchise, personal property, sales, use, arena, etc.)that should have been paid. D.C. Office of Tax and Rev., Voluntary Disclosure Program. Offers in Compromise The District of Columbia has an Offer in Compromise (OIC) program that allows taxpayers to settle outstanding debt for less than they owe. There are several scenarios that qualify for OIC:• You incurred a delinquent tax liability, resulting in an assessment; • You exhausted all other avenues of appeal regarding the validity or amount of the assessment; • You are current in the filing of all returns required to be filed; • You or your business are not currently involved in an open bankruptcy proceeding; • You are unlikely to be able to make payment within the statute of limitations (10 years)due to your financial situation; and • You either are without resources or unable to apply present and/or future resources to pay the outstanding tax liability. D.C. Office of Tax and Rev., Offer in Compromise: Form OTR-10 Booklet (Aug. 13, 2014). BNA-SUTN DC 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+3 years The District of Columbia will generally limit the look-back period to the lesser of three years or the date when the taxpayer established nexus in the District of Columbia. However, the Office of Tax and Revenue may require a look-back period of five years in egregious cases. D.C. Office of Tax and Rev., Voluntary Disclosure Program. BNA-SUTN DC 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates The District of Columbia participates in the Multistate Voluntary Disclosure Program (MVDP) which allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. The District of Columbia may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Online Marketplace Seller Voluntary Disclosure Initiative – Special Multistate Tax Commission (MTC) Program From Aug. 17, 2017, through Nov. 1, 2017, the District of Columbia is participating in the MTC's special limited-time voluntary disclosure initiative in which back sales and use tax liability may be waived for eligible online marketplace sellers that timely register and begin to collect the state's sales and use tax. For more information about this initiative, see Portfolio 1300-2nd: Sales and Use Taxes: General Principles. BNA-SUTN DC 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The Mayor of the District of Columbia is authorized to order an audit for sales and use tax purposes. D.C. Code Ann. §47-4310(a). For purposes of determining the correctness of a return, making a return where none has been made, determining the liability of a person or real property for sales or use tax, determining the liability at law or equity of a responsible person, collecting tax, or inquiring into an offense of the sales or use tax provisions, the Mayor is granted the authority to summon any person to do the following:• appear and produce all books, records, or other relevant or material information; D.C. Code Ann. §47-4310(a)(1). • give relevant or material testimony under oath; D.C. Code Ann. §47-4310(a)(2). and • answer relevant or material interrogatories under oath. D.C. Code Ann. §47-4310(a)(3). Notices of Assessment Effective Oct. 1, 2015, D.C.'s Office of Tax and Revenue will issue a Notice of Proposed Audit Changes at least 30 days prior to issuance of a Notice of Proposed Assessment. The Notice of Proposed Audit Changes will toll/stop the running of the statute of limitations on assessment and collection for 90 days from the date of the notice, or until a Notice of Proposed Assessment is issued, whichever is first. The statute of limitations is also tolled from the date of issuance of a Notice of Proposed Assessment until a final assessment is made, or until a decision is made by the Office of Administrative Hearings. D.C. Code Ann. §47-4303, as amended by 2015 D.C. B. 158 § 7082, effective Oct. 22, 2015 (retroactive to Oct. 1, 2015); D.C. Code Ann. §47-4312 as amended by 2015 D.C. B. 158 § 7082, effective Oct. 22, 2015 (retroactive to Oct. 1, 2015); see District of Columbia OTR Notice 2015-06 (Nov. 16, 2015). BNA-SUTN DC 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted Any person aggrieved by a final determination of tax or by a denial of a claim for refund (other than a refund of tax finally determined under D.C. Code Ann. §47-2019)may, within six months from the date of final determination or from the date of the denial of a claim for refund, appeal to the Superior Court of the District of Columbia. D.C. Code Ann. §47-2021(a). Appeal from Assessment Any person aggrieved by any assessment by the District of any sales taxes, or penalties thereon, may within 6 months after the date of such assessment appeal from the assessment to the Superior Court of the District of Columbia. D.C. Code Ann. §47-3303. The person first must pay the tax together with penalties and interest due thereon to the D.C. Treasurer. D.C. Code Ann. §47-3303. The mailing to the taxpayer of a statement of taxes due shall be considered notice of assessment with respect to the taxes. D.C. Code Ann. §47-3303. The Court shall hear and determine all questions arising on appeal and shall make separate findings of fact and conclusions of law, and shall render its decision in writing. The Court may affirm, cancel, reduce, or increase the assessment. D.C. Code Ann. §47-3303. Appeal from Decision of Superior Court Decisions of the Superior Court in civil tax cases are reviewable in the same manner as other decisions of the court in civil cases tried without a jury. The District of Columbia Court of Appeals has the power to affirm, modify, or reverse the decision of the Superior Court with or without remanding the case for hearing. D.C. Code Ann. §47-3304. BNA-SUTN DC 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2019, the District of Columbia's interest rate on underpayments of tax is 10 percent. D.C. Code Ann. §47-4201(a)(1); D.C. Code Ann. §47-4201(d)(2). BNA-SUTN DC 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2019, the District of Columbia's interest rate on overpayments of tax is 4 percent. D.C. Code Ann. §47-4202(c)(2);Federal Reserve Bank of Richmond, Historical Discount Rates. BNA-SUTN DC 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No The District of Columbia has not announced a tax amnesty program for 2019. BNA-SUTN DC 31.14.11.
+
+==================================================

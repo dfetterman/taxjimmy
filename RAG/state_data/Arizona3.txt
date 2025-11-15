@@ -1,0 +1,165 @@
+State: Arizona
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Depends Biodiesel is subject to the motor fuel excise tax, and is therefore exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §28-5601, et seq. BNA-SUTN AZ 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Depends Butane is exempt from Arizona's transaction privilege and use taxes if used to propel a motor vehicle. Otherwise, butane is subject to Arizona's transaction privilege and use tax as tangible personal property. Ariz. Rev. Stat. Ann. §42-5061(A)(35). BNA-SUTN AZ 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Depends Compressed natural gas is exempt from Arizona's transaction privilege and use taxes if used to propel a motor vehicle. Otherwise, compressed natural gas is subject to Arizona's transaction privilege and use tax as tangible personal property. Ariz. Rev. Stat. Ann. §42-5061(A)(35). BNA-SUTN AZ 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Taxable Undyed diesel is subject to motor fuel excise tax, and is therefore exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §28-5601, et seq. BNA-SUTN AZ 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Exempt Dyed diesel is subject to Arizona's transaction privilege and use taxes as tangible personal property. Ariz. Rev. Stat. Ann. §42-5010(A)(1)(l); Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Rev. Stat. Ann. §42-5155(A), as amended by 2018 Ariz. S.B. 1390, effective Aug. 3, 2018. BNA-SUTN AZ 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Exempt Gasoline is subject to the motor fuel excise tax and is therefore exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §28-5601, et seq. BNA-SUTN AZ 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Depends Gasohol is subject to the motor fuel excise tax and is therefore exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §28-5601, et seq. BNA-SUTN AZ 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Kerosene is subject to Arizona's transaction privilege and use taxes as tangible personal property. Ariz. Rev. Stat. Ann. §42-5010(A)(1)(l); Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Rev. Stat. Ann. §42-5155(A), as amended by 2018 Ariz. S.B. 1390, effective Aug. 3, 2018. BNA-SUTN AZ 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Depends Natural gas is exempt from Arizona's transaction privilege and use taxes if used to propel a motor vehicle. Ariz. Rev. Stat. Ann. §42-5061(A)(35). BNA-SUTN AZ 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+No Guidance Arizona does not specify the tax treatment of propane. However, natural gas is exempt from tax if used to propel a motor vehicle, and propane is included in Arizona's definition of natural gas. Ariz. Rev. Stat. Ann. §42-5061(A)(35); Ariz. Rev. Stat. Ann. §42-5151(8). BNA-SUTN AZ 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Taxable Heating oil is subject to Arizona's transaction privilege and use taxes as tangible personal property. Ariz. Rev. Stat. Ann. §42-5010(A)(1)(l); Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Rev. Stat. Ann. §42-5155(A), as amended by 2018 Ariz. S.B. 1390, effective Aug. 3, 2018. BNA-SUTN AZ 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Yes Sales of Alternative Fuel to a Used Oil Fuel Burner Sales of alternative fuel to a used oil fuel burner who has received a permit to burn used oil or used oil fuel are exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(A)(46); Ariz. Rev. Stat. Ann. §1-215; Ariz. Rev. Stat. Ann. §49-426; Ariz. Rev. Stat. Ann. §49-480. Coal Arizona exempts sales of coal from transaction privilege tax under the retail classification, provided that on or before December 31, 2022, the following occur:• the Navajo Nation approves the transfer of ownership of the Navajo generating station by a resolution that is adopted by the Navajo Nation council and signed by the president of the Navajo Nation; and • the Navajo Nation delivers the resolution to the governor of Arizona and a copy to the director of the department of revenue. Ariz. Rev. Stat. Ann. §42-5061(A)(61), as amended by 2018 Ariz. H.B. 2003, effective Apr. 25, 2018. BNA-SUTN AZ 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Taxable Electricity is subject to Arizona's transaction privilege tax under the utilities classification. Ariz. Rev. Stat. Ann. §42-5063(A)(2); see Arizona Publication No. 618. The utility classification does not include:• sales of ancillary services, electric distribution services, electric generation services, electric transmission services and other services related to providing electricity, gas or water to a person who resells the services; Ariz. Rev. Stat. Ann. §42-5063(B)(1). or • sales of ancillary services, electric distribution services, electric generation services, electric transmission services and other services that are related to providing electricity to a retail electric customer who is located outside Arizona for use outside Arizona if the electricity is delivered to a point of sale outside Arizona. Ariz. Rev. Stat. Ann. §42-5063(B)(4). Fees from Constructing Developments Revenue received by a municipally-owned utility from fees charged to persons constructing residential, commercial, or industrial developments is deductible from the amounts taxable under the utilities classification. Further, revenue received by a municipally-owned utility from fees charged to persons connecting those developments to the municipal utility system are also deductible. In order to qualify, the fees must be separated and only used for capital expansion, system enlargement, or debt service of the utility system. Arizona Publication No. 618. Hospitals and Health Care Organizations The gross income from sales of electricity to qualifying hospitals is deductible from the receipts subject to the transaction privilege tax under the utilities classification. Gross income from sales of electricity to qualifying health care organizations is also deductible if the electricity is used only to provide health-and medical-related educational and charitable services. Arizona Publication No. 618. A “qualifying hospital” is a licensed hospital organized and operated exclusively for charitable purposes, or operated by the federal government, Arizona or a political subdivision of Arizona. Ariz. Rev. Stat. Ann. §42-5001(15), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019; see Arizona Publication No. 605. A “qualifying health care organization”is a recognized nonprofit under I.R.C. §501(c) that uses, saves or invests at least 80 percent of all monies that it receives each year only for health and medical related educational and charitable services. Ariz. Rev. Stat. Ann. §42-5001(13), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019. Environmental Technology The income from the sale of electricity to certain environmental technology manufacturers, producers, or processors is deductible from a utility's taxable income. Only the electricity used directly in environmental technology manufacturing, producing, or processing is deductible. Arizona Publication No. 618. The deduction is only available for electricity used to power machinery during its first fifteen years of service. Arizona Publication No. 618. BNA-SUTN AZ 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Taxable Natural gas is subject to Arizona's transaction privilege tax under the utilities classification. Ariz. Rev. Stat. Ann. §42-5063(A)(1); see Arizona Publication No. 618. The utility classification does not include sales of ancillary services and other services related to gas to a person who resells the services. Ariz. Rev. Stat. Ann. §42-5063(B)(1). Fees from Constructing Developments Revenue received by a municipally-owned utility from fees charged to persons constructing residential, commercial, or industrial developments is deductible from the amounts taxable under the utilities classification. Further, revenue received by a municipally-owned utility from fees charged to persons connecting those developments to the municipal utility system are also deductible. In order to qualify, the fees must be separated and only used for capital expansion, system enlargement, or debt service of the utility system. Arizona Publication No. 618. Hospitals and Health Care Organizations The gross income from sales of natural gas to qualifying hospitals is deductible from the receipts subject to the transaction privilege tax under the utilities classification. Gross income from sales of natural gas to qualifying health care organizations is also deductible if the natural gas is used only to provide health-and medical-related educational and charitable services. Arizona Publication No. 618. A “qualifying hospital” is a licensed hospital organized and operated exclusively for charitable purposes, or operated by the federal government, Arizona or a political subdivision of Arizona. Ariz. Rev. Stat. Ann. §42-5001(15), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019; see Arizona Publication No. 605. A “qualifying health care organization”is a recognized nonprofit under I.R.C. §501(c) that uses, saves or invests at least 80 percent of all monies that it receives each year only for health and medical related educational and charitable services. Ariz. Rev. Stat. Ann. §42-5001(13), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019. Environmental Technology The income from the sale of natural gas to certain environmental technology manufacturers, producers, or processors is deductible from a utility's taxable income. Only the natural gas used directly in environmental technology manufacturing, producing, or processing is deductible. Arizona Publication No. 618. The deduction is only available for natural gas used to power machinery during its first fifteen years of service. Arizona Publication No. 618. BNA-SUTN AZ 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Depends Arizona does not address whether steam is subject to transaction privilege tax under the utilities classification. See Ariz. Rev. Stat. Ann. §42-5063. BNA-SUTN AZ 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Taxable Water is subject to Arizona's transaction privilege tax under the utilities classification. Ariz. Rev. Stat. Ann. §42-5063(A)(1); see Arizona Publication No. 618. The utility classification does not include sales of ancillary services and other services related to water to a person who resells the services. Ariz. Rev. Stat. Ann. §42-5063(B)(1). Fees from Constructing Developments Revenue received by a municipally-owned utility from fees charged to persons constructing residential, commercial, or industrial developments is deductible from the amounts taxable under the utilities classification. Further, revenue received by a municipally-owned utility from fees charged to persons connecting those developments to the municipal utility system are also deductible. In order to qualify, the fees must be separated and only used for capital expansion, system enlargement, or debt service of the utility system. Arizona Publication No. 618. Hospitals and Health Care Organizations The gross income from sales of water to qualifying hospitals is deductible from the receipts subject to the transaction privilege tax under the utilities classification. Gross income from sales of water to qualifying health care organizations is also deductible if the water is used only to provide health- and medical-related educational and charitable services. Arizona Publication No. 618. A “qualifying hospital” is a licensed hospital organized and operated exclusively for charitable purposes, or operated by the federal government, Arizona or a political subdivision of Arizona. Ariz. Rev. Stat. Ann. §42-5001(15), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019; see Arizona Publication No. 605. A “qualifying health care organization”is a recognized nonprofit under I.R.C. §501(c) that uses, saves or invests at least 80 percent of all monies that it receives each year only for health and medical related educational and charitable services. Ariz. Rev. Stat. Ann. §42-5001(13), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019. Environmental Technology The income from the sale of water to certain environmental technology manufacturers, producers, or processors is deductible from a utility's taxable income. Only the water used directly in environmental technology manufacturing, producing, or processing is deductible. Arizona Publication No. 618. The deduction is only available for water used by machinery during its first fifteen years of service. Arizona Publication No. 618. BNA-SUTN AZ 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+No Guidance Arizona does not address the taxability of other utilities. See Ariz. Rev. Stat. Ann. §42-5063. BNA-SUTN AZ 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Exempt Retail Classification Machinery and equipment used directly in mining operations are exempt from Arizona's retail transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(2); Ariz. Rev. Stat. Ann. §42-5159(B)(2). This exemption extends to equipment required to prepare ore or minerals for extraction and equipment required for transporting the material above-ground. Ariz. Rev. Stat. Ann. §42-5061(B)(2); Ariz. Rev. Stat. Ann. §42-5159(B)(2). To determine whether an item is used directly in mining operations, Arizona courts will consider the following three factors:• (1) Is the disputed item necessary to production? • (2)How close, physically and causally, is the disputed item to the finished product? • (3) Does the disputed item operate harmoniously with exempt machinery to make an integrated synchronized system? See, e.g., Duval Sierrita Corp. v. Arizona Dept. of Rev., 568 P.2d 1098 (Ariz. Ct. App. 1977). Chemical Catalysts Chemicals used in mining are exempt from tax if the use of the chemicals involves direct contact with materials from which a product is produced for the purpose of causing a chemical or physical change to occur in the materials. Ariz. Rev. Stat. Ann. §42-5061(A)(38); Ariz. Rev. Stat. Ann. §42-5159(A)(38). Pollution Control Equipment Gross proceeds from the sale of machinery, equipment, and related structural components are exempt from transaction privilege and use taxes if used directly in mining operations to prevent, monitor, control, or abate pollution in order to meet or exceed rules or regulations promulgated by the Federal Energy Regulatory Commission, the U.S. Environmental Protection Agency, the U.S. Nuclear Regulatory Commission, the Arizona Department of Environmental Quality, or any political subdivision of Arizona. Ariz. Rev. Stat. Ann. §42-5061(B)(18); Ariz. Rev. Stat. Ann. §42-5159(B)(18). Contractors The gross proceeds of contractors from sales of exempt mining machinery and equipment are exempt from the transaction privilege tax imposed under the prime contracting classification. Ariz. Rev. Stat. Ann. §42-5075(B)(8). Mining Classification Arizona imposes transaction privilege tax under the mining classification on the business of mining, quarrying, or producing for sale, profit or commercial use any nonmetalliferous mineral product that has been mined, quarried or otherwise extracted within the boundaries of Arizona. Ariz. Rev. Stat. Ann. §42-5072(A). The tax base is gross proceeds of sales or income derived from the business and includes the value of the entire product mined, quarried or produced for sale, profit or commercial use in Arizona, regardless of the place of the sale of the product. Ariz. Rev. Stat. Ann. §42-5072(B); Ariz. Rev. Stat. Ann. §42-5072(C). Arizona exempts the business of mining, quarrying, or producing coal from transaction privilege tax under the mining classification, provided that on or before December 31, 2022, the following occur:• the Navajo Nation approves the transfer of ownership of the Navajo generating station by a resolution that is adopted by the Navajo Nation council and signed by the president of the Navajo Nation; and • the Navajo Nation delivers the resolution to the governor of Arizona and a copy to the director of the department of revenue. Ariz. Rev. Stat. Ann. §42-5072(G), as amended by 2018 Ariz. H.B. 2003, effective Apr. 25, 2018. BNA-SUTN AZ 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Exempt Machinery or equipment used directly to drill for oil or gas or used directly in the process of extracting oil or gas from the earth for commercial purposes are exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(10). Machinery and equipment that is used in connection with manufacturing, processing, fabricating, job printing, refining, mining, metallurgical operations, telecommunications, producing or transmitting electricity or research and development is exempt from tax if it is used to meet or exceed state or federal guidelines to prevent, monitor, control, or reduce land, water, or air pollution. Ariz. Rev. Stat. Ann. §42-5061(B)(18); Ariz. Rev. Stat. Ann. §42-5159(B)(18), as amended by 2012 Ariz. H.B. 2835, effective Aug. 2, 2012 (renumbering the statute). BNA-SUTN AZ 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Exempt Machinery or equipment used directly to drill for oil or gas or used directly in the process of extracting oil or gas from the earth for commercial purposes are exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(10). BNA-SUTN AZ 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Exempt Pipes or valves four inches in diameter or larger used to transport oil, natural gas, artificial gas, water or coal slurry, including compressor units, regulators, machinery and equipment, fittings, seals and any other part that is used in operating the pipes or valves, are also exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(6). BNA-SUTN AZ 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Exempt Certain equipment purchased from June 30, 2004, through June 30, 2024, by certified timber harvesting and processing businesses are exempt from Arizona's transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(21); Ariz. Rev. Stat. Ann. §42-5159(B)(21); Ariz. Rev. Stat. Ann. §41-1516. A “qualified business”is one that is primarily engaged in a “qualifying project.” Ariz. Rev. Stat. Ann. §41-1516(B)(1). “Qualifying project” means harvesting, transporting or processing any of the following: dead standing and fallen timber, and forest thinnings associated with the harvest of small diameter timber, slash, wood chips, peelings, brush and other woody vegetation, removed from federal, state and other public forest land and from private forest land. The exemption generally does not apply to self-propelled vehicles required to be licensed by the state of Arizona. Ariz. Rev. Stat. Ann. §42-5061(B)(21), as amended by 2012 Ariz. H.B. 2835, effective Aug. 2, 2012 (renumbering the statute); Ariz. Rev. Stat. Ann. §42-5159(B)(21), as amended by 2012 Ariz. H.B. 2835, effective Aug. 2, 2012 (renumbering the statute); Ariz. Rev. Stat. Ann. §41-1516. A business seeking this exemption is required to submit evidence that it is engaged in a qualifying project to the Department of Commerce. Ariz. Rev. Stat. Ann. §41-1516(B)(1). Also exempt are motor vehicle fuel and use fuel purchased by a qualified business for off-road use in harvesting, processing or transporting qualifying forest products removed from qualifying projects. Ariz. Rev. Stat. Ann. §42-5061(A)(54). Contractors The gross proceeds of contractors from sales of exempt timber harvesting and processing equipment are also exempt from the transaction privilege tax imposed under the prime contracting classification. Ariz. Rev. Stat. Ann. §42-5075(B)(8), as amended by 2012 Ariz. H.B. 2835, effective Aug. 2, 2012 (renumbering the statute). BNA-SUTN AZ 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+No Guidance Arizona does not provide guidance regarding other natural resources. See Ariz. Rev. Stat. Ann. §42-5001, et seq. BNA-SUTN AZ 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Exempt Machinery, equipment and transmission lines are exempt from Arizona's transaction privilege and use taxes if used directly in producing energy, but not including energy distribution. Ariz. Rev. Stat. Ann. §42-5061(B)(4). Transformers and control equipment used at transmission substation sites constitute exempt equipment used in producing electrical power. Ariz. Rev. Stat. Ann. §42-5061(B)(4). Machinery and equipment that is used in connection with manufacturing, processing, fabricating, job printing, refining, mining, metallurgical operations, telecommunications, producing or transmitting electricity or research and development is exempt from tax if it is used to meet or exceed state or federal guidelines to prevent, monitor, control, or reduce land, water, or air pollution. Ariz. Rev. Stat. Ann. §42-5061(B)(18); Ariz. Rev. Stat. Ann. §42-5159(B)(18), as amended by 2012 Ariz. H.B. 2835, effective Aug. 2, 2012 (renumbering the statute). BNA-SUTN AZ 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Exempt Solar Energy Devices Proceeds from the sale of solar energy devices by a registered solar energy retailer may be deducted from the amount subject to Arizona's transaction privilege tax. Ariz. Rev. Stat. Ann. §42-5061(M). Solar energy retailers must register with the Department of Revenue in order to become registered solar energy retailers. By registering, the retailer acknowledges that it will make its books and records relating to sales of solar energy devices available to the department for examination. Ariz. Rev. Stat. Ann. §42-5061(M); Arizona Publication No. 622. Additionally, under the prime contracting classification, contractors may deduct from their tax base the gross proceeds of sales from a contract to provide and install a solar energy device. This deduction is available from Dec. 31, 1996, to Jan. 1, 2017. Ariz. Rev. Stat. Ann. §42-5075(B)(13), as renumbered by 2012 Ariz. S.B. 1045, effective Feb. 28, 2012. The entire portion of the gross sales proceeds derived from providing and installing a solar power plant may be deducted from the tax base for the prime contracting classification, with the exception of costs associated with ancillary items, including land clearing, land grading, fencing, and land improvements (including roads). See Arizona Private Taxpayer Ruling LR12-001 (Feb. 13, 2012). A “solar energy device” is defined as a system or series of mechanisms designed primarily to provide heating or cooling, to produce electrical power or mechanical power, to provide solar daylighting, or to provide any combination of these by means of collecting and transferring solar-generated energy into such uses by either active or passive means. This may include wind-generator systems that produce electricity. Qualifying solar energy systems may have the capability to store solar energy for future use. Passive solar energy systems must be clearly designed as solar energy devices(e.g., a trombe wall) and not merely a part of a normal structure (e.g., a window). Ariz. Rev. Stat. Ann. §42-5001(20), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019; see Arizona Private Taxpayer Ruling LR12-001 (Feb. 13, 2012) (applying definition to installation of a solar power plant). “Solar daylighting” is a device that is specifically designed to capture and redirect the visible portion of the solar beam, while controlling the infrared portion, for use in illuminating interior building spaces in lieu of artificial lighting. Ariz. Rev. Stat. Ann. §42-5001(19), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019. For a discussion of tax incentive programs that may apply to the solar energy industry, see the Green Incentives Navigator, beginning at Arizona: Solar. Renewable Energy Credits Retail sales or transfers of renewable energy credits are eligible for a transaction privilege and use tax exemption. Ariz. Rev. Stat. Ann. §42-5061(A)(56), as renumbered by 2015 Ariz. S.B. 1216 effective April 9, 2015; Ariz. Rev. Stat. Ann. §42-5159(A)(51). A renewable energy credit is defined as a “unit”created by the corporation commission or a public utility's governing body to track kilowatt hours of electricity derived from a renewable energy resource or displaced by a renewable energy resource. Ariz. Rev. Stat. Ann. §42-5061(A)(56), as renumbered by 2015 Ariz. S.B. 1216 effective April 9, 2015. Utility Providers Transfers of electricity from a solar photovoltaic generation system to an electric utility distribution system are excluded from the definition of “business” for purposes of Arizona's transaction privilege tax. Such transfers are not subject to tax. Ariz. Rev. Stat. Ann. §42-5001(1)(b). A utility provider's sale of energy to an environmental technology manufacturer, producer or processor of a utility product that is used directly in environmental technology manufacturing is not subject to the transaction privilege and use tax. Ariz. Rev. Stat. Ann. §42-5063(C)(4). BNA-SUTN AZ 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+No Guidance Arizona does not provide any exemptions specifically for energy conservation machinery and equipment. See Ariz. Rev. Stat. Ann. §42-5001, et seq. BNA-SUTN AZ 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+No Guidance Arizona does not provide any exemptions specifically for wastewater treatment. See Ariz. Rev. Stat. Ann. §42-5001, et seq. BNA-SUTN AZ 30.7.
+
+==================================================

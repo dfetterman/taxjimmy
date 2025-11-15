@@ -1,0 +1,165 @@
+State: Nebraska
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Depends Biodiesel for use on the highways is not subject to sales and use tax. However, biodiesel sold for other purposes would be subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05; Nebraska Rev. Stat. §77-2701.16. Nebraska levies an excise tax on all motor fuels such as biodiesel based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Nontaxable Butane is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as butane based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. BNA-SUTN NE 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Nontaxable Compressed natural gas is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as compressed natural gas based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Nontaxable Undyed diesel is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as undyed diesel based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Taxable Dyed diesel is subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05; Neb. Admin. R. & Regs. 316-1-004.01. Dyed diesel is exempt from the motor fuels excise tax, thus sales of dyed diesel are subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. BNA-SUTN NE 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Nontaxable Gasoline is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as gasoline based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Nontaxable Gasohol is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as gasohol based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Kerosene is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on kerosene blended with diesel based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Neb. Admin. R. & Regs. 316-73–003.01D. Kerosene subject to the excise tax is not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Nontaxable Liquefied natural gas is not subject to sales and use tax. Nebraska Rev. Stat. §77-2704.05. Nebraska levies an excise tax on all motor fuels such as liquefied natural gas based on the volume of fuels sold, used or distributed for sale or use within Nebraska. Motor fuels subject to the excise tax are not subject to sales and use taxes. Nebraska Rev. Stat. §77-2704.05. For more information on motor fuel excise taxes, see the Excise Tax Navigator, at Nebraska Section 8.1. BNA-SUTN NE 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Nontaxable Sales tax is not imposed on sales and purchases of propane when more than 50 percent of the amount purchased is for use directly in processing, manufacturing, or refining, in the generation of electricity, in the compression of natural gas for retail sale as a vehicle fuel, or by any hospital. Nebraska Rev. Stat. §77-2704.13(2), as amended by 2014 Neb. L.B. 867, effective Apr. 2, 2014;Neb. Dept. of Rev., Sales Tax Exemptions (2014). BNA-SUTN NE 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Exempt The gross receipts from the sale, lease, rental, storage, or use of heating oil are exempt from the Nebraska sales and use tax. Nebraska Rev. Stat. §77-2704.04. BNA-SUTN NE 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Exempt Sales of minerals, oil, and gas, as defined in Nebraska Rev. Stat. §57-702 are exempt from Nebraska's sales and use tax. Nebraska Rev. Stat. §77-2704.04; Nebraska Rev. Stat. §57-235. BNA-SUTN NE 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Taxable Utilities are subject to the state of Nebraska sales and use tax. Nebraska imposes sales and use tax on the gross receipts from the furnishing of electricity services, other than electricity supplied to customer-generators. Nebraska Rev. Stat. §77-2701.16(2)(c). A customer-generator is an end-use electricity customer that generates electricity on the customer's side of the meter. For customer-generators, only the net energy use upon billing or statements is subject to tax. Nebraska Rev. Stat. §77-2701.16(2)(c)(ii), , as amended by 2013 Neb. L.B. 90, effective June 5, 2013. See also Nebraska Revenue Ruling 01-16-2 (revoking Nebraska Revenue Ruling 01-10-3, issued Aug. 4, 2010, which had concluded that the gross amount was subject to tax). For additional discussion of utilities tax in Nebraska, see the Excise Tax Navigator, at Nebraska 11.1. BNA-SUTN NE 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Taxable The gross receipts from the furnishing of natural gas are subject to sales and use tax. Nebraska Rev. Stat. §70-2002(1). BNA-SUTN NE 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Nontaxable Nebraska does not subject the sale of heat in the form of steam to sales and use tax providing the steam is returned to the utility company through a closed system. Nebraska Revenue Ruling 1-76-13. Where the steam is piped to the customer, circulated through the customer's heating system, and then piped back to the supplier there is neither a sale of tangible personal property nor a sale of a taxable service. Nebraska Revenue Ruling 1-76-13. BNA-SUTN NE 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Taxable The gross receipts from the furnishing of sewer and water services are subject to sales and use tax. Nebraska Rev. Stat. §77-2701.16(2)(c)(i). A customer-generator is an end-use electricity customer that generates electricity on the customer's side of the meter. For customer-generators, only the net energy use upon billing or statements is subject to tax. Nebraska Rev. Stat. §77-2701.16(2)(c)(ii), , as amended by 2013 Neb. L.B. 90, effective June 5, 2013. BNA-SUTN NE 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+No Guidance Nebraska does not address the taxability of other utilities. Nebraska Rev. Stat. §77-2701.16(2)(c). BNA-SUTN NE 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Taxable Nebraska does not specifically enumerate mining, timber, and natural resource extraction as a taxable services. Therefore, mining services are not subject to sales and use tax. Nebraska Rev. Stat. §77-2701.16(4)(f). Nebraska does not provide an explicit exemption for machinery and equipment purchased for mining purposes. Further Nebraska provides that “manufacturing does not include mining, quarrying, and any other activity performed in severing raw materials from the ground.” Neb. Admin. R. & Regs. 316-1-107.03C. BNA-SUTN NE 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Taxable Nebraska does not provide an explicit exemption for machinery and equipment purchased for oil extraction purposes. Nebraska Rev. Stat. §77-2701.16(4)(f). Further Nebraska provides that “manufacturing does not include mining, quarrying, and any other activity performed in severing raw materials from the ground.” Neb. Admin. R. & Regs. 316-1-107.03C. BNA-SUTN NE 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Taxable Nebraska does not specifically enumerate oil well services as taxable, thus such services are not subject to sales and use tax. Nebraska Rev. Stat. §77-2701.16(4)(f). BNA-SUTN NE 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Taxable Nebraska does not specifically enumerate mining, timber, and natural resource extraction as a taxable services. Therefore mining services are not subject to sales and use tax. Nebraska Rev. Stat. §77-2701.16(4)(f). BNA-SUTN NE 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Taxable Nebraska does not specifically enumerate timber extraction as a taxable service. Therefore timber services are not subject to sales and use tax. Nebraska Rev. Stat. §77-2701.16(4)(f). BNA-SUTN NE 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Not Specified Nebraska does not address the taxability of other natural resources. Nebraska Rev. Stat. §77-2701.16(2)(c). BNA-SUTN NE 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Depends Nebraska does not provide an explicit exemption for machinery and equipment purchased for energy production purposes, but authorizes a refund of sales and use tax paid by qualifying taxpayers using renewable energy to produce electricity for sale. Nebraska Rev. Stat. §77-2701.47(1). Nebraska Advantage Act Nebraska allows a refund of all sales and use tax paid by a taxpayer that uses one or more sources of renewable energy to produce electricity for sale and that meets the investment and wage requirements under the Nebraska Advantage Act . Nebraska Rev. Stat. §77-5725(1)(e)(ii); see Nebraska Revenue Ruling 29-17-2 (Dec. 13, 2017). A refund is allowed for sales and use tax paid on all purchases and rentals of:• qualified property used as a part of the project; • property, excluding motor vehicles, based in Nebraska and used in both the state and another state in connection with the project, except when the property is to be used for fundraising for or for the transportation of an elected official; • tangible personal property by a contractor or repair person after appointment as a purchasing agent of the owner of the improvement to real estate when such property is incorporated into real estate as a part of a project. The refund is based on 50 percent of the contract price excluding any land, as the cost of materials subject to the sales and use tax; • tangible personal property by a contractor or repair person after appointment as a purchasing agent of the taxpayer when such property is annexed to, but not incorporated into, real estate as a part of a project. The refund is based on the cost of materials subject to the sales and use tax that were annexed to real estate; and • tangible personal property by a contractor or repair person after appointment as a purchasing agent of the taxpayer when such property is both (A)incorporated into real estate as a part of a project and (B) annexed to, but not incorporated into, real estate as a part of a project. The refund is based on 50 percent of the contract price, excluding any land, as the cost of materials subject to the sales and use tax. Nebraska Rev. Stat. §77-5725(2)(a). Applicants filing for the renewable energy project benefit on or after Jan. 1, 2017, must meet an investment requirement of $20 million. Nebraska Revenue Ruling 29-16-1 (Nov. 21, 2016); Nebraska Revenue Ruling 29-18-1 (Nov. 15, 2018). Applicants filing between Jan. 1, 2016, and Dec. 31, 2016 were required to meet the same $20 million investment. Nebraska Revenue Ruling 29-15-1 (Dec. 17, 2015). An application guide and 2015 and 2016 Nebraska Advantage Applications are available on the Department of Revenue's website. The Department has also issued a ruling on making multiple Nebraska Advantage applications. Nebraska Revenue Ruling 29-17-2 (Dec. 13, 2017). Failure to maintain an average number of employees greater than or equal to the number of employees required in the base year results in a partial recapture of the benefits. Nebraska Rev. Stat. §77-5725(1)(e). For more information on the Nebraska Advantage Act, see Credits and Incentives Navigator, at Nebraska 6.1. BNA-SUTN NE 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Exempt Nebraska does not have any specific sales tax exemptions for energy generation, or related machinery and equipment, and manufacturing expressly does not include the generation or transmission of electricity. Nebraska Rev. Stat. §77-2701.46; Neb. Admin. R. & Regs. 316-1-107.03. Solar Energy Nebraska does not have any specific sales tax exemptions for solar energy generation, or related machinery and equipment, and manufacturing expressly does not include the generation or transmission of electricity. Nebraska Rev. Stat. §77-2701.46; Neb. Admin. R. & Regs. 316-1-107.03. However, qualifying solar projects may be exempt under the C-BED program. Personal property used in a Community-Based Energy Development (C-BED) that operates a new renewable energy generation project using wind, solar, biomass or landfill gas a fuel source and that has at least 25 percent of the gross power purchase agreement payments flowing to the owners or to the local community is exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.57, as amended by 2014 Neb. L.B. 402, and by 2016 Neb. L.B. 736, effective July 21, 2016. Wind Energy Nebraska does not have any specific sales tax exemptions for wind energy generation, or related machinery and equipment, and manufacturing expressly does not include the generation or transmission of electricity. Nebraska Rev. Stat. §77-2701.46; Neb. Admin. R. & Regs. 316-1-107.03. However, qualifying wind projects may be exempt under the C-BED program. Personal property used in a Community-Based Energy Development (C-BED) that operates a new renewable energy generation project using wind, solar, biomass or landfill gas a fuel source and that has at least 25 percent of the gross power purchase agreement payments flowing to the owners or to the local community is exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.57, as amended by 2014 Neb. L.B. 402, and by 2016 Neb. L.B. 736, effective July 21, 2016. Hydroelectric Energy Nebraska does not have any specific sales tax exemptions for hydroelectric energy generation, or related machinery and equipment, and manufacturing expressly does not include the generation or transmission of electricity. Nebraska Rev. Stat. §77-2701.46; Neb. Admin. R. & Regs. 316-1-107.03. However, qualifying hydroelectric energy projects may be exempt under the C-BED program. Personal property used in a Community-Based Energy Development (C-BED) that operates a new renewable energy generation project using wind, solar, biomass or landfill gas a fuel source and that has at least 25 percent of the gross power purchase agreement payments flowing to the owners or to the local community is exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.57, as amended by 2014 Neb. L.B. 402, and by 2016 Neb. L.B. 736, effective July 21, 2016. Geothermal Energy Nebraska does not have any specific sales tax exemptions for geothermal energy generation, or related machinery and equipment, and manufacturing expressly does not include the generation or transmission of electricity. Nebraska Rev. Stat. §77-2701.46; Neb. Admin. R. & Regs. 316-1-107.03. However, qualifying geothermal energy projects may be exempt under the C-BED program. Personal property used in a Community-Based Energy Development (C-BED) that operates a new renewable energy generation project using wind, solar, biomass or landfill gas a fuel source and that has at least 25 percent of the gross power purchase agreement payments flowing to the owners or to the local community is exempt from sales and use tax. Nebraska Rev. Stat. §77-2704.57, as amended by 2014 Neb. L.B. 402, and by 2016 Neb. L.B. 736, effective July 21, 2016. Motor Vehicles Nebraska does not have any specific sales tax exemptions for hybrid, electric or alternative energy motor vehicle. BNA-SUTN NE 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Taxable Nebraska does not enumerate an explicit exemption for machinery and equipment purchased for energy conservation purposes, but that equipment may qualify for the state's exemptions regarding alternative energy. Nebraska Rev. Stat. §77-2701.47(1). BNA-SUTN NE 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Taxable Nebraska does not enumerate an explicit exemption for machinery and equipment purchased for wastewater treatment purposes. Nebraska Rev. Stat. §77-2701 et seq. BNA-SUTN NE 30.7.
+
+==================================================

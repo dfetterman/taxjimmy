@@ -1,0 +1,33 @@
+State: District of Columbia
+
+
+
+Topic: Overview: Taxation of Property and Services Taxation of Property
+
+Taxable There is a presumption that all receipts from the sale of tangible personal property are subject to tax unless the contrary is established. D.C. Code Ann. §47-2010; D.C. Code Ann. §47-2203. Tangible personal property that is included within the definition of “retail sale”and “sale at retail” is subject to tax. D.C. Code Ann. §47-2001(n)(1); D.C. Code Ann. §47-2201(a)(1); D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2202. More information on the taxation of property is available at 1300 T.M., Sales and Use Taxes: General Principles, and 1360 T.M., Sales and Use Taxes: Retail Sales Issues. BNA-SUTN DC 9.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Taxation of Services
+
+Depends In the District of Columbia, certain specifically enumerated services consumed in the District that are defined to be retail sales are subject to tax. D.C. Code Ann. §47-2001(n)(1); D.C. Code Ann. § 47-2201(a); D.C. Code Ann. § 47-2202. There is a presumption that all receipts from the sale of services enumerated in the sales and use tax chapter of the D.C. Code are subject to tax unless the contrary is established. D.C. Code Ann. §47-2010. BNA-SUTN DC 9.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Mixed Transactions and the True Object Test
+
+Depends The District of Columbia provides that professional, insurance, or personal service transactions which involve sales as inconsequential elements for which no separate charges are made are not taxable. D.C. Code Ann. §47-2001(n)(2)(B). Where the price of the tangible personal property is less than 10 percent of the amount charged for the services rendered, the sale is inconsequential and therefore exempt from taxation. This regulation creates a bright-line test to determine whether the transaction is exempt from taxation. D.C. Mun. Regs. tit. 9, §403.2. The U.S. Court of Appeals for the District of Columbia applied the true object test in Wash. Times-Herald, Inc. v. Dist. of Columbia. Wash. Times-Herald, Inc. v. District of Columbia, 213 F.2d 23 (D.C. Cir. 1954) Mats bearing comic strip images used in a series of operations to produce its funny pages were held exempt from taxation. The relevant statute exempts personal service transactions that involve sales as inconsequential elements. D.C. Code Ann. §47-2001(n)(2)(B); D.C. Code Ann. §47-2001(n)(2)(B). BNA-SUTN DC 9.3.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Bundled Transactions
+
+Depends The District of Columbia has addressed bundled transactions for health club services, finding both taxable health club services and nontaxable services will be presumed taxable if a primary purpose of the transaction is the sale of the taxable health club services. D.C. Mun. Regs. tit. 9, §427.10. The District of Columbia has also addressed bundled transactions for bowling alley and billiard parlor services, finding both taxable bowling alley or billiard parlor services and nontaxable services will be presumed taxable if a primary purpose of the transaction is the sale of the taxable bowling alley or billiard parlor services. D.C. Mun. Regs. tit. 9, §424.5. BNA-SUTN DC 9.3.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Local Jurisdictions, Taxability Distinctions
+
+No Local Tax There are no local option sales or use taxes in the District of Columbia. D.C. Code Ann. § 47-2002. BNA-SUTN DC 9.4.
+
+==================================================

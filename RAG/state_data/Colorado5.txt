@@ -1,0 +1,201 @@
+State: Colorado
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Exempt Real property (e.g., land and buildings) is not tangible personal property, nor is tangible personal property that loses its identity when it becomes an integral and inseparable part of the realty and is removable only with substantial damage to the premises. However, property severed from real estate becomes tangible personal property. 39 Colo. Code Regs. §26-102.15. BNA-SUTN CO 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Four-Part Test In determining whether tangible personal property becomes a part of realty to which it is affixed, the Department of Revenue considers the following factors: the extent to which the personal property is physically made part of the realty; the extent to which removal of the personal property would damage the realty; the extent to which the affixed property is of general benefit to the realty; and the intentions of the parties. See Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). A fixture remains taxable tangible personal property unless it becomes physically incorporated, annexed, or affixed to the real property. 39 Colo. Code Regs. §26-102.15. Fixtures means those articles which, although once movable property, have become an accessory to and a part of real property by having been physically incorporated, annexed, or affixed to the real property. “Fixtures” includes systems for the heating, air conditioning, ventilation, sanitation, lighting, and plumbing of such building. “Fixtures” does not include machinery, equipment, or other articles related to a commercial or industrial operation which are affixed to the real property for proper utilization of such articles. Colo. Rev. Stat. §39-1-102(4). Tangible personal property is deemed to lose its identity as such and become an integral and inseparable part of realty when it is affixed to realty and its removal would result in substantial damage to the realty. 39 Colo. Code Regs. §26-102.15. An item whose use is primarily tied to a business operation retains its status as personal property, regardless of whether the item is affixed to the building or otherwise constitutes a fixture system. Del Mesa Farms v. Board of Equalization, 956 P.2d 661 (Colo. Ct. App. 1998). BNA-SUTN CO 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Taxable The Department takes the position that tangible personal property not made to order that is sold over-the-counter retains its character as tangible personal property following its installation upon realty if it is sold with an agreement for its installation. 39 Colo. Code Regs. §26-SR-10(3). Examples of such property include stoves, refrigerators, air conditioners, washing machines, dryers, carpets, electrical fixtures, ready-made cabinets, storm doors, garage doors, storm windows, screens, sod, audiovisual equipment, entertainment systems and burglar alarms. 39 Colo. Code Regs. §26-SR-10(3); Colorado General Information Letter GIL-15-011 (July 22, 2015); Colorado FYI Sales 6; see Colorado General Information Letter GIL-16-017 (Aug. 5, 2016) (differentiating between tangible personal property that becomes real property and tangible personal property that retains its character). On such sales the sales tax must be collected from the purchaser by the retailer-contractor. If the installation charges are segregated in the bid proposal or sales invoices, these charges are not taxable. 39 Colo. Code Regs. §26-SR-10(3). BNA-SUTN CO 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Nontaxable Plumbing fixtures are building materials and contractors must pay tax on such materials that are built in by them into some building. 39 Colo. Code Regs. §26-SR-10(1); Colorado Private Letter Ruling PLR-17-006 (Aug. 22, 2017). BNA-SUTN CO 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Taxable The sale and installation of carpeting is a retail sale; accordingly, the sale of the carpeting is taxable to the purchaser and the installation labor is nontaxable if separately stated. 39 Colo. Code Regs. §26-SR-10(3). The sale and installation of window treatments such as venetian blinds, drapes, shutters is a retail sale; accordingly, the sale of such window treatments is taxable to the purchaser and the installation labor is nontaxable if separately stated. Colorado Components of Contractor Compliance. BNA-SUTN CO 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Taxable Generally, signage does not constitute an improvement to real property and the sale of signage is treated as a taxable sale of tangible personal property. Colorado General Information Letter GIL-18-003 (Jan. 30, 2018); Colorado General Information Letter GIL-08-027 (Oct. 16, 2008). Separately stated charges for installation services are not taxable if the services are not required to be purchased as part of the sale of the signage. Colorado General Information Letter GIL-18-003 (Jan. 30, 2018); Colorado General Information Letter GIL-08-027 (Oct. 16, 2008). Charges for the removal of an old sign are not taxable. Colorado General Information Letter GIL-08-027 (Oct. 16, 2008). BNA-SUTN CO 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+No Guidance Colorado does not address the character of leasehold improvements. Colorado Components of Contractor Compliance. BNA-SUTN CO 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Nontaxable Charges for construction labor billed to a contractee are not subject to sales and use tax in Colorado. 39 Colo. Code Regs. §26-SR-10. The taxability of incorporated construction materials depends on whether the contract is a lump-sum or a “time and material” contract. 39 Colo. Code Regs. §26-SR-10(3); Colorado FYI Sales 6. A lump-sum contract is a contract in which the charges for incorporated materials are not separate from charges for labor, including installation, and other labor that the contractor performs. See, e.g., Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). A “time and material”contract is a contract in which the agreed contract price is divided into a separately stated agreed contract price for incorporated materials and a separately stated amount for other charges including labor and installation. See, e.g., Colorado General Information Letter GIL-15-011 (July 22, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). If a contractor performs construction activities pursuant to a lump-sum contract, the contractor pays tax on all building supplies and construction materials. 39 Colo. Code Regs. §26-SR-10(2); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). In this case, the contractor is considered to be consuming, rather than reselling, the materials. See, e.g., Colo. Dept. of Rev., Revocation of PLR-16-002, Oil and Gas Well Cementing Products and Services (Feb. 14, 2019) (stating that a contractor cementing oil and gas wells is consuming, rather than reselling, materials used to perform the service). If a contract makes separate charges for materials and labor, a contractor is the retailer of the separately stated materials and the contractor must collect sales tax from the contractor's customer on the amount charged for the separately stated materials. 39 Colo. Code Regs. §26-SR-10(3); see also Colorado General Information Letter GIL-15-015 (June 8, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). Materials That Retain Their Character as Tangible Personal Property A contractor is considered a retailer with respect to building materials that retain their character as tangible personal property following affixation. The contractor must collect sales tax from the contractor's customer on the amount charged for such materials. 39 Colo. Code Regs. §26-SR-10(1); 39 Colo. Code Regs. §26-SR-10(3); Colorado General Information Letter GIL-15-011 (July 22, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). Materials Purchased for Qualifying Affordable Housing Projects Colorado exempts from sales tax the purchase by a qualifying entity of tangible personal property acquired, used, or consumed for and during the construction of qualifying affordable housing projects. Colo. Rev. Stat. §39-26-704(1.5); Colo. Rev. Stat. §29-4-227; Colorado FYI Sales 95. Colorado provides that a qualifying project includes the new construction or substantial renovation of affordable housing which involve costs which may be capitalized. Colo. Rev. Stat. §29-4-203(12); Colorado FYI Sales 95. Any tangible personal property must be incorporated or consumed in the construction project in order to qualify for the exemption. For example, building materials, fixtures, and appliances qualify for the exemption. Colorado FYI Sales 95. Any tangible personal property purchased for the qualifying project that is retained or reused after the project is complete, such as tools or equipment, does not qualify for the exemption. Colorado FYI Sales 95. The affordable housing project exemption applies in proportion to the percentage of the project that is for occupancy by low income individuals. If the qualifying project is not entirely affordable housing, the project will only qualify for a partial exemption. Colorado FYI Sales 95. A qualifying entity is an entity which is directly or indirectly owned, in whole or in part, by a city, county, or multijurisdictional housing authority. Colorado FYI Sales 95. BNA-SUTN CO 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Lump-sum charges billed to a contractee under a lump-sum construction contract are not subject to sales and use tax in Colorado. 39 Colo. Code Regs. §26-SR-10. BNA-SUTN CO 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable Contractors must pay tax on their purchases of materials used in fulfilling lump-sum construction contracts. 39 Colo. Code Regs. §26-SR-10(2); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). Where a contractor performs construction services under a lump-sum construction contract, the contractor is considered the consumer of construction materials that the contractor affixes to realty such that they lose their identity as tangible personal property. In this case, the contractor is responsible for the payment of sales or use tax on the contractor's acquisition cost of materials so affixed. 39 Colo. Code Regs. §26-SR-10(2); Colorado FYI Sales 6; Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). When a contractor purchases a modular home from a manufacturer and affixes the home to a foundation under a lump sum contract, the contractor must pay sales tax on 52 percent of the manufacturer's sale price. Colorado General Information Letter GIL-14-002. BNA-SUTN CO 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable Where a contractor performs construction activities under a time and materials contract that states separately the amounts charged by the contractor for labor and construction materials, the contractor does not collect tax on the separately stated charges for labor. 39 Colo. Code Regs. §26-SR-10; Colorado General Information Letter GIL-13-018. BNA-SUTN CO 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Taxable Where a contractor performs construction activities under a time and materials contract that states separately the amounts charged by the contractor for labor and construction materials, the contractor is considered a retailer of the materials. 39 Colo. Code Regs. §26-SR-10(3); see also Colorado General Information Letter GIL-15-015 (June 8, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). In such a case, the contractor must collect sales tax from the contractor's customer on the amount charged for separately stated materials. If a contractor uses a time and materials contract, the contractor must collect the sales tax on the amount charged to the customer for the materials and, to charge the sales tax, must have a sales tax license. 39 Colo. Code Regs. §26-SR-10(3); Colorado FYI Sales 6; see also Colorado General Information Letter GIL-15-015 (June 8, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). The tax base for the materials is the amount on the invoice from the contractor to the customer, not the cost of the materials to the contractor. Colorado General Information Letter GIL-13-004. The contractor does not collect tax on the separately stated charges for labor. Colorado General Information Letter GIL-13-018. BNA-SUTN CO 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Exempt Colorado exempts as sales for resale a contractor's purchases of building materials under a separated construction contract. 39 Colo. Code Regs. §26-SR-10(3); Colorado FYI Sales 6; see also Colorado General Information Letter GIL-15-015 (June 8, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). However, when the contractor invoices the end user, the contractor must charge sales tax on the marked up billing price of all materials. 39 Colo. Code Regs. §26-SR-10(3); Colorado FYI Sales 6; see also Colorado General Information Letter GIL-15-015 (June 8, 2015); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). BNA-SUTN CO 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Nontaxable Real property repair services are not subject to sales and use tax in Colorado. See 39 Colo. Code Regs. §26-SR-10. BNA-SUTN CO 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Taxable If a contractor separately states on its invoices the amounts charged for labor and construction materials, then the contractor is considered a retailer of, and must collect sales tax on the amount charged for, the separately stated materials. 39 Colo. Code Regs. §26-SR-10(3). BNA-SUTN CO 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Nontaxable Real property installation services are not subject to sales and use tax in Colorado. See 39 Colo. Code Regs. §26-SR-10; Colorado General Information Letter GIL-13-018 (Aug. 8, 2013). BNA-SUTN CO 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Nontaxable Colorado sales and use tax does not apply to interior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Nontaxable Colorado sales and use tax does not apply to exterior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Colorado sales and use tax does not apply to excavation and demolition services for real property. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Colorado sales and use tax does not apply to site cleanup services for real property. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable Plumbing fixtures are building materials and contractors must pay tax on such materials that are built in by them into some building. 39 Colo. Code Regs. §26-SR-10(1); Colorado Private Letter Ruling PLR-17-006 (Aug. 22, 2017). BNA-SUTN CO 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable Electrical work is a nontaxable real property improvement. Colorado Components of Contractor Compliance. BNA-SUTN CO 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Nontaxable HVAC installation is not a taxable service. 39 Colo. Code Regs. §26-SR-10(3); 39 Colo. Code Regs. §26-102.7(a)(5). Colorado does not impose sales and use tax on charges to install tangible personal property upon realty such that the tangible personal property becomes an integral part of the realty, thereby losing its identity as tangible personal property. Tangible personal property is deemed to lose its identity as such and become an integral and inseparable part of realty when it is affixed to realty and its removal would result in substantial damage to the realty. Removal of an HVAC system would likely cause substantial damage and would therefore lose its identity as tangible personal property. Accordingly, HVAC installation is not a taxable service. 39 Colo. Code Regs. §26-SR-10(3); 39 Colo. Code Regs. §26-102.7(a)(5); 39 Colo. Code Regs. §26-102.15. Contractors are liable for tax on items of tangible personal property they affix to real property that become an integral part of the real property pursuant to a construction contract. Colorado General Information Letter GIL-13-011 (Apr. 18, 2013); Colorado Private Information Letter GIL-08-009 (Feb. 28, 2008). BNA-SUTN CO 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Nontaxable HVAC repair is a nontaxable service. 39 Colo. Code Regs. §26-SR-28; 39 Colo. Code Regs. §26-SR-10. Colorado sales and use tax does not apply to repair and maintenance services for real property. This includes real property contracting and construction services, as well as repair and renovation services for real property and its fixtures, such as HVAC systems. 39 Colo. Code Regs. §26-SR-28; 39 Colo. Code Regs. §26-SR-10. Contractors performing repair services are subject to tax on any materials consumed by them in the rendition of such services. 39 Colo. Code Regs. §26-SR-28; 39 Colo. Code Regs. §26-SR-10. BNA-SUTN CO 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Nontaxable Gutter cleaning is not a taxable service in Colorado. Colo. Rev. Stat. §39-26-104(1)(a). Colorado sales and use tax does not apply to exterior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Nontaxable Window cleaning is not a taxable service in Colorado. Colo. Rev. Stat. §39-26-104(1)(a). Colorado sales and use tax does not apply to exterior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Nontaxable Power washing buildings is not a taxable service in Colorado. Colo. Rev. Stat. §39-26-104(1)(a). Colorado sales and use tax does not apply to exterior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Nontaxable Power washing sidewalks and parking lots is not a taxable service in Colorado. Colo. Rev. Stat. §39-26-104(1)(a). Colorado sales and use tax does not apply to exterior real property maintenance. 39 Colo. Code Regs. §26-SR-28. BNA-SUTN CO 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Nontaxable Sign painting and lettering services are not a taxable services in Colorado. Colo. Rev. Stat. §39-26-104(1)(a). Services to real and personal property are generally not subject to Colorado's sales and use tax. Colo. Rev. Stat. §39-26-104(1)(a). BNA-SUTN CO 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Yes A contractor is any individual, partnership, firm, association, corporation, trust, estate or joint venture who performs work on real property for another party under the terms of an agreement. 39 Colo. Code Regs. §26-SR-10(1). Contractors performing only lump-sum contracts on real property should not obtain a sales tax license and must pay all applicable sales and use taxes on their purchases. Colorado FYI Sales 6. A retailer-contractor is a contractor who is also a retail merchant of building supplies or construction materials used or made in the course of executing a real property contract. Retailer-contractor must have a sales tax license and maintain Colorado sales tax accounts. 39 Colo. Code Regs. §26-SR-10(3); Colorado FYI Sales 6. BNA-SUTN CO 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Yes For tax purposes, subcontractors have the same meaning as contractors. Subcontractors who purchase building supplies and construction materials for a job are deemed the user or consumer of those materials and are responsible for the payment of sales or use tax on the subcontractor's acquisition cost. Colorado FYI Sales 6; 39 Colo. Code Regs. §26-SR-10(6). BNA-SUTN CO 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Exempt Contractors are exempt from sales and use tax when purchasing building materials to construct structures for use on property owned by charitable, religious, and governmental organizations. Colo. Rev. Stat. §39-26-708(2)(b); 39 Colo. Code Regs. §26-708.1; Colorado FYI Sales 6. Contractors may also purchase building materials for construction work on leased buildings if the lease is paid by the exempt organization. Colorado FYI Sales 6. Sales by a retailer to a contractor with a valid contractor's exemption certificate, whether the contractor is treated as a consumer or a reseller, are exempt. Colorado General Information Letter GIL-17-001 (Jan. 24, 2017). A contractor must complete and submit a Contractor Application for Exemption Certificate Form(Colorado Form DR 0172) to obtain an exemption certificate for each tax-exempt project. Colorado FYI Sales 6. Construction and building materials used in the building, erection, alteration, or repair of structures, highways, roads, streets, and other public works are exempt from tax. The construction and building materials eligible for exemption are those that are incorporated as integral and inseparable parts of buildings, highways, and other real property structures. Colo. Rev. Stat. §39-26-708(1); Colorado Private Letter Ruling PLR-17-006 (Aug. 22, 2017) (materials such as logs and silt fencing that are meant to degrade within 24 months of use are not tax exempt because they do not constitute a permanent part of realty). BNA-SUTN CO 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Partial Exemption Beginning on or after Sept. 1, 2019, sales of manufactured homes constructed in compliance with the National Manufactured Housing Construction and Safety Standards Act of 1974 are exempt from state sales and use tax. Colo. Rev. Stat. §39-26-721(3), as amended by 2018 Colo. H.B. 1315, §1, effective Aug. 8, 2018, and by 2019 Colo. H.B. 1011, §2, effective Sept. 1, 2019. This exemption for manufactured homes applies in a special district or other limited purpose authority that has the same tax base as the state, but does not apply in a statutory municipality or county unless the municipality or county creates a local exemption based on the state exemption. Colo. Rev. Stat. §29-2-105(1)(d)(I)(Q), as amended by 2018 Colo. H.B. 1315, §1, effective Aug. 8, 2018. For the purposes of this exemption, “manufactured home” means any preconstructed building unit or combination of units, manufactured in a factory or location other than the site of the completed home, and designed for residential occupancy in either a temporary or permanent location. Colo. Rev. Stat. §42-1-102(106)(b). Prior to July 1, 2019, only 52 percent of the purchase price of factory-built housing is subject to Colorado sales and use tax. The sale of a used manufactured home, on which sales tax has already been paid, is exempt from sales and use tax. Colo. Rev. Stat. §39-26-721(1), as amended by 2019 Colo. H.B. 1011, §2, effective Sept. 1, 2019. For the purposes of this partial exemption, “factory-built housing” generally includes any manufactured home designed for installation on a permanent foundation that is constructed according to the building codes of the Colorado State Housing Board. Colo. Rev. Stat. §24-32-3302(10). Manufacturers of modular homes often sell homes to builders at the manufacturer's location. The builder then transports the home to the customer's location to affix it to a foundation. Prior to July 1, 2019, the responsible party for sales tax purposes depends on the type of contract between the builder and customer. For lump-sum contracts, the builder is treated as the end user of the tangible personal property and must remit sales tax to the manufacturer on 52 percent of the purchase price. When the contract between the builder and seller is a time-and-materials contract, the builder's purchase of the home is made for resale and the customer must pay sales tax on 52 percent of the price charged by the manufacturer and the builder's mark-up. Colorado General Information Letter GIL-14-002 (Jan. 14, 2013). A manufactured home may also be sold to the buyer already installed on a foundation. If the manufactured home rests on a temporary foundation, the ultimate homeowner must pay sales tax on 52 percent of the total sales price. The retailer may buy the home from the manufacturer as a nontaxable sale for resale. However, if the manufactured home is installed onto a permanent foundation, the sale to the ultimate homeowner is a sale of real property not subject to sales tax. The retailer is treated as a contractor in such a sale, and must pay tax on 52 percent of the sales price of the home when purchasing it from the manufacturer. Colorado General Information Letter GIL-16-017 (Aug. 5, 2016). BNA-SUTN CO 28.8.
+
+==================================================

@@ -1,0 +1,297 @@
+State: Delaware
+
+
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients General Rule
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Definition of 'Food and Food Ingredients'
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Grocery Items
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Candy
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Dietary Supplements and Vitamins
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Alcoholic Beverages
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Non-Alcoholic Beverages
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Carbonated Beverages
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Non-Carbonated Beverages
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Juice
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Soft Drinks
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Bottled Water
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Water, Other Than Bottled Water
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.11.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Ice
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.12.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Coffee
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.13.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Tea
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.14.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Other Food Products
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.1.3.15.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food General Rule
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Prepared Food'
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Restaurant' or 'Eating Establishment'
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Immediate Consumption'
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold With Eating Utensils Provided by Seller
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food, Sold in an Unheated State by Weight or Volume as a Single Item
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.6.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food, Ordinarily Requiring Cooking Prior to Consumption
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.6.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Meat or Seafood Products, Sold in an Unheated State by Weight or Volume as a Single Item
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.6.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Bakery Items
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.6.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food Sold by Manufacturer Classified in NAICS Sector 311, Except 3118 (Bakeries)
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.6.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold by Grocery Stores and Supermarkets
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Nursing Homes and Other Long-term Care Facilities
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Educational Institutions
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Hospitals and Other Healthcare Facilities
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Correctional Facilities
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.2.11.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items General Rule
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Bags, Carryout, and To-Go Containers
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Condiments
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Cups
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Cutlery and Utensils
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Napkins
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Plates, Bowls, etc.
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Straws
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Toothpicks
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Other Disposable Food Items
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.3.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food Stamp and WIC Purchases
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Catering and Personal Chefs
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Complimentary Meals
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Mobile Food Vendors
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Restaurant Equipment
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Vending Machines
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Other Food-Related Transactions
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 11.10.
+
+==================================================

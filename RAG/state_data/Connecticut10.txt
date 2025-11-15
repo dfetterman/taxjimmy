@@ -1,0 +1,51 @@
+State: Connecticut
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination Connecticut is a destination-based taxing jurisdiction. Conn. Gen. Stat. §12-407(a)(2); Conn. Gen. Stat. §12-408(1); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A); see also Connecticut Informational Publication IP 2015(12) (Jan. 2015) (replacing Connecticut Informational Publication IP 2006(11) (April 2007)). BNA-SUTN CT 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Destination Connecticut is a destination-based taxing jurisdiction. Conn. Gen. Stat. §12-407(a)(2); Conn. Gen. Stat. §12-408(1); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A); see also Connecticut Informational Publication IP 2015(12) (Jan. 2015) (replacing Connecticut Informational Publication IP 2006(11) (April 2007)). BNA-SUTN CT 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination A lease is subject to Connecticut sales and use tax if delivery of the tangible personal property is taken within Connecticut or the property is actually used in Connecticut. The tax does not apply where delivery occurs outside Connecticut and the property is used exclusively outside Connecticut. Conn. Agencies Regs. §12-426-25(h). BNA-SUTN CT 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+No Tax There are no additional sales taxes imposed by any local jurisdictions in Connecticut. See, e.g., Connecticut Informational Publication IP 2015(12) (Jan. 12, 2015). BNA-SUTN CT 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Yes When any service or article of tangible personal property has already been subjected to a sales or use tax by another state in an amount less than Connecticut's sales and use tax, the tax for that service or tangible personal property in Connecticut is applied at a rate measured by the difference between the rate in Connecticut and the rate in the other state. Conn. Gen. Stat. §12-430(5) If the tax imposed in the other state is the same or in excess of the rate imposed in Connecticut, then no tax is due in Connecticut. Conn. Gen. Stat. §12-430(5); Connecticut Informational Publication IP 2016(19) (Jan. 6, 2017). BNA-SUTN CT 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+No Guidance Connecticut does not directly address the taxability of tangible personal property first used outside Connecticut. However, Connecticut does address tangible personal property purchased for use outside Connecticut. Conn. Gen. Stat. §12-408c(a). BNA-SUTN CT 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+No Guidance Connecticut does not directly address the taxability of tangible personal property temporarily stored in Connecticut. However, Connecticut does address tangible personal property purchased for use outside Connecticut. Conn. Gen. Stat. §12-408c(a). BNA-SUTN CT 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Refundable A business purchaser in Connecticut may claim a sales tax refund if it purchases tangible personal property from a retailer for use or consumption in carrying on its business solely outside Connecticut. Conn. Gen. Stat. §12-408c(a)(A); Conn. Gen. Stat. §12-408c(a)(B). More specifically, this applies when the purchase is made for the purpose of subsequently transporting the property outside of Connecticut by common or contract carrier for use or consumption thereafter solely outside Connecticut, or for the purpose of being processed, fabricated, or manufactured into other tangible personal property to be transported outside Connecticut by common or contract carrier, and thereafter used or consumed solely outside Connecticut. Conn. Gen. Stat. §12-408c(a)(A); Conn. Gen. Stat. §12-408c(a)(B). Under the state's “Buy Connecticut”provision, the Commissioner, at his discretion, may issue permits allowing taxpayers to purchase tangible personal property from Connecticut retailers exempt from sales and use taxes, where the property is eventually shipped out of Connecticut for exclusive use by the purchaser outside Connecticut. The DRS has determined that tangible personal property purchased with an exemption permit may be stored in Connecticut for up to three years from the date it is purchased. The business must own the property at the time it is transported outside Connecticut, and must use the property exclusively outside of Connecticut after it is transported, for as long as it owns the property. Conn. Gen. Stat. §12-4308c(b)(2); Connecticut Special Notice SN 2001(5) (Sept. 28, 2001). BNA-SUTN CT 4.3.3.
+
+==================================================

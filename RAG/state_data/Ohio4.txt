@@ -1,0 +1,411 @@
+State: Ohio
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Aircraft are subject to sales and use taxes in Ohio. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A). The vendor must collect and remit the tax at the earlier of when the property subject to the lease is delivered or the initial lease payment is required. For aircraft leases, the vendor is the individual or entity that receives the down payment or initial lease payment. Ohio Letter to Vendors March 2006. For charges that cannot be calculated when the lease is consummated, the lessor must collect tax when the charges are actually billed to the lessee. Ohio Letter to Vendors March 2006. These charges include excess mileage charges and property tax reimbursements. Ohio Letter to Vendors March 2006. If a taxpayer claims an airplane purchase is a tax exempt sale for lease, and any lease transaction the taxpayer engages in is a “sham transaction” without economic substance, the sale is not a tax exempt sale for lease purposes and is still taxable. Pi in the Sky, LLCv. Testa, Ohio BTA, No. 2015-2005 (Jan. 19, 2017). Aircraft-related Research and Development Expenses Ohio exempts sales of tangible personal property, consumables, and services used or consumed in performing research and development activities with respect to aerospace vehicles, avionics systems, or associated human performance equipment or technology. Ohio Rev. Code Ann. §5739.02(B)(49), as amended by 2013 Ohio H.B. 59, effective Sept. 29, 2013 (applies to the storage, use, or other consumption of tangible personal property and services and retail sales made on or after Oct. 1, 2013). Acceleration Clause Effective February 1, 2002, Ohio implemented an acceleration clause pertaining to leases of aircraft. Ohio taxes leases with an indefinite term or a fixed term of more than 30 days upfront on the entire lease term's total price. The price also includes other consideration, such as down payments, manufacturer rebates, interest, and documentary fees. However, Ohio does not tax amounts paid as refundable deposits, so long as the deposits are actually refunded. If part of the deposit is withheld, then Ohio imposes tax when the charge is billed to the lessee. Ohio Rev. Code Ann. §5739.02(A)(2). BNA-SUTN OH 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Depends Ohio exempts from tax the sale of materials, parts, equipment, or engines used in the repair of aircraft. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. Fractional Aircraft Ownership Programs Ohio exempts from taxation the sale of replacement and modification parts for engines, airframes, instruments, and interiors for aircraft used primarily in a fractional aircraft ownership program. The exemption includes the sale of services for the repair, modification, and maintenance of aircraft, and machinery, equipment, and supplies primarily used to provide those services. Ohio Rev. Code Ann. §5739.02(B)(44). A fractional aircraft ownership program is one in which persons within an affiliated group own private aircraft in common, in exchange for a certain percentage of use. Ohio Rev. Code Ann. §5739.01(KKK). BNA-SUTN OH 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Depends Ohio exempts from tax the sale of repair, remodeling, replacement, or maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Ohio exempts from tax the sale of oil, filters and other maintenance items used in maintenance of aircraft. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Depends Ohio exempts from taxation the sale of repair, remodeling, replacement, or maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Depends Motor fuels in Ohio are subject to excise tax. Motor fuels on which excise tax has been paid are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(6). However, if a refund is sought for excise taxes paid, sales tax may be applied to the principal amount on which excise tax was refunded. Ohio Rev. Code Ann. §5739.02(B)(6). BNA-SUTN OH 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Sales of aircraft to providers of transportation services are not subject to tax if the aircraft is used by a common carrier acting as a public utility. Ohio Rev. Code Ann. §5739.02(B)(42)(j). The criterion for common carrier service is “the shipping of cargo at a time and to a place announced to the public in advance and doing so at a reasonable and nondiscriminatory charge.” Epic Aviation, LLC v. Testa, No. 2014-1691, 2016 BL 190078 (Sup. Ct. Ohio 2016), reversing Epic Aviation, LLC v. Testa, No. 2012-1557 (Ohio Bd. Tax App. 2014), Castle Aviation, Inc. v. Wilkins, 847 N.E. 2d 420 (Ohio 2006). See Ohio Rev. Code Ann. §5739.02(B)(42)(a). Additionally, sales of aircraft used directly in the rendition of a public utility service, such as passenger transport, are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(3)(b); Ohio Rev. Code Ann. §5739.01(P); Ohio Rev. Code Ann. §5739.02(B)(42)(a); see Ohio Information Release ST 2008-04. BNA-SUTN OH 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Ohio exempts from tax the sale of materials, parts, equipment, or engines used in the repair or maintenance of aircraft or avionics systems, as well as the sale of repair, remodeling, replacement, or maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Depends Ohio exempts from tax the sale of repair, remodeling, replacement, or maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Ohio exempts from tax the sale of materials, parts, equipment, or engines used in the repair or maintenance of aircraft or avionics systems, as well as the sale of repair, remodeling, replacement, or maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Depends Ohio exempts from tax the sale of maintenance services performed on aircraft or avionics systems. Ohio Rev. Code Ann. §5739.02(B)(49). To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. To qualify for this exemption, aircraft must have more than 6,000 pounds maximum certified takeoff weight or be used exclusively in general aviation (all civilian flying except scheduled passenger airlines). Ohio Rev. Code Ann. §5739.02(B)(49); Ohio Information Release ST 2008-04. BNA-SUTN OH 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Depends Motor fuels in Ohio are subject to excise tax. Motor fuels on which excise tax has been paid are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(6). However, if a refund is sought for excise taxes paid, sales tax may be applied to the principal amount on which excise tax was refunded. Ohio Rev. Code Ann. §5739.02(B)(6). BNA-SUTN OH 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Motor vehicles purchased in Ohio are subject to sales tax. Ohio Rev. Code Ann. §5739.02(B). Motor vehicles that are purchased outside of Ohio are subject to the use tax. Ohio Rev. Code Ann. §5741.02. “Motor vehicle”is defined as any vehicle, including mobile homes and recreational vehicles, that is propelled or drawn by power other than muscular power or power collected from overhead electric trolley wires. Ohio Rev. Code Ann. §4501.01(B); Ohio Information Release ST 2017-01 (Jan. 1, 2017). “Motor vehicle”specifically does not include utility vehicles, motorized bicycles, road rollers, traction engines, power shovels, power cranes, and other equipment used in construction work and not designed for or employed in general highway transportation, well-drilling machinery, ditch-digging machinery, farm machinery, and trailers that are designed and used exclusively to transport a boat between a place of storage and a marina, or in and around a marina, when drawn or towed on a public road or highway for a distance of no more than ten miles and at a speed of twenty-five miles per hour or less. Ohio Information Release ST 2017-01 (Jan. 1, 2017). Effective Jan. 1, 2017, “motor vehicle” no longer includes under-speed vehicles and mini-trucks. “Under speed vehicles” means a three or four-wheeled vehicle, including a vehicle commonly known as a golf cart, with an attainable speed on a paved level surface of not more than twenty miles per hour and with a gross vehicle weight rating less than three thousand pounds. “Mini-truck”means a vehicle that has four wheels, is propelled by an electric motor with a rated power of seven thousand five hundred watts or less or an internal combustion engine with a piston displacement capacity of six hundred sixty cubic centimeters or less, has a total dry weight of nine hundred to two thousand two hundred pounds, contains an enclosed cabin and a seat for the vehicle operator, resembles a pickup truck or van with a cargo area or bed located at the rear of the vehicle, and was not originally manufactured to meet federal motor vehicle safety standards. Ohio Information Release ST 2017-01 (Jan. 1, 2017). Casual Sales Motor vehicles purchased in a casual sale (that is, a sale of tangible personal property by a person not engaged in the business of selling such tangible personal property) are specifically excluded from the casual sale exemption. Ohio Rev. Code Ann. §5739.02(B)(8); Ohio Information Release ST 2017-01 (Jan. 1, 2017). Sales Price The commissioner may assess additional use tax if the price paid for a motor vehicle is substantially less than the average purchase price of the same vehicle. The taxpayer may rebut this by providing proof of the actual amount paid for the vehicle, such as a bill of sale, cancelled check, or sworn statement from the seller of the vehicle. Monigold v. Testa, Ohio Board of Tax Appeals Decision No. 2017-181 (Jan. 4, 2018) (taxpayer paid use tax on a vehicle on a $7,000 purchase price and commissioner assessed additional use tax because the reported price was more than $7,000 less than the average purchase price and the taxpayer did not provide evidence on the amount actually paid in a timely manner). Out-of-state Purchases For vehicles purchased in another jurisdiction, and on which tax has already been paid, Ohio allows a reciprocal use tax credit up to the amount of any sales or use tax paid to the other state. The credit equals the amount of tax paid to the other jurisdiction based on the purchase or sale price. If the amount of use tax imposed by Ohio exceeds the amount paid to another state, the difference is allocated proportionally (based on the jurisdiction's tax rates) between state and local taxing authorities. In addition to state taxes paid, Ohio allows a taxpayer to take a credit against Ohio state taxes due for local taxes paid as well as taxes paid to the District of Columbia. Ohio Rev. Code Ann. §5741.02(C)(5); Streamlined Sales Tax Governing Board, Taxability Matrix, Ohio (version 2018.0). Sales of Motor Vehicles to Nonresidents Ohio exempts from tax motor vehicles sold within the state to most nonresidents if:• the out-of-state purchaser intends to remove the vehicle from the state immediately after purchase, and to have the vehicle registered within another state or foreign country; • the state to which the vehicle is being removed does not provide a credit for sales or use tax paid to another state; or • the state to which the vehicle is being removed does not provide for sales or use tax to be applied to the sale of a motor vehicle. Ohio Rev. Code Ann. §5739.02(B)(23); Ohio Rev. Code Ann. §5739.029(B); Guile v. Testa, Ohio Board of Tax Appeals Decision Nos. 2017-2115 (May 21, 2018) (exemption does not apply to Ohio residents). See Ohio Information Release ST 2007-04. Additionally, the out-of-state purchaser must sign an affidavit attesting to the immediate intent to remove the vehicle from the state, or title will not issue. Ohio Rev. Code Ann. §5739.029(C); Ohio Admin. Code §5703-9-10(C), revised Feb. 19, 2015. Dealers must collect sales tax on motor vehicle sales to nonresidents who will remove the vehicle to one of the following states: Arizona, California, Florida, Indiana, Massachusetts, Michigan, and South Carolina. The amount of sales tax to be collected is the lesser of: 1) sales tax due in Ohio; or 2) the amount of sales tax the nonresident would pay in the state of titling, registration or use. Ohio Information Release ST 2007-04 (also listing each state's sales tax rate and trade-in allowance). Motor Vehicle Trade-ins When a motor vehicle is sold by a person engaged in the business of selling motor vehicles, and the vendor accepts another motor vehicle as part of the consideration received for the purchase of the motor vehicle being sold, the credit the dealer allows the consumer for the trade-in reduces the sales price subject to tax. Ohio Rev. Code Ann. §5739.01(H)(2). The Ohio Department of Taxation maintains a document providing examples showing the calculation of sales or use tax due when nonresident customers purchase new vehicles from Ohio dealers with and without trade-in vehicles. The document also identifies seven states, the applicable sales tax rates in these states, and information on whether trade-in allowances are permitted when residents of one of these states purchases a vehicle in Ohio with the intent to remove the vehicle to one of the seven listed states. Ohio Information Release ST 2007-04. Motor Vehicles Sold to Foreign Diplomats Diplomatic Tax Exemption Cards used by foreign diplomats and their members and dependents cannot be used to purchase motor vehicles exempt from use tax. These individuals must have a Motor Vehicle Tax-Exemption Letter issued by the Office of Foreign Missions in order to lease or purchase a vehicle exempt from use tax. U.S. Dept. of State, Letter from the Office of Foreign Missions; Ohio Tax Alert (Jan. 17, 2013). Acceleration Clause Effective Feb. 1, 2002, the Ohio implemented an acceleration clause pertaining to leases of motor vehicles designed by the manufacturer to carry loads of up to one ton. Ohio taxes leases with an indefinite term or a fixed term of more than 30 days upfront on the entire lease term's total price. The price also includes other consideration, such as down payments, manufacturer rebates, interest, and documentary fees. However, Ohio does not tax amounts paid as refundable deposits, so long as the deposits are actually refunded. If part of the deposit is withheld, then Ohio imposes tax when the charge is billed to the lessee. Ohio Rev. Code Ann. §5739.02(A)(2). The vendor must collect and remit the tax at the earlier of the delivery date of the leased property or the date the initial lease payment is required. For motor vehicle leases, the vendor is the dealer with whom the lessee negotiates the lease. Ohio Letter to Vendors March 2006. For charges that cannot be calculated when the lease is consummated, the lessor must collect tax when the charges are actually billed to the lessee. Ohio Letter to Vendors March 2006. Examples of these charges include excess mileage charges and property tax reimbursements. Ohio Letter to Vendors March 2006. Fleet Leases “Fleet Leases” or “Master Leases” are leases of property in which the specific subject items are not identifiable or change over time. Often, these contracts exist for many years. The department views each item as separately leased on the pre-existing contract terms. Ohio Rev. Code Ann. §5739.02(A)(2);Ohio Letter to Vendors March 2006. Ohio does not tax motor vehicle leases to non-Ohio resident individuals. Ohio Letter to Vendors March 2006. BNA-SUTN OH 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Motor vehicle repair parts are subject to sales and use tax. A dealer or repairman may purchase motor vehicle repair and replacement parts exempt for resale, but must charge sales tax or remit use tax when those parts are sold or used in the provision of repair services. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A); Ohio Rev. Code Ann. §5739.01(E). Parts and items attached to motor vehicles that are primarily used for transporting tangible personal property belonging to others by a person engaged in highway transportation for hire are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(32). For more information about motor vehicles primarily used in highway transportation for hire, see the Sales and Use Tax Navigator, at Ohio 29.4.1. BNA-SUTN OH 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Ohio imposes sales and use tax on the repair of motor vehicles. Ohio Rev. Code Ann. §5739.01(B)(3)(c). BNA-SUTN OH 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Motor vehicle repair parts are generally subject to sales and use tax. A dealer or repairman may purchase motor vehicle repair and replacement parts exempt for resale, but must charge sales tax or remit use tax when those parts are sold or used in the provision of repair services. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A); Ohio Rev. Code Ann. §5739.01(E). Parts and items attached to motor vehicles that are primarily used for transporting tangible personal property belonging to others by a person engaged in highway transportation for hire are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(32). For more information about motor vehicles primarily used in highway transportation for hire, see the Sales and Use Tax Navigator, at Ohio 29.4.1. BNA-SUTN OH 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Ohio imposes sales and use tax on the repair and painting of motor vehicles. Ohio Rev. Code Ann. §5739.01(B)(3)(c). BNA-SUTN OH 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Taxable Motor fuels in Ohio are subject to excise tax. Motor fuels on which excise tax has been paid are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(6). However, if a refund is sought for excise taxes paid, sales tax may be applied to the principal amount on which excise tax was refunded. Ohio Rev. Code Ann. §5739.02(B)(6). BNA-SUTN OH 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Ohio does not specifically address short-term motor vehicle rentals, but in general, Ohio includes leases and rentals in the definition of “sale”for sales and use tax purposes. See Ohio Rev. Code Ann. §5739.01(B); Ohio Rev. Code Ann. §5739.02(B). “Loaner” Vehicles During Warranty-Covered Repairs Effective Jan. 1, 2010, Ohio exempts from sales tax any transaction involving a “loaner”vehicle provided to someone whose motor vehicle is undergoing a warranty-covered repair. This exemption applies even if the warranty does not require providing the loaner vehicle. Legislation enacted in 2015 operates retroactively to Jan. 1, 2010, to clarify the exemption as it existed previously, abate any unpaid sales tax liabilities accrued since that date, and it permit refunds for taxes already paid. Ohio Rev. Code Ann. §5739.02(B)(42)(k), as amended by 2015 Ohio H.B. 53, §101.01, effective Jan. 1, 2010; see also 2015 Ohio H.B. 53, §757.30(declaring that the amendments to Ohio Rev. Code Ann. §5739.02 are “to clarify the law as it existed” previously). BNA-SUTN OH 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+No Guidance Ohio does not specifically address the taxability of motor vehicles that are used by dealers as demonstrators. See Ohio Rev. Code Ann. §§5739.01-5739.99. However, in general, property purchased for resale that is subsequently withdrawn from inventory by a vendor for a purpose other than resale is subject to tax. Ohio Rev. Code Ann. §5741.02(D); Ohio Admin. Code §5703-9-04. BNA-SUTN OH 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Tires are subject to sales and use tax as tangible personal property. Ohio Rev. Code Ann. §5739.02(A)(1). Ohio imposes a scrap tire fee on the sale of all tires, which is paid for by wholesale distributors when the tires are sold to Ohio retail dealers. This fee must be included in the sales tax base for tires, even if separately stated on the invoice, bill of sale, receipt, or other similar document provided to the customer. Ohio Dept. of Taxn., Replacement Tire Fee. For more information on fees and excise taxes imposed on tires in Ohio, see the Excise Tax Navigator, at Ohio 7.4. BNA-SUTN OH 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Ohio exempts from tax the sale, lease, repair, and maintenance of motor vehicles that are primarily used for transporting tangible personal property belonging to others by a person engaged in highway transportation for hire. Ohio Rev. Code Ann. §5739.02(B)(32). Parts and items attached to or incorporated in such motor vehicles are also nontaxable. Ohio Rev. Code Ann. §5739.02(B)(32). This exemption requires that the vehicle be used in either highway transportation for hire or as a public utility service. “Highway transportation for hire” means the transportation of personal property belonging to others for consideration by a person authorized by permit or certification to engage in such transportation over the highways or similar public thoroughfares. Ohio Rev. Code Ann. §5739.01(P); Ohio Rev. Code Ann. §5739.01(Z); Ohio Rev. Code Ann. §5739.02(B)(32); R.K.E. Trucking, Inc. v. Zaino, No. 1998-S-13162002-1048 (Ohio 2003); Rumpke Container Serv., Inc. v. Zaino, No. 00-2120 (Ohio 2002) (exemption denied because trash hauler was not in the business of transportation of property of belonging to others, but rather was in the business of waste disposal). See Ohio Board of Tax Appeals Decision Nos. 2016-310, 2016-311, 2016-312, 2016-313 (April 24, 2017) (denying exemption for four crane trucks used for transportation of both recyclables constituting property of others and of waste where taxpayer failed to provide evidence that vehicles were “primarily”used to transport property of others). Some businesses transport tangible personal property in addition to providing other services or selling taxable property. In order for the transportation services to be considered “highway transportation for hire,”the charges for the transportation of the tangible personal property must be separately stated from other charges. See R.L. Best Co. v. Testa, Ohio Board of Tax Appeals Decision No. 2015-2237 (Dec. 4, 2017) (taxpayer did not provide highway transportation for hire in addition to its repair services because the charges for transportation were not separately stated from the charges for repair). Evidence to indicate the actual miles logged by the subject vehicle and the percentage of such miles attributable to the transportation of personal property for hire is required to qualify such activity as the “primary” use of the vehicle. Tri-County Leasing, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1216 (Aug. 6, 2018) (a Certificate of Public Convenience and Necessity issued to an entity other than the taxpayer is not sufficient evidence to demonstrate that a vehicle is used for transportation of the tangible personal property of others); Johnson v. Testa, Ohio Board of Tax Appeals Decision No. 2017-2251, 2017-2252 (June 23, 2017) (where a taxpayer does not have proof, such as mileage logs or job sheets, showing that a motor vehicle is primarily used for the transportation of tangible personal property of others, taxpayer is not entitled to exemption); Ohio Board of Tax Appeals Decision No. 2017-135 (June 23, 2017). In calculating the number of miles a vehicle is used for highway transportation for hire, taxpayers may not use “round trips.” Only the miles when the vehicle contains the tangible personal property being transported are counted; the miles driven with an empty vehicle to pick-up the tangible personal property, or driven with an empty truck after dropping off the tangible personal property are not included. See R.L. Best Co. v. Testa, Ohio Board of Tax Appeals Decision No. 2015-2237 (Dec. 4, 2017). “Motor vehicle”is defined as any vehicle, including mobile homes and recreational vehicles, that is propelled or drawn by power other than muscular power or power collected from overhead electric trolley wires. Ohio Rev. Code Ann. §4501.01(B); Ohio Information Release ST 2017-01 (Jan. 1, 2017). “Motor vehicle”specifically does not include utility vehicles, motorized bicycles, road rollers, traction engines, power shovels, power cranes, and other equipment used in construction work and not designed for or employed in general highway transportation, well-drilling machinery, ditch-digging machinery, farm machinery, and trailers that are designed and used exclusively to transport a boat between a place of storage and a marina, or in and around a marina, when drawn or towed on a public road or highway for a distance of no more than ten miles and at a speed of twenty-five miles per hour or less. Ohio Information Release ST 2017-01 (Jan. 1, 2017). Effective Jan. 1, 2017, “motor vehicle” no longer includes under-speed vehicles and mini-trucks. “Under speed vehicles” means a three or four-wheeled vehicle, including a vehicle commonly known as a golf cart, with an attainable speed on a paved level surface of not more than twenty miles per hour and with a gross vehicle weight rating less than three thousand pounds. “Mini-truck”means a vehicle that has four wheels, is propelled by an electric motor with a rated power of seven thousand five hundred watts or less or an internal combustion engine with a piston displacement capacity of six hundred sixty cubic centimeters or less, has a total dry weight of nine hundred to two thousand two hundred pounds, contains an enclosed cabin and a seat for the vehicle operator, resembles a pickup truck or van with a cargo area or bed located at the rear of the vehicle, and was not originally manufactured to meet federal motor vehicle safety standards. Ohio Information Release ST 2017-01 (Jan. 1, 2017). Movers Household goods movers engaged in highway transportation for hire may make exempt purchases of motor vehicles used in the business. Equipment carried on the motor vehicle that is attached or incorporated in the vehicle is also exempt. Ohio Admin. Code §5703-9-24(A), as amended by Register of Ohio, effective Dec. 19, 2016. Examples of items considered attached or incorporated in the vehicle include spring loaded logistic straps, decking bars, auto tie downs, tie down straps, walkboards, and padlocks and seal locks. Ohio Admin. Code §5703-9-24(A)(1), as amended by Register of Ohio, effective Dec. 19, 2016. Items that are not considered attached or incorporated, and thus, are not exempt, include pads, dollies and carts, piano boards, ladders, refrigerator covers, rug runners and rubber bands and bungie cords. Ohio Admin. Code §5703-9-24(A)(2), as amended by Register of Ohio, effective Dec. 19, 2016. Charges for taxable and nontaxable equipment must be separately stated on the invoice, otherwise the entire charge is subject to tax. Ohio Admin. Code §5703-9-24(C), as amended by Register of Ohio, effective Dec. 19, 2016. BNA-SUTN OH 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Ohio exempts from tax the sale of parts and items attached to motor vehicles that are primarily used for transporting tangible personal property for hire. Ohio Rev. Code Ann. §5739.02(B)(32). This exemption requires that the vehicle be used in either highway transportation of tangible personal property for hire or as a public utility service. Ohio Rev. Code Ann. §5739.01(D)(6); Ohio Rev. Code Ann. §5739.01(P); Ohio Rev. Code Ann. §5739.01(Z); Ohio Rev. Code Ann. §5739.02(B)(32). For more information about motor vehicles primarily used in highway transportation for hire, see the Sales and Use Tax Navigator, at Ohio 29.4.1. BNA-SUTN OH 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Taxable Ohio imposes sales and use tax on the repair of motor vehicles. Ohio Rev. Code Ann. §5739.01(B)(3)(c). BNA-SUTN OH 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Ohio exempts from tax the sale of parts and items attached to motor vehicles that are primarily used for transporting tangible personal property for hire. Ohio Rev. Code Ann. §5739.02(B)(32). This exemption requires that the vehicle be used in either highway transportation of tangible personal property for hire or as a public utility service. Ohio Rev. Code Ann. §5739.01(D)(6); Ohio Rev. Code Ann. §5739.01(P); Ohio Rev. Code Ann. §5739.01(Z); Ohio Rev. Code Ann. §5739.02(B)(32). For more information about motor vehicles primarily used in highway transportation for hire, see the Sales and Use Tax Navigator, at Ohio 29.4.1. BNA-SUTN OH 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Taxable Ohio imposes sales and use tax on the repair and painting of motor vehicles. Ohio Rev. Code Ann. §5739.01(B)(3)(c). BNA-SUTN OH 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Taxable Motor fuels in Ohio are subject to excise tax. Motor fuels on which excise tax has been paid are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(6). However, if a refund is sought for excise taxes paid, sales tax may be applied to the principal amount on which excise tax was refunded. Ohio Rev. Code Ann. §5739.02(B)(6). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Tires are subject to sales and use tax as tangible personal property. Ohio Rev. Code Ann. §5739.02(A)(1). Ohio imposes a scrap tire fee on the sale of all tires, which is paid for by wholesale distributors when the tires are sold to Ohio retail dealers. This fee must be included in the sales tax base for tires, even if separately stated on the invoice, bill of sale, receipt, or other similar document provided to the customer. Ohio Dept. of Taxn., Replacement Tire Fee. For more information on fees and excise taxes imposed on tires in Ohio, see the Excise Tax Navigator, at Ohio 7.4. BNA-SUTN OH 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are generally subject to sales and use taxes in Ohio. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A). Watercraft Trade-ins When a watercraft is sold by a person engaged in the business of selling watercraft, and the vendor accepts another watercraft as part of the consideration received for the purchase of the watercraft being sold, the credit the dealer allows the consumer for the trade-in reduces the sales price subject to tax. Ohio Rev. Code Ann. §5739.01(H)(3). Watercraft Purchased by Non-residents When a watercraft or outboard motor is purchased by a nonresident, tax is due on the lesser of the combined tax rate in effect at the location of the vendor, or the sales, use, or similar excise taxes that the consumer would owe in the state of the consumer's intended titling, registration, or use of the watercraft or outboard motor, with the following requirements:• the consumer immediately will remove the watercraft or outboard motor from Ohio for use outside Ohio; • the consumer will title or register the watercraft or outboard motor in another state, if such titling or registration is required; • the consumer will pay all applicable sales, use, or similar excise taxes due in Ohio of titling, registration, or use; • the state of titling, registration, or use grants a credit against its sales, use, or similar excise tax for tax paid to Ohio; and • the consumer executes the affidavit attesting to the consumer's tax liability in the intended state of titling, registration, or use. Ohio Rev. Code Ann. §5739.027(A). The vendor must collect and remit the tax at the earlier of the date the leased property is delivered or the date the initial lease payment is required. For watercraft, the vendor is the individual or entity that receives the down payment or initial lease payment. Ohio Letter to Vendors March 2006. For charges that cannot be calculated when the lease is consummated, the lessor must collect tax when the charges are actually billed to the lessee. Ohio Letter to Vendors March 2006. These charges include excess mileage charges and property tax reimbursements. Ohio Letter to Vendors March 2006. Acceleration Clause Effective February 1, 2002, Ohio implemented an acceleration clause pertaining to leases of certain items including watercraft and, outboard motors. Ohio taxes leases with an indefinite term or a fixed term of more than 30 days upfront on the entire lease term's total price. The price also includes other consideration, such as down payments, manufacturer rebates, interest, and documentary fees. However, Ohio does not tax amounts paid as refundable deposits, so long as the deposits are actually refunded. If part of the deposit is withheld, then Ohio imposes tax when the charge is billed to the lessee. Ohio Rev. Code Ann. §5739.02(A)(2). BNA-SUTN OH 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Water vessel repair parts are generally subject to sales and use tax. A dealer or repairman may purchase water vessel repair and replacement parts exempt for resale, but must charge sales tax or remit use tax when those parts are sold or used in the provision of repair services. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A); Ohio Rev. Code Ann. §5739.01(E). BNA-SUTN OH 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Depends Repair of water vessels is generally subject to tax. However, if the sale of the property being repaired would have been exempt from sales tax, the repair of the tangible personal property also is exempt from tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a). BNA-SUTN OH 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Water vessel repair parts are generally subject to sales and use tax. A dealer or repairman may purchase water vessel repair and replacement parts exempt for resale, but must charge sales tax or remit use tax when those parts are sold or used in the provision of repair services. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.10(A); Ohio Rev. Code Ann. §5739.01(E). BNA-SUTN OH 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Depends Repair of water vessels is generally subject to tax. However, if the sale of the property being repaired would have been exempt from sales tax, the repair of the tangible personal property also is exempt from tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a). BNA-SUTN OH 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Taxable Motor fuels in Ohio are subject to excise tax. Motor fuels on which excise tax has been paid are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(6). However, if a refund is sought for excise taxes paid, sales tax may be applied to the principal amount on which excise tax was refunded. Ohio Rev. Code Ann. §5739.02(B)(6). BNA-SUTN OH 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of ships or vessels to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). Ohio does not impose sales and use tax on a boat transiently used in Ohio by a nonresident tourist or vacationer if the boat was purchased outside Ohio for use outside Ohio and is not required to be registered or licensed under the laws of Ohio. The result is the same for nonbusiness use within Ohio by a nonresident of Ohio. Ohio Rev. Code Ann. §5741.02(C)(4); see also Gallenstein v. Testa, 6 N.E.3d 1 (Ohio 2014) (a boat owner qualified for the transient use exemption because the boat was purchased out-of-state and was operated in Ohio waters less than a dozen times;also, the boat was principally used in waters of other states; the owner was not required to register the boat in Ohio, which would have excluded it from the transient use exemption). Where an exemption for the purchase of a watercraft, outboard motor, or personal watercraft is claimed on the basis that the sale is interstate commerce, the clerk of the courts will not issue a certificate of title unless the application is accompanied by a statement of fact regarding the sale. Ohio Admin. Code §5703-9-25, as amended by Register of Ohio, effective Dec. 19, 2016. BNA-SUTN OH 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Repair parts to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Nontaxable Repairs to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Ohio exempts from taxation the sale of lubricants for ships and vessels used in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Repairs to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Exempt Ohio exempts from taxation the sale of fuel for ships and vessels used in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Exempt Sales of ships or vessels to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Exempt Repair parts to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Repairs to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Exempt Ohio exempts from taxation the sale of lubricants for ships and vessels used in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Repairs to ships or vessels used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Ohio exempts from taxation the sale of fuel for ships and vessels used in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable Ohio does not provide an exemption for property used in commercial fishing. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.02(A)(1), as amended by 2013 Ohio H.B. 59, effective June 29, 2013. BNA-SUTN OH 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable Ohio does not provide an exemption for property used in commercial fishing. Ohio Rev. Code Ann. §5739.02(A)(1); Ohio Rev. Code Ann. §5739.02(A)(1), as amended by 2013 Ohio H.B. 59, effective June 29, 2013. BNA-SUTN OH 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Ohio exempts from tax rail rolling stock used or to be used principally in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair parts to rolling stock used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Depends The repair of rolling stock is subject to tax. However, if the sale of the property being repaired would have been exempt from sales tax, the repair of the tangible personal property also is exempt from tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a). Repairs of rail rolling stock used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Repair parts to rolling stock used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Depends The repair of rolling stock is generally subject to tax. However, if the sale of the property being repaired would have been exempt from sales tax, the repair of the tangible personal property also is exempt from tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a). Repairs of rail rolling stock used or to be used principally in interstate or foreign commerce are not subject to tax. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Exempt Ohio exempts from taxation the sale of fuel for rail rolling stock used or to be used principally in interstate or foreign commerce. Ohio Rev. Code Ann. §5739.02(B)(14). BNA-SUTN OH 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Depends Ohio imposes sales and use tax on the service of transporting persons by aircraft, if the services are provided entirely within the state. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003. However, transportation by an ambulance service and transportation provided by a citizen of the United States holding a certificate of public convenience and necessity are not subject to sales tax. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003; Ohio Admin. Code §5703-9-06(A)(2)(a). BNA-SUTN OH 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Ohio does not impose sales and use tax on the service of transporting persons by rail. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003; Ohio Rev. Code Ann. §5739.02(B)(11). BNA-SUTN OH 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Ohio does not impose sales and use tax on the service of transporting persons by water. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003; Ohio Rev. Code Ann. §5739.02(B)(11). BNA-SUTN OH 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Depends Ohio imposes sales and use tax on the service of transporting persons by motor vehicle, if the services are provided entirely within the state. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003. There are three narrow exceptions, namely transportation provided by an ambulance service, a transit bus, or a U.S. citizen who holds a certificate of public convenience and necessity. Ohio Rev. Code Ann. §5739.01(B)(3)(r), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003. BNA-SUTN OH 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Taxable Ohio imposes sales and use tax on intrastate taxi cab services. Ohio Rev. Code Ann. §5739.01(B)(3)(r); Ohio Rev. Code Ann. §5739.02; Ohio Admin. Code §5703-9-06(A)(1)(a). BNA-SUTN OH 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Taxable Ohio imposes sales and use tax on intrastate transportation by limousine. Ohio Rev. Code Ann. §5739.01(B)(3)(r); Ohio Admin. Code §5703-9-06(A)(1)(b). BNA-SUTN OH 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable Ohio does not impose sales and use tax on property transportation services. Ohio Rev. Code Ann. §5739.02(B)(11). Ohio also exempts the sale of motor vehicles, and parts therefor, used by persons engaged in highway transportation for hire primarily for transportation of tangible personal property belonging to others. Ohio Rev. Code Ann. §5739.02(B)(32); R.K.E. Trucking, Inc. v. Zaino, 787 N.E.2d 638, No. 1998-S-13162002-1048 (Ohio 2003); Rumpke Container Serv., Inc. v. Zaino, No. 00-2120 762 N.E.2d 995(Ohio 2002). See Ohio Board of Tax Appeals Decision Nos. 2016-310, 2016-311, 2016-312, 2016-313 (April 24, 2017) (denying exemption for four crane trucks used for transportation of both recyclables constituting property of others and of waste where taxpayer failed to provide evidence that vehicles were “primarily”used to transport property of others). For more information about motor vehicles primarily used in highway transportation for hire, see the Sales and Use Tax Navigator, at Ohio 29.4.1. BNA-SUTN OH 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Ohio does not impose sales and use tax on moving services. Ohio Rev. Code Ann. §5739.02(B)(11). BNA-SUTN OH 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable Ohio does not impose sales and use tax on parking services. Ohio Rev. Code Ann. §5739.01(B) BNA-SUTN OH 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Depends Ohio does not impose sales and use tax on boat docking services, but out-of-water storage or dry docking is taxable. Ohio Admin. Code §5703-9-05(C)(5). BNA-SUTN OH 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable The towing of a wrecked, disabled, or illegally parked motor vehicle is subject to tax. Ohio Rev. Code Ann. §5739.01(B)(3)(s), as amended by 2003 Ohio H.B. 95, effective Aug. 1, 2003; see also Ohio Information Release ST 2003-13. BNA-SUTN OH 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Depends Taxable motor vehicle services include, washing and waxing. Ohio Rev. Code Ann. §5739.01(B)(3)(c). However, Ohio exempts sales from coin-operated car washing mechanisms so long as the transaction does not provide the consumer with any other tangible personal property or service. Included in this exemption are coin-operated vacuums, and equipment that dispenses water, regardless of whether the water is combined with soap or other cleaning detergents. Ohio Rev. Code Ann. §5739.02(B)(43). BNA-SUTN OH 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Taxable Taxable motor vehicle services include, washing and waxing. Coin-operated washing and vacuum devices are exempt. Ohio Rev. Code Ann. §5739.01(B)(3)(c); Ohio Rev. Code Ann. §5739.02(B)(3)(c). BNA-SUTN OH 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Exempt Inspection Charges Ohio exempts from taxation any fee charged for inspection or re-inspection of a motor vehicle. Ohio Rev. Code Ann. §5739.02(B)(26). Purchases of Flight Simulators Ohio exempts from taxation the sale of full flight simulators that are used for training pilots and flight crews. This exemption extends to the sale of replacement parts as well as the sale of repair and maintenance service. Ohio Rev. Code Ann. §5739.02(B)(50). BNA-SUTN OH 29.15.
+
+==================================================

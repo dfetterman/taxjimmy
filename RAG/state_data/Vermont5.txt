@@ -1,0 +1,201 @@
+State: Vermont
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Vermont does not impose sales or use tax on sales of real property. Vt. Stat. Ann. tit. 32, §9771; Vt. Stat. Ann. tit. 32, §9773; Vt. Code R. §1.9701(7)-1(4)(B)(1). A retailer or manufacturer who occasionally acts as a contractor, must pay sales tax for material and supplies for use in improving, altering, or repairing real property at the time of purchase. Vt. Stat. Ann. tit. 32 § 9701(5); Vermont Tax Fact Sheet FS-1112. However, retailers and manufacturers who sometimes act as contractors are authorized to make an election to be treated as a retailer. With the election, that they would not pay sales tax or remit use tax on materials or supplies used for the improvement of real property, but would instead charge sales tax to their end customers. Vt. Stat. Ann. tit. 32 § 9701(5); Vermont Tax Fact Sheet FS-1112. Vermont sales and use tax statutes do not have a definition for real property, but a formal ruling from the Department of Taxes that governed the attachment of tangible personal property to real property cited to an out of state case, appearing to rely on the following Black's Law Dictionary definition for real property: “‘[l]and; that which is affixed to land; that which is incidental or appurtenant to land; that which is immovable by law.” Vermont Formal Ruling No. 2012-05 (July 30, 2012) (citing Farmland Indus., Inc. v. Alliance Process Partners, LLC, 298 B.R. 382 (Bankr. W.D. Mo. 2003), which cites Black's Law Dictionary, 1218 (6th ed. West 1990). The formal ruling does not directly endorse this definition, but applies the term “immovable” found in the definition to its analysis of the property in question. Vermont Formal Ruling No. 2012-05 (July 30, 2012). Out-of-State Contractors Working on Vermont Property Out-of-state contractors working in Vermont are subject to the use tax in the same way as Vermont contractors. Sales tax must be paid on supplies, materials, and equipment used for the improvement of Vermont properties when purchased or rented from Vermont vendors. If 6% sales tax has not been paid on supplies and equipment brought into the state, then use tax is due. Vermont Tax Fact Sheet FS-1112. For equipment purchased for a Vermont project and brought into the state, out-of-state contractors should base the use tax on the market value of the equipment when it is brought into the state. Contractors bringing tangible personal property into the state for fewer than six months for use in a project may base the use tax on the fair rental value of the property for the period of use within the state. Vt. Stat. Ann. tit. 32 §9774(2); Vermont Tax Fact Sheet FS-1112. Vermont Contractors Working Out-of-State Purchases of supplies and materials by Vermont contractors from Vermont vendors are subject to sales tax, even if they will be used in another state. However, there is an exemption from use tax if the supplies and materials are for use on a property in a state with no sales or use tax, and are stored in Vermont for 180 days or less. Vermont Tax Fact Sheet FS-1112. BNA-SUTN VT 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Three-part Test The Vermont Supreme Court identified the following tests for resolving the classification of items as real or personal property, which have been recognized as general rules: • the annexation, actual or constructive, of the article to the real estate; • its adaptation to the use of the realty to which it is annexed; and • whether or not the annexation has been made with the intention to make it a permanent accession to the freehold. Sherburne Corp. v. Town of Sherburne, 496 A.2d 175, 145 Vt. 581 (Vt. 1985). The third test is the most important because items remain tangible personal property if the parties do not intend to make an accession permanent. Sherburne Corp. v. Town of Sherburne, 496 A.2d 175, 145 Vt. 581 (Vt. 1985); Vermont Formal Ruling No. 2012-05 (July 30, 2012) (the fact that the parties do not intend to remove the concrete foundations, but intend only to destroy and remove a portion of each, demonstrates an intent to make the foundations a permanent accession to the real estate). An article so annexed to real estate that it cannot be removed without completely destroying the article clearly demonstrates the intention of the parties to make it a permanent accession. Vermont Formal Ruling No. 2012-05 (July 30, 2012). Once tangible personal property is incorporated into real property, the tangible personal property is not subject to sales and use tax, because it becomes real property. Taxes will not apply even if the seller itemizes the incorporated tangible personal property. Vt. Code R. §1.9701(5)-1; Vermont Formal Ruling No. 2013-04 (Aug. 28, 2013). BNA-SUTN VT 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Depends The taxability of the sale and installation of appliances, electronics, machinery, and equipment depends on whether the items retain their character as tangible personal property. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). In some states, the sale and installation upon real property of complete items of tangible personal property such as kitchen appliances and electronic equipment, sometimes referred to as “fixtures”, is treated as a taxable sale of tangible personal property the same as if these items were sold uninstalled. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). Among these states, Vermont considers installed appliances to retain their character as tangible personal property following installation. Therefore, the sale of appliances such as dishwashers, refrigerators and clothes dryers is subject to sales and use tax in Vermont regardless of whether the retailer performs an installation service. On the other hand, because items such as kitchen sinks, bathroom showers, floors, and furnaces are rarely removed once installed, these are considered to be part of the real estate and services performed with respect to such items are considered to be the improvement of real estate. Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Depends The taxability of the sale and installation of plumbing fixtures depends on whether the items retain their character as tangible personal property. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Depends The taxability of the sale and installation of plumbing fixtures depends on whether the items retain their character as tangible personal property. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Depends The taxability of the sale and installation of signage depends on whether the items retain their character as tangible personal property. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+Depends The taxability of leasehold improvements depends on whether the items retain their character as tangible personal property. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Nontaxable A service contract for improvement, repair, or maintenance labor to be performed with respect to real property is not subject to the sales tax. Vt. Code R. §1.9701(5)-1; Vt. Stat. Ann. tit. 32, §9771; Vt. Stat. Ann. tit. 32, §9773. The contractor or service provider must pay a use tax on the parts and equipment incorporated into the real property during the service. Vt. Code R. §1.9701(5)-1; Vt. Stat. Ann. tit. 32, §9771; Vt. Stat. Ann. tit. 32, §9773; Vermont Formal Ruling No. 2013-04 (Aug. 28, 2013) (retail sale of components to a Vermont contractor for installation at a customer's site is the sale of tangible personal property and is subject to tax); Vermont Formal Ruling No. 2012-05 (July 30, 2012)(concrete foundations used in the construction of wind tower generators are tangible personal property used to improve real property that are subject to tax); Vermont Tax Fact Sheet FS-1050 (contractors cannot use resale exemption certificate when purchasing items from supplier;contractor must pay sales tax, but may pass tax on to customers as a markup). The contractor may pass the tax on to its customers as a markup, noting on the invoice that the contractor has paid all applicable Vermont taxes on materials used for the job. Vermont Tax Fact Sheet FS-1050. Contractors also supply machinery and equipment directly to their contractees. When this occurs, the contractor can buy the equipment tax-free as a purchase for resale by providing an exemption certificate to the supplier. Vt. Code R. §1.9741(14)-10. Beginning July 1, 2016, Vermont treats a manufacturer or retailer as a contractor when purchasing material and supplies for use by them in erecting structures or otherwise improving, altering, or repairing real property unless an election is made under Vt. Stat. Ann. tit. 32, §9771. Vt. Code R. §1.9701(5), as amended by 2016 Vt. H. 873, §22, effective July 1, 2016. Under Vt. Stat. Ann. tit. 32, §9771, Vermont permits a manufacturer or retailer that purchases material and supplies for use by them in erecting structures or otherwise improving, altering, or repairing real property to make an election that it will be treated as a retailer on the purchase of those materials and supplies. Vt. Stat. Ann. tit. 32, §9771(b), as enacted by 2016 Vt. H. 873, §23, effective July 1, 2016. If the manufacturer or retailer makes that election, then it must charge sales tax to its customer on its materials and supplies or, in the case of a manufacturer, the finished manufactured products, when it uses those materials, supplies, or finished manufactured products in erecting structures or otherwise improving, altering, or repairing real property. Vt. Stat. Ann. tit. 32, §9771(c), as enacted by 2016 Vt. H. 873, §23, effective July 1, 2016. The election is binding for five years and remains effective until the manufacturer or retailer files a withdrawal. Vt. Stat. Ann. tit. 32, §9771(d), as enacted by 2016 Vt. H. 873, §23, effective July 1, 2016. BNA-SUTN VT 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Construction services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable Contractors'purchases of materials that they incorporate into real property are subject to Vermont's sales and use tax. Vt. Code R. §1.9701(5)-1. BNA-SUTN VT 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable Construction services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771; Vermont Formal Ruling No. 2016-12 (July 1, 2017). BNA-SUTN VT 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Nontaxable Separately stated materials charges are not subject to Vermont's sales and use tax under separated construction contracts. Vt. Code R. §1.9701(5)-1. BNA-SUTN VT 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Taxable Contractors'purchases of materials that they incorporate into real property are subject to Vermont's sales and use tax. Vt. Code R. §1.9701(5)-1. BNA-SUTN VT 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Nontaxable Real property repair services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Nontaxable Separately stated parts and materials charges for real property repairs are not subject to Vermont's sales and use tax. Vt. Code R. §1.9701(5)-1. BNA-SUTN VT 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Nontaxable Real property installation services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Nontaxable Interior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Nontaxable Exterior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Excavation and demolition services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Site cleanup services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Depends The taxability of plumbing depends on whether the items retain their character as tangible personal property. Vt. Stat. Ann. tit. 32, §9771. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Depends The taxability of electrical work depends on whether the items retain their character as tangible personal property. Vt. Stat. Ann. tit. 32, §9771. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Depends The taxability of HVAC installation depends on whether the items retain their character as tangible personal property. Vt. Stat. Ann. tit. 32, §9771. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). BNA-SUTN VT 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Depends The taxability of HVAC repair depends on whether the items retain their character as tangible personal property. Vt. Stat. Ann. tit. 32, §9771. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Nontaxable Exterior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Nontaxable Exterior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Nontaxable Exterior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Nontaxable Exterior real property maintenance services are not subject to Vermont's sales and use tax. Vt. Stat. Ann. tit. 32, §9771. BNA-SUTN VT 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends The taxability of sign painting and lettering services depends on whether the items retain their character as tangible personal property. Vt. Stat. Ann. tit. 32, §9771. See generally Vermont Technical Bulletin TB-57 (Dec. 15, 2010). For information on classifying property as real property or tangible personal property, see the Sales and Use Tax Navigator, at Vermont 28.2.1. BNA-SUTN VT 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Not defined Vermont does not specify contractor classifications. See Vt. Stat. Ann. tit. 32, §9701. The Vermont Department of Taxes does, however, issue guidelines distinguishing between manufacturers acting as retailers or acting as contractors. Vermont Tax Fact Sheet FS-1050. Manufacturers selling primarily at retail (i.e., 51 percent or greater) are considered retailers, and they should follow the guidelines for retailers permitting the collection of sales tax from the customer when selling items installed or not installed. However, if a manufacturer is not considered a retailer (i.e., when it is selling less than 51 percent at retail) and sells a product installed, then it is acting as a contractor and is subject to the guidelines for contractors requiring contractors to pay the sales tax when purchasing from a supplier, but allowing the tax to be passed on as a markup to the customer. Vermont Tax Fact Sheet FS-1050. A business owner primarily engaged in activities as a retailer or manufacturer but occasionally acts as a contractor, will be treated as a contractor for sales and use tax purposes. Vt. Stat. Ann. tit. 32 § 9701(5); Vermont Tax Fact Sheet FS-1112. The term “treated as a contractor”means that retailers and manufacturers will pay sales tax for materials at the time of purchase. Primarily means more than 50% of your business. Vt. Stat. Ann. tit. 32 § 9701(5); Vermont Tax Fact Sheet FS-1112. However, retailers and manufacturers who sometimes act as contractors are authorized to make an election to be treated as a retailer. With the election, that they would not pay sales tax or remit use tax on materials or supplies used for the improvement of real property, but would instead charge sales tax to their end customers. Vt. Stat. Ann. tit. 32 § 9701(5); Vermont Tax Fact Sheet FS-1112. BNA-SUTN VT 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Not Defined Vermont does not define “subcontractor.” Vt. Stat. Ann. tit. 32, §9701. Sales of materials and supplies to subcontractors for incorporation by them into real property are subject to tax the same as sales to general contractors. Vt. Code R. §1.9701(5)-1. BNA-SUTN VT 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Nontaxable Exempt Organizations The sale of building materials and supplies used for construction, reconstruction, alteration, remodeling, or repair of buildings owned by certain organizations are not subject to sales and use taxes. Vt. Stat. Ann. tit. 32, §9743(4). For this exemption, “building materials and supplies” is defined as all materials and supplies consumed, used in the construction, reconstruction, alteration, remodeling, or repair of any building, structure, or other public work, along with the materials and supplies physically incorporated therein. Vt. Stat. Ann. tit. 32, §9743(4). The buildings for which the building materials and supplies can be bought tax-free are:• any building or structure owned by or held in trust for the benefit of any governmental body or agency mentioned in section 9743(1) or (2)and used only for public purposes; Vt. Stat. Ann. tit. 32, §9743(4)(A). • any building or structure owned by or held in trust for the benefit of an organization mention in section 9743(3) and used only for the purposes its exemption is based; Vt. Stat. Ann. tit. 32, §9743(4)(B). and • any building or structure owned by a local development corporation authorized under Title 10 of the Vermont Statutes. Vt. Stat. Ann. tit. 32, §9743(4)(C). Only materials incorporated into and supplies consumed in connection with an exempt project are exempt from sales and use tax. Supplies such as protective clothing(hard hats and safety shoes), tarps, repair parts for construction machinery and equipment, and blueprints are not consumed on a project and are subject to sales and use tax. Vermont Tax Fact Sheet FS-1112. Exempt Sales of Building Materials Vermont exempts from sales and use tax purchases of building materials over $1 million in three consecutive calendar years. To qualify for the exemption, the building materials must be used to construct, renovate, or expand facilities used exclusively to manufacture tangible personal property. Vt. Stat. Ann. tit. 32, §9741(39). In the context of this building materials exemption, facility is interpreted broadly and not limited to structures. Gravel, fill, culverts, paving materials, and similar items used in site preparation are building materials. Vermont Technical Bulletin TB-09. A facility is used exclusively for manufacturing if direct manufacturing activities, as defined by Vt. Stat. Ann. tit. 32, §9741(14) and related regulations, are conducted on the site and other activity on the site is limited to:• indirect manufacturing activities; • activity which directly supports the manufacturing personnel (such as, training, cafeterias, parking, break areas, child care); and • activity such as marketing or distribution of the product, research and development of product, or management of the manufacturing operation which are activities traditionally conducted at a manufacturing site. Vermont Technical Bulletin TB-50. An expansion or renovation may qualify for the exemption even if it does not directly include manufacturing operations. As long as direct manufacturing is conducted at the facility, any construction or expansion will qualify. The expansion could be limited to components of the facility used for warehousing, research and development, or other ancillary activity. A manufacturing facility must be located on the same contiguous parcel as any expansion construction. For example, if a warehouse is nearby but not on land contiguous with the site of the direct manufacturing operations, expansion of the warehouse would not qualify for the exemption. Likewise, if direct manufacturing is conducted at two noncontiguous sites, either or both sites may qualify separately but each would be taxable to the extent of the first $1,000,000.00 spent to construct or expand that facility. Vermont Technical Bulletin TB-09. Supplies other than building materials are not exempt. Specifically, supplies such as fuel, signs, engineering tape, and saw blades consumed in the construction of manufacturing facilities are not exempt because they are not building materials. Vermont Technical Bulletin TB-09. Before July 1, 2014, Vermont exempted purchases of building materials exceeding $250,000 that were incorporated into approved downtown redevelopment projects. That exemption was repealed effective July 1, 2014. Vt. Stat. Ann. tit. 32, §9741(39), as amended by 2014 Vt. S. 221, effective July 1, 2014. BNA-SUTN VT 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Partial The state of Vermont exempts from the sales and use tax 40 percent of the receipts from the sales price of mobile homes and modular housing units. Vt. Stat. Ann. tit. 32, §9741(32); Vt. Stat. Ann. tit. 10, §6201; Vermont Formal Ruling 1991-04. Mobile home is defined as a structure or type of manufactured home that is built on a permanent chassis, designed to be used as a dwelling, and contains plumbing, heating, cooling, and electrical systems. Alternatively, mobile home is also defined as an unmotorized vehicle, other than a travel or recreational trailer, designed to be towed or equipped for use as sleeping, eating or living quarters. Vt. Stat. Ann. tit. 10, §6201. BNA-SUTN VT 28.8.
+
+==================================================

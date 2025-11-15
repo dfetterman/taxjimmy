@@ -1,0 +1,297 @@
+State: Florida
+
+
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients General Rule
+
+Exempt Generally, food products for human consumption are exempt from tax in Florida, subject to various exceptions. Fla. Stat. §212.08(1)(a). The exemption for food products for human consumption does not apply to prepared food sold for immediate consumption, candy, and soft drinks; nor does it apply to alcoholic beverages, including mixed drinks, beer, ale, wine, or wine coolers. Fla. Admin. Code Ann. r. 12A-1.011(4); Florida Tax Brochure GT-800046. Specifically, the exemption for food products does not apply:• when the food products are sold as meals for consumption on or off the premises of the dealer; Fla. Stat. §212.08(1)(c)1; Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). • when the food products are furnished, prepared, or served for consumption at tables, chairs, or counters or from trays, glasses, dishes, or other tableware, whether provided by the dealer or by a person with whom the dealer contracts to furnish, prepare, or serve food products to others; Fla. Stat. §212.08(1)(c)2; Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012); Florida Tax Brochure GT-800035. however, vinous and alcoholic beverages provided by distributors and vendors for wine or spirituous beverage tasting are exempt; any charge made to the public for wine tasting or spirituous beverage tasting is subject to sales and surtax. Fla. Stat. §212.08(7)(s); Florida Tax Brochure GT-800046 • when the food products are sold through a vending machine, pushcart, motor vehicle, or any other form of vehicle; Fla. Stat. §212.08(1)(c)10. • to bakery products sold by bakeries, pastry shops, or like establishments that have eating facilities, except when sold for consumption off the seller's premises; Fla. Stat. §212.08(1)(c)12; Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012); Florida Tax Publication 10A01-22. • when food products are served, prepared, or sold in or by restaurants, lunch counters, cafeterias, hotels, taverns, amusement parks, stadiums, theatres, or other like places of business. Fla. Stat. §212.08(1)(c)13. However, food and drinks that are furnished as part of a packaged room rate by any person for rent or lease of any transient living accommodations are exempt. Fla. Stat. §212.08(7)(jj); Florida Tax Brochure GT-800046. Multiple-Item Food Packages Certain packages contain both exempt food and taxable tangible personal property. If both items in the food package are combined into a single charge, then the percentage of value attributable to the tangible personal property must be determined. If the tangible personal property accounts for more than 25 percent of the package's value, then the entire charge is taxable. However, if less than 25 percent of the total value of the package is attributable to the tangible personal property, then the package is exempt from tax. Fla. Admin. Code Ann. r. 12A-1.011(10)(b). When the charges for items in the package are separately stated, then the food products are not subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(10)(a). BNA-SUTN FL 11.1.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Definition of 'Food and Food Ingredients'
+
+Defined “Food products” is defined to mean edible commodities, whether processed, cooked, raw, canned, or in any other form, which are generally regarded as food. Fla. Stat. §212.08(1)(b). A non-exhaustive list of food products is listed in Fla. Admin. Code Ann. r. 12A-1.011(2)(a). Fla. Admin. Code Ann. r. 12A-1.011(2)(a). BNA-SUTN FL 11.1.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Grocery Items
+
+Exempt Generally, food products for human consumption are exempt from tax in Florida, subject to various exceptions. Fla. Stat. §212.08(1)(a). The exemption for food products for human consumption does not apply to prepared food sold for immediate consumption, candy, and soft drinks; nor does it apply to alcoholic beverages, including mixed drinks, beer, ale, wine, or wine coolers. Fla. Admin. Code Ann. r. 12A-1.011(4); Florida Tax Brochure GT-800046. BNA-SUTN FL 11.1.3.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Candy
+
+Taxable Candy, chewing gum, bubble gum, breath mints, and any similar product regarded as candy or confection, based on its normal use as indicated on the label or advertising, is subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(4)(a). The phrase “candy and similar products” does not include snack foods not regarded as candy or confection, as indicated on the label or advertising of the product. Fla. Admin. Code Ann. r. 12A-1.011(4)(a). BNA-SUTN FL 11.1.3.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Dietary Supplements and Vitamins
+
+Exempt Dietary supplements are considered food products for human consumption and are not subject to tax in Florida. Fla. Stat. §212.08(1);Florida Department of Revenue, Nontaxable Medical Items and General Grocery List. BNA-SUTN FL 11.1.3.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Alcoholic Beverages
+
+Taxable Alcohol and beverages, excluding noncarbonated and nonflavored water, are subject to Florida sales and use tax. Fla. Admin. Code Ann. r. 12A-1.057(1). County surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a); Fla. Admin. Code Ann. r. 12A-15.012(1)(a). Therefore, alcohol and beverages, excluding noncarbonated and nonflavored water, are subject to the county surtaxes. Calculating Sales and Surtax Sales tax and surtax are calculated at the point-in-time when each alcoholic beverage sale is made. When sales transactions are between whole dollar amounts, the bracket system is used to calculate sales tax and surtax due when any part of each total sale is less than a whole dollar amount. The amount of sales tax and surtax must be separately shown on each guest bill, invoice, or other evidence of the sales transaction. Florida Tax Brochure GT-800046. Two methods are used for calculating sales tax. If the seller does not put the public on notice that sales tax is included in the total charge for alcoholic beverages, the seller must use “Method 1”. “Method 2”is used when the seller puts the public on notice by posting price lists or displaying signs prominently throughout the business, that the sales tax is included in the total charge for alcoholic beverages. Florida Tax Brochure GT-800046. Method 1: To calculate the sales tax and surtax due on sales of alcoholic beverages, multiply the total gross sales of alcoholic beverages in a reporting period by the tax rate for the county in which the business is located. Florida Tax Brochure GT-800046. Method 2: To calculate the sales tax and surtax due on sales of alcoholic beverages for a reporting period:• divide the total receipts of alcoholic beverages by the rate divisor for the county in which you are located to calculate gross sales; and • subtract gross sales from the total receipts to compute the amount of sales tax and surtax due. Florida Tax Brochure GT-800046. For more information on taxes on alcohol and other beverages in Florida, see Excise Taxes Navigator, at Florida 1.5. Local Option Food and Beverage Tax The state of Florida authorizes counties that have adopted a home rule charter, to enact taxes on the sale of beverages and alcohol in hotels, motels, and establishments that are licensed by the state to sell alcoholic beverages for consumption on the premises. Fla. Stat. §212.0306(1)(a); Fla. Stat. §212.0306(1)(b); Fla. Stat. §125.011(1). The rate of the tax is 2 percent on the sale of food in hotels and motels and one percent on the sale of food in establishments that are licensed by the state to sell alcoholic beverages for consumption on the premises, other than hotels and motels. Fla. Stat. §212.0306(1)(a); Fla. Stat. §212.0306(1)(b). For more information on taxes on alcohol and other beverages in Florida, see Excise Taxes Navigator, at Florida 1.5. Municipal Resort Tax The state of Florida has authorized certain cities and towns to enact a tax on beverages and certain alcoholic beverages. Fla. Stat. §212.0306(2)(d); Chapter 67-930, Laws of Florida, §1. The tax cannot be imposed at a rate greater than 2 percent. Chapter 67-930, Laws of Florida, §2. For more information on taxes on alcohol and other beverages in Florida, see Excise Tax Navigator, at Florida 1.5. BNA-SUTN FL 11.1.3.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Non-Alcoholic Beverages
+
+Taxable Beverages, excluding noncarbonated and nonflavored water, are subject to the state of Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). If the carbonation and flavoring are added to water at a water treatment facility, the sale of water in bottles, cans, or other containers remain exempt. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). The county surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a); Fla. Admin. Code Ann. r. 12A-15.012(1)(a). Therefore, beverages, excluding noncarbonated and nonflavored water, are subject to the county surtaxes. BNA-SUTN FL 11.1.3.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Carbonated Beverages
+
+Taxable Beverages, excluding noncarbonated and nonflavored water, are subject to the state of Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). If carbonation and flavoring are added to water at a water treatment facility, the sale of water in bottles, cans, or other containers remains exempt. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). The county surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a); Fla. Admin. Code Ann. r. 12A-15.012(1)(a). Therefore, beverages, excluding noncarbonated and nonflavored water, are subject to the county surtaxes. For information on excise taxes on carbonated beverages in Florida, see the Excise Tax Navigator, at Florida 14.1. BNA-SUTN FL 11.1.3.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Non-Carbonated Beverages
+
+Taxable Beverages, excluding noncarbonated and nonflavored water, are subject to the state of Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). If carbonation and flavoring are added to water at a water treatment facility, the sale of water in bottles, cans, or other containers remains exempt. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). The county surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a); Fla. Admin. Code Ann. r. 12A-15.012(1)(a). Therefore, beverages, excluding noncarbonated and nonflavored water, are subject to the county surtaxes. BNA-SUTN FL 11.1.3.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Juice
+
+Taxable Beverages, excluding noncarbonated and nonflavored water, are subject to the state of Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). If carbonation and flavoring are added to water at a water treatment facility, the sale of water in bottles, cans, or other containers remains exempt. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). Tax applies to sales of beverages containing fruit or vegetable juice that are labeled “ade,” “beverage,” “cocktail,” “drink,”or “fruit or vegetable flavor, flavored, or flavorings.” Fla. Admin. Code Ann. r. 12A-1.011(5)(d). The county surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a); Fla. Admin. Code Ann. r. 12A-15.012(1)(a). Therefore, beverages, excluding noncarbonated and nonflavored water, are subject to the county surtaxes. BNA-SUTN FL 11.1.3.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Soft Drinks
+
+Taxable The exemption for food products for human consumption does not apply to soft drinks. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). The following sales of soft drinks are subject to tax:• nonalcoholic beverages, whether carbonated or noncarbonated; Fla. Admin. Code Ann. r. 12A-1.011(5)(a). • any noncarbonated beverage made from milk derivatives, such as ice cream sodas, milkshakes, or malts; Fla. Admin. Code Ann. r. 12A-1.011(5)(b). • any beverages and preparations commonly referred to as a soft drink, such as sodas, soda water, ginger ale, colas, root beer, tonic, fizzes, or cocktail mixes; Fla. Admin. Code Ann. r. 12A-1.011(5)(c). • any beverage containing fruit or vegetable juice labeled with the word(s)ade, beverage, cocktail, drink, or fruit or vegetable flavor, flavored, or flavorings; Fla. Admin. Code Ann. r. 12A-1.011(5)(d). • tea sold in a liquid form; Fla. Admin. Code Ann. r. 12A-1.011(5)(e). • drinking water, including water enhanced by the addition of minerals, sold in bottles, cans, or other containers when carbonation or flavorings have been added to the water in the manufacturing process; however, when carbonation or flavorings are added to drinking water at a water treatment facility, the sale of the drinking water in bottles, cans, or other containers remains exempt; Fla. Admin. Code Ann. r. 12A-1.011(7)(a). and Examples of taxable beverages include apple blend, cranberry juice cocktail, grape juice beverage, lemonade, limeade, orangeade, raspberry and cranberry flavored drink, fruit drink, fruit punch, diluted fruit juices, and diluted vegetable juices. Fla. Admin. Code Ann. r. 12A-1.011(5)(d). Bottled water containing no flavor or carbonation is exempt from sales and use tax. Florida Tax Brochure GT-800035. For information on excise taxes on soft drinks in Florida, see the Excise Tax Navigator, at Florida 14.1. BNA-SUTN FL 11.1.3.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Bottled Water
+
+Exempt Noncarbonated and nonflavored bottled water is not subject to Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). When carbonation or flavorings are added to drinking water at a water treatment facility, the sale of the drinking water in bottles, cans, or other containers remains exempt. Fla. Admin. Code Ann. r. 12A-1.011(7)(a). BNA-SUTN FL 11.1.3.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Water, Other Than Bottled Water
+
+Exempt Noncarbonated and nonflavored bottled water is not subject to Florida sales and use tax. Fla. Stat. §212.02(19); Fla. Stat. §212.05(1)(a); Fla. Admin. Code Ann. r. 12A-1.011(5); Fla. Admin. Code Ann. r. 12A-1.011(7). When carbonation or flavorings are added to drinking water at a water treatment facility, the sale of the drinking water in bottles, cans, or other containers remains exempt. Fla. Admin. Code Ann. r. 12A-1.011(7)(a). BNA-SUTN FL 11.1.3.11.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Ice
+
+Exempt The sale of ice, including dry ice, is subject to tax, except when the ice is purchased for use as a packaging material to package food products for sale. Fla. Admin. Code Ann. r. 12A-1.011(7)(b). BNA-SUTN FL 11.1.3.12.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Coffee
+
+Depends Whether coffee is taxable depends on whether it is sold for immediate consumption. Fla. Admin. Code Ann. r. 12A-1.011(2)(a)(7); Florida Technical Assistance Advisement 12A-028 (Dec. 14, 2012). Coffee and coffee substitutes that are not sold for immediate consumption are not taxable. Coffee that is sold for immediate consumption is taxable. Fla. Admin. Code Ann. r. 12A-1.011(2)(a)(7); Florida Technical Assistance Advisement 12A-028 (Dec. 14, 2012). BNA-SUTN FL 11.1.3.13.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Tea
+
+Depends Whether tea is taxable depends on whether it is sold in liquid form. Fla. Admin. Code Ann. r. 12A-1.011(2)(a)(37). Tea sold in liquid form is subject to tax. Tea, including herbal tea, that is sold in non-liquid form, is considered a grocery item, and not subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(2)(a)(37). BNA-SUTN FL 11.1.3.14.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food and Food Ingredients Specific Products Other Food Products
+
+Taxable Frozen Dairy and Non-Dairy Products Ice cream, frozen yogurt, and similar frozen dairy or nondairy products in cones, small cups, or pints, popsicles, frozen fruit bars, or other novelty items, whether or not sold separately, are taxable. Fla. Stat. §212.08(1)(c)8. BNA-SUTN FL 11.1.3.15.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food General Rule
+
+Taxable Food prepared, whether on or off the seller's premises, and sold for immediate consumption is subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(4)(b); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). This does not apply to food prepared off the seller's premises and sold in the original sealed container, or to the slicing of products into smaller portions. Fla. Admin. Code Ann. r. 12A-1.011(4)(b); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). In one case, sales tax was not allowed to be imposed on the sale of food and drinks served to fishermen who were outside the territorial limits of Florida (beyond the three-league limit in the Gulf of Mexico). Straughn v. Kelly Boat Service Inc., 210 So. 2d 266 (Fla. Dist. Ct. App. 1968). Hot Prepared Food Products Hot prepared food products, whether sold separately or in combination with other food items, when heated by the seller rather than by the customer, are subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(4)(c)1. Hot prepared food products are those products, items, or components that have been prepared for sale in a heated condition and sold at any temperature that is higher than the air temperature of the room or place where the products are sold. Preparation of a hot prepared food product includes cooking, microwaving, warming, toasting, or any other method of heating the food. Food products, including bakery products, are considered hot prepared food products when a heat source is used to maintain the food product in a heated state or is used to reheat the food product. Bakery products that are sold while still warm from the initial baking are not hot prepared food products. Their temperature is a result of the timing of the customer's purchase rather than an indication of preparation to be sold in a heated condition. Fla. Admin. Code Ann. r. 12A-1.011(4)(c)2. When a single price is charged for a combination of hot prepared food products and cold food items or other components, the single price charged for the combination is subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(4)(c)3. Food products included on the menu or posted by the business that are free of charge with the purchase of a meal are part of the meal. Examples include salsa and chips, rolls or bread, salads, and baked potatoes. Florida Tax Brochure GT-800035. County Surtaxes Furnishing, preparing, or serving food for consumption on or off the premises, including the sale of meals or prepared food by an employer to his or her employees are subject to the state of Florida's sales and use tax. See Fla. Stat. §212.02(15)(d); Fla. Stat. §212.05(1); Fla. Stat. §212.08(1)(c)(1); Fla. Admin. Code Ann. r. 12A-1.011(4)(b). The county surtaxes apply to the same base as the state sales and use tax. Fla. Stat. §212.054(2)(a). Therefore, meals are subject to the county surtaxes. Local Option Food and Beverage Tax The state of Florida has authorized counties to enact special taxes on the sale of food in hotels, motels, and establishments that are licensed by the state to sell alcoholic beverages for consumption on the premises. The rate of the tax is 2 percent on the sale of food in hotels and motels, and the rate of the tax is one percent on the sale of food in establishments that are licensed by the state to sell alcoholic beverages for consumption on the premises, other than hotels and motels. Fla. Stat. §212.0306(1)(a); Fla. Stat. §212.0306(1)(b). Municipal Resort Tax The state of Florida has authorized certain cities and towns to enact a tax on meals. Chapter 67-930, Laws of Florida, §1. The tax may be imposed at any interval less than 2 percent. Chapter 67-930, Laws of Florida, §2. For more information on meals taxes in Florida, see the Excise Tax Navigator, at Florida 10.2. BNA-SUTN FL 11.2.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Prepared Food'
+
+Defined Food prepared for immediate consumption is food prepared to a point generally accepted as ready to be eaten without further preparation and that is sold in a manner that suggests readiness for immediate consumption. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)1. In determining whether an item of food is sold for immediate consumption, the customary consumption practices prevailing at the selling facility will be considered. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)1; Florida Technical Assistance Advisement 16A-017 (Nov. 7, 2016); Florida Technical Assistance Advisement 15A-012 (Sept. 30, 2015); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). BNA-SUTN FL 11.2.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Restaurant' or 'Eating Establishment'
+
+Not Defined Florida does not define “restaurant” or “eating establishment,”though, Florida does defines an “eating facility” as a place that facilitates the consumption of bakery products on a seller's premises. Fla. Admin. Code Ann. r. 12A-1.011(3)(b); Florida Standard Industry Guide - Restaurants and Bars (July 1, 2012). BNA-SUTN FL 11.2.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Definition of 'Immediate Consumption'
+
+Defined Florida defines food for “immediate consumption” as food prepared to a point generally accepted as ready to be eaten without further preparation and that is sold in a manner that suggests readiness for immediate consumption. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)(1). In determining whether an item of food is sold for immediate consumption, the customary consumption practices prevailing at the selling facility shall be considered. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)(1). BNA-SUTN FL 11.2.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold With Eating Utensils Provided by Seller
+
+Taxable Prepared food items packaged with eating utensils, such as a fork or napkin, provided by the seller, are subject to tax in Florida. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)(2)(e). BNA-SUTN FL 11.2.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food, Sold in an Unheated State by Weight or Volume as a Single Item
+
+No Guidance Prepared food, sold in an unheated state by weight or volume as a single item is not included in the definition of prepared food. Fla. Admin. Code Ann. r. 12A-1.011(4). BNA-SUTN FL 11.2.6.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food, Ordinarily Requiring Cooking Prior to Consumption
+
+No Guidance Prepared food, ordinarily requiring cooking prior to consumption is not included is the definition of prepared food. Fla. Admin. Code Ann. r. 12A-1.011(4). BNA-SUTN FL 11.2.6.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Meat or Seafood Products, Sold in an Unheated State by Weight or Volume as a Single Item
+
+Depends Meat or seafood products, sold in an unheated state by weight or volume as a single item are not included in the definition of prepared food. Fla. Admin. Code Ann. r. 12A-1.011(4). However, items that can be consumed immediately, such as smoked meats and steamed seafood, are included in the definition of prepared food. Fla. Admin. Code Ann. r. 12A-1.011(4)(b)(2)(d). BNA-SUTN FL 11.2.6.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Bakery Items
+
+Depends The exemption from tax for food products sold for human consumption applies to bakery products sold by bakeries, pastry shops, or like establishments that do not have eating facilities. The exemption does not apply to bakery products sold by bakeries, pastry shops, or like establishments having eating facilities, except when the products are sold for consumption off the seller's premises. Fla. Stat. §212.08(1)(b)(3); Fla. Stat. §212.08(1)(c)(12); Fla. Admin. Code Ann. r. 12A-1.011(3); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). An “eating facility” is a place that facilitates the consumption of bakery products on a seller's premises, on items such as benches, chairs, stools, tables, and counters. Fla. Admin. Code Ann. r. 12A-1.011(3)(b). Bakery products sold by bakeries, pastry shops, or like establishments as hot prepared food products are taxable. Bakery products that are kept warm by a heat source used to maintain them in a heated state, or to reheat them, are considered hot prepared food products. However, bakery products that are sold while still warm from the initial baking are not considered hot prepared food products. Fla. Admin. Code Ann. r. 12A-1.011(3)(a). Bakery products, excluding items sold as a hot prepared food products, that are sold by bakeries, pastry shops, or like establishments that do not have eating facilities are exempt from tax. Fla. Admin. Code Ann. r. 12A-1.011(3)(d); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). Likewise, bakery products, excluding items sold as hot prepared food products, that are sold for consumption off the premises are exempt from tax. Fla. Admin. Code Ann. r. 12A-1.011(3)(c); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). Florida has a rebuttable presumption that the sale of bakery products by pastry shops, or like establishments that have eating facilities are taxable when the bakery products are sold in quantities of five or fewer items, or the bakery products sold, regardless of the quantity, are not packaged in a manner that is consistent with an intention by the customer to consume the products off the seller's premises. Fla. Admin. Code Ann. r. 12A-1.011(3)(c); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). BNA-SUTN FL 11.2.6.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold Without Eating Utensils Provided by Seller Prepared Food Sold by Manufacturer Classified in NAICS Sector 311, Except 3118 (Bakeries)
+
+No Guidance Prepared food sold by seller whose primary NAICS classification is manufacturing in sector 311, except subsector 3118 (bakeries) is not included is the definition of prepared food. Fla. Admin. Code Ann. r. 12A-1.011(4). BNA-SUTN FL 11.2.6.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Sold by Grocery Stores and Supermarkets
+
+Depends The taxability of prepared food items sold by grocery stores and supermarkets depends on the specific situation. Fla. Admin. Code Ann. r. 12A-1.011(4). Food prepared, whether on or off the seller's premises, and sold for immediate consumption is subject to tax. However, this does not apply to food prepared off the seller's premises and sold in the original sealed container, or to the slicing of products into smaller portions. Fla. Admin. Code Ann. r. 12A-1.011(4)(b); Florida Technical Assistance Advisement 12A-021 (Sept. 13, 2012). Hot prepared food products, whether sold separately or in combination with other food items, when heated by the seller rather than by the customer, are subject to tax. Fla. Admin. Code Ann. r. 12A-1.011(4)(c)(1). Food products, including bakery products, are considered hot prepared food products when a heat source is used to maintain the food product in a heated state or is used to reheat the food product. Bakery products that are sold while still warm from the initial baking are not hot prepared food products. Their temperature is a result of the timing of the customer's purchase rather than an indication of preparation to be sold in a heated condition. Fla. Admin. Code Ann. r. 12A-1.011(4)(c)(2). BNA-SUTN FL 11.2.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Nursing Homes and Other Long-term Care Facilities
+
+Exempt Meal payments by a patient or inmate in a hospital or facility designed and operated primarily to care for people are exempt. Fla. Stat. §212.08(7)(i). BNA-SUTN FL 11.2.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Educational Institutions
+
+Depends Florida exempts certain sales of meals by educational institutions. Food and beverages sold or served in a student cafeteria in a school offering grades K-12 as part of a school lunch to students, teachers, school employees, or school guests are exempt from sales and use tax. Florida Tax Brochure GT-800035. Prepaid College Meal Plan Exemption Effective July 1, 2015, the legislature clarified the prepaid college meal plan exemption. To qualify for the exemption, the meal plan must meet each of the following requirements:• the meal plan must be prepaid; for these purposes, “prepaid”means either purchased in advance of use or purchased using financial aid once disbursed; • the meal plan must be purchased from the college or other institution of higher learning or from an authorized third-party vendor licensed with the college or institution to provide such meal plans; • the meal plan must be purchased by, or on behalf of, a student currently enrolled or preparing to enroll at the school. A student taking any number of credit hours will qualify; • the meal plan must be for a defined quantity of units, such as a number of meals per week, month, year, or term; a set monetary amount; or an unlimited number of meals for a defined number of days; • the balance of unused units must expire at the end of an academic term. The expiration can be at the end of any academic term, not just the academic term in which they are purchased. Units can rollover from term to term, provided they will eventually expire at the end of an academic term; • the units cannot be refunded to the student at expiration. Refunds due to withdrawal from school, changing from a school meal plan to a meal plan provided by a sorority or fraternity, or other changes in circumstance do not disqualify a meal plan from the exemption. Refunds at graduation are considered the refund of units at expiration, and would disqualify a meal plan from the exemption. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). Flex Dollars and Hybrid Meal Plans Many colleges offer flex dollars as a meal plan option. These flex dollars are treated like other cash equivalents, which entitle a person to redeem them in the future to receive tangible personal property or services. Most gift cards are not taxable when purchased. Instead, the taxability of the transaction is determined when the gift card is used. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). Some colleges have hybrid meal plans, which have both a defined quantity of meals, as described above, and also provide a set amount of flex dollars that can be used at designated dining establishments. These meal plans can be partially or completely eligible for the exemption, depending on the type of plan. For hybrid meal plans, the portion of the plan that provides a defined number of meals and otherwise meets the requirements of a prepaid meal plan as described above is exempt from tax, regardless of whether the “flex” dollars qualify. The “flex”dollars are cash equivalents and the taxability is generally not determined until use. If the “flex” dollars meet the requirements of a prepaid meal plan as described above, the entire meal plan can be exempt, including the use of “flex” dollars to purchase food or beverages. If the “flex” dollars do not meet the requirements of a prepaid meal plan as described above, then the taxability will depend on the taxable nature of the items purchased. Items normally exempt under other provisions (e.g., certain groceries or bottles of water) will continue to be exempt, while taxable items (e.g., soft drinks) will continue to be taxable when purchased using “flex”dollars. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). BNA-SUTN FL 11.2.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Hospitals and Other Healthcare Facilities
+
+Exempt Meal payments by a patient or inmate in a hospital or facility designed and operated primarily to care for people are exempt. Fla. Stat. §212.08(7)(i). BNA-SUTN FL 11.2.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Prepared Food Prepared Food Items Served at Correctional Facilities
+
+Taxable Prepared food items served at correctional facilities are taxable. Fla. Stat. §212.08(7)(i). BNA-SUTN FL 11.2.11.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items General Rule
+
+Exempt Disposable items that accompany a food product sold to a customer are exempt from sales and use tax. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.1.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Bags, Carryout, and To-Go Containers
+
+Exempt Items used one time only for packaging a food product for the convenience of a customer are tax exempt. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). Examples include paper, plastic, plastic-coated, or plastic foam in the form of bags, boxes, bowls, cups, dividers, liners, lids, plates, platters, trays, and other similar food and beverage containers. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.2.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Condiments
+
+Taxable Florida does not provide a specific exemption for purchases of condiments by restaurants or eating establishments, and therefore, they are subject to tax. Fla. Stat. §212.05; Fla. Stat. §212.02(19); Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4); Florida Standard Industry Guide - Restaurants and Bars (July 1, 2012). However, condiments sold in or by grocery stores, convenience stores, supermarkets, bakeries, fish markets, produce markets, and other like places of business are not subject to tax in Florida. Fla. Admin. Code Ann. r. 12A-1.011(2)(a)(8). BNA-SUTN FL 11.3.3.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Cups
+
+Exempt Items used one time only for packaging a food product for the convenience of a customer are tax exempt. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). Examples include paper, plastic, plastic-coated, or plastic foam in the form of bags, boxes, bowls, cups, dividers, liners, lids, plates, platters, trays, and other similar food and beverage containers. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Cutlery and Utensils
+
+Exempt Wooden and plastic cutlery and utensils sold for use in connection with the operation of a restaurant, cafeteria or similar business fall under the packaging and wrapping exemption. Florida Standard Industry Guide - Restaurants and Bars (July 1, 2012); Fla. Admin. Code Ann. r. 12A-1.040(3). BNA-SUTN FL 11.3.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Napkins
+
+Exempt Paper napkins sold for use in connection with the operation of a restaurant, cafeteria or similar business fall under the packaging and wrapping exemption. Florida Standard Industry Guide - Restaurants and Bars (July 1, 2012); Fla. Admin. Code Ann. r. 12A-1.040(3). BNA-SUTN FL 11.3.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Plates, Bowls, etc.
+
+Exempt Items used one time only for packaging a food product for the convenience of a customer are tax exempt. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). Examples include paper, plastic, plastic-coated, or plastic foam in the form of bags, boxes, bowls, cups, dividers, liners, lids, plates, platters, trays, and other similar food and beverage containers. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Straws
+
+Exempt Straws sold for use in connection with the operation of a restaurant, cafeteria or similar business fall under the packaging and wrapping exemption. Florida Standard Industry Guide - Restaurants and Bars (July 1, 2012); Fla. Admin. Code Ann. r. 12A-1.040(3). BNA-SUTN FL 11.3.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Toothpicks
+
+Exempt Items used one time only for packaging a food product for the convenience of a customer are tax exempt. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). Examples include toothpicks and toothpick frills. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Eating Utensils and Disposable Items Other Disposable Food Items
+
+Exempt Items used one time only for packaging a food product for the convenience of a customer are tax exempt. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). Examples include paper, plastic, plastic-coated, or plastic foam in the form of bags, boxes, bowls, cups, dividers, liners, lids, plates, platters, trays, and other similar food and beverage containers. Florida Tax Brochure GT-800035; Fla. Admin. Code Ann. r. 12A-1.040(4). BNA-SUTN FL 11.3.10.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Food Stamp and WIC Purchases
+
+Exempt Food products are exempt when purchased with food stamps issued by the United States Department of Agriculture, or with Special Supplemental Food Program for Women, Infants, and Children (WIC) vouchers issued under authority of federal law. Fla. Admin. Code Ann. r. 12A-1.011(9)(a). When the food stamps are insufficient to purchase the taxable items, tax is due on the remaining sales price of taxable food and drinks. Fla. Admin. Code Ann. r. 12A-1.011(9)(b). BNA-SUTN FL 11.4.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Catering and Personal Chefs
+
+Taxable Prepared food sold by caterers and personal chefs that is consumed at the place where the food and beverages are served is subject to tax. Fla. Admin. Code Ann. r. 12A-1.0115(2)(c); Florida Tax Brochure GT-800035. BNA-SUTN FL 11.5.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Complimentary Meals
+
+Taxable Complimentary food items given to the customer as promotional, complimentary, or a courtesy are subject to use tax on the total cost of the items given away. The total cost of the complimentary items includes the cost of labor and other overhead costs necessary to prepare and serve the food items. Florida Tax Brochure GT-800035. Complimentary food items that do not involve preparation costs by the establishment, but are simply set out on a table and served to guests, are subject to use tax on the actual cost of the items. Florida Tax Brochure GT-800035. Meals that are “two for the price of one” are subject to sales tax on the actual price charged for both meals. Since the “two for one”charge is a discount or a reduced charge covering both meals, no use tax is due on the second meal. Florida Tax Brochure GT-800035. When food products are provided without charge after a customer purchases a designated number(of meals or dollars spent), tax is due on the sales price of the food products sold. No use tax is due on food products provided to customers without charge. Florida Tax Brochure GT-800035. Public lodging establishments that advertise that they provide complimentary food and drinks do not have to pay sales or use tax on food or drinks when:• the food or drinks are furnished as part of a packaged room rate; • no specific amount or separate charge is stated to the guest for food or drinks; • the public lodging establishment has a valid license with the Dept. of Business and Professional Regulation's Division of Hotels and Restaurants; and • the public lodging establishment rents or leases transient accommodations subject to sales and use tax. Florida Tax Brochure GT-800035; Florida Tax Brochure GT-800046. BNA-SUTN FL 11.6.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Mobile Food Vendors
+
+Taxable Sales of food, drinks, and other items of tangible property with a sales price of 10 cents or more are taxable when made from concession stands at arenas, auditoriums, carnivals, fairs, stadiums, theaters, street corners, and similar places of business, unless an exemption applies. Florida Tax Information Publication GT-800003. Examples of concession stand include hot dog stands, ice cream and yogurt stands, and snow cone stands. Florida Tax Information Publication GT-800003. Sales of natural fruit and vegetable juices at a roadside concession stand are exempt when the concession stand operator is not required to hold a license issued by the Department of Business and Professional Regulation; however, sales of soft drinks at the concession stand are subject to tax. Florida Tax Information Publication GT-800003. BNA-SUTN FL 11.7.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Restaurant Equipment
+
+Taxable Florida does not provide a specific exemption for restaurant equipment and therefore, it is subject to tax. Fla. Stat. §212.05; Fla. Stat. §212.02(19). BNA-SUTN FL 11.8.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Vending Machines
+
+Generally Taxable Food products sold through a vending machine, push cart, motor vehicle, or any other form of vehicle are subject to tax. Drinking water in bottles, cans, or other containers sold through a vending machine is exempt. Fla. Admin. Code Ann. r. 12A-1.0115(3). BNA-SUTN FL 11.9.
+
+==================================================
+
+Topic: Food and Food Products, Eating Establishments Other Food-Related Transactions
+
+Exempt College Meal Plans Effective July 1, 2014, prepaid meal plans purchased from a college or other institution of higher learning by students currently enrolled are exempt from sales tax. Fla. Stat. §212.08(7)(r) as amended by 2014 Fla. H.B. 5601, effective July 1, 2014. Qualifying prepaid meal plans are paid for in advance to a college or institution of higher learning for the provision of a defined quantity of units that must expire at the end of an academic term. Such plans cannot be refunded to the student upon expiration, and may only be exchanged for food. Fla. Stat. §212.08(7)(r) as amended by 2014 Fla. H.B. 5601, effective July 1, 2014. Prepaid College Meal Plan Exemption Effective July 1, 2015, the legislature clarified the prepaid college meal plan exemption. To qualify for the exemption, the meal plan must meet each of the following requirements:• the meal plan must be prepaid; for these purposes, “prepaid”means either purchased in advance of use or purchased using financial aid once disbursed; • the meal plan must be purchased from the college or other institution of higher learning or from an authorized third-party vendor licensed with the college or institution to provide such meal plans; • the meal plan must be purchased by, or on behalf of, a student currently enrolled or preparing to enroll at the school. A student taking any number of credit hours will qualify; • the meal plan must be for a defined quantity of units, such as a number of meals per week, month, year, or term; a set monetary amount; or an unlimited number of meals for a defined number of days; • the balance of unused units must expire at the end of an academic term. The expiration can be at the end of any academic term, not just the academic term in which they are purchased. Units can rollover from term to term, provided they will eventually expire at the end of an academic term; • the units cannot be refunded to the student at expiration. Refunds due to withdrawal from school, changing from a school meal plan to a meal plan provided by a sorority or fraternity, or other changes in circumstance do not disqualify a meal plan from the exemption. Refunds at graduation are considered the refund of units at expiration, and would disqualify a meal plan from the exemption. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). Flex Dollars and Hybrid Meal Plans Many colleges offer flex dollars as a meal plan option. These flex dollars are treated like other cash equivalents, which entitle a person to redeem them in the future to receive tangible personal property or services. Most gift cards are not taxable when purchased. Instead, the taxability of the transaction is determined when the gift card is used. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). Some colleges have hybrid meal plans, which have both a defined quantity of meals, as described above, and also provide a set amount of flex dollars that can be used at designated dining establishments. These meal plans can be partially or completely eligible for the exemption, depending on the type of plan. For hybrid meal plans, the portion of the plan that provides a defined number of meals and otherwise meets the requirements of a prepaid meal plan as described above is exempt from tax, regardless of whether the “flex” dollars qualify. The “flex”dollars are cash equivalents and the taxability is generally not determined until use. If the “flex” dollars meet the requirements of a prepaid meal plan as described above, the entire meal plan can be exempt, including the use of “flex” dollars to purchase food or beverages. If the “flex” dollars do not meet the requirements of a prepaid meal plan as described above, then the taxability will depend on the taxable nature of the items purchased. Items normally exempt under other provisions (e.g., certain groceries or bottles of water) will continue to be exempt, while taxable items (e.g., soft drinks) will continue to be taxable when purchased using “flex”dollars. Florida Tax Information Bulletin 15A01-13 (June 26, 2015). K-12 Meal Plans Food and beverages sold or served in a student cafeteria in a school offering grades K-12 as part of a school lunch to students, teachers, school employees, or school guests are exempt from sales and use tax. Florida Tax Brochure GT-800035. Meals Prepared for Charity and Religious Institutions Prepared meals purchased by a nonprofit volunteer organization and delivered as a charitable activity to the residences of handicapped, elderly, or indigent people are exempt from tax. Also exempt are food products sold or purchased by religious institutions that hold a Florida Consumer's Certificate of Exemption (Form DR-14). Florida Tax Brochure GT-800035. Food Products Furnished By Employers to Employees Food products furnished by an employer to its employees are not subject to tax when the food products are not required to be reported as income to the employee for federal income tax purposes. Florida Tax Brochure GT-800035. BNA-SUTN FL 11.10.
+
+==================================================

@@ -1,0 +1,459 @@
+State: Hawaii
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Hawaii Department of Taxation The Hawaii Department of Taxation is responsible for assessing and collecting the general excise tax and use tax. Haw. Rev. Stat. §231-3. BNA-SUTN HI 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Hawaii Department of Taxation The Director of the Hawaii Department of Taxation is responsible for levying, assessing, collecting, and administering the county surcharge. Haw. Rev. Stat. §46-16.8. In addition, the Director of Taxation has the exclusive rights and power to determine the county or counties in which a person is engaged in business, and in the case of a person engaged in business in more than one county, the director will determine, through apportionment or other means, that portion of the surcharge attributable to business conducted in each county. Haw. Rev. Stat. §237-8.6(a); Haw. Rev. Stat. §238-2.6(a). The county surcharge is included and paid on Forms G-45 (Periodic GE/Use Tax Return) and G-49 (Annual Return &Reconciliation). If a taxpayer does business in more than one district, he or she is required to complete Form G-75 (Schedule of Assignment of General Excise/Use Taxes By District), and attach it to Forms G-45 and G-49. The county surcharge and return is due on the same dates as the general excise tax. Haw. Dept. of Tax., Oahu County Surcharge Frequently Asked Questions. Penalties The penalties provided by Haw. Rev. Stat. §231-39 (Additions to taxes for noncompliance) for failure to file a tax return are imposed on the amount of the surcharge due on the return for the failure to file the schedule required to accompany the return. Haw. Rev. Stat. §237-8.6(g); Haw. Rev. Stat. §238-2.6(f). Additionally, a penalty of 10 percent of the amount of the surcharge and tax due on the return is imposed for failure to file the schedule or, if conducting business on more than one island, failure to correctly report the assignment of the county surcharge by tax district. Haw. Rev. Stat. § 237-8.6(f); Haw. Rev. Stat. §237-8.6(g); Haw. Rev. Stat. §238-2.6(f); see Dept. of Tax., Oahu County Surcharge Frequently Asked Questions. BNA-SUTN HI 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Any person with gross income or gross proceeds of sales upon which Hawaii's general excise tax is imposed is required to obtain a license in order to engage in such business. Haw. Rev. Stat. §237-9(a). The taxpayer must apply for the license by filing Form BB-1, State of Hawaii Basic Business Application, and submitting a one-time $20 payment to the Department of Taxation. In lieu of submitting an application via fax or mail, a person may apply via the Hawaii Business Express Web site. A license is conditioned upon the taxpayer paying the general excise taxes accruing to the state. Haw. Rev. Stat. §237-9(a);Form BB-1. The license is non-transferable. Additionally, the license is valid only for the person in whose name it is used and for the transaction of business at the place designated on the license. The taxpayer must at all times conspicuously display the license at the place for which it is issued. Haw. Rev. Stat. §237-9(a);Form BB-1. The license shall be effective until canceled in writing, unless revoked by the Director for cause. Any application for the reissuance of a previously canceled license identification number after Dec. 31, 1989, is regarded as a new license application and subject to the payment of the $20 one-time license fee. Haw. Rev. Stat. §237-9(b). A licensee that temporarily discontinues its business activity may request that the license be placed on inactive status. Haw. Regs. §18-231-3-14.16(c). The Director may grant the request for inactive status for not more than two years. Haw. Regs. §18-231-3-14.16(c)(2). Furthermore, the inactive status may be extended for periods not more than two years each. Haw. Regs. §18-231-3-14.16(c)(2). Any taxpayer who receives gross income or gross proceeds of sales from engaging in business in Hawaii and who fails to obtain a license may be fined not more than $500; however, a cash-based business may be fined not less than $500 and not more than $2,000. Haw. Rev. Stat. §237-9(b). Any taxpayer that goes out of business or transfers ownership of a business must notify the district tax office to which that taxpayer reports, using Form GEWTARV1, by canceling the license not more than 10 days after the transfer of ownership (or the cessation of business activity). A licensee must return the license to the Department with the notice of cancellation. Transfer of ownership means that the business is conducted by a different person or company. Haw. Regs. §18-231-3-14.16(b). The Director of Taxation may revoke any license where the taxpayer has failed to file both periodic and annual returns for a period of not less than five years, excluding any periods in which the Department has permitted the license to be inactive. Haw. Regs. §18-231-3-14.17(c); Hawaii Announcement No. 2019-07 (June 28, 2019). Prior to revocation, the Director must give notice by publishing a notice for at least forty five days on the department's website. Haw. Regs. §18-231-3-14.17(d), as amended on March 29, 2018; Hawaii Announcement No. 2019-07 (June 28, 2019). Furthermore, the Director may revoke any license if presented with adequate proof that the licensee is deceased, dissolved, or has ceased to exist. Haw. Regs. §18-231-3-14.18(b). Adequate proof includes, but is not limited to, a photocopy of a death certificate or certificate of dissolution. Haw. Regs. §18-231-3-14.18(b)(1)-(2). Persons engaged in network marketing, multi-level marketing, or other similar businesses are allowed to obtain a license for purposes of becoming a tax collection agent on behalf of their direct sellers. The tax collection agent must report, collect, and pay over the taxes due under this chapter 237 and chapter 238 on behalf of the direct sellers who are covered by the tax collection agreement. Haw. Rev. Stat. §237-9(d). BNA-SUTN HI 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Depends If the seller is responsible for the use tax on the use of the property, services, or contracting so sold by the seller that the seller imports into Hawaii, the seller must collect the use tax (imposed under Haw. Rev. Stat. §238-2(3))from the purchaser within 20 days of the accrual of the tax. Haw. Regs. §18-238-6(a). The Director of Taxation may relieve any seller from the duty of collecting and paying use tax if the Director is satisfied that there are other means to effectively collect the tax. Haw. Regs. §18-238-6(b). If a seller is not required under Haw. Administrative Rules §18-238-5 to collect the tax imposed, but would like to collect the tax, the taxpayer may register a request for authority to collect the tax with the Director by filing Form G-9. When authorized to collect the tax, the seller will have the duty of collecting and paying over the tax. Haw. Regs. §18-238-6(c). A seller is relieved of tax liability with respect to a transaction where he or she accepts in good faith from the purchaser a signed statement of purchaser to the seller indicating that certain property is not intended to be brought into Hawaii, but the property is brought into Hawaii at a later date. The purchaser's statement should be kept to support the exemption. The purchaser, however, is not relieved of liability from the use tax. Haw. Regs. §18-238-6(d). BNA-SUTN HI 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes Purchasers are liable for use tax on all taxable tangible personal property for which tax has not already been paid. Haw. Rev. Stat §238-2. BNA-SUTN HI 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Personal liability under Haw. Rev. Stat. §237-41.5 applies to any officer, member, manager, or other person having control or supervision over amounts of gross proceeds or gross income collected to pay the general excise tax and held in trust under Haw. Rev. Stat. §237-41.5(a), or who is charged with the responsibility for the filing of returns or the payment of general excise tax on gross income or gross proceeds collected and held in trust under Haw. Rev. Stat. §237-41.5(a). Haw. Rev. Stat. §237-41.5(b) The person will be personally liable for any unpaid taxes and interest and penalties on those taxes, if such officer or other person willfully fails to pay or to cause to be paid any taxes due from the taxpayer pursuant to this chapter. Haw. Rev. Stat. §237-41.5(b) BNA-SUTN HI 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable Hawaii is not a member of the Streamlined Sales and Use Tax Agreement. See Haw. Rev. Stat. §255D-1 et seq.; see also Hawaii Announcement No. 2003-11 (June 30, 2003). BNA-SUTN HI 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Not Applicable Hawaii has not enacted a statute or regulation governing the liability of certified service providers. Haw. Rev. Stat. §237-1 et seq. BNA-SUTN HI 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided Generally taxes are payable in monthly installments on or before the 20th day of the calendar month following the month in which the tax accrues. The taxpayer must submit a signed return and payment of tax liability for the preceding month of tax liability. Haw. Rev. Stat. § 237-30(a). Hawaii currently provides the following forms: Application for Exemption from General Excise Taxes – Form G-6 or G-6S (short form) Report of Bulk Sale or Transfer – Form G-8A Resale Certificate General Form 1 – Form G-17 Resale Certificate Special Form – Form G-19 Use Tax Return – Imports for Consumption –Form G-27 Motor Vehicle Use Tax Certificate – Form G-27a General Excise/Use Tax Exemption for Certified or Approved Housing Projects - Form G-37 Application for Extension of Time to File the Annual Return & Reconciliation – Form G-39 Periodic General Excise/Use Tax Return –Form G-45 Annual Return & Reconciliation of General Excise/Use Tax - Form G-49 A taxpayer may be permitted to file a tax return and make payment on a quarterly basis. If the Director of Taxation allows a quarterly filing then the return and payment must be filed before the 20th day of the calendar month after the close of each quarter. For calendar year, the taxpayer must file on or before April 20, July 20, Oct. 20, and Jan. 20. For a fiscal year taxpayer, the return must be filed on or before the 20th day of the fourth month, and 10th month following the beginning of the fiscal year, and on or before the 20th day of the month following the close of the fiscal year. To qualify for quarterly filing a taxpayer's total tax liability for the calendar or fiscal year must not be in excess of $4,000.00. Haw. Rev. Stat. § 237-30(b)(1). A taxpayer qualifies to file returns and remit tax on a semiannual basis if the taxpayer's total tax liability for the calendar or fiscal year does not exceed $2,000.00. The return and payment must be made on or before the 20th day of the calendar month after the close of each six-month period. For calendar year taxpayers the return must be filed on or before July 20 and Jan. 20, or for fiscal year taxpayer, on or before the 20th day of the seventh month following the beginning of the fiscal year and on or before the last day of the month following the close of the fiscal year. In order to qualify the Director must be satisfied that the filing on a semiannual basis will not unduly jeopardize the collection of taxes. Haw. Rev. Stat. § 237-30(c). Filing Returns Electronically Hawaii allows filing by electronic, telephonic, or optical means of any tax return, application, or report. The electronic return must be completed by the due date that accompanies a normal, paper-filed return. Haw. Rev. Stat. §237-8.5. BNA-SUTN HI 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month In Hawaii, general excise tax returns must be filed by the 20th of the month in which they are due. Haw. Rev. Stat. §237-30(a); Haw. Regs. §18-237-30(b). General Excise Tax Monthly Filing Taxpayers must generally file their Hawaii general excise tax return and pay any tax due on a monthly basis, on or before the 20th day of the calendar month following the month in which the tax accrued. Haw. Rev. Stat. §237-30(a); Haw. Regs. §18-237-30(b). Quarterly Filing For good cause, the director of taxation may allow a taxpayer to file their general excise return on a quarterly basis during the calendar or fiscal year. Quarterly returns are filed and the tax is to be paid on or before the 20th day of the close of each quarter, April 20, July 20, Oct,. 20 and Jan. 20 for calendar year filers. Fiscal year filers must file and pay tax due on or before the 20th day of the fourth month, seventh month, and tenth month following the beginning of the taxable year and on or before the 20th day of the month following the close of the fiscal year. Taxpayers will be allowed to file quarterly if the director is satisfied that allowing the taxpayer to file quarterly will not unduly jeopardize the collection of taxes due and the taxpayer's total tax liability for the taxable year will not exceed $4,000. Haw. Rev. Stat. §237-30(b); Haw. Regs. §18-237-30(b)(1). Semiannual Filing For good cause, the director of taxation may allow a taxpayer to file their general excise return on a semiannual basis during the calendar or fiscal year. Returns and payments must be made on or before the 20th day of the calendar month after the close of each six-month period, July 20 and Jan. 20 for calendar year filers. Fiscal year filers must file and pay tax due on or before the 20th day of the seventh month following the beginning of the year and on or before the last day of the month following the close of the fiscal year. Taxpayer will be allowed to file semiannually if the director is satisfied that allowing the taxpayer to file quarterly will not unduly jeopardize the collection of taxes due and the taxpayer's total tax liability for the taxable year will not exceed $2,000. Haw. Rev. Stat. §237-30(b)(2); Haw. Regs. §18-237-30(b). For good cause, the director may permit a taxpayer to make monthly payments based on the taxpayer's estimated quarterly or semiannual liability, provided the taxpayer files a reconciliation return at the end of each quarter or at the end of each six-month period during the taxable year. Haw. Rev. Stat. §237-30(b); Haw. Regs. §18-237-30(b). The Director may at any time revoke a taxpayer's permit to file on a quarterly or semiannual basis if:• the taxpayer becomes delinquent in either filing the return or paying the taxes; • the liability of a taxpayer who is permitted to file returns and make payments on a semiannual basis exceeds $2,000; • the liability of a taxpayer who is permitted to file returns and make payments on a quarterly basis exceeds $4,000; or • the Director determines that quarterly or semiannual filing would unduly jeopardize the assessment or collection of the general excise tax. Haw. Regs. §18-237-30(c). A taxpayer in the Electronic Funds Transfer program must file periodic and annual returns in the same manner as if the taxpayer was not in the program. Haw. Regs. §18-231-9.9-08. A taxpayer participating in the EFT program must initiate the transfer so that the amount due is deposited in the state treasury on or before the due date. If the date prescribed falls on a Saturday, Sunday, or Hawaii state holiday, the payment is due on the next day that is not a Saturday, Sunday, or Hawaii state holiday. A federal holiday that is not a Hawaii state holiday or a holiday observed by the state where the taxpayer's financial institution is located is not reasonable cause for untimely payment. Haw. Regs. §18-231-9.9-09. Use Tax Any taxpayer liable for the use tax must file a monthly return with the collector of the taxation district in which the property subject to taxation was held, or with the Director at Honolulu. Haw. Regs. §18-238-5(a). The return, Form G-HW-1, Schedule B, must be filed by the last day of each calendar month following the month in which the tax liability accrued. Payment of the balance due after deductions and credits, if any, must accompany the return. Haw. Regs. §18-238-5(a). A taxpayer may be eligible to file his or her return and make payment on a quarterly basis, or make monthly payments based on an estimated quarterly liability with a reconciliation return at the end of each quarter, if he or she possesses a valid permit to file the general excise return on a quarterly basis or file quarterly reconciliation of general excise tax returns and make monthly payments. Haw. Regs. §18-238-5(b). In addition to the monthly or quarterly returns, any taxpayer subject to tax under chapter 238 (use tax), chapter 237(general excise tax), or both, is required to file an annual return, Form G-15, Schedule B, summarizing his or her liability for the year on or before the 20th day of the fourth month following the close of the tax year. Haw. Regs. §18-238-5(c). Every seller must collect from the purchaser the use tax imposed under Haw. Rev. Stat. §238-2(3) within 20 days of the accrual of the tax. The tax collected is reported on return Form G-25 and such return and payment must be made monthly, or if eligible, monthly with payments based on estimated quarterly liability or quarterly. Haw. Regs. §18-238-6(a). BNA-SUTN HI 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing General Excise Tax The taxpayer must include tax due with the return to the designated Department of Taxation office. Haw. Rev. Stat. §237-30(a). The taxes levied are payable in monthly installments on or before the 20th calendar day of the month following the month in which the tax accrued. Haw. Rev. Stat. §237-30(a). The Director of Taxation, for good cause, may permit a taxpayer to file a return and make payments on a quarterly or semiannual basis. Haw. Rev. Stat. §237-30(b). Use Tax Any taxpayer liable for the use tax must file a monthly return with the collector of the taxation district in which the property subject to taxation was held, or with the Director at Honolulu. Haw. Regs. §18-238-5(a). The return, Form G-HW-1, Schedule B, must be filed by the last day of each calendar month following the month in which the tax liability accrued. Payment of the balance due after deductions and credits, if any, must accompany the return. Haw. Regs. §18-238-5(a). A taxpayer may be eligible to file his or her return and make payment on a quarterly basis, or make monthly payments based on an estimated quarterly liability with a reconciliation return at the end of each quarter, if he or she possesses a valid permit to file the general excise return on a quarterly basis or file quarterly reconciliation of general excise tax returns and make monthly payments. Haw. Regs. §18-238-5(b). In addition to the monthly or quarterly returns, any taxpayer subject to tax under chapter 238 (use tax), chapter 237(general excise tax), or both, is required to file an annual return, Form G-15, Schedule B, summarizing his or her liability for the year on or before the 20th day of the fourth month following the close of the tax year. Haw. Regs. §18-238-5(c). Every seller must collect from the purchaser the use tax imposed under Haw. Rev. Stat. §238-2(3) within 20 days of the accrual of the tax. The tax collected is reported on return Form G-25 and such return and payment must be made monthly, or if eligible, monthly with payments based on estimated quarterly liability or quarterly. Haw. Regs. §18-238-6(a). BNA-SUTN HI 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Available Taxpayers may file Form GEW-TA-RV-6, Application for Extension of Time to File for GE/Use Tax Annual Return with the Department to request a 3-month extension of time to file the General Excise/Use Tax Annual Return and Reconciliation. Haw. Dept. of Taxation, Form GEW-TA-RV-6. If additional time is needed, taxpayers can request a second 3 month extension using the same form. The maximum extension period is 6 months. Taxpayers must provide a “valid and compelling” reason for the extension in order for it to be approved by the Department. The extension does not extend the time to pay and any tax owed is due on the original due date. Haw. Dept. of Taxation, Form GEW-TA-RV-6. BNA-SUTN HI 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Available The Hawaii Department of Taxation is empowered to waive delinquency penalties and interest for disaster relief, and these determinations are generally made on a case-by-case basis. Haw. Rev. Stat. §231-3(12). The Hawaii Department of Taxation will consider requests for extensions to file and pay Hawaii taxes for taxpayers affected by the lava flow in the district of Puna. All returns for which relief is requested should be marked “2018 Puna Lava Relief” on the top center of the return. Taxpayers who are affected but whose address on file with the department is not in Hawaii county should include a brief statement as to how the disaster adversely affected their ability to meet their tax obligations. Hawaii Announcement No. 2018-08 (May 31, 2018). The Hawaii Department of Taxation will consider tax relief requests for extensions to file, extensions to pay, and waiver of penalties and interest from taxpayers affected by the heavy rains and flooding from storms on April 14, 2018. Relief may be requested by taxpayers in the designated disaster areas of Kauai county, and the county and city of Honolulu. All state returns for which relief is requested should be marked “2018 Kauai Flood Relief” or “2018 Honolulu Flood Relief,”as applicable on the top center of the return. Taxpayers affected by the disaster, but whose address on file with the department is not within one of the designated disaster areas, should also provide a brief statement as to how the disaster adversely affected their ability to meet their tax obligations. Hawaii Announcement No. 2018-07 (April 20, 2018); Hawaii Announcement No. 2018-06 (April 17, 2018). Due to heavy rains and flooding from Sept. 11, 2016 to Sept. 14, 2016, the Hawaii counties of Maui and Kalawao were designated as federally declared disaster areas. The Hawaii Department of Taxation will consider requests for filing and payment extensions by affected taxpayers on a case-by-case basis. Taxpayers should write “2016 Maui/Kalawao Flood Relief' at the top of returns for which relief is being requested. Taxpayers whose address is not in the designated counties but were affected by the disaster should provide a brief explanation of how their ability to timely file and pay was impacted. Hawaii Announcement No. 2016-08. BNA-SUTN HI 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers Hawaii requires taxpayers with a previous one-year tax liability exceeding$100,000, including consolidated filers, to remit taxes by one of the approved electronic funds transfer (EFT) methods. Haw. Rev. Stat. §231-9.9. The Director of Taxation is authorized to require any taxpayer required to electronically file a federal return or electronically remit any federal taxes to electronically file a state return and electronically remit any taxes imposed under Title 14. Haw. Rev. Stat. §231-9.9. Taxpayers selected for the program must transmit all payments for that tax type by EFT. Taxpayers may be excused from participating in the EFT program if they demonstrate that they did not meet the liability threshold in the prior taxable year or for undue hardship. Haw. Regs. § 18-231-9.9-03. Effective June 29, 2018, the Department of Taxation may require taxpayers with annual general excise tax liabilities of more than $4,000 to file electronically. 2018 Haw. H.B. 2395, effective June 29, 2018; Hawaii Announcement 2018-13 (Sept. 4, 2018). EFT is an electronic method of making a payment that replaces conventional check-writing. One way that EFTs are handled is through the Automatic Clearing House (ACH), a nationwide network that electronically transfers funds. The ACH Debit method is the preferred method, but the ACH Credit method, or any other method may be used if advance permission from the EFT Unit of the Department is received. Hawaii Tax Information Release No. 1995-6. Any person not required to make payments by EFT may elect to utilize an EFT method if approved by the director. Hawaii Tax Information Release No. 1999-1. A two percent penalty is imposed on taxpayers who fail to remit taxes using an EFT method when required. A good cause exemption to the electronic filing and payment requirements may be granted. Haw. Rev. Stat. §231-9.9. Even if the taxes are paid by EFT, the taxpayer must file periodic and annual returns in the same manner as if the taxpayer was not in the Electronic Funds Transfer program. The required tax returns should be completed as usual, except that the “Amount of Remittance” line should be left blank. Signed tax returns must be filed on or before the due date. Haw. Regs. §18-231-9.9-08(a); Hawaii Tax Information Release No. 1999-1. BNA-SUTN HI 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Required for All Taxpayers Taxpayers in Hawaii may submit their payment by ACH credit or ACH debit. Hawaii Tax Information Release No. 1995-6. The ACH Debit method requires the taxpayer to call the Data Collection Center to initiate the payment transaction. Hawaii Tax Information Release No. 1995-6. The call authorizes the Department to move the tax payment from the taxpayer's financial institution to the state treasury. Hawaii Tax Information Release No. 1995-6. However, the taxpayer must initiate payment information for each tax type and for each tax period. Haw. Regs. §18-231-9.9-08(b). The payment must be deposited to the state treasury on or before the due date. The Department bears the costs of processing the ACH debit method payments. Haw. Regs. §18-231-9.9-08(b). The ACH Credit method or any other approved method requires each taxpayer to contact their financial institutions to make arrangements to transfer the tax payment to the state treasury. Unlike the ACH Debit method, the taxpayer bears the costs to use the ACH credit method or any other EFT method. The payment must be deposited to the state treasury on or before the due date. Haw. Regs. §18-231-9.9-08(c). BNA-SUTN HI 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+No Hawaii does not have a vendor collection discount. BNA-SUTN HI 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Consequences of Failing to Obtain Exemption Certificates The absence of a resale certificate shifts the presumption that the sale is not at wholesale unless the sales of the business are exclusively at wholesale. Haw. Rev. Stat. §237-13(2)(F)(i); Haw. Rev. Stat. §237-13(2)(F)(ii). A purchaser who gives a resale certificate to a seller is obligated to pay the seller (upon demand) the amount of any additional tax that is imposed on the seller as a result of the transaction not being treated as a wholesale sale. Haw. Rev. Stat. §237-13(2)(F)(i); Haw. Rev. Stat. §237-13(2)(F)(ii). BNA-SUTN HI 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+No Specific Time Period Certificates are valid unless the purchaser gives notice in writing, which either specifies that the certificate does not apply to a particular order or revokes the certificate. Haw. Regs. §18-237-13-02(d)(2)(B). BNA-SUTN HI 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted Hawaii does not allow MTC's Uniform Sales and Use Tax Certificate to claim a resale exemption for the purchase of a taxable service for resale. Hawaii allows the certificate to be used by the seller to claim a lower general excise tax rate or no general excise tax, instead of the buyer claiming an exemption. See Hawaii Tax Information Release No. 1993-5; Hawaii Tax Information Release No. 1998-8. The no tax situation occurs when the purchaser of imported goods certifies to the seller, who originally imported the goods into Hawaii, that the purchaser will resell the imported goods at wholesale. If the lower rate or no tax does not in fact apply to the sale, the purchaser is liable to pay the seller the additional tax imposed. See Hawaii Tax Information Release No. 1993-5; Hawaii Tax Information Release No. 1998-8. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 states have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the States that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. See Hawaii Tax Information Release No. 1993-5; Hawaii Tax Information Release No. 1998-8. BNA-SUTN HI 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted Hawaii is not a member to the Streamlined Sales Tax agreement, and is not obligated to accept the SSTGB's multistate certificate of exemption Form F0003. BNA-SUTN HI 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted Hawaii does not specify other multistate sales and use tax exemption certificates. Haw. Rev. Stat. §237-1 et al. BNA-SUTN HI 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes Under the MTC, if a vendor accepts an exemption certificate in good faith from a purchaser, the vendor is relieved of liability for general excise and use tax with respect to the transaction. Haw. Rev. Stat. §255-1, Article V. BNA-SUTN HI 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+March 31 of First Registration Year or Within 3 Months After Start of Business Application for general exemption from the general excise taxes must be filed with the Department of Taxation on or before March 31 of the first year of registration or within three months after the commencement of business. Haw. Rev. Stat. §237-23(d). Since the exemption must be filed with the Department of Taxation for the exempt status, there is no guidance for sellers’ timely acceptance of such certificate. BNA-SUTN HI 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years Hawaii requires taxpayers to keep and preserve any tax records for a period of at least three years. Haw. Regs. §18-231-3-14.25(a). Additionally, records relating to any tax for a taxable period shall be preserved during the statutory period within which the tax may be assessed or levied, including any agreed upon extensions of the statutory period. Haw. Regs. §18-231-3-14.25(a). BNA-SUTN HI 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required Under Haw. Rev. Stat. §237-13(2)(F)(i), a purchaser who gives a resale certificate to a seller is obligated to pay the seller (upon demand) the amount of any additional tax that is imposed on the seller as a result of the transaction not being treated as a wholesale sale. Haw. Rev. Stat. §237-13(2)(F)(i);Haw. Regs. §18-237-13-02(d); Hawaii Tax Information Release No. 1994-6. If a purchaser gives a resale certificate to a taxpayer and the purchaser consumes the property, the purchaser is obligated to pay the tax, penalties, and interest assessed by the Department of Taxation upon demand by the taxpayer. Haw. Rev. Stat. §237-13;Haw. Regs. §18-237-13-02(d); Hawaii Tax Information Release No. 1994-6. The taxpayer must then report the amount paid by the purchaser as income and pay the general excise tax at the 4 percent rate. Haw. Rev. Stat. §237-13;Haw. Regs. §18-237-13-02(d); Hawaii Tax Information Release No. 1994-6. BNA-SUTN HI 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required Application for general exemption from the general excise taxes must be filed using Hawaii Form G-6 or Hawaii Form G-6S. The exemption certificate must be filed with the Department of Taxation on or before March 31 of the first year of registration or within three months after the commencement of business. Haw. Rev. Stat. §237-23(d). Organizations that have applied for tax exempt status under sections 501(c)(3), (4), (6), or (8) of the Internal Revenue Code of 1986 must register with the Hawaii Department of Taxation by filing a statement attaching a copy of the exemption or application for recognition of exempt status and any other particular facts the Department of Taxation may require. Haw. Rev. Stat. §237-23(c)(1). The Department for good cause may extend the time for registration or the time for filing an application for exemption. Haw. Rev. Stat. §237-23(e). No further statement or application needs to be filed, if the exemption is allowed, unless there is a material change in the facts. Haw. Rev. Stat. §237-23(d). The processing time for Hawaii Form G-6 or Hawaii Form G-6S usually takes approximately six to eight weeks from the date the complete application is received by the Department. There is a one-time registration fee of $20 that must be paid with Hawaii Form G-6. Hawaii Form G-6. Every taxpayer is required to maintain exemption certificates for at least three years after the date they become invalid. Haw. Rev. Stat. §237-41. Retention Periods Exemption certificates should be maintained for three years after becoming invalid or revoked. Haw. Rev. Stat. §237-41; Haw. Rev. Stat. §238-9. Consequences of Failing to Obtain Exemption Certificates The absence of a certificate shifts the presumption that the sale is not at wholesale unless the sales of the business are exclusively at wholesale. Haw. Rev. Stat. §237-13(2)(F)(ii). Exemption Certificate Substitutions, Data Elements Applicants must use the prescribed forms in order to avail it of the exemptions. Haw. Rev. Stat. §237-23(d); Haw. Regs. §18-237-13-02(d). BNA-SUTN HI 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted An export exemption certificate, Hawaii Form G-61, is available to a manufacturer, producer, contractor, service provider, or seller for the exemption of the gross proceeds arising from the manufacture, production, or sale of tangible personal property shipped to a point outside of Hawaii where the property is resold, used, or consumed. Haw. Rev. Stat. §237-29.5. Additionally, the exemption certificate exempts from the general excise tax, the value or gross proceeds arising from contracting or services by a contractor, service provider, or seller that is resold, or otherwise consumed or used outside Hawaii. Haw. Rev. Stat. §237-29.53. BNA-SUTN HI 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Not Authorized Hawaii general excise and use tax laws do not provide for direct payment permits. BNA-SUTN HI 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years General Requirement to Maintain Records Every taxpayer who does business in Hawaii; imports tangible personal property for use, sale, or consumption in Hawaii; or purchases tangible personal property for use, sale, or consumption in Hawaii from a seller that is not licensed under chapter 237 of the HRS is required to keep in the English language within the state, and preserve for a period of three years, complete and adequate records from which the department may determine any tax for which that taxpayer is liable. Haw. Regs. §18-231-3-14.22(a); Haw. Regs. §18-231-3-14.25(a). All such books, records, and invoices maintained by the taxpayer must be open for examination at any time by the Department or the Multistate Tax Commission or the authorized representative of the Multistate Tax Commission. Haw. Rev. Stat. §237-41; Haw. Regs. §18-231-3-14.25(b). Content of Records The taxpayer must maintain written records of gross proceeds of sales and gross income, and such other books, records, and invoices to account for and indicate the appropriate tax treatment for actions by and transactions involving the taxpayer. The records are required to show the taxpayer's gross receipts from all activities engaged in or caused to be engaged in with the object of gain or economic benefit either directly or indirectly, including: • the fair market value of property or services received in barter or exchange transactions, whether the receipts are claimed to be taxable or nontaxable; • the amounts of all deductions, exemptions, or credits claimed in filing any tax return; and • the total value of all tangible personal property purchased for sale, consumption, or lease in Hawaii. Haw. Rev. Stat. §237-41; Haw. Regs. §18-231-3-14.22(b). Specifically, the taxpayer's records must include the normal books of account ordinarily maintained by the prudent business person in the line or lines of business that the person is engaged in; all bills, receipts, invoices, cash register tapes, or other documents of original entry supporting the entries in the books of account;all schedules or working papers used in preparation of tax returns;and any records that may be required under any specific tax chapter to which the taxpayer may be subject. Haw. Rev. Stat. §237-41; Haw. Regs. §18-231-3-14.22(b). Additionally, all taxpayers making cash sales, other than casual sales, are required to: (1) offer a receipt or other record of each cash sale; and (2) maintain a contemporaneously generated record of all sales made each day. Haw. Rev. Stat. §231-96(a); 2013 Haw. S.B. 1196, effective July 1, 2013; Hawaii Announcement No. 2013-19. Records Prepared by Automated Data Processing Systems An automatic data processing tax accounting system may be used to provide the records required to verify tax liability. Haw. Regs. §18-231-3-14.23. All automatic data processing tax accounting systems used for this purpose must include a method of producing legible and readable records to verify tax liability, reporting, and payment. Haw. Regs. §18-231-3-14.23. Specific requirements relating to tracing transactions and the accounting system must also be satisfied in order to use this system. Haw. Regs. §18-231-3-14.24(a). Three-Year Record Preservation Requirement and Penalties for Noncompliance The records the taxpayer is required to keep must be preserved within the Hawaii for a period of not less than three years, and must be kept and preserved for a longer period if another statute otherwise provides. Haw. Regs. §18-231-3-14.25(a). The records relating to any tax for a taxable period must be preserved during the statutory period within which the tax may be assessed or levied, including any extensions of the statutory period agreed to between the Department and the taxpayer. Haw. Regs. §18-231-3-14.25(a). Those records must be made available for examination on request by the Department or the Multistate Tax Commission, or the authorized representative or representatives of either the Department or the Multistate Tax Commission. Haw. Regs. §18-231-3-14.25(b). In the event that a taxpayer fails, without reasonable cause, to substantially comply with the three-year maintenance, preservation, and availability requirements, the Department may disregard any records that have not been prepared and maintained in substantial compliance with the requirements of these rules, treat the noncompliance with these rules as evidence of negligence or intent to evade the payment of taxes, and revoke a taxpayer's general excise license or certificate of registration upon evidence of a taxpayer's continued failure to comply with these rules. Haw. Regs. §18-231-3-14.25(c). BNA-SUTN HI 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Vendor The Department of Taxation will “immediately” refund any excess amount of tax paid by the taxpayer. The taxpayer may elect to subsequently apply the overpayment of tax as a credit to the subsequently accruing tax liability. Haw. Rev. Stat. §237-37; Haw. Rev. Stat. §231-23(c); Haw. Rev. Stat. §238-7. All refunds and the names of the taxpayers receiving the refunds are accessible by the public for inspection in the office of the Department of Taxation in the district in which the person receiving the refund made the return. Haw. Rev. Stat. §237-37; Haw. Rev. Stat. §238-7. If the amount of tax paid exceeds the tax liability, interest is paid at the rate of one-third of 1 percent for each month or fraction thereof, beginning with the first calendar day after the due date of the return, or if the return is filed after the due date, the first month following the month the return is received, and continuing until the date that the Director approves the refund voucher. However, if the Director approves the refund voucher within 90 days of the later of the due date or the date the return is received, and the Comptroller of Hawaii sends the taxpayer a refund warrant within 45 days from the date of the Director's approval, no interest on the overpayment is paid. Haw. Rev. Stat. §231-23(d)(1). When overpayment of taxes results from the taxpayer filing an amended return or from a determination made by the Director and the overpayment is not shown on the original return, interest on the overpayment is paid:• from the first calendar day after the due date of the original return, or • if the original return is filed after the prescribed due date, the first month following the month the return is received, to the date the Director signs the refund voucher. Haw. Rev. Stat. § 231-23(d)(2). If the Comptroller does not send the refund warrant to the taxpayer within 45 days after the Director's approval, interest will continue until the date that the Comptroller sends the refund warrant to the taxpayer. Haw. Rev. Stat. § 231-23(d)(2). Where a credit of tax is due to the taxpayer, interest shall be allowed and paid from the first calendar day after the due date of the return, the first month following the month return is received by the Director or the date of payment, whichever is later, to the date the credit is taken. However, the Director may make a refund of any credit to a taxpayer where the taxpayer has no underpayment against which to apply the credit. Haw. Rev. Stat. §231-23(d)(4). All refunds will be paid only by a refund voucher prepared by the tax collector. The refund vouchers state the detail of each transaction, are approved by the Director of Taxation, and are forwarded to the Comptroller to issue a warrant for payment of a refund out of the tax reserve fund. Nonetheless, if the taxpayer entitled to the refund is delinquent in the payment of another tax, the Comptroller may after notice to the taxpayer withhold the amount of the delinquent taxes, penalties, and interest from the amount of the refund. Haw. Rev. Stat. §231-23(c)(1). BNA-SUTN HI 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years No claim for refund is allowed for any tax, unless the claim for refund or credit is filed as follows: if an annual return is timely filed or filed within three years after the due date, then the refund or credit must be claimed within three years after the later of the date the annual return was filed or the date prescribed for filing the annual return; or if an annual return is not filed, or is filed more than three years after the due date, a claim for refund or credit must be filed within the later of three years after payment of the tax or three years after the date prescribed for filing the annual return. Haw. Rev. Stat. §237-40(d). BNA-SUTN HI 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years The amount of general excise and use taxes imposed must be assessed or levied within three years after the annual return was filed, or within three years of the filing return due date, whichever is later. Haw. Rev. Stat. §237-40(a); Haw. Rev. Stat. §238-7. No court proceeding without the assessment for the collection of any taxes may begin after the expiration of the three year period. Haw. Rev. Stat. §237-40(a); Haw. Rev. Stat. §238-7. If the tax assessment has been made within the three year statute of limitations and the tax is collected by levy or court proceeding, the levy must be made or the proceeding must begin within 15 years from the assessment of the tax. For any tax assessed prior to July 1, 2009, the levy or proceeding is barred after June 24, 2024. However, the limitation on collection after assessment is suspended for the period:• the taxpayer agrees to suspend the period; • the assets of the taxpayer are in control or custody of a court in any proceeding before a U.S. or state court, and for six months thereafter; • an offer in compromise under Haw. Rev. Stat. §231-3(10) is pending; and • during which the taxpayer is outside of Hawaii for at least six continuous months;however, if within six months of the taxpayer's return, the period of limitations on collection after assessment would expire, the period will not expire for six months. Haw. Rev. Stat. §237-40(a); Haw. Rev. Stat. §238-7. If a taxpayer makes a substantial omission of gross income, gross proceeds from sales, price or value, the tax may be assessed or a proceeding in court may begin without assessment at any time within six years from the date the return is filed. Haw. Rev. Stat. §231-40.5(a). Substantial omission means an omission that exceeds 25 percent of the amount stated in the return. Haw. Rev. Stat. §231-40.5(a). The extension of the statute of limitations will not apply to any amount that is stated on the return that is disclosed on the return or in a statement attached to the return to adequately apprise the Department of Taxation of the nature and amount of such item. Haw. Rev. Stat. §231-40.5(b). The statute of limitations is tolled for the period during which the Director of Taxation is prohibited from making an assessment of taxes due to the automatic stay in bankruptcy and for 60 days after the stay is lifted. Haw. Rev. Stat. §231-3.5. In the case of a false or fraudulent return with the intent to evade tax, or the failure to file an annual return, the tax may be assessed or levied at any time. Although the statute of limitations is tolled, the burden of proof with respect to the falsity or fraudulence of return with the intent to evade tax is on the state. However, the responsibility for filing a specific annual return rests with the taxpayer, and merely furnishing the state with adequate information, in the form of a disclosure or amnesty plan for example, will not commence the statutory period. Haw. Rev. Stat. §237-40(b); Haw. Rev. Stat. §238-7 ; Narmore v. Director of Taxation, Haw. Ct. App., No. 30550, 2/21/13. The statute of limitations may be tolled if both the Department of Taxation and the taxpayer agree in writing, before the expiration of the statute of limitations, to the assessment or levy of the tax after the three year statute of limitations. The agreed extension of time may be extended by subsequent written agreements made before the expiration of the period previously agreed upon. Haw. Rev. Stat. §237-40(c); Haw. Rev. Stat. §238-7. BNA-SUTN HI 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Hawaii imposes civil penalties for the failure to file a return, the failure to pay tax or fraud. Haw. Rev. Stat. §231-39(b) Failure to File Return For failure to file a tax return, unless the failure is due to reasonable cause and not due to neglect, there is a penalty of 5 percent of the amount of the tax if the failure to file is not for more than one month. An additional 5 percent penalty is imposed for each additional month that the failure continues, but the penalty will not exceed 25 percent in the aggregate. The amount of the tax is reduced by the amount paid on or before the due date. Haw. Rev. Stat. §231-39(b)(1). Failure to Pay Tax If the taxpayer fails to pay any part of a tax liability and it is due to negligence or intentional disregard of the rules, but without intent to defraud, there is a penalty of up to 25 percent of the underpayment. Haw. Rev. Stat. §231-39(b)(2)(A). When a return is timely filed without complete payment of the tax liability within 60 days of the filing date, then there is a penalty of up to 20 percent of the unpaid tax liability, as determined by the Director. Haw. Rev. Stat. §231-39(b)(3). Fraud If underpayment of the tax liability is due to fraud, a penalty of up to 50 percent as determined by the Director is assessed. Haw. Rev. Stat. §231-39(b)(2)(B). However, if a penalty is assessed due to fraud, no penalty relating to failure to file a tax return will be assessed. Haw. Rev. Stat. §231-39(b)(2)(C). BNA-SUTN HI 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Hawaii imposes criminal penalties for any attempt to evade or defeat tax, willful failure to file, false or fraudulent statements and the willful failure to collect and pay tax. Haw. Rev. Stat. §231-34; Haw. Rev. Stat. §231-35; Haw. Rev. Stat. §231-36; Haw. Rev. Stat. §231-36.4. Attempt to Evade or Defeat Tax Any person who willfully attempts in any manner to evade or defeat any tax imposed under title 14, or its payment, in addition to other penalties provided by law, shall be guilty of a class C felony and, upon conviction, shall be subject to one or any combination of the following: (1) A fine of not more than $100,000; (2) Imprisonment of not more than five years;or (3) Probation, provided that a corporation shall be fined not more than $500,000. Haw. Rev. Stat. §231-34. Willful Failure to File Any person required to make a return, make a report, keep any records, supply any information, or secure any license required under title 14, who willfully fails to make the return, make the report, keep the records, supply the information, or secure the license, at the time or times required by law, shall in addition to other penalties provided by law, be guilty of a misdemeanor and upon conviction, shall be subject to one or any combination of the following: (1) A fine of not more than $25,000;(2) Imprisonment of not more than one year; or (3) Probation, provided that a corporation shall be fined not more than $500,000. Haw. Rev. Stat. §231-35. False and Fraudulent Statements- Aiding and Abetting Any person who willfully makes and subscribes any return, statement, or other document required to be made under title 14, except chapter 238, which contains or is verified by a written declaration that it is true and correct as to every material matter, and which the person does not believe to be true and correct as to every material matter shall be guilty of a class C felony and, upon conviction, shall be subject to one or any combination of the following:(1) A fine of not more than $100,000; (2) Imprisonment of not more than three years; or (3) Probation; provided that a corporation shall be fined not more than $500,000; and provided further that, if the person willfully makes and subscribes any return, statement, or other document required to be made under chapter 238, which contains or is verified by a written declaration that it is true and correct as to every material matter and which the person does not believe to be true and correct, then the person shall be guilty of a misdemeanor and, upon conviction, shall be subject to one or any combination of the following: (1) A fine of not more than $2,000; (2) Imprisonment of not more than one year; or (3) Probation. Haw. Rev. Stat. §231-36(a). Any person who willfully aids or assists in, or procures, counsels, or advises the preparation or presentation of any tax return, affidavit, claim, or other document required to be made under title 14, which is fraudulent or is false as to any material matter, regardless of whether the falsity or fraud is with the knowledge or consent of the person authorized or required to present the return, affidavit, claim, or document shall be guilty of a class C felony and, upon conviction, shall be subject to one or any combination of the following: (1) A fine of not more than $100,000; (2) Imprisonment of not more than three years; or (3) Probation; provided that a corporation shall be fined not more than $500,000. Haw. Rev. Stat. §231-36(b). Willful Failure to Collect and Pay Tax Any person required to collect, account for, and pay over any tax imposed by title 14, who willfully fails to collect or truthfully account for and pay over such tax shall be guilty of a class C felony, in addition to other penalties provided by law and, upon conviction, shall be subject to one or any combination of the following: (1) A fine of not more than$100,000; (2) Imprisonment of not more than five years; or (3) Probation;provided that a corporation shall be fined not more than $500,000. Haw. Rev. Stat. §231-36.4. BNA-SUTN HI 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The Hawaii Department of Taxation has the authority to waive all penalties and interest if a taxpayer can demonstrate reasonable cause for the penalties to be waived. Haw. Rev. Stat. § 231-3(12). BNA-SUTN HI 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Fixed by statute. In Hawaii, interest rates for underpayments and overpayments of tax are fixed by statute and are not periodically redetermined. Haw. Rev. Stat. § 231-39(b)(4)(A); Haw. Rev. Stat. § 231-23(d). Neither underpayment interest nor overpayment interest is subject to compounding in Hawaii. Haw. Rev. Stat. § 231-39(b)(4)(D). BNA-SUTN HI 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Statutory Rate The Hawaii interest rate on underpayments of tax is set forth in Haw. Rev. Stat. § 231-39(b)(4)(A). Interest is imposed on any unpaid tax from the first calendar day following the due date of the payment to the date paid. Haw. Rev. Stat. § 231-39(b)(4). Taxpayers may suspend the running of interest on underpayments of tax by paying a cash bond deposit and entering into a cash bond-interest tolling agreement with the Department of Taxation. Hawaii Tax Information Release No. 2008-03 (Oct. 15, 2008). BNA-SUTN HI 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2018, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2017, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2016, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2015, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2014, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2013, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2012, the Hawaii interest rate on underpayments of tax iswas 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2011, the Hawaii interest rate on underpayments of tax was 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2010, the Hawaii interest rate on underpayments of tax is 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2009, the Hawaii interest rate on underpayments of tax is 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Statutory Rate The Hawaii interest rate on overpayments of tax is set forth in Haw. Rev. Stat. § 231-23(d)(1)(B). Interest is paid on overpayments of tax shown on an original return filed by the taxpayer that are not refunded within 90 days after due date of the return or the date the return is filed, whichever is later, until a full refund is remitted to the taxpayer. Haw. Rev. Stat. § 231-23(d)(1). BNA-SUTN HI 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2018, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2017, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2016, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2015, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2014, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2013, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2012, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2011, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2010, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2009, the Hawaii interest rate on overpayments of tax was 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Hawaii did not have a tax amnesty program in 2018. BNA-SUTN HI 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Hawaii did not have a tax amnesty program in 2017. BNA-SUTN HI 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Hawaii did not have a tax amnesty program in 2016. BNA-SUTN HI 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Hawaii did not have a tax amnesty program in 2015. BNA-SUTN HI 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Hawaii did not have a tax amnesty program in 2014. BNA-SUTN HI 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Hawaii did not have a tax amnesty program in 2013. BNA-SUTN HI 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Hawaii did not have a tax amnesty program in 2012. BNA-SUTN HI 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Hawaii did not have a tax amnesty program in 2011. BNA-SUTN HI 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Hawaii did not have a tax amnesty program in 2010. BNA-SUTN HI 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+Yes The Department of Taxation offered a Tax Fresh Start Program from May 27, 2009, through June 26, 2009. Hawaii Dept. of Taxn., News Release—Tax Fresh Start Program (May 27, 2009). The program provided an opportunity for eligible taxpayers to pay back taxes to the state while avoiding penalties and potentially avoiding referral for criminal prosecution. The program also offered a 50 percent reduction in interest from the 8 percent statutory rate per annum to 4 percent per annum. Hawaii Dept. of Taxn., News Release—Tax Fresh Start Program (May 27, 2009). The program was available to all eligible taxpayers owing tax for any taxable period ending on or before Dec. 31, 2007, either because the taxpayer: • failed to file a return for the taxable period; or • previously filed a return for the taxable period, but underreported the amount of tax due. Hawaii Dept. of Taxn., News Release—Tax Fresh Start Program (May 27, 2009). A taxpayer was ineligible for participation in the Fresh Start Program if any of the following applied: • the taxpayer was then under audit by the Department of Taxation; • the taxpayer was then under criminal investigation; • the taxpayer was a party to any civil or criminal litigation that was pending on May 27, 2009, with the Department of Taxation; • the taxpayer was in the Department of Taxation's collection program; • the taxpayer had been contacted by the Department of Taxation concerning a return for any reason, including a return that had not been filed or an apparent understatement; • the taxpayer was under audit by the federal government or had been notified of such an examination; or • the taxpayer had been criminally prosecuted by the criminal investigation unit, or who was then under court jurisdiction. Hawaii Dept. of Taxn., News Release—Tax Fresh Start Program (May 27, 2009). BNA-SUTN HI 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes Hawaii has a voluntary disclosure program in which a taxpayer can preemptively reveal its tax liabilities to the Department of Taxation. Hawaii Tax Information Release No. 2016-02 (May 26, 2016). To qualify for the voluntary disclosure program, the taxpayer must file all tax returns for the years in question. The Department has discretion as to the final acceptance of any voluntary disclosure. Hawaii Tax Information Release No. 2016-02 (May 26, 2016). BNA-SUTN HI 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+10 years Hawaii's voluntary disclosure program has a standard look-back period of ten years. However, in some cases the Department looks back further, for example if a taxpayer's questionable business conduct merits looking back further. The Department considers all relevant circumstances on a case-by-case basis. Hawaii Tax Information Release No. 2016-02 (May 26, 2016). BNA-SUTN HI 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Hawaii participates in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Hawaii may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN HI 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized Authority to Conduct Audits The Department of Taxation or the Multistate Tax Commission or the authorized representative of the Multistate Tax Commission may examine the records of a taxpayer and make investigations for the purpose of verification or audit of a return made by the taxpayer, or for the purpose of making an investigation where there is reasonable ground to believe that any return made is so deficient as not to form the basis of a satisfactory assessment of the tax, or for the purpose of making an assessment where no return has been made. Haw. Rev. Stat. §237-39. Similarly, the Department of Taxation is required to provide legislative auditors access to tax returns that are necessary and relevant to the comprehensive annual financial report audit of the state. Haw. Rev. Stat. §237-5, as amended by 2014 Haw. S.B. 2779, effective June 24, 2014. Scope of Investigation In the course of conducting an audit of a taxpayer, the Department of Taxation, or the Multistate Tax Commission, or its authorized representative may make an examination of all account books, bank books, bank statements, records, vouchers, taxpayer's copies of federal tax returns, and any and all other documents and evidence having any relevancy to the determination of the gross income or gross proceeds of sales of any taxpayer required to be maintained by the taxpayer. Additionally, the Department of Taxation or the Multistate Tax Commission may summon or require the attendance of the person by or for whom the return has been made or whose tax is being assessed, and any employee of the person, and may summon or require the attendance of any person having knowledge in the premises, naming the time and place in the summons. The taxpayer or its summoned witnesses may be required to produce any books, statements, or other evidence open to examination, and provide testimony in reference to any such matter relevant to the gross income or gross proceeds of sales of the taxpayer for the period under consideration, with power also given to the Department of Taxation and the Multistate Tax Commission to require that the person called and appearing be interrogated under oath. Haw. Rev. Stat. §237-39. The Department of Taxation has recognized a situation involving at least two taxpayers where competing legal theories may arise and cause a dispute as to the party responsible for paying either the general excise tax or use tax on certain services or contracting imported into Hawaii, otherwise referred to as a “whipsaw.”A “whipsaw” occurs when the Department is forced to treat both sides of a transaction consistently where the facts or application of law to those facts are in dispute, and assess only one taxpayer based on one view of the facts or law, and allow the statute of limitations on assessment against the other taxpayer to expire before the Department can change its position to conform to a judicial ruling against it on its initial position. To prevent such a whipsaw effect, the Department must issue assessments to both taxpayers on inconsistent theories to toll the statute of limitations until the matter is resolved by the courts. However, the Department intends to collect 100 percent of the proper tax only once, whether it is all from one of the taxpayers or a combination of taxpayers. Hawaii Announcement No. 2009-34. Assessment of Tax Following Audit If the Department determines that any gross income or gross proceeds of sales liable to the tax have not been assessed, the Department may assess the tax against the taxpayer. Haw. Rev. Stat. §237-36; Haw. Rev. Stat. §237-38; Haw. Rev. Stat. §237-39. Effect of Failure to Comply With Examination Efforts Any individual knowingly giving false testimony under oath at any such hearing before the Department is, upon conviction, guilty of perjury. Any person refusing or neglecting to obey any summons issued by the Department and any individual appearing and refusing to testify under oath will be fined, upon conviction, $50 for the first offense and $100 for each succeeding offense. Haw. Rev. Stat. §237-39. BNA-SUTN HI 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted Any person aggrieved by any assessment of the tax for any month or any year may appeal from the assessment in the manner and within the time and in all other respects as provided in the case of income tax appeals by Haw. Rev. Stat. §235-114 Haw. Rev. Stat. §237-42. Any person aggrieved by any assessment of the tax or liability imposed by this chapter may appeal from the assessment in the manner and within the time hereinafter set forth. Appeal may be made either to the district board of review or to the tax appeal court. The first appeal to either the district board of review or to the tax appeal court may be made without payment of the tax so assessed. Either the taxpayer or the assessor may appeal to the tax appeal court from a decision by the board or to the intermediate appellate court from a decision by the tax appeal court; provided that if the decision by the board or the tax appeal court is appealed by the taxpayer, or the decision by the board in favor of the department is not appealed, the taxpayer shall pay the tax so assessed plus interest as provided in section 231-39(b)(4). Haw. Rev. Stat. §235-114(a). If the appeal is first made to the board, the appeal shall either be heard by the board or be transferred to the tax appeal court for hearing at the election of the taxpayer or employer. If heard by the board, an appeal shall lie from the decision thereof to the tax appeal court and to the intermediate appellate court, subject to chapter 602, in the manner and with the costs provided by chapter 232. Haw. Rev. Stat. §235-114(b). The supreme court shall prescribe forms to be used in the appeals. The forms shall show:• The amount of taxes or liability upon the basis of the taxpayer's computation of the taxpayer's taxable income or the employer's computation of the employer's liability; Haw. Rev. Stat. §235-114(b)(1). • The amount upon the basis of the assessor's computation; Haw. Rev. Stat. §235-114(b)(2). • The amount upon the basis of the decisions of the board of review and tax appeal court, if any; Haw. Rev. Stat. §235-114(b)(3). and • The amount in dispute. If or when the appeal is filed with or transferred to the tax appeal court, the court shall proceed to hear and determine the appeal, subject to appeal to the intermediate appellate court as is provided in chapter 232. Haw. Rev. Stat. §235-114(b)(4). Any taxpayer or employer appealing from any assessment of taxes or liability shall lodge with the assessor or assistant assessor a notice of the appeal in writing, stating the ground of the taxpayer's objection to the additional assessment or any part thereof. The taxpayer also shall file the notice of appeal with the board or the tax appeal court at any time within thirty days subsequent to the date when the notice of assessment was mailed, properly addressed to the taxpayer or employer at the taxpayer's last known residence or place of business. Except as otherwise provided, the manner of taking the appeal, the costs applicable thereto, and the hearing and disposition thereof, including the distribution of costs and of taxes paid by the taxpayer pending the appeal, shall be as provided in chapter 232. Haw. Rev. Stat. §235-114(c). The tax appeal court may allow an individual taxpayer to file a subsequent appeal without payment of the net income tax in cases where the total tax liability does not exceed $50,000 in the aggregate for all tax years, upon proof that the taxpayer would be irreparably injured by payment of the tax. Haw. Rev. Stat. §235-114. Hawaii also provides for an administrative request for reconsideration of an assessment, which has no impact on statutory deadlines for other appeal avenues. Haw. Regs. § 18-231-3-1.1. Administrative Appeals and Dispute Resolution (AADR) Program Taxpayers may use Form AA-1, Appeal Application to file an informal appeal with the Department of Taxation under the Administrative Appeals and Dispute Resolution(AADR) Program. AADR is a pilot program which allows taxpayers to resolve tax disputes without litigation through an informal process. Any taxpayer who has been audited and has received a notice of proposed assessment or a notice of final assessment may apply. Haw. Dept. of Taxation, Appeal Application Instructions. BNA-SUTN HI 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:0.66% monthly 2Q:0.66% monthly 3Q:0.66% monthly 4Q:0.66% monthly In 2019, the Hawaii interest rate on underpayments of tax is 8 percent(0.66 percent per month). Haw. Rev. Stat. §231-39(b)(4)(A). BNA-SUTN HI 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:0.33% monthly 2Q:0.33% monthly 3Q:0.33% monthly 4Q:0.33% monthly In 2019, the Hawaii interest rate on overpayments of tax is 4 percent(0.33 percent per month). Haw. Rev. Stat. §231-23(d)(1). BNA-SUTN HI 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Hawaii has not announced a 2019 tax amnesty program. BNA-SUTN HI 31.14.11.
+
+==================================================

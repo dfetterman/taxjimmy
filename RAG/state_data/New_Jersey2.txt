@@ -1,0 +1,459 @@
+State: New Jersey
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+New Jersey Division of Taxation The New Jersey Division of Taxation is responsible for administering and collecting the state sales and use tax. N.J. Rev. Stat. §54:1-2. The division is authorized to exercise exclusively all the powers and perform all the duties formerly exercised or performed by or conferred and imposed upon the state board of taxes and assessment, except those relating to the review, hearing and determination of appeals concerning the assessment, collection, apportionment or equalization of taxes, and has such other and further powers and perform such other and further duties in connection with the assessment, collection, apportionment and equalization of taxes and the administration of the tax laws, as may from time to time be conferred or imposed upon it. N.J. Rev. Stat. §54:1-2. BNA-SUTN NJ 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+New Jersey Division of Taxation The Division of Taxation administers and collects the tax in the same manner as the state level sale tax. N.J. Rev. Stat. §34:1B-204. Municipalities are only given the tax powers established by the New Jersey Local Tax Authorization Act (LTAA). For example, the LTAA allows municipalities to impose a sales tax on parking. However, the LTAA does not allow for the refunds on voluntary overpayments. Propark Am. N.Y., LLC v. Hoboken, N.J., 27 N.J. Tax 565, 2014 BL 6315 (N.J. Tax Ct. 2014). BNA-SUTN NJ 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Any vendor or seller required to collect sales tax in New Jersey must file a certificate of registration with the Director of the Division of Taxation at least 15 business days before the commencement or opening of the vendor's or seller's business. N.J. Rev. Stat. §54:32B-15(a);New Jersey Tax Guide—Starting a Business in New Jersey. Within five days of such registration, the Director will provide the registrant with a certificate of authority authorizing the registrant to collect tax, which must be displayed at the place of business. N.J. Rev. Stat. §54:32B-15;New Jersey Tax Guide—Starting a Business in New Jersey. Effective Nov. 1, 2018, remote sellers whose gross revenue from sales delivered into New Jersey exceeds $100,000, or who make 200 or more separate transactions into the state per year, are subject to sales tax collection and remittance obligations and must register as a remote seller. 2018 N.J. A. 4496, effective Nov. 1, 2018; New Jersey Div. of Taxn., Notice:Sales and Use Tax Information for Remote Sellers (Aug. 14, 2018). A remote seller that is over the economic threshold, but only makes sales that are for resale or are otherwise nontaxable must register, but may request to be placed on a non-reporting basis for sales tax. New Jersey Div. of Taxn., Notice:Sales and Use Tax Information for Remote Sellers (Nov. 1, 2018). A remote seller that is over the economic threshold, but sells solely through one or more marketplaces must register, but may request to be placed on a non-reporting basis for sales tax, since the marketplace facilitator is required to collect the tax on all marketplace transactions. 2018 N.J. A. 4496, effective Nov. 1, 2018; New Jersey Div. of Taxn., Notice:Sales and Use Tax Information for Remote Sellers (Aug. 14, 2018). BNA-SUTN NJ 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor State Taxes Any person required to collect sales or use tax in New Jersey is personally liable for the amount of tax imposed, collected, or required to be collected. N.J. Rev. Stat. §54:32B-14(a). Persons required to collect tax include the following:• sellers of tangible personal property, digital property or services; • recipients of amusement charges; • hotel operators; • transient space marketplaces; • sellers of rentals of transient accommodations outside of a transient space marketplace; • sellers of telecommunications services; • recipients of initiation fees, membership fees or dues for a health and fitness, athletic, sporting or shopping club or organization; • recipients of charges for parking, storing, or garaging a motor vehicle; • all officers and employees of an existing or dissolved corporation who in such capacity has or had a duty to act for such corporation in complying with the New Jersey Sales and Use Tax Act; and • all members of a partnership that is required to collect tax. N.J. Rev. Stat. §54:32B-2(w); New Jersey Technical Bulletin TB-81R2. Additionally, personal liability is imposed on all directors, partners, members, and managers of any business entity who are instrumental in such business entity violating N.J. Rev. Stat. §54:50-13 or filing a materially false certification under N.J. Rev. Stat. §54:50-15(c)(2). N.J. Rev. Stat. §54:50-18. Local Taxes Taxes on retail sales imposed through local ordinance must be paid by the purchaser, and the vendor may not assume or absorb or advertise that he will assume or absorb the tax. N.J. Rev. Stat. §34:1B-195. The vendor is responsible for collecting and remitting the sports and entertainment district sales tax to the New Jersey Division of Taxation. N.J. Rev. Stat. §34:1B-196 and N.J. Rev. Stat. §34:1B-204. BNA-SUTN NJ 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes Purchasers are liable for failing to pay sales and use tax to a seller required to collect the tax. N.J. Rev. Stat. §54:32B-14(b). Purchasers are not liable for failing to pay the correct amount of tax by reason of reliance on erroneous data provided by the seller. N.J. Rev. Stat. §54:32B-14(i)(1). Taxes on retail sales imposed through local ordinance must be paid by the purchaser, and the vendor may not assume or absorb or advertise that he will assume or absorb the tax. N.J. Rev. Stat. §34:1B-195. BNA-SUTN NJ 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Every person required to collect any tax imposed under New Jersey's sales and use tax act is personally liable for the tax imposed, collected or required to be collected thereunder. N.J. Rev. Stat. §54:32B-14(a). “Person” includes an individual, trust, partnership, limited partnership, limited liability company, society, association, joint stock company, corporation, public corporation or public authority, estate, receiver, trustee, assignee, referee, fiduciary and any other legal entity. N.J. Rev. Stat. §54:32B-2(a). While innocent spouse relief has not been specifically codified and incorporated into New Jersey's Tax Statutes, the definitions of “persons required to pay tax”and personal liability are analogous to the relief contemplated by the federal innocent spouse relief statute. Lanier v. Dir., Div., of Taxn., No. 013087-2015 and 013089-2015, 2017 BL 434165 (N.J. Tax Ct. Dec. 1, 2017). The determination of whether an individual is a responsible person is a fact-sensitive and pragmatic inquiry. Lanier v. Dir., Div., of Taxn., No. 013087-2015 and 013089-2015, 2017 BL 434165 (N.J. Tax Ct. Dec. 1, 2017). BNA-SUTN NJ 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability No person required to collect sales and use tax is held liable for having charged and collected the incorrect amount of sales and use tax by reason of reliance on erroneous data provided by the director with respect to tax rates, boundaries or taxing jurisdiction assignments or contained in the taxability matrix. N.J. Rev. Stat. §54:32B-14(g). See Streamlined Sales Tax Governing Board, Taxability Matrix, New Jersey (version 2018.0); User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). Sellers and certified service providers (CSPs) are relieved of liability for charging and collecting the incorrect amount of sales or use tax that results from relying on the Division of Taxation's taxability matrix (or the tax administration practices section of the taxability matrix). If the Division amends the taxability matrix, sellers and CSPs are relieved of liability until the first day of the calendar month that is at least 30 days after notice of the changes to the state's matrix is submitted to the Streamlined Sales Tax Governing Board. Such relief from liability is available only if the seller or CSP relied on the prior version of the taxability matrix. N.J. Admin. Code tit. 18, §24B-1.10, as added by 49 N.J. Reg. 338(a), Vol. 49, Issue 4 (Feb. 21, 2017), effective Feb. 21, 2017. See Streamlined Sales Tax Governing Board, Taxability Matrix, New Jersey (version 2018.0). However, in the event that a seller or a certified service provider rely on the erroneous data provided by the division, the purchaser is relieved from liability for penalties only for having to pay the correct amount of sales or use tax, but not the tax or interest. N.J. Admin. Code tit. 18, §24B-1.9, as amended by 49 N.J. Reg. 338(a), Vol. 49, Issue 4 (Feb. 21, 2017), effective Feb. 21, 2017. See Streamlined Sales Tax Governing Board, Taxability Matrix, New Jersey (version 2018.0). BNA-SUTN NJ 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability A certified service provider is the agent of a seller, with whom the certified service provider has contracted, for the collection and remittance of sales and use taxes. As the seller's agent, the certified service provider is liable for sales and use tax due each member state on all sales transactions it processes for the seller except as otherwise provided in this section. N.J. Rev. Stat. §54:32B-53(a). A seller that contracts with a certified service provider is not liable to the state for sales or use tax due on transactions processed by the certified service provider unless the seller misrepresented the type of items it sells or committed fraud. In the absence of probable cause to believe that the seller has committed fraud or made a material misrepresentation, the seller is subject to audit on the transactions processed by the certified service provider. N.J. Rev. Stat. §54:32B-53(a). A seller is subject to audit for transactions not processed by the certified service provider. The member states acting jointly may perform a system check of the seller and review the seller's procedures to determine if the certified service provider's system is functioning properly and the extent to which the seller's transactions are being processed by the certified service provider. N.J. Rev. Stat. §54:32B-53(a). Certified Automated Systems A person that provides a certified automated system is responsible for the proper functioning of that system and is liable to the state for underpayments of tax attributable to errors in the functioning of the certified automated system. A seller that uses a certified automated system remains responsible and is liable to the state for reporting and remitting tax. N.J. Rev. Stat. §54:32B-53(b). BNA-SUTN NJ 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided Sales and use tax must be reported and remitted to New Jersey on a monthly or quarterly basis. N.J. Rev. Stat. §54:32B-17; N.J. Admin. Code tit. 18, §24-11.2. Furthermore, all taxable transactions made during the filing period must be included regardless of whether the seller has received payment from their customer. N.J. Rev. Stat. §54:32B-17; N.J. Admin. Code tit. 18, §24-11.2. Monthly sales and use tax returns are filed using Form ST-51, and quarterly returns are filed on Form ST-50. Filing frequency depends upon the amount owed. N.J. Div. of Taxn., Filing Sales and Use Tax Returns (Forms ST-50/ST-51). All Annual Business Use Tax Returns required to be filed must be filed on Form ST-18B. N.J. Admin. Code tit. 18, §24-11.3(a). Monthly Returns All monthly remittance statements required to be filed for sales tax, use tax, or both must be filed on Form ST-51. N.J. Admin. Code tit. 18, §24-11.2(b); N.J. Admin. Code tit. 18, §24-11.3(a). Sellers must file monthly returns and remit payments when the amount of tax due for either of the first two months of the calendar quarter exceeds $500. A monthly return is not required for any month in which a business has a sales and use tax liability of $500 or less; any amount due for that month may be remitted with the next quarterly return. N.J. Admin. Code tit. 18, §24-11.2. Quarterly Returns All quarterly returns required to be filed for sales tax, use tax, or both must be filed on Form ST-50. N.J. Admin. Code tit. 18, §24-11.2(a); N.J. Admin. Code tit. 18, §24-11.3(a). All businesses registered for sales tax must file quarterly returns regardless of whether any sales were made or tax was due during the quarter. The total amount of tax due for the quarter, after taking credit for any monthly payment(s), must be remitted with the return. N.J. Admin. Code tit. 18, §24-11.2. Vending Machine Returns Vending machine operators must report and pay sales tax on all tangible personal property, as well as food and beverages. Form ST-51 Monthly Remittance Statement and Form ST-50 Quarterly Return should be used depending on the frequency of the vendors filing requirements. BNA-SUTN NJ 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month Sellers required to collect sales and use tax must file a quarterly ST-50 return by the 20th day of the month following the close of the quarter in respect of which the return is filed. N.J. Admin. Code tit. 18, §18:24-11.2(a); N.J. Admin. Code tit. 18, §18:24B-1.3, as amended by 49 N.J. Reg. 338(a), Vol. 49, Issue 4 (Feb. 21, 2017), effective Feb. 21, 2017; see New Jersey Div. of Tax., Due Dates by Tax: January 1, 2019 - December 31, 2019 (revised April 2019). Sellers required to collect sales and use tax with a tax liability greater than $500.00 for the first or second month of a quarter must file a Form ST-51 monthly remittance statement by the 20th day of the month following each such month. N.J. Admin. Code tit. 18, §18:24-11.2(b); see New Jersey Div. of Tax., Due Dates by Tax: January 1, 2019 - December 31, 2019 (revised April 2019). Any taxpayer engaged in a trade, business, profession, or occupation in New Jersey, that does not make sales subject to sales tax in New Jersey or purchase tangible personal property for lease, must file a use tax return for any period in which such taxpayer incurs a use tax liability. Where the taxpayer's average annual use tax liability for the three previous years was greater than $2,000, the taxpayer must file a quarterly form ST-50 return by the 20th day of the month following the close of the quarter in respect of which the return is filed. Taxpayers required to file such quarterly form ST-50 use tax returns with a tax liability greater than $500.00 for the first or second month of a quarter must file a Form ST-51 monthly remittance statement by the 20th day of the month following each such month. Where a taxpayer required to file a use tax return has incurred an average annual use tax liability for the three previous years not in excess of $2,000.00, the taxpayer must file an Annual Business Use Tax Return (Form ST-18B) by May 1 of the calendar year following the year in respect of which the return is filed. N.J. Admin. Code tit. 18, §18:24-11.3(a). BNA-SUTN NJ 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Payments for taxes assessed by the Division of Taxation are due at the time of filing the return. N.J. Rev. Stat. §54:32B-18; N.J. Admin. Code tit. 18, §18:24B-1.4, as amended by 49 N.J. Reg. 338(a), Vol. 49, Issue 4 (Feb. 21, 2017), effective Feb. 21, 2017. BNA-SUTN NJ 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Not Available New Jersey does not permit extensions for sales and use tax returns for good cause. N.J. Rev. Stat. §54:32B-1 et seq.; N.J. Admin. Code tit. 18, §24-1.1 et seq.;N.J. Dept. of the Treas., Div. of Taxn., Sales and Use Tax. BNA-SUTN NJ 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. New Jersey does not permit extensions for sales and use tax returns for good cause. However, New Jersey has permitted extensions for sales and use tax returns due to natural disasters. N.J. Rev. Stat. §54:32B-1; N.J. Admin. Code tit. 18, §24-1.1;New Jersey Dept. of Treas., Hurricane Harvey Tax Relief Extensions, Hurricane Irma Tax Relief Extensions, and Hurricane Maria Victims Granted New Jersey Extension of Filing and Payment Deadlines. 2019 The New Jersey Division of Taxation has announced tax relief for Alabama storm victims. Taxpayers who have businesses in, are personally located in, or have tax records located in areas designated as disaster areas by the federal government are eligible for the relief and will have until July 31, 2019 to submit returns and payments with due dates from March 3, 2019 through July 31, 2019. Relief workers are also eligible for the disaster relief. Paper filers who are eligible for relief must write “FEMA Major Disaster Declaration – Alabama Storm” in black ink at the top-center of the return when filing. New Jersey Dept. of Treas., NJ Tax Relief for Alabama Storm Victims (April 5, 2019). 2018 The New Jersey Division of Taxation has announced tax filing and payment extensions for victims of Hurricane Michael. Taxpayers who have businesses in, are personally located in, or have tax records located in areas designated as disaster areas by the federal government are eligible for the relief and will have until Feb. 28, 2019 to submit returns and payments with due dates from Oct. 7, 2018 through Feb. 28, 2019. Relief workers are also eligible for the disaster relief. Paper filers who are eligible for relief must write “Presidential Disaster Relief Area - Hurricane Michael”in black ink at the top-center of the return when filing. New Jersey Dept. of Treas., Tax Relief for Hurricane Michael Victims (Oct. 18, 2018). 2017 New Jersey is extending the filing and payment deadline to Jan. 31, 2018 for taxpayers either located in federally declared disaster areas for Hurricanes Harvey, Irma, and Maria or having records stored in such areas. New Jersey Dept. of Treas., Hurricane Harvey Tax Relief Extensions, Hurricane Irma Tax Relief Extensions, and Hurricane Maria Victims Granted New Jersey Extension of Filing and Payment Deadlines. For Hurricane Irma, with respect to the Florida disaster areas, original filing and payment deadlines must fall between Sept. 4, 2017 and Jan. 31, 2018 to qualify for the extension. With respect to the Puerto Rico and U.S. Virgin Islands disaster areas, original and extended filing deadlines and original payment deadlines must fall between Sept. 5, 2017 and Jan. 31, 2018 to qualify for the extension. N.J. Dept. of Treas., Hurricane Irma Tax Relief Extensions. For Hurricane Harvey, original filing and payment deadlines must fall between Aug. 23, 2017 and Jan. 31, 2018 to qualify for the extension. N.J. Dept. of the Treas., Div. of Taxn., Hurricane Harvey Tax Relief Extensions. For Hurricane Maria, the extension applies to taxes with deadlines that fall between Sept. 16, 2017 and Jan. 31, 2018 for taxpayers in the U.S. Virgin Islands; for taxpayers in Puerto Rico, the extension applies to taxes with filing and payment deadlines that are between Sept. 17, 2017 and Jan. 31, 2018. N.J. Dept. of Treas., Hurricane Maria Victims Granted New Jersey Extension of Filing and Payment Deadlines. BNA-SUTN NJ 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers New Jersey requires taxpayers that had a prior year tax liability of $10,000 or more to remit payments due for sales and use taxes to the Department of Treasury by Electronic Funds Transfer. N.J. Rev. Stat. §54:48-4.1. Taxpayers making payments by electronic funds transfer that know there are insufficient funds to cover the transfer are committing a crime. The degree of the crime is dependent on the amount by which the transfer is insufficient. N.J. Rev. Stat. §2C:21-5, as amended by 2014 N.J. A. 1153, effective Sept. 10, 2014. If a taxpayer's prior year liability results in the taxpayer having to comply with EFT requirements, the taxpayer will be provided with notice of the requirement. N.J. Admin. Code tit. 18, §2-3.6. Notice must be received within 30 days prior to the required compliance date; however, failure to receive notice will not relieve a taxpayer from the EFT requirement. Instead, the Division may consider the lack of notice when considering a request for waiver of penalties or interest that may be imposed under N.J. Admin. Code tit. 18, §2-3.8 for the failure to pay by EFT. N.J. Admin. Code tit. 18, §2-3.7. BNA-SUTN NJ 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted A taxpayer not required to remit payments by EFT may use the ACH debit or ACH credit method for EFT payment for such types of taxes as the taxpayer elects. N.J. Admin. Code tit. 18, §2-3.10;N.J. Dept. of the Treas., Div. of Taxn., EFT Payment Options. The taxpayer must first enroll with the Division of Revenue and Enterprise Services prior to beginning EFT payments. N.J. Admin. Code tit. 18, §2-3.10;N.J. Dept. of the Treas., Div. of Taxn., EFT Payment Options. BNA-SUTN NJ 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+No The New Jersey Sales and Use Tax Act does not provide for vendor collection discounts. N.J. Rev. Stat. §54:32B-1 et seq.; N.J. Admin. Code tit. 18, §24-1.1 et seq.;N.J. Dept. of the Treas., Div. of Taxn., Sales and Use Tax. BNA-SUTN NJ 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Requirements A seller is relieved from the obligation to collect tax on a sale for which an exemption certificate, which the purchasers name, address, registration number, and reason for exemption, is provided. N.J. Rev. Stat. §54:32B-12(b). Retention Periods Any taxpayer required to collect tax generally must keep records of all purchases and sales and the tax payable thereon for a period of four years following the period for which a sales and use tax return is filed for such sales. N.J. Rev. Stat. §54:32B-16. Accordingly, sellers are required to maintain exemption certificates for four years from the date of the last transaction under the exemption certificate. N.J. Admin. Code tit. 18, §24-2.5; N.J. Admin. Code tit. 18, §24-10.5. Consequences of Failing to Obtain Exemption Certificates If the seller either has not obtained an exemption certificate, has obtained an incomplete exemption certificate, or the seller has not obtained the relevant data elements (please see below), the seller will have at least 120 days after the Division's request for substantiation of the claimed exemption to obtain a fully completed exemption certificate from the purchaser, taken in good faith, which means that the seller obtains a certificate that claims an exemption that:• was statutorily available on the date of the transaction in the jurisdiction where the transaction was sourced, could be applicable to the item being purchased, and is reasonable for the purchaser's type of business;or • obtain other information establishing that the transaction was not subject to tax. N.J. Admin. Code tit. 18, §24-10.4(d). If the seller obtains this information, the seller will be relieved of any liability for the tax on the transaction, unless it is discovered through the audit process that the seller had reason to know the information was materially false. It is the Division's responsibility to prove this knowledge. N.J. Admin. Code tit. 18, §24-10.4(e). Exemption Certificate Substitutions, Data Elements In order for an exemption certificate to be “fully completed” it must contain:• the purchaser's name and address; • the type of business; • the reason(s) for the exemption; • the purchaser's New Jersey tax identification number, federal employer identification number or out-of-state registration number for out-of-state purchasers, or driver's license number for individual purchasers; and • if a paper exemption certificate is used (including facsimile), the purchaser's signature. N.J. Admin. Code tit. 18, §24-10.4(c). Additionally, where a purchaser provides a seller with an affidavit, statement, or other evidence required by the Director demonstrating that the purchaser is an exempt organization, the seller is relieved from the obligation to collect tax on the sale for which such proof of exemption is provided. If neither an exemption certificate nor adequate proof to the effect that a purchaser is an exempt organization is provided in connection with a sale, the sale will be deemed a taxable retail sale on which the seller must collect tax. N.J. Rev. Stat. §54:32B-12(b). BNA-SUTN NJ 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked Exemption certificates do not expire unless revoked. However, the seller should request a new form every few years. New Jersey State Tax News Fall 2007. BNA-SUTN NJ 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 States have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. N.J. Dept. of the Treas., Div. of Taxn., Sales and Use Tax Forms. The Certificate itself contains instructions on its use, lists the states that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. New Jersey accepts this form. N.J. Dept. of the Treas., Div. of Taxn., Sales and Use Tax Forms. BNA-SUTN NJ 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted New Jersey is a member to the Streamlined Sales Tax agreement, and accepts the SST tax exemption certificate SSTGB Form F0003 or New Jersey Form ST-SST Streamlined Sales and Use Tax Certificate of Exemption. N.J. Dept. of the Treas., Div. of Taxn., Sales and Use Tax Forms; Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN NJ 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted New Jersey does not address the use of other multistate exemption certificates. N.J. Rev. Stat. §54:32B-1 et seq.; N.J. Admin. Code tit. 18, §24-1.1 et seq. BNA-SUTN NJ 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes The seller must take an exemption certificate in good faith. N.J. Admin. Code tit. 18, §24-10.4(d). In order to do so the seller must obtain an exemption certificate that:• was statutorily available on the date of the transaction in the jurisdiction where the transaction is sourced; • could be applicable to the item being purchased; and • is reasonable for the purchaser's type of business. N.J. Admin. Code tit. 18, §24-10.4(d). BNA-SUTN NJ 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+90 Days Sellers must accept a fully completed exemption certificate or relevant data elements within 90 days after the date of the sale. New Jersey Technical Bulletin TB-66. BNA-SUTN NJ 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+4 Years Any taxpayer required to collect tax generally must keep records of all purchases and sales and the tax payable thereon for a period of four years following the period for which a sales and use tax return is filed for such sales. N.J. Rev. Stat. §54:32B-16. Accordingly, sellers are required to maintain exemption certificates for at least four years from the date of the last transaction under the exemption certificate. N.J. Admin. Code tit. 18, §24-2.5; N.J. Admin. Code tit. 18, §24-10.5. BNA-SUTN NJ 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required All gross receipts of a seller are presumed to have been subject to the sales tax unless a properly completed resale or exemption certificate is accepted by the seller. New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. Resale exemption certificates include:• New Jersey Form ST-3 Resale Certificate;and • New Jersey Form ST-3NR Resale Certificate for Non-New Jersey Vendors. New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. BNA-SUTN NJ 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required All gross receipts of a seller are presumed to have been subject to the sales tax unless a properly completed resale or exemption certificate is accepted by the seller. New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. Entity exemption certificates include:• New Jersey Form ST-4 Sales and Use Tax Exemption (BRRAG Certificate); and • New Jersey Form ST-5 Exempt Organization Certificate (also referred to as New Jersey Form REG-1E Application for Exemption Organization Certificate). New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. BNA-SUTN NJ 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required New Jersey furnishes several categories of certificates of exemption upon request including various use-based exemption certificates. New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. Use-based exemption certificates include:• New Jersey Form ST-4 Exempt Use Certificate; • New Jersey Form ST-7 Farmer's Exemption Certificate; • New Jersey Form ST-8 Certificate of Capital Improvement; • New Jersey Form ST-10 Motor Vehicle Sales and Use Tax Exemption Report; • New Jersey Form ST-10-A Aircraft Dealer Sales and Use Tax Exemption Report; • New Jersey Form ST-10V Vessel Dealer Sales and Use Tax Exemption Report; • New Jersey Form ST-13 Contractor's Exempt Purchase Certificate; • New Jersey Form ST-16 Exemption Certificate for Student Textbooks; • New Jersey Form UZ-4 Contractor's Exempt Purchase Certificate -Urban Enterprise Zone; • New Jersey Form UZ-5-SB Urban Enterprise Zone Exempt Purchase Certificate; • New Jersey Form UZ-6 Urban Enterprise Zone - Energy Exemption Certificate;and • New Jersey Form SC-6 Salem County – Energy Exemption Certificate. New Jersey Sales and Use Tax Bulletin SU-6; New Jersey Sales and Use Tax Bulletin SU-9. BNA-SUTN NJ 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized In certain circumstances a purchaser may apply to the Director for a direct pay permit authorizing the purchaser to pay tax directly to the Director and thereby negate the obligation of the seller to collect tax. N.J. Rev. Stat. §54:32B-12(b). The circumstances under which the Director may grant a direct pay permit include the purchase of tangible personal property, digital property, or services where it is impossible at the time of purchase to determine the manner in which the property or services will be used. N.J. Rev. Stat. §54:32B-12(b). BNA-SUTN NJ 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+4 Years Any taxpayer required to collect tax generally must keep records of all purchases and sales and the tax payable thereon for a period of four years following the period for which a sales and use tax return is filed for such sales. N.J. Rev. Stat. §54:32B-16. The records required to be kept generally include a true copy of each sales slip, invoice, receipt, statement or memoranda on which the tax is required to be separately stated by N.J. Rev. Stat. §54:32B-12(a). N.J. Rev. Stat. §54:32B-16; N.J. Admin. Code tit. 18, §24-2.3; N. Ioakimidis, LLC v. New Jersey Div. of Taxn., No. A-1978-16T1, 2018 BL 252511 (N.J. Super. Ct. App. Div. July 17, 2018); see also New Jersey Sales and Use Tax Bulletin SU-5. Subject to certain requirements, summary sales records may be kept in lieu of individual sales slips, invoices, receipts, statements, memoranda of price, or cash register tapes after 90 days have elapsed from the close of the return period to which such documents relate. N.J. Admin. Code tit. 18, §24-2.4. Purchase records required to be retained must disclose the names and addresses of the sellers from whom purchases were made; the amounts of all purchases; the dates on which purchases were made; and the type of property or services purchased. N.J. Admin. Code tit. 18, §24-2.8. If a taxpayer fails to produce adequate records, the Division of Taxation may estimate the tax owed from any information available, including external indices. N. Ioakimidis, LLC v. New Jersey Div. of Taxn., No. A-1978-16T1, 2018 BL 252511 (N.J. Super. Ct. App. Div. July 17, 2018). BNA-SUTN NJ 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both Where a taxpayer has overpaid sales or use tax to New Jersey, such taxpayer may apply for a refund of the amount so overpaid. N.J. Rev. Stat. §54:32B-20(a). The taxpayer has the obligation to provide specific documentation of month-by-month accounts of actual overpayments to substantiate the refund. The taxpayer may not extrapolate overpayments from a sample month. Schweitzer-Mauduit Intl., Inc. v. New Jersey Dir. of Taxn., No. A-3946-11T2, 2013 BL 165821 (N.J. Super. Ct. App. Div. 2013). An application for the refund of tax overpaid may be made either by a customer who has paid the tax or by a vendor or seller who has collected tax from customers and paid it over to the Director and who has established that the amount claimed to have been overpaid was repaid to the customer or customers from whom the tax was initially collected. Business taxpayers must request refunds using Form A-3730. N.J. Rev. Stat. §54:32B-20(a);N.J. Dept. of the Treas., Refund Forms. See New Jersey Sales and Use Tax Bulletin SU-4. In general, the taxpayer must apply for the refund within four years of the date on which the payment in respect of which the refund is claimed was made. N.J. Rev. Stat. §54:32B-20(a). However, where the taxpayer has consented in writing to the extension of the period for assessment for the taxable period in respect of which a claim for refund is made, the period for filing an application for refund will not expire until six months have elapsed from the date to which the period for assessment has been extended. N.J. Rev. Stat. §54:32B-27(c). Interest on the amount of tax overpaid by the taxpayer will be added to the amount of the refund due. The amount of any refund due will be applied first against any New Jersey taxes owed by the taxpayer. N.J. Rev. Stat. §54:49-15.1. BNA-SUTN NJ 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+4 Years In general, a refund may be issued for any tax, penalty, or interest erroneously, illegally, or unconstitutionally collected or paid if an application is made within four years of the payment to be refunded. N.J. Rev. Stat. §54:32B-20(a); New Jersey Sales Tax Publication ANJ-1. BNA-SUTN NJ 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+4 Years In general, additional sales or use tax may not be assessed against a taxpayer more than four years from the date of filing of the return related to the period for which the additional tax is to be assessed. N.J. Rev. Stat. §54:49-6(b); N.J. Rev. Stat. §54:32B-27(b); New Jersey Sales Tax Publication ANJ-1. However, where a taxpayer files a false or fraudulent return with the intent to evade tax or fails to file a return, additional tax may be assessed at any time. During the four-year statute of limitations period the taxpayer may extend the period during which additional tax may be assessed by consenting to such extension in writing. N.J. Rev. Stat. §54:49-6(b); N.J. Rev. Stat. §54:32B-27(c); N.J. Admin. Code tit. 18, §2-2.9(c). If an assessment is due in whole or in part to civil fraud, 50 percent of the assessment will be added to the tax, alternatively to, late filing and/or late payment penalties or penalty for failure to timely pay an estimated or arbitrary assessment. Civil fraud occurs when there is clear and convincing evidence of the taxpayer's intent to commit fraud by evading or avoiding the payment of taxes known to be due through conduct intended to conceal, mislead, or otherwise prevent the administration and collection of the taxes imposed. Intent does not include inadvertence, reliance on incorrect technical advice, honest difference of opinion, negligence, or carelessness. N.J. Rev. Stat. §54:49-9.1; N.J. Admin. Code tit. 18, §2-2.9. BNA-SUTN NJ 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Failure to File Timely Return Any taxpayer failing to file a return within the time prescribed by the act imposing a particular tax is liable for penalties. N.J. Admin. Code tit. 18, §2-2.3(a)(1). A taxpayer who fails to timely file a return will be liable for a penalty of 5 percent of the tax liability that is assessed each month until the penalty reaches 25 percent of the tax liability. A $100 per month penalty also may be imposed for each month (or part of a month) the return is late. N.J. Admin. Code tit. 18, §2-2.3(a); New Jersey State Tax News Spring 2018. The penalties set forth in N.J. Admin. Code tit. 18, §2-2.3(a) are imposed on the first day following the original due date of the return and the same calendar day of each succeeding month thereafter. N.J. Admin. Code tit. 18, §2-2.3(b). Failure to Pay on Time Any taxpayer who fails to pay a tax within the time prescribed by the act imposing a particular tax is liable, in addition to the unpaid tax, for the following:• interest on the unpaid tax is charged at the rate of 3 percentage points above the prime rate assessed for each month or fraction thereof, and interest is compounded annually at the end of each calendar year. • plus, five percent of the tax is added to the amount of the unpaid tax as a penalty, unless any part of any underpayment of tax required to be shown on a return or report is shown to be unpaid due to reasonable cause. The taxpayer has the affirmative obligation to show reasonable cause for the underpayment in order to avoid imposition of the penalty. • except that, interest accrues on penalties from the date that the underlying tax is due, except for those penalties imposed on a date other than when the tax is due, such as amnesty penalties. N.J. Admin. Code tit. 18, §2-2.4(a). Failure to Register A person that fails to provide proof of valid business registration with the Division of Revenue in the Department of the Treasury as required pursuant to section 1 or section 2 of N.J. Rev. Stat. §52:32-44, or that provides false information of business registration under the requirements of those sections, shall, in addition to any penalties that may apply pursuant to chapter 52 of Title 54 of the Revised Statutes, be subject to a penalty of $25 for each day of violation, not to exceed$50,000 for each violation of this section. N.J. Rev. Stat. §54:52-20. Collection Fee If a taxpayer does not respond to a bill prior to the due date listed in the bill, the New Jersey Division of Taxation will add a 10.7 percent recovery fee to the taxpayer's liability. New Jersey State Tax News Spring 2018. BNA-SUTN NJ 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Any violations of the State tax laws may rise to the level of criminal activity and be prosecuted as crimes. N.J. Admin. Code tit. 18, §2-2.8; N.J. Rev. Stat. §54:52-5; N.J. Rev. Stat. §54:52–20. Disorderly Persons Offenses A person commits a disorderly persons offense if he, recklessly or negligently:• fails to file any return or report required by any State tax law; • fails to pay over any tax required by any State tax law; • files, causes to be filed, makes, causes to be made, gives, or causes to be given any return, certificate, affidavit, representation, information, testimony or statement, required or authorized by any State tax law, which is false; • fails to file a bond required to be filed by any State tax law; • fails to file an application for registration, certification, or such data in connection therewith as the director by regulation or otherwise may require under any State tax law; • fails to display or surrender any certificate of authority as may be required by any State tax law; • assigns or transfers any certificate of authority in violation of any State tax law; • fails to charge any State tax as required by any State tax law; • fails to separately state or account for any State tax as required by any State tax law; • fails to withhold any State tax as required by any State tax law; or • fails to keep any records required by any State tax law or regulation of the director issued thereunder. N.J. Rev. Stat. §54:52-6. In a prosecution of an offense under this section the State shall not be required to prove that the defendant acted purposely or knowingly with respect to the nature of his conduct. N.J. Rev. Stat. §54:52-6. Providing False Information A person is guilty of a crime of the fourth degree if he provides, or causes to be provided, false information with purpose to hinder an official investigation, inquiry, examination or audit by the director or a duly authorized representative. N.J. Rev. Stat. §54:52-7. Failure to File Return A person is guilty of a crime of the third degree if he fails to file any return or report required to be filed pursuant to the provisions of any State tax law with the intent to defraud the State or to evade, avoid or otherwise not make timely payment of any tax, fee, penalty, interest or any part thereof which is due pursuant to the provisions of the State Tax Uniform Procedure Law,N.J. Rev. Stat. §54:48-1 et seq., as amended and supplemented, or any State tax law. N.J. Rev. Stat. §54:52-8. Failure to Pay A person is guilty of a crime of the third degree if he fails to pay or turn over when due any tax, fee, penalty or interest or any part thereof required to be paid pursuant to the provisions of the State Tax Uniform Procedure Law, N.J. Rev. Stat. §54:48-1 et seq., as amended and supplemented, or any State tax law, with the intent to evade, avoid or otherwise not make timely payment or deposit of any tax, fee, penalty or interest or any part thereof. N.J. Rev. Stat. §54:52-9. The fact that any payment was made with a subsequently dishonored negotiable instrument shall constitute prima facie evidence that the actor failed to pay within the meaning of subsection a. of this section, and the trier of fact may draw a permissive inference therefrom that the actor did not intend to make the payment. N.J. Rev. Stat. §54:52-9. Filing a Fraudulent Return A person is guilty of a crime of the third degree if he files, prepares, causes to be filed or assists in the preparation or filing of a false or fraudulent return, report, statement, or application required to be filed pursuant to the provisions of the State Tax Uniform Procedure Law, N.J. Rev. Stat. §54:48-1 et seq., as amended and supplemented, or any State tax law, with the intent to evade, avoid or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof. N.J. Rev. Stat. §54:52-10. Assisting in Preparation of a Fraudulent Return A person is guilty of a crime of the third degree if he maintains, prepares or assists in the preparation of false or fraudulent books or records, or presents false or fraudulent books or records to the director for inspection or examination with intent to evade, avoid or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof. N.J. Rev. Stat. §54:52-11. Failure to Maintain Books and Records A person is guilty of a crime of the third degree if he fails to maintain books or records as required by the provisions of any State tax law and the regulations issued thereunder with intent to evade, avoid or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof. N.J. Rev. Stat. §54:52-12. Practicing Without a License A person is guilty of a crime of the fourth degree if he is not licensed or registered with the Division of Taxation, and engages in conduct which requires him to register with or obtain a license from the Division of Taxation, with intent to evade, avoid or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof. N.J. Rev. Stat. §54:52-13. Failure to Collect or Withhold State Tax A person is guilty of a crime of the third degree if he fails to collect or withhold any state tax with the intent to evade, avoid, or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof. N.J. Rev. Stat. §54:52-14. Failure to Turn Over Collected or Withheld Tax A person is guilty of a crime of the third degree if he, after having collected or withheld taxes as required by any State tax law, whether or not he is authorized, licensed, or registered to collect or withhold taxes, purposely fails to turn over the taxes to the Director of the Division of Taxation in the manner and at the time prescribed by law. The crime is of the second degree if the amount of the tax collected or withheld is $75,000.00 or more. N.J. Rev. Stat. §54:52-15. Operating Under a Voided Corporate Charter A person is guilty of a crime of the fourth degree if he knowingly operates under a voided corporate charter. N.J. Rev. Stat. §54:52-16. Dealing with Unlicensed Persons A person who is prohibited under the provisions of any State tax law from dealing with persons not properly licensed or registered with the Division of Taxation is a disorderly person if he knowingly deals with such an unlicensed person. N.J. Rev. Stat. §54:52-17. A person who is prohibited under the provisions of any State tax law from dealing with persons not properly licensed or registered with the Division of Taxation, who deals with an unlicensed person with the intent to evade, avoid, or otherwise not make timely payment or with the intent to assist the unlicensed person to evade, avoid, or otherwise not make timely payment of any tax, fee, penalty or interest, or any part thereof, is guilty of a crime of the fourth degree. N.J. Rev. Stat. §54:52-17. Possession of Goods without Paying Tax A person who knowingly possesses goods which are required to be taxed and on which the tax has not been paid is guilty of a disorderly persons offense. N.J. Rev. Stat. §54:52-18. False Testimony or Verification of False Statements A person who knowingly swears to, affirms, certifies or verifies any false or fraudulent statement with intent to evade, avoid or otherwise not pay any tax, fee, penalty or interest, or any part thereof, or being under oath, testifies falsely at any hearing held pursuant to the provisions of the State Tax Uniform Procedure Law, N.J. Rev. Stat. §54:48-1 et seq. is guilty of a crime of the fourth degree. N.J. Rev. Stat. §54:52-19. BNA-SUTN NJ 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Availably Penalties for failure to pay any tax when due or the failure to file any return may be abated if the taxpayer can show reasonable cause for the failure. N.J. Admin. Code tit. 18, §2-2.7. The decision to abate penalties lies within the discretion of the director, and the facts underlying the basis for a reasonable cause must be affirmatively shown in a sworn statement. N.J. Admin. Code tit. 18, §2-2.7. Examples of reasonable cause for failing to file a return include:• death or serious injury of the taxpayer or unavoidable absence from the usual place of business; • destruction of the taxpayer's or taxpayer's representatives' place of business or business records by a fire or other casualty which precluded timely compliance; • inability to timely obtain and assemble essential information despite the exercise of reasonable efforts; • pending conference with the Division of Taxation or pending judicial action involving a determination of whether the taxpayer is required to file a return and/or pay tax; or • any other cause which would appear to a person of ordinary prudence and intelligence as a reasonable cause and which indicates an absence of willfulll neglect. N.J. Admin. Code tit. 18, §2-2.7(c). A failure to pay can be excused due to reasonable cause to the extent that the taxpayer has exercised ordinary business care and prudence in attempting to pay the tax liability and was unable to pay or would suffer an undue hardship if the tax was paid on the due date. The taxpayer would have to show that they made reasonable efforts to conserve sufficient assets to pay their tax liability but nevertheless was unable to pay all or a portion of the tax when it became due. N.J. Admin. Code tit. 18, §2-2.7(d). BNA-SUTN NJ 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Annually In New Jersey, the interest rates assessed on underpayments and overpayments of tax are determined annually. N.J. Rev. Stat. § 54:49-3; N.J. Admin. Code tit. 18, § 2-2.4(a)(1). Both underpayment interest and overpayment interest will be compounded annually in New Jersey. N.J. Rev. Stat. § 54:49-3; N.J. Rev. Stat. § 54:49-15.1. See also N.J. Admin. Code tit. 18, § 2-2.4(a)(1). BNA-SUTN NJ 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Federal Prime Rate + 3% The interest rate on underpayments is calculated by adding 3 percent to the federal prime rate in effect on Dec. 1 and is assessed for each month or fraction thereof, compounded annually, from the original due date of the tax to the date of actual payment. N.J. Rev. Stat. §54:49-3; New Jersey Technical Bulletin TB-21(R). In 2017, the New Jersey interest rate on underpayments is 6.5 percent. The rate was 6.25 percent from 2010 through 2016. New Jersey Technical Bulletin TB-21(R). A taxpayer failing to file a required return or to timely pay over sales or use tax due is subject to interest in addition to penalties. N.J. Rev. Stat. §54:32B-26. BNA-SUTN NJ 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:7.25% 2Q:7.25% 3Q:7.25% 4Q:7.25% In 2018, the New Jersey interest rate on underpayments of tax is 7.25 percent. N.J. Admin. Code tit. 18, §2-2.4(a)(1); see New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:6.5% 2Q:6.5% 3Q:6.5% 4Q:6.5% In 2017, the New Jersey interest rate on underpayments of tax is 6.5 percent. N.J. Admin. Code tit. 18, §2-2.4(a)(1); see New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2016, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2015, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2014, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2013, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2012, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2011, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:6.25% 2Q:6.25% 3Q:6.25% 4Q:6.25% In 2010, the New Jersey interest rate on underpayments of tax is 6.25 percent. New Jersey Technical Bulletin TB-21(R); see also New Jersey State Tax News Winter 2015/2016. BNA-SUTN NJ 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:7% 2Q:7% 3Q:7% 4Q:7% In 2009, the New Jersey interest rate on underpayments of tax is 7 percent. New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal Prime Rate Interest on overpayments of tax is allowed in an amount equal to the federal prime rate as of Dec. 1. Interest accrues only on an overpayment that is not refunded within six months of the claim or request for refund. N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. New Jersey does not generally pay interest on overpayments. N.J. Rev. Stat. §54:32B-1 et seq.; N.J. Admin. Code tit. 18, §24-1.1 et seq. BNA-SUTN NJ 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:4.25% 2Q:4.25% 3Q:4.25% 4Q:4.25% In 2018, the New Jersey interest rate on overpayments of tax is 4.25 percent. N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9; New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:3.5% 2Q:3.5% 3Q:3.5% 4Q:3.5% In 2017, the New Jersey interest rate on overpayments of tax is 3.25 percent. N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9; New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2016, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2015, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2014, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2013, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2012, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2011, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:3.25% 2Q:3.25% 3Q:3.25% 4Q:3.25% In 2010, the New Jersey interest rate on overpayments of tax is 3.25 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2009, the New Jersey interest rate on overpayments of tax is 4 percent. New Jersey Technical Bulletin TB-21(R); see N.J. Rev. Stat. §54:49-15.1; N.J. Admin. Code tit. 18, §2-5.9. BNA-SUTN NJ 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+Yes The New Jersey Tax Amnesty program runs from Nov. 15, 2018 through Jan. 15, 2019. New Jersey Div. of Taxn., Tax Amnesty Program Notice (Nov. 16, 2018). Taxpayers will receive an amnesty notice indicating that they are eligible for the program, which covers state tax liabilities for tax returns due on or after Feb. 1, 2009 through Sept. 1, 2017. Taxpayers will have an opportunity to pay their outstanding tax bills with reduced interest and no penalties. If an eligible taxpayer fails to participate in the amnesty program, a 5 percent penalty will be imposed on the taxpayer's eligible debts. N.J. Rev. Stat. § 54:53-20, as added by 2018 N.J. A. 3438, effective July 1, 2018; see New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty (last updated Nov. 16, 2018). Taxpayers are to file for amnesty via the Amnesty Processing Center using the ID and pin number provided in their amnesty notice. Those who believe they are eligible for the program but did not receive a notice should log-on to the Non-Outreach Portal and make the relevant selections. New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty FAQS (last updated Nov. 16, 2018). Persons who have filed an administrative or judicial appeal of a tax assessment may only participate in the tax amnesty program if they withdraw the appeal, waive all rights to a future appeal, and receive written approval from the director. Those under criminal investigation or facing charges by a county prosecutor or the state attorney general for a state tax matter are not eligible for the amnesty program. New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty FAQS (last updated Nov. 16, 2018). BNA-SUTN NJ 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No New Jersey did not enact any amnesty provisions in 2017. BNA-SUTN NJ 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No New Jersey did not enact any amnesty provisions in 2016. BNA-SUTN NJ 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No New Jersey did not enact any amnesty program in 2015. BNA-SUTN NJ 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+Yes New Jersey offered an amnesty program in 2014. From Sept. 17, 2014 through Nov. 17, 2014, the New Jersey Division of Taxation offered businesses and individuals with unpaid tax liabilities from tax years 2005 through 2013 to enter into closing agreements with the Division to satisfy the unpaid liabilities. Taxpayers who received a letter from the Division with a Schedule of Liabilities showing a reduced amount may contact the Division to set up an arrangement. Taxpayers who did not receive a letter from the Division showing a reduced amount could contact the Division to learn if their debt could be reduced. N.J. Div. of Taxn., Looking for an Easy and Convenient Way to Resolve Unpaid Tax Liabilities with New Jersey? BNA-SUTN NJ 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No New Jersey did not enact any amnesty provisions in 2013. BNA-SUTN NJ 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No New Jersey did not enact any amnesty provisions in 2012. BNA-SUTN NJ 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No New Jersey did not enact any amnesty provisions in 2011. BNA-SUTN NJ 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No New Jersey did not enact any amnesty provisions in 2010. BNA-SUTN NJ 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+Yes New Jersey offered an amnesty program in 2009. From May 4 through June 15, 2009, the Director of the Division of Taxation temporarily waived civil and criminal penalties, referral cost fees, and one-half of the balance of the interest that remained due as of May 1, 2009, provided that payment of all tax owed and one-half of the balance of the interest that remained due was paid in full during the amnesty period. The amnesty provision was applicable to periods beginning on or after Jan. 1, 2002, and ending Feb. 1, 2009. Amnesty was not available to taxpayers under criminal investigation. N.J. Admin. Code tit. 18, §39-1.1. BNA-SUTN NJ 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes New Jersey provides a Voluntary Disclosure Program for taxpayers who have outstanding tax obligations. N.J. Div. of Taxn., Voluntary Disclosure Program. Taxpayers must submit a written proposal that includes the following:• date the taxable business activities commenced in New Jersey; • description of the activities that exceeded Pub. L. No. 86-272; • taxes to be filed and paid, including whether any trust fund taxes have been collected but not remitted; • a statement that the taxpayer is not currently under review or under criminal investigation for any tax obligations; • a statement regarding the company's registration status in New Jersey for applicable taxes; • which federal business tax return the company files; • the company's accounting period year end date; and • contact information for the taxpayer or its representative, including an email address. N.J. Dept.of Treas., Voluntary Disclosure Businesses. Taxpayers are eligible for the program if they meet the following requirements:• the taxpayer must not have had previous contact with the Division; • the taxpayer is not registered for the taxes they wish to come forward on; • the taxpayer is not currently under any criminal investigation; and • the taxpayer must be willing to pay outstanding tax liabilities and file prior returns within a reasonable period. N.J. Div. of Taxn., Voluntary Disclosure Program. From Aug. 21, 2017 through Nov. 21, 2017, New Jersey is offering a voluntary disclosure program for out-of-state sellers that have reached agreements with New Jersey businesses for referrals of New Jersey customers. Legislation passed in 2014 amended the definition of “seller” to encompass this business activity. Program guidelines provide that all penalties will be waived for businesses that enter into a voluntary disclosure agreement with the department. Within 45 days of executing such agreement, a business must register as a seller, file the required returns, and pay the tax due. Interest due must be paid within 30 days of filing the returns. New Jersey Notice: New Jersey Offers Voluntary Disclosure Program to Certain Out-of-State Sellers (August 2017). BNA-SUTN NJ 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Four years The general look back period for returns filed annually is four years(three prior years and the current year); for quarterly returns the look back period is four years (16 quarters). N.J. Div. of Taxn., Voluntary Disclosure Program. BNA-SUTN NJ 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates New Jersey participates in the Multistate Voluntary Disclosure Program(MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. New Jersey may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Online Marketplace Seller Voluntary Disclosure Initiative – Special MTC Program From Aug. 17, 2017, through Nov. 1, 2017, New Jersey is participating in the MTC's special limited-time voluntary disclosure initiative in which back sales and use tax liability may be waived for eligible online marketplace sellers that timely register and begin to collect the state's sales and use tax. N.J. Dep't of Treasury, Online Marketplace Sellers: Limited Time Voluntary Disclosure Initiative. For more information about this initiative, see Portfolio 1300-2nd: Sales and Use Taxes: General Principles. BNA-SUTN NJ 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized For the purpose of determining the correct amount of sale and use tax due, the Director has the authority to examine and audit all available records that taxpayers are required to maintain relating to sales and use tax. N.J. Rev. Stat. §54:32B-24(6). See N.J. Admin. Code tit. 18, § 24-2.3(a). See also N.J. Dep't of Treasury, New Jersey Manual of Audit Procedures (March 1, 2017). Also, the Division of Taxation has the authority to summon records, books, and witnesses to give testimony necessary to determine the correct sales and use tax owed. N.J. Rev. Stat. §54:50-4. Absent adequate business records, the division has broad authority to determine the tax due from any information that may be available, including external information. N.J. Rev. Stat. §54:32B-19. See Saulwil, Inc. v. Div. of Taxn., N.J. Tax Ct., No. 014060-2013, No. 014061-2013, 2017 BL 24967, Jan. 26, 2017 (use tax assessment against taxpayer upheld due to lack of records showing that sales tax has been paid; use tax must be paid if sales tax has not been paid). But see Gatta v. Div. of Taxn., No. 008649-2016, 2018 BL 465911 (N.J. Tax Ct. Dec. 14, 2018) (taxpayer raised enough doubt about the accuracy of the audit estimate to defeat the division's motion for summary judgment). Taxpayers who are interviewed in connection of the collection of tax may request to record the interview with his or her own equipment and expense. N.J. Rev. Stat. §54:50-2.2(10)(a). In general, additional sales or use tax may not be assessed against a taxpayer more than four years from the date of filing of the return related to the period for which the additional tax is to be assessed. N.J. Rev. Stat. §54:49-6(b); N.J. Rev. Stat. §54:32B-27(b). Consumers cannot bring claims under the Truth-in-Consumer Contract, Warranty and Notice Act against sellers who provide receipts for purchases that reveal sales tax charges higher than the rate allowed by state law. Such receipts do not constitute contracts or notices and the Director of the Division of Taxation has the exclusive jurisdiction to refund sales tax. Barile v. GF-Passaic Foods, LLC, No. A-4706-16T1, 2018 BL 295051 (N.J. Super. Ct. App. Div. 2018). Protests If a taxpayer disagrees with the auditor's assessment of his or her liability, the taxpayer can file a protest and request a hearing with the Conference and Appeals Breach within the Division of Taxation. A protest and request for hearing must be made within 90 days of the giving of the notice of the assessment or the finding of the auditor sought to be reviewed. N.J. Admin. Code tit. 18, §32-1.1;N.J. Div. of Taxn., Protest and Conference Guidebook (October 2017). The notice must be sent by registered or certified mail, and it is presumed that the notice is recieved if it was properly addressed. N.J. Rev. Stat. §54:50-6.1; My Way B&G, Inc. v. New Jersey Div. of Taxn., No. A-0583-17T2, 2019 BL 213944 (N.J. Super. Ct. App. Div. June 11, 2019) (taxpayer doesn't have to be the recipient for certified mail to be effectively delivered). A taxpayer's written protest and request for hearing, if desired, must be submitted to the Conference and Appeals Branch of the division and must include the following information:• the signature of the taxpayer, or the taxpayer's duly authorized officer or representative; • the taxpayer's name, address, telephone number, Social Security number and/or tax identification number; • the name, address, and telephone number of the taxpayer's representative, if applicable. In such case, include completed New Jersey Form M-5008-R, Appointment of Taxpayer Representative; • the type of tax and tax periods at issue; • a copy of the notice being protested; • the amount of tax, penalty, and/or interest under protest, and the portion acknowledged to be due, if any; • a statement of the basis of the taxpayer's protest • supporting facts for each ground asserted and a summary of evidence that will be presented in support of the taxpayer's protest; and • payment of any uncontested tax, penalty, and interest that is due. N.J. Admin. Code tit. 18, § 18:32-1.2; N.J. Admin. Code tit. 18, § 18:32-1.8; N.J. Div. of Taxn., Protest and Conference Guidebook (October 2017). Where a plaintiff has filed a protest to request a hearing with the Conference and Appeals Branch and the papers presented for filing contain deficiencies, the 10 day period to cure the deficiencies may be extended where plaintiffs demonstrate good cause and where strict application of the 10 day period would result in an injustice. Markham Enters. v. New Jersey Dir. of Taxn., No. 015626-2009, 2015 BL 288956 (N.J. Tax Ct. Sept. 3, 2015). In the case of Markham Enters. v. New Jersey Dir. of Taxn., the New Jersey Tax Court extended the period to cure plaintiff's initial deficient filings where(1) the original deficient pleadings were filed by an accountant not admitted to practice law in New Jersey, (2) the Notices of Assessment were sent to separate addresses, which were out of date and which business mail was not regularly received, (3) the record did not contain evidence with respect to the date on which the Notices were actually mailed; and (4) the relatively short period of extension requested by plaintiffs to cure the deficiencies in the original filings, and the demonstrated lack of harm to the Division of Taxation. Markham Enters. v. New Jersey Dir. of Taxn., No. 015626-2009, 2015 BL 288956 (N.J. Tax Ct. Sept. 3, 2015). BNA-SUTN NJ 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted Any aggrieved taxpayer may, within 90 days after any decision, order, finding, assessment or action of the Director of Taxation made pursuant to the provisions of this act, appeal therefrom to the tax court in accordance with the provisions of the State Tax Uniform Procedure Law, N.J. Rev. Stat. §54:48-4.1 et seq. N.J. Rev. Stat. §54:32B-21(a); New Jersey Sales Tax Publication ANJ-1. A final determination by the conference and appeals branch can also be appealed to the Tax Court. N.J. Admin. Code tit. 18, §32-1.1;N.J. Div. of Taxn., Protest and Conference Guidebook (October 2017). The appeal provided by N.J. Rev. Stat. §54:32B-21(a) is the exclusive remedy available to any taxpayer for review of a decision of the director in respect of the determination of the liability of the taxpayer for the taxes imposed by the Sales and Use Tax Act. N.J. Rev. Stat. §54:32B-21(b) All Tax Court complaints must be filed within 90 days after the date of the action that the taxpayer is requesting to be reviewed. N.J. Rev. Stat. §54:51A-14(a). The 90-day period is calculated from the date of service of the decision or notice of the action. The timely mailing rule under N.J. Rev. Stat. §54:49-3.1, which applies to protests mailed to the division of taxation does not extend to complaints filed with the Tax Court. See Smart Publ'ns, LLC v. New Jersey, 2016 BL 107799 (N.J. Super. Ct. App. Div. 2016) (complaint was received by the Tax Court 95 days after the date of service; even though it was mailed on the due date, it had to be received within the 90-day period, so the complaint was dismissed). A protest to the Director or an appeal to the Tax Court from the sale of tax indebtedness may be brought only on the ground that the underlying indebtedness was not fixed and final at the time of the sale, or that there was a technical ministerial error in the certificate of debt, including, but not limited to, incorrect identification of taxpayer, insufficient notice of certificate of debt, incorrect calculation of unpaid balance of a debt paid in part or in full. N.J. Rev. Stat. §54:48-4.1; N.J. Rev. Stat. §54:32B-21; N.J. Rev. Stat. §54:50-29; N.J. Rev. Stat. §54:49-18. A taxpayer who challenges the underlying indebtedness after the tax debt has been sold has the burden of proving by clear and convincing evidence that the State's claim was not fixed and final at the time of sale. N.J. Rev. Stat. §54:48-4.1; N.J. Rev. Stat. §54:32B-21; N.J. Rev. Stat. §54:50-29; N.J. Rev. Stat. §54:49-18. In any appeal by a taxpayer to the Tax Court challenging the underlying tax indebtedness, made pursuant to N.J. Rev. Stat. §54:50-29 et seq., the Director of the Division of Taxation is the primary party in interest, and the purchaser of the lien shall also be joined with the Director as a defendant. Such challenge must first have been brought to the Director by protest under N.J. Rev. Stat. §54:49-18. N.J. Rev. Stat. §54:48-4.1; N.J. Rev. Stat. §54:32B-21; N.J. Rev. Stat. §54:50-29; N.J. Rev. Stat. §54:49-18. Notwithstanding the purchaser's joinder in any action or proceeding brought to challenge the underlying indebtedness, the Director has the sole authority to determine, in the case of a protest, and advocate, in the case of an appeal, whether the matter is fixed and final, whether the Certificate of Debt is correct and properly entered, and whether and to what extent any relief should be afforded to the taxpayer. N.J. Rev. Stat. §54:48-4.1; N.J. Rev. Stat. §54:32B-21; N.J. Rev. Stat. §54:50-29; N.J. Rev. Stat. §54:49-18. BNA-SUTN NJ 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:8.25% 2Q:8.25% 3Q:8.25% 4Q:8.25% In 2019, the New Jersey interest rate on underpayments of tax is 8.25 percent. N.J. Admin. Code tit. 18, §2-2.4(a)(1); see New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:5.25% 2Q:5.25% 3Q:5.25% 4Q:5.25% In 2019, the New Jersey interest rate on underpayments of tax is 5.25 percent. N.J. Admin. Code tit. 18, §2-2.4(a)(1); see New Jersey Technical Bulletin TB-21(R). BNA-SUTN NJ 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+Yes The New Jersey Tax Amnesty program runs from Nov. 15, 2018 through Jan. 15, 2019. New Jersey Div. of Taxn., Tax Amnesty Program Notice (Nov. 16, 2018). Taxpayers will receive an amnesty notice indicating that they are eligible for the program, which covers state tax liabilities for tax returns due on or after Feb. 1, 2009 through Sept. 1, 2017. Taxpayers will have an opportunity to pay their outstanding tax bills with reduced interest and no penalties. If an eligible taxpayer fails to participate in the amnesty program, a 5 percent penalty will be imposed on the taxpayer's eligible debts. N.J. Rev. Stat. § 54:53-20, as added by 2018 N.J. A. 3438, effective July 1, 2018; see New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty (last updated Nov. 16, 2018). Taxpayers are to file for amnesty via the Amnesty Processing Center using the ID and pin number provided in their amnesty notice. Those who believe they are eligible for the program but did not receive a notice should log-on to the Non-Outreach Portal and make the relevant selections. New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty FAQS (last updated Nov. 16, 2018). Persons who have filed an administrative or judicial appeal of a tax assessment may only participate in the tax amnesty program if they withdraw the appeal, waive all rights to a future appeal, and receive written approval from the director. Those under criminal investigation or facing charges by a county prosecutor or the state attorney general for a state tax matter are not eligible for the amnesty program. New Jersey Div. of Taxn., 2018 N.J. Tax Amnesty FAQS (last updated Nov. 16, 2018). BNA-SUTN NJ 31.14.11.
+
+==================================================

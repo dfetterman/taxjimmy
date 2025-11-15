@@ -1,0 +1,411 @@
+State: Connecticut
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable The purchase, lease, or rental of aircraft is subject to sales and use tax, subject to a few exemptions. Conn. Gen. Stat. §12-412(99). Aircraft with a maximum certified takeoff weight of 6,000 pounds or more are not subject to tax. Conn. Gen. Stat. §12-412(99). In the case of a sale of an aircraft from someone other than a licensed aircraft retailer, the receipts from the sale are not to be included when calculating sales tax. Conn. Gen. Stat. §12-431(a)(1); Conn. Agencies Regs. §12-426-16a. However, the purchaser must pay use tax on the total purchase price, subject to certain exemptions. Conn. Gen. Stat. §12-431(a)(1); Conn. Gen. Stat. §12-431(a)(2); Conn. Agencies Regs. §12-426-16a. Use tax is not owed if:• the purchaser is the spouse, mother, father, brother, sister, or child of the seller; Conn. Gen. Stat. §12-431(a)(2)(A); Conn. Agencies Regs. §12-426-16a. • the sale is in connection with the organization, reorganization, or liquidation of an incorporated business, so long as the last taxable sale or use of the aircraft was subject to sales or use tax, and the purchaser is the incorporated business or a stockholder of the business; Conn. Gen. Stat. §12-431(a)(2)(B); Conn. Agencies Regs. §12-426-16a. • the sale is in connection with the organization or termination of a partnership or limited liability company, so long as the last taxable sale or use of the motor vehicle was subject to sales or use tax, and the purchaser is the partnership or the limited liability company or a partner or member; Conn. Gen. Stat. §12-431(a)(2)(C); Conn. Agencies Regs. §12-426-16a. or • the aircraft has been declared a total loss and is rebuilt for sale or use, so long as the purchaser was subjected to sales or use tax for the last taxable sale of the vehicle. Conn. Gen. Stat. §12-431(a)(2)(D); Conn. Agencies Regs. §12-426-16a; see Conn. Gen. Stat. §14-16c. “Aircraft” Defined “Aircraft” is defined as any contrivance used or designed for navigation of or flight in air, including (a)airplanes, meaning power-driven fixed-wing aircraft, heavier than air, supported by the dynamic reaction of the air against their wings;(b) gliders, meaning heavier than air aircraft, the free flight of which does not depend principally upon a power-generating unit, and(c) rotorcraft, meaning power-driven aircraft, heavier than air, supported during flight by one or more rotors. Conn. Gen. Stat. §15-34(5). BNA-SUTN CT 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Exempt Connecticut does not impose sales or use tax on aircraft repair or replacement parts. Conn. Gen. Stat. §12-412(76). Further, repair and replacement parts are also exempt when used in the “significant overhauling or rebuilding” of aircraft. Conn. Gen. Stat. §12-412(76). “Significant overhauling or rebuilding” means an activity that results in a significantly greater service life than property undergoing the overhauling or rebuilding would have had in the absence of such overhauling or rebuilding, or significantly greater functionality within the original service life of the property. In other words, it means materially enhancing the value, use, life expectancy, strength or capacity of the property. This requires more than merely restoring the original functionality for the balance of the original service life, such as by correcting an existing defect or putting the property back in efficient operating condition. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). BNA-SUTN CT 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Connecticut does not impose sales or use tax on aircraft repair services. Conn. Gen. Stat. §12-412(77)(A); Conn. Gen. Stat. §12-412(77)(B). BNA-SUTN CT 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Exempt Connecticut does not explicitly exempt sales of aircraft oil, filters, and other maintenance items; however, repair and replacement parts used exclusively on an aircraft are exempt from sales and use tax. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993) As such, replacement parts would likely include oil, filters and other maintenance items. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). BNA-SUTN CT 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Connecticut explicitly exempts sales of aircraft repair services, but there is not an explicit reference to sales of aircraft maintenance services. Conn. Gen. Stat. §12-412(77)(A). However, Connecticut does not impose sales or use tax on aircraft repair services rendered in connection with aircraft Conn. Gen. Stat. §12-412(77)(A). or in the “significant overhauling or rebuilding” of aircraft or aircraft parts or components on a factory basis. Conn. Gen. Stat. §12-412(77)(B). BNA-SUTN CT 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Aviation fuel used exclusively for aviation purposes is exempt from sales and use tax. Conn. Gen. Stat. §12-412(75). BNA-SUTN CT 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Aircraft sold by a manufacturer located in Connecticut, to certified or licensed carriers engaged in interstate or foreign commerce or to nonresidents for use exclusively outside Connecticut are not subject to tax. Purchasers must complete Affidavit SUT-16a-3. Conn. Gen. Stat. §12-412(20). Connecticut exempts aircraft from sales and use tax if the aircraft is sold to a foreign government for use outside of Connecticut. Conn. Gen. Stat. §12-412(20). Also, Connecticut exempts aircraft from sales and use tax if the aircraft is sold to a person taking delivery and using the aircraft as a certificated or licensed carrier of persons or property in interstate or foreign commerce. Conn. Gen. Stat. §12-412(20). Lastly, Connecticut exempts aircraft from sales and use tax if the aircraft is sold to residents of other states who will not use the aircraft in Connecticut except to remove the aircraft from Connecticut. Conn. Gen. Stat. §12-412(20). “Aircraft” is defined as any contrivance used or designed for navigation of or flight in air, including (a)airplanes, meaning power-driven fixed-wing aircraft, heavier than air, supported by the dynamic reaction of the air against their wings;(b) gliders, meaning heavier than air aircraft, the free flight of which does not depend principally upon a power-generating unit, and(c) rotorcraft, meaning power-driven aircraft, heavier than air, supported during flight by one or more rotors. Conn. Gen. Stat. §15-34(5). BNA-SUTN CT 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Connecticut does not impose sales or use tax on aircraft repair or replacement parts. Conn. Gen. Stat. §12-412(76). Further, all aircraft repair and replacement parts used exclusively in aircraft owned or leased by a certificated air carrier are exempt. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). Additionally, repair and replacement parts are also exempt when used in the “significant overhauling or rebuilding” of aircraft. Conn. Gen. Stat. §12-412(76). “Significant overhauling or rebuilding” means an activity that results in a significantly greater service life than property undergoing the overhauling or rebuilding would have had in the absence of such overhauling or rebuilding, or significantly greater functionality within the original service life of the property. In other words, it means materially enhancing the value, use, life expectancy, strength or capacity of the property. This requires more than merely restoring the original functionality for the balance of the original service life, such as by correcting an existing defect or putting the property back in efficient operating condition. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). BNA-SUTN CT 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Connecticut does not impose sales or use tax on aircraft repair services. Conn. Gen. Stat. §12-412(77)(A); Conn. Gen. Stat. §12-412(77)(B). BNA-SUTN CT 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Connecticut does not explicitly exempt sales of aircraft oil, filters, and other maintenance items; however, repair and replacement parts used exclusively on an aircraft are exempt from sales and use tax. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993) As such, replacement parts would likely include oil, filters and other maintenance items. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). BNA-SUTN CT 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Connecticut explicitly exempts sales of aircraft repair services, but there is not an explicit reference to sales of aircraft maintenance services. Conn. Gen. Stat. §12-412(77)(A). However, Connecticut does not impose sales or use tax on aircraft repair services rendered in connection with aircraft or in the “significant overhauling or rebuilding” of aircraft or aircraft parts or components on a factory basis. Conn. Gen. Stat. §12-412(77)(A); Conn. Gen. Stat. §12-412(77)(B). Further, all aircraft repair and replacement parts used exclusively in aircraft owned or leased by a certificated air carrier are exempt. Connecticut Special Notice SN 1993(23) (Sept. 8, 1993). BNA-SUTN CT 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Nontaxable Aviation fuel used exclusively for aviation purposes is tax-exempt. Conn. Gen. Stat. §12-412(75). Aviation fuel used exclusively and directly in the experimental testing of any product is also exempt. Conn. Gen. Stat. §12-412(59). BNA-SUTN CT 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends The purchase lease or rental of motor vehicles is generally subject to tax, unless an exemption applies. Conn. Gen. Stat. §12-431; Connecticut Informational Publication IP 2016(19) (Jan. 6, 2017). However, the sale of a motor vehicle, by a non-licensed motor vehicle dealer or lessor, is not subject to sales tax. But use tax must be paid by the purchaser before obtaining an original or transfer registration from the Department of Motor Vehicles. If the vehicle is not registered immediately after the purchase, the purchaser must report the use tax liability on his or her income tax return. Conn. Gen. Stat. §12-431; Connecticut Informational Publication IP 2016(19) (Jan. 6, 2017). A special rate of 7.75 percent applies to sales of motor vehicles for more than $50,000. Conn. Gen. Stat. §12-408(1)(H)(i). High-mileage Vehicles Until July 1, 2010, motor vehicles with an EPA estimated city or highway gasoline mileage rating of at least 40 miles per gallon were not subject to tax. Conn. Gen. Stat. §12-412(110). Purchase by Nonresident The purchase of a motor vehicle not registered in Connecticut by a nonresident is not subject to tax, provided the purchaser submits a declaration to that effect to the Commissioner. Conn. Gen. Stat. §12-412(60). Casual Sales of Motor Vehicles In the case of a sale of a motor vehicle from someone other than a licensed motor vehicle dealer or lessor, the receipts from the sale are not to be included when calculating sales tax. Conn. Gen. Stat. §12-431(a)(1); Conn. Agencies Regs. §12-426-16a. However, the purchaser must pay use tax on the total purchase price, subject to certain exemptions. Conn. Gen. Stat. §12-431(a)(1); Conn. Gen. Stat. §12-431(a)(2); Conn. Agencies Regs. §12-426-16a. Use tax is not owed if:• the purchaser is the spouse, mother, father, brother, sister, or child of the seller; Conn. Gen. Stat. §12-431(a)(2)(A); Conn. Agencies Regs. §12-426-16a. • the sale is in connection with the organization, reorganization, or liquidation of an incorporated business, so long as the last taxable sale or use of the aircraft was subject to sales or use tax, and the purchaser is the incorporated business or a stockholder of the business; Conn. Gen. Stat. §12-431(a)(2)(B); Conn. Agencies Regs. §12-426-16a. • the sale is in connection with the organization or termination of a partnership or limited liability company, so long as the last taxable sale or use of the motor vehicle was subject to sales or use tax, and the purchaser is the partnership or the limited liability company or a partner or member; Conn. Gen. Stat. §12-431(a)(2)(C); Conn. Agencies Regs. §12-426-16a. or • the motor vehicle has been declared a total loss and is rebuilt for sale or use, so long as the purchaser was subjected to sales or use tax for the last taxable sale of the vehicle. Conn. Gen. Stat. §12-431(a)(2)(D); Conn. Agencies Regs. §12-426-16a; see Conn. Gen. Stat. §14-16c. Motor Vehicles Leases and Rentals The lease or rental of motor vehicles is generally subject to tax. Conn. Gen. Stat. §12-407(a)(2)(J). For purposes of tax due on periodic payments received for the leasing of tangible personal property, a transaction does not create a sale (where tax is generally due upfront when an item is sold) merely because it provides that the rental price is permitted or required to be adjusted under the rental agreement either upward or downward by reference to the amount realized upon sale or other disposition of the motor vehicle (i.e., terminal rental adjustment clause). Conn. Gen. Stat. §14-167a; Conn. Gen. Stat. §14-171; Conn. Agencies Regs. §12-426-25(a); 12-426-25(c); Bell Atl. Sys. Int'l, Inc. v. Bajorski, No. 543083 (Conn. Super. Ct., Aug. 29, 1995). Tax does not apply to any payment made by a lessee of a motor vehicle to a lessor for the purpose of paying the property taxes on any such vehicle under a lease that is otherwise subject to tax if such lease requires the lessee to pay such property taxes and if such property tax payment is separately stated. Conn. Gen. Stat. §12-412(49). But see HVT Inc. v. Law, 16 A.3d 686 (Conn. 2011) (vehicle registration renewal fees paid by lessee are gross receipts to lessor). Beginning Jan. 1, 2018, Connecticut repealed the surcharge imposed on rentals of passenger motor vehicles or trucks for a period of less than 31 days. Conn. Gen. Stat. §12-692, as amended by 2017 Conn. H.B. 7312, effective Jan. 1, 2018; Connecticut Special Notice SN 2017(10) (Dec. 21, 2017). Instead of paying the surcharge, rental companies may elect to charge individually itemized charges or fees on rentals of passenger vehicles or trucks for periods of less than 31 days. The charges and fees may include a vehicle cost recovery fee, airport access fees, or airport concession fees. Conn. Gen. Stat. §12-692, as amended by 2017 Conn. H.B. 7312, effective Jan. 1, 2018; Connecticut Special Notice SN 2017(10) (Dec. 21, 2017). Prior to Jan. 1, 2018, passenger motor vehicles or rental trucks rented within Connecticut by a rental company to a lessee for a period of less than 31 days were subject to a surcharge of 3 percent. The rental surcharge was imposed on the total amount the rental company charges the lessee for the rental of a motor vehicle. The surcharge was in addition to any tax otherwise applicable to any such transaction and shall be includable in the tax base for sales and use tax purposes. Conn. Gen. Stat. §12-692(b), prior to amendment by 2017 Conn. H.B. 7312, effective Jan. 1, 2018. Companies that rent pieces of machinery are still subject to the surcharge. Connecticut Special Notice SN 2017(10) (Dec. 21, 2017). Connecticut imposes a Tourism Fund Surcharge on the rental or lease of a passenger motor vehicle for a period of up to 30 consecutive days. Conn. Gen. Stat. §12-665. The surcharge is $1 for each day (or portion of a day), up to 30 days, for which the lessor charges the lessee for the rental or lease of a passenger motor vehicle. Conn. Gen. Stat. §12-666(a). BNA-SUTN CT 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Motor vehicle repair parts are subject to sales and use tax. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). Parts Purchased by Service Providers Sales of repair parts to a service provider who uses the parts in rendering motor vehicle repair services are sales for resale to such provider if, when used, such parts or materials become an “integral part” of the motor vehicle. As such, the purchase of the integral part will be taxable to the purchaser of the services. Service providers are considered the consumers of any non-integral parts. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). An “integral part” means a part that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). Examples of integral parts include an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). However, the term “integral part”does not include materials that do not retain their separate identity after being used to repair a motor vehicle, but are consumed by the service provider in repairing the motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(B). Examples of those materials include abrasives(e.g., sandpaper, emery paper and grinding wheels), acetylene, acrylic finishes, applicators, body putty, body work tools, brushes, cleaners, compound pads, drop cloths, enamels, flux, hand cleansers, lacquers, lead, masking tape, masking paper, mechanics’ tools, metal conditioners, oxygen, paint, painting tools, plastic filler, polishing and buffing pads, primers, removers (liquid and paste), resins (e.g., epoxy, polyester, fiberglass cloth and fiberglass matting), rollers, rubbing compound, rustproofing liquid, sealants, shellacs, solder, spray guns, stain, stencils, strainers, thinners and solvents, undercoating, varnish, waxes, welding rods and disposable or reusable wipes. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(B). Parts for Motor Vehicles for Persons with Physical Disabilities Special equipment installed in a motor vehicle for the exclusive use of a person with physical disabilities and repair or replacement parts for the equipment is not subject to tax. Conn. Gen. Stat. §12-412(80). Volkswagen/Audi Diesel Car Buyback and Settlement Program: Connecticut residents that own 2.0-liter TDI-engined Volkswagen and Audi models may be entitled to receive cash for the “buyback”of their vehicle pursuant to theVW diesel buyback and settlement program, established pursuant to a court-approved settlement agreement between the automaker and the U.S. Department of Environmental Protection. According to the Connecticut Department of Revenue Services, a buyback amount received by a purchaser pursuant to the program that is applied toward the purchase of another vehicle will not be entitled to a trade-in credit under Conn. Gen. Stat. §12-430(4). Connecticut sales and use tax will be due on the purchase price of the replacement vehicle, including the buyback amount. Connecticut Dept. of Rev. Svcs., Media Release: VW/Audi Diesel Car Buyback is Not a Trade-In (Oct. 11, 2016). Alternatively, under the same settlement program, an individual may also elect to keep their vehicle and have its emissions software modified. Under these circumstances, there will be no sales and use tax liability for the vehicle owner. Connecticut Dept. of Rev. Svcs., Media Release: VW/Audi Diesel Car Buyback is Not a Trade-In (Oct. 11, 2016). BNA-SUTN CT 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Connecticut imposes sales and use tax on motor vehicle repair services, including any type of repair, painting or replacement related to the body or any of the motor vehicle's operating parts. Conn. Gen. Stat. §12-407(a)(37)M). BNA-SUTN CT 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Sales of maintenance items to a service provider who uses the parts in rendering motor vehicle repair services are sales for resale and therefore exempt if such materials become an integral part of the motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). Purchases of such maintenance items by consumers are subject to sales and use tax. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). BNA-SUTN CT 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Connecticut imposes sales and use tax on charges for motor vehicle maintenance services. This is true even if the charges are paid on the customer's behalf for by an insurance company, auto club, or other third party. Conn. Agencies Regs. §12-407(2)(i)(M)-1(b)(1). Motor vehicle maintenance services include replacing vehicle fluids (e.g., oil or coolant), lubricating the chassis, diagnostic testing, replacing spark plugs and filters, rotating tires, recharging the air conditioning system, rustproofing, painting or repainting, and applying fabric protection or paint sealant. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(1). On the customer's bill, a motor vehicle repair service providers must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering motor vehicle repair services. Conn. Agencies Regs. §12-407(2)(i)(M)-1(b)(1). The term “motor vehicle repair services”includes all maintenance services that keep a motor vehicle in good working order by preventing its decline, failure, lapse or deterioration. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(1). BNA-SUTN CT 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor vehicle fuel is not subject to tax if the fuel is to be used for a motor vehicle that is licensed or that is required to be licensed to operate on state highways, whether or not any tax imposed has been paid on the fuel. Conn. Gen. Stat. §12-412(15). In addition, motor vehicle fuel purchased for any other use, so long as the motor vehicle fuels tax has been paid and not refunded under the provisions of that tax is exempt from sales and use tax. Conn. Gen. Stat. §12-412(15). BNA-SUTN CT 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Connecticut imposes sales and use tax on the rental or lease of a passenger motor vehicle for 30 or fewer consecutive calendar days. Connecticut Policy Statement PS 2019(2) (March 7, 2019); Connecticut Special Notice SN 2011(10). Beginning July 1, 2011, the tax rate on those rentals or leases increased to 9.35 percent. Connecticut Policy Statement PS 2019(2) (March 7, 2019); Connecticut Special Notice SN 2011(10). Before July 1, 2011, the rate was 6 percent. BNA-SUTN CT 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Nontaxable The use of motor vehicles for demonstration or display is nontaxable. Conn. Gen. Stat. §12-410(4)(A). BNA-SUTN CT 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Depends Whether the sale of tires is taxable depends on whether they are sold to a service provider who uses the tires in rendering motor vehicle repair services. Conn. Gen. Stat. §12-408(1); Conn. Gen. Stat. §12-411(1). Generally, tires are subject to tax as tangible personal property. However, sales of tires to a service provider who uses the tires in rendering motor vehicle repair services are sales for resale and therefore exempt if such materials become an integral part of the motor vehicle. In other words, a service provider that replaces tires on vehicles, transferring the tires to its customer, may purchase the tires for resale and exempt from sales and use tax. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). BNA-SUTN CT 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Whether the purchase, lease or rental of interstate and common carrier motor vehicles is subject to sales and use tax in Connecticut depends on the type of motor vehicle. See Conn. Gen. Stat. §12-412(83)(A); Conn. Gen. Stat. §12-412(70)(A). For taxable motor vehicles sold for more than $50,000, a special rate of 7.75 percent applies. Conn. Gen. Stat. §12-408(1)(H)(i). Motor Buses That Derive 75 Percent of Days-in-Service Revenue From Interstate Trips A motor bus operating for one year after the purchase date is not subject to tax if 75 percent of its days-in-service revenue is derived from out-of-state trips or trips crossing state lines. Conn. Gen. Stat. §12-412(83)(A). Commercial Trucks, Truck Tractors, Tractors and Semitrailers, and Vehicles Used in Combination Commercial trucks, truck tractors, tractors, and semitrailers, and vehicles used in combination that either have a gross vehicle weight rating in excess of 26,000 pounds or are operated actively and exclusively for the carriage of interstate freight during the period of time ending one year after the date of purchase are not subject to tax. Conn. Gen. Stat. §12-412(70)(A). BNA-SUTN CT 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Motor vehicle repair parts are subject to sales and use tax. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). Sales of repair parts to a service provider who uses the parts in rendering motor vehicle repair services are sales for resale to such provider if, when used, such parts or materials become an “integral part” of the motor vehicle. As such, the purchase of the integral part will be taxable to the purchaser of the services. Service providers are considered the consumers of any non-integral parts. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). An “integral part” means a part that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). Examples of integral parts include an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). However, the term “integral part”does not include materials that do not retain their separate identity after being used to repair a motor vehicle, but are consumed by the service provider in repairing the motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(B). Examples of those materials include abrasives(e.g., sandpaper, emery paper and grinding wheels), acetylene, acrylic finishes, applicators, body putty, body work tools, brushes, cleaners, compound pads, drop cloths, enamels, flux, hand cleansers, lacquers, lead, masking tape, masking paper, mechanics’ tools, metal conditioners, oxygen, paint, painting tools, plastic filler, polishing and buffing pads, primers, removers (liquid and paste), resins (e.g., epoxy, polyester, fiberglass cloth and fiberglass matting), rollers, rubbing compound, rustproofing liquid, sealants, shellacs, solder, spray guns, stain, stencils, strainers, thinners and solvents, undercoating, varnish, waxes, welding rods and disposable or reusable wipes. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(B). BNA-SUTN CT 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Taxable Connecticut imposes sales and use tax on motor vehicle repair services, including any type of repair, painting or replacement related to the body or any of the motor vehicle's operating parts. Conn. Gen. Stat. §12-407(a)(37)M). BNA-SUTN CT 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Sales of maintenance items to a service provider who uses the parts in rendering motor vehicle repair services are sales for resale and therefore exempt if, when used, such parts or materials become an integral part of the motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(1). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). BNA-SUTN CT 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Taxable Connecticut imposes sales and use tax on charges for motor vehicle maintenance services. This is true even if the charges are paid on the customer's behalf for by an insurance company, auto club, or other third party. Conn. Agencies Regs. §12-407(2)(i)(M)-1(b)(1). Motor vehicle maintenance services include replacing vehicle fluids (e.g., oil or coolant), lubricating the chassis, diagnostic testing, replacing spark plugs and filters, rotating tires, recharging the air conditioning system, rustproofing, painting or repainting, and applying fabric protection or paint sealant. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(1). On the customer's bill, a motor vehicle repair service providers must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering motor vehicle repair services. Conn. Agencies Regs. §12-407(2)(i)(M)-1(b)(1). The term “motor vehicle repair services”includes all maintenance services that keep a motor vehicle in good working order by preventing its decline, failure, lapse or deterioration. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(1). BNA-SUTN CT 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Motor vehicle fuel is not subject to tax if the fuel is to be used for a motor vehicle that is licensed or that is required to be licensed to operate on state highways, whether or not any tax imposed has been paid on the fuel. Conn. Gen. Stat. §12-412(15). In addition, motor vehicle fuel purchased for any other use, so long as the motor vehicle fuels tax has been paid and not refunded under the provisions of that tax is exempt from sales and use tax. Conn. Gen. Stat. §12-412(15). Fuel for Use in Certain High-Occupancy Commuter Vehicles Connecticut does not impose sales or use tax on fuel used in qualified high-occupancy commuter vehicles with respect to which the motor vehicle fuels tax has been refunded under Conn. Gen. Stat. §12-459(a)(11). Conn. Gen. Stat. §12-412(37). BNA-SUTN CT 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Depends Whether the sale of tires is taxable depends on whether they are sold to a service provider who uses the tires in rendering motor vehicle repair services. Conn. Gen. Stat. §12-408(1); Conn. Gen. Stat. §12-411(1). Generally, tires are subject to tax as tangible personal property. However, sales of tires to a service provider who uses the tires in rendering motor vehicle repair services are sales for resale and therefore exempt if such materials become an integral part of the motor vehicle. In other words, a service provider that replaces tires on vehicles, transferring the tires to its customer, may purchase the tires for resale and exempt from sales and use tax. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated into a repaired motor vehicle. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3). BNA-SUTN CT 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Reduced Rate Sales of water vessels to Connecticut residents are subject to tax at a reduced rate. Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(B); Connecticut Special Notice SN 2018(5) (June 26, 2018); Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). For sales occurring on or after July 1, 2018, Connecticut imposes a special sales and use tax rate of 2.99 percent on sales of vessels, motors for a vessel, or trailers used for transporting a vessel. Conn. Gen. Stat. §12-408(1)(E)(ii), as amended by 2018 Conn. S.B. 543, §62, effective July 1, 2018; Conn. Gen. Stat. §12-411(1)(D), as amended by 2018 Conn. S.B. 543, §63, effective July 1, 2018; Connecticut Special Notice SN 2018(5.1) (July 17, 2018); Connecticut Special Notice SN 2018(5) (June 26, 2018); Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Prior to July 1, 2018, such items were subject to sales and use tax at the general rate. Conn. Gen. Stat. §12-408(1)(E); Conn. Gen. Stat. §12-411(1)(D). Only a vessel that is of a type that must be registered with the Connecticut Department of Motor Vehicles (DMV) qualifies for the reduced tax rate. Vessels of the following types must be registered with DMV, and so qualify for the reduced rate:• all motorboats, which are defined as any watercraft fitted with propulsion machinery, whether or not such machinery is the principal source of propulsion; • all vessels with a length of 19.5 feet or more that are not motorboats and are not propelled solely by paddles or oars (e.g., sailboats);and • personal watercraft such as jet skis. Connecticut Special Notice SN 2018(5.1) (July 17, 2018); Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Vessels propelled solely by paddles or oars, and vessels less than 19.5 feet in length that are not motorboats, are not required to be registered with DMV and are not eligible for the reduced tax rate. Connecticut Special Notice SN 2018(5.1) (July 17, 2018). “Vessel” means every description of watercraft, other than a seaplane on water, used or capable of being used as a means of transportation on water. Conn. Gen. Stat. §15-127. Out-of-State Purchase Brought into Connecticut A vessel purchased outside Connecticut, and brought in state by a purchaser, who becomes a Connecticut resident is not subject to tax provided the vehicle was registered in another state for at least 30 days before the purchaser established Connecticut residence. Conn. Agencies Regs. §12-426-16a(e)(2). “Resident” includes individuals domiciled in Connecticut, a person who has a valid Connecticut driver's license, or is registered as a Connecticut voter. A business entity may qualify as a resident unless: • the business maintains no in-state location and owns no fixed assets in-state; • no officer, member, or partner of the entity or its affiliates and no operator or user of the vessel with an ownership interest in the entity is a resident (or is a nonresident that maintains permanent place of abode in Connecticut); and • the vessel is neither presented for registration nor required to be registered with the DMV. Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Nonresidents should complete form CERT-139 Sales and Use Tax Exemption for a Vessel Purchased by a Nonresident of Connecticut to the retailer when the vessel is delivered. Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Temporary Presence in State The sale of vessels that will be docked in Connecticut for 60 or fewer days in a calendar year are not subject to tax. Conn. Gen. Stat. §12-408(1)(E); Connecticut Special Notice SN 2018(5) (June 26, 2018). BNA-SUTN CT 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Sales of repair parts to a service provider who uses the parts in rendering vessel repair services are sales for resale to such provider if, when used, such parts or materials become an integral part of the vessel. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B). As such, the purchase of the integral part will be taxable to the purchaser of the services. Service providers are considered the consumers of any non-integral parts. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B); Connecticut Special Notice SN 2006(12) (Dec. 19, 2006). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B); Connecticut Special Notice SN 2006(12) (Dec. 19, 2006). BNA-SUTN CT 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Exempt Vessel repair and maintenance services are exempt from tax. However, the service provider should separately state charges for service labor and parts. Conn. Gen. Stat. §12-408(1)(E)(i). BNA-SUTN CT 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+No Guidance Connecticut does not explicitly address the taxability of oil, filters, and other maintenance items on water vessels. See Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). However, the term “maintenance”is defined to mean sustain or maintain safe, efficient or continuous operation of tangible personal property, or to keep tangible personal property in good working order by preventing its decline, failure, lapse or deterioration. Some examples of maintenance include cleaning, oiling, sharpening or polishing tangible personal property. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). Providers of repair or maintenance services must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering maintenance or repair services on the bill to the customer. Any fees, such as “service call” charges, minimum charges, hourly or flat rates, mileage charges, or pick-up or delivery charges, are taxable as charges for repair or maintenance services. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(b)(1). BNA-SUTN CT 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Exempt Vessel repair and maintenance services are exempt from tax. However, the service provider should separately state charges for service labor and parts. Conn. Gen. Stat. §12-408(1)(E)(i). The term “maintenance”is defined to mean sustain or maintain safe, efficient or continuous operation of tangible personal property, or to keep tangible personal property in good working order by preventing its decline, failure, lapse or deterioration. Some examples of maintenance include cleaning, oiling, sharpening or polishing tangible personal property. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). Providers of repair or maintenance services must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering maintenance or repair services on the bill to the customer. Any fees, such as “service call” charges, minimum charges, hourly or flat rates, mileage charges, or pick-up or delivery charges, are taxable as charges for repair or maintenance services. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(b)(1). BNA-SUTN CT 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Depends Whether marine fuel is subject to sales and use tax depends on whether the fuel is dyed diesel sold to the owner or operator of marine fuel docks exclusively for marine purposes. Conn. Gen. Stat. §12-412(15)(B); 2018 Conn. S.B. 543, §64 effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018). For sales occurring on or after Oct. 1, 2019, sales of dyed diesel fuel by a marine fuel dock exclusively for marine purposes are taxed at a reduced rate. Prior to Oct. 1, 2019, such sales are taxable at the regular rate. Conn. Gen. Stat. §12-408(E)(iii), as amended by 2019 Conn. H.B. 7424, §323, effective Oct. 1, 2019. For the period from July 1, 2018 to Oct. 1, 2019, dyed diesel fuel sold to the owner or operator of marine fuel docks exclusively for marine purposes is exempt from motor vehicle fuels tax, but subject to sales and use tax. Other marine fuel remains subject to the motor vehicle fuels tax and exempt from sales and use tax. Conn. Gen. Stat. §12-412(15)(B); 2018 Conn. S.B. 543, §64 effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018). Prior to July 1, 2018, marine bunker oil fuel, intermediate fuel, marine diesel oil, and marine gas oil used in any vessel with a displacement exceeding 4,000 dead weight tons, is exempt from sales and use tax. Conn. Gen. Stat. §12-412(79). For more information regarding the motor vehicle fuels tax in Connecticut, see the Excise Tax Navigator, at Connecticut 8.1 BNA-SUTN CT 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Reduced Rate Connecticut imposes sales and use tax on vessels at a reduced tax rate. Conn. Gen. Stat. §12-408(1)(E)(ii), as amended by 2018 Conn. S.B. 543, §62, effective July 1, 2018; Conn. Gen. Stat. §12-411(1)(D), as amended by 2018 Conn. S.B. 543, §63, effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018); Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). For sales occurring on or after July 1, 2018, Connecticut imposes a special sales and use tax rate of 2.99 percent on sales of vessels, motors for a vessel, or trailers used for transporting a vessel. Conn. Gen. Stat. §12-408(1)(E)(ii), as amended by 2018 Conn. S.B. 543, §62, effective July 1, 2018; Conn. Gen. Stat. §12-411(1)(D), as amended by 2018 Conn. S.B. 543, §63, effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018); Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Prior to July 1, 2018, such items were subject to sales and use tax at the general rate. Conn. Gen. Stat. §12-408(1)(E); Conn. Gen. Stat. §12-411(1)(D). Connecticut does not impose sales tax on sales of marine vessel brokerage services provided by marine vessel brokers selling such vessels for the owners. Conn. Gen. Stat. §12-412(116). Temporary Presence in State The sale of vessels that will be docked in Connecticut for 60 or fewer days in a calendar year are not subject to tax. Conn. Gen. Stat. §12-408(1)(E); Connecticut Special Notice SN 2018(5) (June 26, 2018). BNA-SUTN CT 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Sales of repair parts to a service provider who uses the parts in rendering vessel repair services are sales for resale to such provider if, when used, such parts or materials become an integral part of the vessel. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B). As such, the purchase of the integral part will be taxable to the purchaser of the services. Service providers are considered the consumers of any non-integral parts. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B); Connecticut Special Notice SN 2006(12) (Dec. 19, 2006). An “integral part”means a part, such as an air or oil filter, alternator, battery, belt, hose, muffler, spark plug, tire or windshield wiper blade, that retains its separate identity even after being incorporated. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B); Connecticut Special Notice SN 2006(12) (Dec. 19, 2006). BNA-SUTN CT 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Exempt Connecticut exempts from sales and use tax sales of repair or maintenance services on existing vessels. Conn. Gen. Stat. §12-408(1)(E)(i). Vessel repair and maintenance services are not subject to tax. However, the service provider should separately state charges for service labor and parts. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B); Connecticut Special Notice SN 2006(12) (Dec. 19, 2006). BNA-SUTN CT 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Guidance Connecticut does not explicitly address the taxability of oil, filters, and other maintenance items on water vessels. See Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). However, the term “maintenance”is defined to mean sustain or maintain safe, efficient or continuous operation of tangible personal property, or to keep tangible personal property in good working order by preventing its decline, failure, lapse or deterioration. Some examples of maintenance include cleaning, oiling, sharpening or polishing tangible personal property. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). Providers of repair or maintenance services must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering maintenance or repair services on the bill to the customer. Any fees, such as “service call” charges, minimum charges, hourly or flat rates, mileage charges, or pick-up or delivery charges, are taxable as charges for repair or maintenance services. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(b)(1). BNA-SUTN CT 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Exempt Connecticut exempts from sales and use tax sales of repair or maintenance services on existing vessels. Conn. Gen. Stat. §12-408(1)(E)(i). The term “maintenance”is defined to mean sustain or maintain safe, efficient or continuous operation of tangible personal property, or to keep tangible personal property in good working order by preventing its decline, failure, lapse or deterioration. Some examples of maintenance include cleaning, oiling, sharpening or polishing tangible personal property. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). Providers of repair or maintenance services must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering maintenance or repair services on the bill to the customer. Any fees, such as “service call” charges, minimum charges, hourly or flat rates, mileage charges, or pick-up or delivery charges, are taxable as charges for repair or maintenance services. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(b)(1). BNA-SUTN CT 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Depends Whether marine fuel is subject to sales and use tax depends on whether the fuel is dyed diesel sold to the owner or operator of marine fuel docks exclusively for marine purposes. Conn. Gen. Stat. §12-412(15)(B); 2018 Conn. S.B. 543, §64 effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018). For sales occurring on or after Oct. 1, 2019, sales of dyed diesel fuel by a marine fuel dock exclusively for marine purposes are taxed at a reduced rate. Prior to Oct. 1, 2019, such sales are taxable at the regular rate. Conn. Gen. Stat. §12-408(E)(iii), as amended by 2019 Conn. H.B. 7424, §323, effective Oct. 1, 2019. For the period from July 1, 2018 to Oct. 1, 2019, dyed diesel fuel sold to the owner or operator of marine fuel docks exclusively for marine purposes is exempt from motor vehicle fuels tax, but subject to sales and use tax. Other marine fuel remains subject to the motor vehicle fuels tax and exempt from sales and use tax. Conn. Gen. Stat. §12-412(15)(B); 2018 Conn. S.B. 543, §64 effective July 1, 2018; Connecticut Special Notice SN 2018(5) (June 26, 2018). Prior to July 1, 2018, marine bunker oil fuel, intermediate fuel, marine diesel oil, and marine gas oil used in any vessel with a displacement exceeding 4,000 dead weight tons, is exempt from sales and use tax. Conn. Gen. Stat. §12-412(79). For more information regarding the motor vehicle fuels tax in Connecticut, see the Excise Tax Navigator, at Connecticut 8.1 BNA-SUTN CT 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable Connecticut does not provide an exemption for property used in commercial fishing. See Conn. Gen. Stat. §12-408. For sales occurring on or after July 1, 2018, Connecticut imposes a special sales and use tax rate of 2.99 percent on sales of vessels, motors for a vessel, or trailers used for transporting a vessel. Conn. Gen. Stat. §12-408(1)(E)(ii), as amended by 2018 Conn. S.B. 543, §62, effective July 1, 2018; Conn. Gen. Stat. §12-411(1)(D), as amended by 2018 Conn. S.B. 543, §63, effective July 1, 2018Connecticut Informational Publication IP 2018(20) (Dec. 24, 2018). Prior to July 1, 2018, such items were subject to sales and use tax at the general rate. Conn. Gen. Stat. §12-408(1)(E); Conn. Gen. Stat. §12-411(1)(D). Temporary Presence in State The sale of vessels that will be docked in Connecticut for 60 or fewer days in a calendar year are not subject to tax. Conn. Gen. Stat. §12-408(1)(E). BNA-SUTN CT 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable Sales of repair parts to a service provider who uses the parts in rendering vessel repair services are sales for resale to such provider if, when used, such parts or materials become an integral part of the vessel. Conn. Agencies Regs. §12-407(2)(i)(M)-1(c)(2); Conn. Agencies Regs. §12-407(2)(i)(M)-1(a)(3)(A) to (3)(B). BNA-SUTN CT 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Exempt Connecticut exempts from sales and use tax sales of repair or maintenance services on existing vessels. Conn. Gen. Stat. §12-408(1)(E)(i). BNA-SUTN CT 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Exempt Oil, filters, or other maintenance items, which become component parts of commercial fishing vessels, are exempt from sales and use tax. Conn. Gen. Stat. §12-412(18). BNA-SUTN CT 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Connecticut exempts sales of vessel maintenance services. Conn. Gen. Stat. §12-408(1)(E). BNA-SUTN CT 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Bunker oil fuel, intermediate fuel, marine diesel oil, and marine gas oil used in any vessel with a displacement exceeding 4,000 dead weight tons or used in any vessel primarily engaged in interstate commerce are tax-exempt. Conn. Gen. Stat. §12-412(79). BNA-SUTN CT 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Exempt Commercial fishing equipment and accessories are exempt from sales and use tax when used directly in the fishing industry. Conn. Gen. Stat. §12-412(18). BNA-SUTN CT 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Exempt Commercial fishing tools and supplies are exempt from sales and use tax when used directly in the fishing industry. Conn. Gen. Stat. §12-412(18). BNA-SUTN CT 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Nontaxable Railroad locomotives, track ballasts, ties, rails, machinery and equipment used to maintain the railroad right-of-way that is used or operated exclusively for the carriage of freight are not subject to tax. Conn. Gen. Stat. §12-412(103). Connecticut does not have any demurrage rules specific to rolling stock. However, for purposes of computing sales tax in Connecticut, the tax base is gross receipts from the sale of all tangible personal property sold at retail or from the rendering of any services constituting a sale. Therefore, demurrage fees would likely be included in gross receipts and subject to tax if the overall sale is subject to tax. Conn. Gen. Stat. §12-408(1). BNA-SUTN CT 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Connecticut exempts from sales and use tax items of tangible personal property purchased to be used as integral parts in performing maintenance services under a maintenance contract. Connecticut views those items as tangible personal property purchased for resale purposes. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(h)(1). “Integral parts”include parts that retain their separate identity after being incorporated into property being repaired or maintained, such as springs or gears. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(h)(1). BNA-SUTN CT 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Taxable The repair and the installation of tangible personal property are considered taxable services in Connecticut. Conn. Gen. Stat. §12-407(a)(37); Conn. Agencies Regs. §12-407(2)(i)(DD)-1. BNA-SUTN CT 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+No Guidance Connecticut does not explicitly address the taxability of oil, filters, and other maintenance items on rolling stock. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). However, the term “maintenance”is defined to mean sustain or maintain safe, efficient or continuous operation of tangible personal property, or to keep tangible personal property in good working order by preventing its decline, failure, lapse or deterioration. Some examples of maintenance include cleaning, oiling, sharpening or polishing tangible personal property. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(a)(2). Providers of repair or maintenance services must separately state the charge attributable to the sale of integral parts and the charge attributable to rendering maintenance or repair services on the bill to the customer. Any fees, such as “service call” charges, minimum charges, hourly or flat rates, mileage charges, or pick-up or delivery charges, are taxable as charges for repair or maintenance services. Conn. Agencies Regs. §12-407(2)(i)(DD)-1(b)(1). BNA-SUTN CT 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Taxable Connecticut imposes sales and use tax on any maintenance service to any item of tangible personal property. Conn. Gen. Stat. §12-407(a)(37)(CC); Conn. Agencies Regs. §12-407(2)(i)(DD)-1(f)(1). This includes the original sale, a renewal, and the exercise of an option to extend the term(either automatically or by the action of either party to the contract). Conn. Agencies Regs. §12-407(2)(i)(DD)-1(f)(1). BNA-SUTN CT 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Exempt Motor vehicle fuel is not subject to tax if the fuel is to be used for a motor vehicle that is licensed or that is required to be licensed to operate on state highways, whether or not any tax imposed has been paid on the fuel. Conn. Gen. Stat. §12-412(15). In addition, motor vehicle fuel purchased for any other use, so long as the motor vehicle fuels tax has been paid and not refunded under the provisions of that tax is exempt from sales and use tax. Conn. Gen. Stat. §12-412(15). BNA-SUTN CT 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but passenger transportation by air is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but passenger transportation by rail is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but passenger transportation by water is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but passenger transportation by bus is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Taxable Connecticut imposes sales and use tax on intrastate transportation services provided by livery services, including limousines, community cars or vans, with a driver. Conn. Gen. Stat. §12-407(a)(37)(JJ). However, intrastate transportation services does not include transportation by taxicab, motor bus, ambulance or ambulette, scheduled public transportation, nonemergency medical transportation provided under the Medicaid program, paratransit services provided by agreement or arrangement with the state or any political subdivision of the state, dial-a-ride services or services provided in connection with funerals. Conn. Gen. Stat. §12-407(a)(37)(JJ). For more information on taxes on car services, taxi cabs and other forms of transit in Connecticut, see Excise Taxes Navigator, at Connecticut 9.5. BNA-SUTN CT 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Taxable Connecticut imposes sales tax on intrastate transportation services provided by livery services with a driver, with certain exceptions. Conn. Gen. Stat. §12-407(a)(37)(JJ). Livery services include limousines, community cars or vans. It does not include taxicab, motor bus, ambulance or ambulette, scheduled public transportation or services provided in connection with funerals. It also does not include nonemergency medical transportation provided under the Medicaid program, certain paratransit services and dial-a-ride services. Conn. Gen. Stat. §12-407(a)(37)(JJ); 2011 Conn. Pub. Acts 11-6 §92, as enacted by 2011 Conn. S.B. 1239; see Connecticut Dept. of Rev. Svcs., Common Sales Tax Questions Concerning New Legislation (July 2011). BNA-SUTN CT 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but in general property transportation is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Connecticut enumerates the types of services that are taxable in Connecticut, but moving service is not an enumerated taxable service. Conn. Gen. Stat. §12-407(a)(37). BNA-SUTN CT 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Depends Effective Jan. 1, 2020, whether charges for parking are taxable depends on whether the parking lot is owned or leased for at least 10 years duration and operated by an employer for the exclusive use of its employees. Conn. Gen. Stat. §12-407(a)(37)(N), as amended by 2015 Conn. S.B. 1502, effective July 1, 2015, and by 2019 Conn. H.B. 7424, §323, effective Oct. 1, 2019; Connecticut Department of Revenue Services, 2019 Legislative Summary. Effective Jan. 1, 2020, Connecticut imposes tax on all charges for parking except in a parking lot that is owned or leased for at least 10 years duration and operated by an employer for the exclusive use of its employees. Conn. Gen. Stat. §12-407(a)(37)(N), as amended by 2015 Conn. S.B. 1502, effective July 1, 2015, and by 2019 Conn. H.B. 7424, §323, effective Oct. 1, 2019; Connecticut Department of Revenue Services, 2019 Legislative Summary. Prior to Jan. 1, 2020, Connecticut does not impose sales and use tax on motor vehicle parking services in a metered lot having 30 or more spaces. Conn. Gen. Stat. §12-407(a)(37)(N), as amended by 2015 Conn. S.B. 1502, effective July 1, 2015. Additionally, prior to Jan. 1, 2020, Connecticut does not impose sales and use tax on:• space in municipally operated railroad parking facilities in municipalities located within an area of the state designated as a severe nonattainment area for ozone under the federal Clean Air Act or space in a railroad parking facility in a municipality located within an area of the state designated as a severe nonattainment area for ozone under the federal Clean Air Act owned or operated by the state on or after April 1, 2000; Conn. Gen. Stat. §12-407(a)(37)(N)(ii). • space in a seasonal parking lot provided by an entity subject to the exemption set forth in Conn. Gen. Stat. §12-412(1), i.e., a seasonal parking lot provided by the federal government, the state of Connecticut and its political subdivisions; Conn. Gen. Stat. §12-407(a)(37)(N)(iii), as added by 2016 Conn. H.B. 5627, effective May 27, 2016, and 2016 Conn. S.B. 502, §180, effective June 2, 2016; Connecticut 2016 Department of Revenue Services Legislative Summary; Connecticut Special Notice SN 2016(6) (Nov. 9, 2016). and • space in a municipally-owned parking lot. Conn. Gen. Stat. §12-407(a)(37)(N)(iv), as added by 2016 Conn. H.B. 5627, effective May 27, 2016, and 2016 Conn. S.B. 502, §180, effective June 2, 2016; Connecticut Special Notice SN 2016(6) (Nov. 9, 2016). BNA-SUTN CT 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Taxable Boat slip and mooring fees are taxable. Conn. Gen. Stat. §12-407(a)(2)(M). The terms “sale”and “selling” include the transfer for consideration of space or the right to use any space for the purpose of storage or mooring of any noncommercial vessel, exclusive of dry or wet storage or mooring of such vessel during the period commencing on the first day of October in any year to and including the thirty-first day of May of the next succeeding year. Conn. Gen. Stat. §12-407(a)(2)(M). BNA-SUTN CT 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable Connecticut imposes sales and use tax on motor vehicle towing and road services(excluding motor vehicle repair services). Conn. Gen. Stat. §12-407(a)(37)(II). “Road services”are also known as roadside assistance services. “Road services”include, but are not limited to, jump-starting cars, changing flat tires, and opening locked vehicles. Conn. Gen. Stat. §12-407(a)(37)(II); Connecticut Ruling 2017-4 (Aug. 4, 2017); Connecticut Special Notice SN 2011(10) (Sept. 21, 2011). Towing services include emergency road services, tow truck services, and wrecker services. The transportation of vehicles via automobile carrier truck is excluded from the definition of towing services. Connecticut Ruling 2017-4 (Aug. 4, 2017). BNA-SUTN CT 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Taxable Effective July 1, 2015, sales of car wash services, including coin-operated car washes are subject to sales and use taxes. Conn. Gen. Stat. §12-407(a)(37)(OO), as amended by 2015 Conn. H.B. 7061, effective, July 1, 2015; Connecticut Special Notice SN 2015(4). Car wash services are taxable whether payment is made to an attendant or by using a coin-operated machine. Car wash services for $20 or less are not subject to sales and use taxes when performed by certain organizations related to youth activities. Conn. Gen. Stat. §12-407(a)(37)(OO), as amended by 2015 Conn. H.B. 7061, effective, July 1, 2015; Connecticut Special Notice SN 2015(4). “Car wash services”include:• automatic tunnel washes; • self-service washes; • waxing; • polishing; • detailing; • vacuuming; • shampooing upholstery and carpet; • cleaning and conditioning leather, vinyl and plastic; and • cleaning windows. Conn. Gen. Stat. §12-407(a)(37)(OO), as amended by 2015 Conn. H.B. 7061, effective, July 1, 2015; Connecticut Special Notice SN 2015(4). BNA-SUTN CT 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Taxable Effective July 1, 2015, Connecticut imposes sales and use tax on sales of car wash services. Car detailing is a type of car wash service. Conn. Gen. Stat. §12-407(a)(37)(OO), as amended by 2015 Conn. H.B. 7061, effective, July 1, 2015; Connecticut Special Notice SN 2015(4). BNA-SUTN CT 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Depends Whether other transportation property and services are subject to sales and use tax in Connecticut depends on the type of property or service. See Conn. Gen. Stat. §12-412(102); Conn. Gen. Stat. §12-412(108); Conn. Gen. Stat. §12-407(a)(37)(GG). Bicycle Helmets Bicycle helmets conforming to the standards of the American National Standards Institute or the Snell Memorial Foundation's Standard for Protective Headgear for Use in Bicycling are not subject to tax. Conn. Gen. Stat. §12-412(102). Child Car Seats Connecticut does not impose sales and use tax on child car seats. Conn. Gen. Stat. §12-412(108). Motor Vehicle Storage Services Connecticut imposes sales tax on motor vehicle storage services, including storage of motor homes, campers and camp trailers, other than the furnishing of space for storage of tangible personal property as described in Conn. Gen. Stat. §12-407(a)(2)(P). Conn. Gen. Stat. §12-407(a)(37)(GG); 2011 Conn. Pub. Acts 11-6 §92, as enacted by 2011 Conn. S.B. 1239; see Connecticut Dept. of Rev. Svcs., Common Sales Tax Questions Concerning New Legislation (July 2011). BNA-SUTN CT 29.15.
+
+==================================================

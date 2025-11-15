@@ -1,0 +1,549 @@
+State: Alabama
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Alabama Department of Revenue The Alabama Department of Revenue has the power and authority to administer and enforce the Alabama sales and use tax. Ala. Code §40-2-11. BNA-SUTN AL 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Local County Commission or Alabama DOR The county commission of any county of Alabama may, by ordinance or resolution, administer and collect or contract for the collection of any local sales and use taxes or other local county taxes. Ala. Code §11-3-11.2(a). If a county elects to do so, it has the same rights, remedies, power and authority that would be available to the Alabama Department of Revenue as if the tax or taxes were being administered, enforced, and collected by the Alabama Department of Revenue. Ala. Code §11-3-11.2(b). This includes the same statute of limitations, filing requirements, and similar provisions. Ala. Code §11-3-11.2(a); Ala. Code §11-3-11.3(a); see also Westover, Ala. v. Bynum, 2012 BL 224372, 103 So. 3d 827 (Ala. Civ. App. 2012) (town's sales tax collection not barred by doctrine of laches when four years passed before it sought to collect from or notify taxpayer of obligation). However, counties and municipalities may pass an ordinance or resolution requesting that the Alabama Department of Revenue collect and administer any county sales, use, rental, lodgings, tobacco, or other local taxes for which there is a corresponding state levy, provided that the tax parallels, except for rate, the state sales and use tax, including all definitions, exceptions, exemptions, requirements, enforcement and collection of taxes. Ala. Code §11-3-11.3, as amended by 2017 Ala. S.B. 316, effective Aug. 1, 2017, Ala. Code §11-51-208, and Ala. Code §40-12-4, as amended by, 2017 Ala. S.B. 111, effective March 1, 2019; Ala. Code §11-51-207; Ala. Code §11-51-180(a); Ala. Code §40-12-5; see Alabama Dept. of Rev., Notice and Resolution of County of Marshall (Oct. 22, 2018); Alabama Dept. of Rev., Notice and Resolution of Town of Gordo (June 20, 2017) (Town of Gordo adopts resolution electing to use the Alabama Department of Revenue to administer and collect its local sales and use tax, effective July 1, 2017)); Alabama Dept. of Rev., Notice and Resolution of City of Hartselle (June 19, 2017) (City of Hartselle adopts resolution electing to use the Alabama Department of Revenue to administer and collect its local sales and use and any other additional taxes, effective July 1, 2017). If the county fails to notify the department of an incorrect rate published by the department, a taxpayer is not liable for having charged and collected an insufficient amount. Ala. Code §11-51-210, as amended by, 2017 Ala. S.B. 111, effective March 1, 2019. Regardless of whether the tax is administered by the state or the municipality, local sales and use tax returns are required to be filed electronically and paid by the 20th day of each month for the previous month's taxes. Ala. Admin. Code r. 810-1-6-.12;Alabama Dept. of Rev., Frequently Asked Questions. When paying local sales, use, and rental taxes through the use of the Automated Clearing House (ACH) credit method, taxpayers are required to make the payment to the correct payee through their financial institution. For state-administered local taxes, the payment is made to the Alabama Department of Revenue. For local taxes administered by a county or municipality, ACH credit payment method taxpayers should contact the locality or its tax administrator to obtain the banking information of where to send the payment to match the electronic return received by that locality. Late penalties and interest may occur if payments are misdirected or insufficient information is provided to timely identify the payment. Alabama Dept. of Rev., ACH Credit Method Payments & ONE SPOT (Jan. 17, 2014). An Alabama town administering its sales tax and business-license fees that had waited four years before attempting to collect or notify a taxpayer that it should have been collecting sales tax, was not barred by the doctrine of laches from enforcing its ordinances to collect the taxes and fees. The trial court's reliance on equity principles despite a recognition of the taxpayer having notice of the ordinance by virtue of it having been passed, was rejected due to disfavor of the application of the doctrine of laches against a governmental entity engaged in a governmental function. Huntsville, Ala. v. Stove House 5, Inc., 3 So.3d 186, (Ala. May 30, 2008) BNA-SUTN AL 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Any individual or business that engages in activities covered by the privilege or license tax (the Alabama equivalent of state sales or use tax)must apply for and obtain a license from the Department of Revenue to engage in and to conduct such business. Ala. Code §40-23-2; Ala. Code §40-23-6. Bonding Requirement Any person applying for an initial license or the renewal of an expired or cancelled license on or after January 1, 2020, must purchase and maintain a one-time surety bond for a two-year period, executed by the applicant as principal and by a corporate surety company qualified to do business in the state as surety, in the amount of $25,000. The bond must be payable to the commissioner and to his or her successors in office. Ala. Code §40-23-6(b)(1), as amended by 2018 Ala. H.B. 151, effective April 4, 2018. The Department of Revenue will waive the surety bond requirement where: (1) the person applying for an initial license or the renewal of an expired or cancelled license and a current licensee are related parties as defined in Ala. Code §40-23-190(b), are members of a controlled group of corporations as defined in I.R.C. §1563, or with respect to any other business, whether or not incorporated, would be members of a controlled group if similar rules applied to the business; and(2) the current licensee has been compliant over the previous two-year period. Ala. Code §40-23-6(b)(2), as amended by 2018 Ala. H.B. 151, effective April 4, 2018. Any licensee who becomes non-compliant in the collection and remittance of sales tax during any period occurring on or after January 1, 2020, must purchase and maintain a one-time surety bond for a two-year period in the amount of the actual sales tax liability for the three months immediately preceding the non-compliant period or $25,000, whichever is greater. Ala. Code §40-23-6(c)(1), as amended by 2018 Ala. H.B. 151, effective April 4, 2018. After two years of continuous compliance, a licensee will be exempt from the surety bond requirement so long as the licensee collects and timely remits sales tax. Ala. Code §40-23-6(d), as amended by 2018 Ala. H.B. 151, effective April 4, 2018. Out-of-State Vendors Registration Vendors located outside Alabama must apply for and obtain a license from the Department of Revenue to engage in certain sales activities in Alabama if any of the following requirements are met:• the vendor maintains a place of business in the state; • the vendor qualifies to do business in the state; • the vendor solicits and receives purchases or orders by agent or salesman;or • the vendor distributes catalogs or other advertising material, and later receives and accepts orders from residents. Ala. Code §40-23-66. Out-of-State Sellers Making Significant Sales into Alabama Effective Jan. 1, 2016, out-of-state sellers that lack a physical presence in Alabama but are making retail sales of tangible personal property into the state have a substantial economic presence and must register for a license with the Department of Revenue and collect and remit use tax according to Ala. Code §40-23-67 when the seller's retail sales in Alabama exceed $250,000 per year based on the previous year's sales and the seller conducts an activity described in Ala. Code §40-23-68. This requirement may be satisfied by collecting, reporting and remitting taxes according to the provisions of Alabama's use tax law, or by participating in the Simplified Sellers Use Tax Remittance Program. Ala. Admin. Code r. 810-6-2-.90.03(2); Ala. Code §§40-23-190 to 40-23-199 (The Simplified Sellers Use Tax Remittance Act). For more information on the Simplified Sellers Use Tax Remittance Program, see the Sales and Use Tax Navigator, at Alabama 3.1.2.7. Peddlers, Truckers, and Itinerant Vendors Alabama requires peddlers and/or truckers to apply for and obtain a sales tax license if they make retail sales through an established place of business or have a well-established and continuous business confined to a certain area or route. Ala. Admin. Code r. 810-6-1-.118(1). If peddlers or truckers don't have a well-established place of business or route, they may be required to furnish a bond payment as a condition of doing business in the state. Ala. Admin. Code r. 810-6-1-.118(2). The bond amount will be determined by the Department of Revenue, representing the estimated sales tax due in the upcoming year in an amount that is less than $1000 but is more than $100. Ala. Code §40-23-24. Other itinerant vendors similarly will be required to post this bond as a condition of doing business in Alabama. Ala. Code §40-23-24. Revocation of Vendor License If the Alabama Department of Revenue denies or revokes a vendor's license, the Department of Revenue will notify the vendor in writing by first-class mail to the vendor's last known address. A taxpayer may appeal the revocation or denial of a license if they file an appeal within 30 days with the Alabama Tax Tribunal. Ala. Code §40-2A-8; Ala. Admin. Code r. 887-x-1-.3; Ala. Admin. Code r. 810-14-1-.22. Currently, the Department does not have the authority to close sales tax accounts on the basis of inactivity. Alabama Administrative Law Judge Ruling Docket No. S 19-319-JP (April 29, 2019). Local Business Delivery Licenses Alabama municipalities must allow businesses without a physical presence in the municipality to purchase a license to deliver merchandise within the municipality. The purchase of such a license, in and of itself, does not establish nexus between the business and the municipality for purposes of sales and use tax. Ala. Code §11-51-194, as amended by 2019 Ala. H.B. 329 effective May 28, 2019. BNA-SUTN AL 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Seller Alabama requires the seller or vendor to collect sales tax from all applicable purchasers, and to remit the tax to the Department of Revenue. Ala. Code §40-23-26; Ala. Admin. Code r. 810-6-4-.20. If the seller fails to collect the appropriate sales tax due, then the seller is personally liable to pay the tax. Ala. Admin. Code r. 810-6-1-.184(1). However, where a seller acts in good faith and reasonably believes a purchase is legally tax-exempt based on the purchaser having provided a State Sales and Use Tax Certificate of Exemption (Form STE-1), the seller will not be liable for the uncollected sales tax. Ala. Admin. Code r. 810-6-1-.184(2). Consumer Liability Retail purchasers are considered to be the party on whom sales tax ultimately is imposed. As a result, retail purchasers/consumers must pay use tax on all applicable items purchased in the state unless the consumer can produce a receipt showing that sales tax was paid to the retailer. Ala. Code §40-23-26. BNA-SUTN AL 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes All purchasers storing, using or otherwise consuming in Alabama tangible personal property purchased at retail are liable for use tax for which the liability will not be extinguished until the tax has been paid to the state. Ala. Code §40-23-61(d). However, a receipt from a retailer maintaining a place of business in Alabama or a retailer authorized by the department to collect sales and use tax, given to the purchaser is sufficient to relieve the purchaser from further liability for tax to which such receipt may refer. Ala. Code §40-23-61(d). BNA-SUTN AL 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Alabama levies a 100 percent penalty against any person responsible for paying a corporation's trust fund taxes that willfully fails to do so. Ala. Code §40-29-72; Ala. Code §40-29-73. Although a taxpayer's name appears on the Alabama state sales tax license, the taxpayer may be relieved of liability for unpaid sales taxes if the taxpayer can provide sufficient evidence that someone else actually owned and operated the retail location. See Alabama Administrative Law Judge Ruling Docket No. S. 08-584 (May 12, 2009). A company subleasing a building to a bingo machine operator was not responsible for the payment of tax on the receipts from those machines where the company was not involved in operating the facility, other than by subleasing and performing certain repairs on the building. Alabama Administrative Law Judge Ruling Docket No. S. 10-591 (March 19, 2013). A single member LLC is automatically disregarded, and the member is assessed for sales tax owed, if the LLC does not “check the box” by electing to be taxed as a corporation for federal purposes. Ala. Code §10-12-8(b); Alabama Administrative Law Judge Ruling Docket No. S. 16-989-CE (Jan. 14, 2019). BNA-SUTN AL 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable Alabama is not a member of the Streamlined Sales and Use Tax Agreement, and does not have an SST Matrix at this time. 2002 Ala. S.B. 185, effective April 17, 2002; Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN AL 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Does Not Relieve Liability Alabama is not a member of the Streamlined Sales and Use Tax Agreement. 2002 Ala. S.B. 185, effective April 17, 2002; Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN AL 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided Individuals and businesses that are required to collect and remit sales and use tax must file return forms with the taxes when they are paid to the Alabama Department of Revenue. Ala. Code §40-23-7(b); see Ala. Admin. Code r. 810-6-4-.19. In addition to sales and use tax returns, responsible parties may be required to submit returns relating to certain local taxes, such as sales, rental, or lodging taxes, that are administered by the State Department of Revenue. Ala. Admin. Code r. 810-6-5-.31. Also, taxpayers who sell off their entire business stock or otherwise terminate the ongoing operations of their business must file a final:• sales return within 30 days of the termination of business operations showing any remaining liability for sales taxes; Ala. Code §40-23-25; Ala. Code §40-23-7. and • use return within 15 days of the termination of business operations showing any remaining liability for use taxes. Ala. Code §40-23-82. Taxpayers are not required to certify under oath as to the accuracy of monthly sales or use tax returns. Accordingly, no penalty of perjury will attach for misstatements made on these returns. Ala. Code §40-23-10. However, in the event of misstatements or other incorrect reports, other penalties will apply. For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. BNA-SUTN AL 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of the Month In Alabama, the due date for filing sales and use tax returns is the 20th day of the month after the reporting period during which the tax accrued. Ala. Code §40-23-7(a); Ala. Code §40-23-68(a). Taxpayers filing monthly must file returns on or before the 20th day of the month that follows the month in which the taxes originally accrued. Ala. Code §40-23-7(a); Ala. Code §40-23-68. Effective Aug. 1, 2019, qualifying taxpayers may elect to file and pay sales and use tax quarterly, semi-annually, or annually. Any such election must be made in writing no later than February 20 of each year and must be filed with the department. Qualifying taxpayers must file and pay the tax shown to be due on or before the applicable deadlines, as follows:• Quarterly- on or before the 20th day of the month next succeeding the end of the quarter that tax is due, for taxpayers whose total tax liability is less than $2,400 during the preceding calendar year. • Semi-annually- on or before July 20 and January 20 following the end of the six-month period that tax is due, for taxpayers whose total tax liability is less than $1,200 during the preceding calendar year, or the person liable for the tax has made Alabama retail sales during no more than two, 30 consecutive day periods during the preceding calendar year. • Annually- on or before January 20 following the end of the annual period that tax is due, for taxpayers whose total tax liability is less than $600, or the person liable for the tax has made Alabama retail sales during no more than one, 30 consecutive day period during the preceding calendar year. Ala. Code §40-23-7(d) and Ala. Code §40-23-68(f), as amended by 2019 Ala. H.B. 383, effective Aug. 1, 2019; see Ala. Admin. Code r. 810-6-5-.30. Prior to Aug. 1, 2019, taxpayers may elect to file and pay sales and use tax quarterly or annually as follows:• Quarterly - on or before the 20th day of the month next succeeding the end of the quarter that tax is due, if the tax liability averages less than $200 per month during the preceding calendar year. • Annually- on or before January 20th each year if tax liability is $10 or less. Ala. Code §40-23-7(d); Ala. Code §40-23-68(a);Alabama Dept. of Rev., Due Dates for Timely Filing Returns and Remitting Payments; see Ala. Admin. Code r. 810-6-5-.30. Electronic Filing Requirement Alabama requires the following returns to be filed electronically, unless the taxpayer can qualify for a special waiver due to lack of a computer or internet access, among other reasons:• State Sales Tax; • State Use Tax; • State Rental Tax; • State Leasing Tax; • State Lodgings Tax; • State Utility Gross Receipts Tax; • State Utility Service Use Tax; • State Mobile Telecommunications Service Tax; • Contractor's Gross Receipts Tax; • Pharmaceutical Providers Tax; • Alabama Nursing Home Privilege;and • State Administered Local Sales, Use, Renal or Leasing, and Lodgings Taxes. Ala. Admin. Code r. 810-1-6-.12. Schedule of Locations Requirement If a retail vendor operates more than one business location in the state of Alabama, the vendor is required to submit to the Department of Revenue a written schedule showing the following items:• the number of places of business operated; • the location of each place of business operated; • the gross sales of each such place of business; • the amount of deductible of each place of business; and • any other information that is necessary for the Department of Revenue to break down the vendor's retail sales by county of origin and by industry in a reliable manner. Ala. Admin. Code r. 810-6-4-.19(1)(c). “One Spot” Filing System The Alabama Department of Revenue provides a centralized, statewide electronic filing and remittance system for state and local sales, use, and rental taxes called “One Spot.”Business taxpayers can file and pay their city and county sales, use, and rental taxes, along with state sales, use or rental taxes, free-of-charge and all in one place. Local governments still retain control over their tax administration responsibilities. Business taxpayers must sign up at My Alabama Taxes to use “One Spot.” Alabama Dept. of Rev., News Release-One Spot is Here. BNA-SUTN AL 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Sales and use taxes are due and payable in monthly installments on or before the twentieth day of the month next succeeding the month in which the tax accrues. Ala. Code §40-23-7(a) A taxpayer whose average monthly state sales tax liability was $1,000 or greater during the preceding calendar year is required to make estimated payments to the Department of Revenue on or before the 20th day of the month in which the liability occurs. Ala. Code §40-23-7(c). Effective Aug. 1, 2014, the sales tax liability threshold increases to $2,500 or greater during the preceding calendar year. Ala. Code §40-23-7(c), as amended by 2014 Ala. H.B. 151, effective Aug. 1, 2014; Alabama Notice: Estimated Sales Tax Requirement Increase. The Commissioner may enter into written agreements to allow installment payments for taxes which have been finally assessed by the department. Ala. Code §40-2A-4(b)(6)(a), as amended by 2019 Ala. H.B. 203, effective May 6, 2019. BNA-SUTN AL 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes The department, for good cause, may extend the time for making any state or state-administered return, but the time for filing any such return may not be extended for a period greater than 30 days from the date such return is due to be made. Ala. Code §40-23-7(e). BNA-SUTN AL 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Yes The Alabama Department of Revenue is authorized to extend the time for filing any report or written statement required to be filed with the department. Ala. Code §40-2-11(13)(a), as amended by 2019 Ala. H.B. 163, effective May 14, 2019. 2019 The Alabama Department of Revenue is offering relief to taxpayers residing in federally designated disaster areas declared as a result of the severe storms that hit Lee County on March 3, 2019. Taxpayers will have until July 31, 2019 to file tax returns originally due on or after March 3, 2019, and before July 31, 2019. Electronic filers should contact the department for filing guidance. Paper filers should write “Tornado Relief- 2019” in red ink on any state return or report that is dependent upon the extension relief. Taxpayers who aren't in Lee County but who have difficulty filing timely due to weather-related circumstances associated with the severe storms may provide documentation to the department and request a waiver of late penalties. Alabama Dept. of Rev., Tax Filing Deadlines Extended for Residents in Lee County (March 11, 2019); see also IRS News Release 2019-31 (March 7, 2019). 2018 Alabama is offering tax relief to Alabama taxpayers affected by Hurricane Michael. Taxpayers residing in federally designated disaster areas have until Feb. 28, 2019, to file tax returns due on or after Oct. 10, 2018, and before Feb. 28, 2019. Electronic filers should contact the department for filing guidance, and paper filers should write “Michael Relief - 2018” in red ink on filed returns or reports. Taxpayers who aren't in disaster areas but who have difficulty filing timely due to weather-related circumstances associated with Hurricane Michael may provide documentation to the department and request a waiver of late penalties. Alabama Dept. of Rev., REVISED- ADOR Providing Tax Relief to Victims of Hurricane Michael (Oct. 23, 2018). The Alabama Department of Revenue will grant filing extensions to taxpayers directly affected by Hurricane Florence. Alabama taxpayers residing in areas designated as disaster areas by the federal government have until Jan. 31, 2019, to file tax returns due on or after Sept. 7, 2018, and before Jan. 31, 2019. Taxpayers seeking this Alabama tax relief should write “Florence Relief –2018” in red ink on any state paper return/report which relies on this filing extension relief. Affected taxpayers filing electronically should contact the Alabama Department of Revenue for filing guidance. Alabama Dept. of Rev., ADOR Providing Tax Relief to Victims of Hurricane Florence Taxpayers with returns due from March 20, 2018 through April 30, 2018 have two months beyond the original deadlines to file without penalties if they reside within one of 27 qualifying counties and indicate “Severe Weather Relief – 2018”in red ink on paper returns. Taxpayers must contact ADOR for regarding extensions for electronically filed returns. Alabama News Release 3/23/18. 2017 The Alabama Department of Revenue is following IRS tax relief measures for taxpayers affected by Hurricanes Harvey and Irma. Filing extensions and penalty relief will be granted to taxpayers residing in federally designated disaster areas. Alabama News Release 9/12/17;Alabama Dept. of Rev., ADOR Providing Tax Relief to Texas Flood Victims (Aug. 29, 2017). “Irma Relief – 2017” or “Texas Flood 2017” must be written in red ink on any state paper return in order to be granted relief. Electronic filers must contact the department for filing guidance. Impacted taxpayers have until Jan. 31, 2018, to file tax returns due:• Sept. 1, 2017 through Jan. 31, 2018, for Hurricane Harvey relief. • Sept. 15, 2017 through Jan. 31, 2018, for Hurricane Irma relief. Alabama News Release 9/12/17;Alabama Dept. of Rev., ADOR Providing Tax Relief to Texas Flood Victims (Aug. 29, 2017). BNA-SUTN AL 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers The Department of Revenue requires certain taxpayers to remit sales and use tax electronically if individual payments made during the year(rather than the aggregate of payments made during a calendar year)are above $750. Ala. Code §41-1-20(b)(2); Ala. Admin. Code r. 810-13-1-.03. Taxpayers who are required to make payments for tax types using EFT must initiate the transaction so that the amount due is deposited as immediately available funds(collected funds) to the State of Alabama's bank account on or before the due date under the applicable revenue law. Ala. Admin. Code r. 810-13-1-.09(1); see Ala. Admin. Code r. 810-13-1-.04(1) for a list of tax types subject to EFT. If a tax payment due date falls on a Saturday, a Sunday, an Alabama ACH Association holiday or an Alabama legal bank holiday, the payment by EFT is required so that the funds are immediately available in the State Treasurer's account on the first business day thereafter. Ala. Admin. Code r. 810-13-1-.20. BNA-SUTN AL 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted The Automated Clearing House debit payment method is the primary method taxpayers should use to make payments for sales and use tax. Ala. Admin. Code r. 810-13-1-.10. If the date on which the taxpayer is required to initiate either an ACH Debit or an ACH Credit transaction falls on a Saturday, Sunday, or a business or banking holiday, the taxpayer must initiate the transaction on the preceding business day. Ala. Admin. Code r. 810-13-1-.09(1). When paying local sales, use, and rental taxes, ACH credit method taxpayers are required to make the payment to the correct payee through their financial institution. For state-administered local taxes, the payment is made to the Alabama Department of Revenue. For non-state administered local taxes, ACH credit method taxpayers should contact the locality or its tax administrator to obtain the banking information of where to send the payment to match the electronic return received by that locality. Alabama Dept. of Rev., ACH Credit Method Payments & ONE SPOT (Jan. 17, 2014). BNA-SUTN AL 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+2%, 5% Alabama offers a discount on state sales taxes to vendors that collect and remit the tax on a timely basis. Ala. Admin. Code r. 810-6-4-.03. The maximum discount a vendor may receive is $400 per month. Ala. Admin. Code r. 810-6-4-.03(4). Vendors will not receive a discount for sales taxes paid that are delinquent. Ala. Admin. Code r. 810-6-4-.03(4). The discount increases, according to sales taxes collected, in the following way: a 5 percent discount is given for the first $100 of state sales taxes levied per month, followed by an additional 2 percent of state sales taxes levied over $100 per month. Ala. Admin. Code r. 810-6-4-.03(4). This discount also applies to state-administered county and municipal sales taxes. Ala. Admin. Code r. 810-6-4-.03(5). Eligible sellers participating in the Simplified Seller Use Tax Remittance Program may deduct and retain a discount equal to 2 percent of the simplified sellers use tax properly collected and then remitted to the Alabama Department of Revenue in a timely manner. However, for tax periods beginning on or after January 1, 2019, the allowance for the discount shall not apply to any taxes collected and then remitted which are in excess of $400,000. Ala. Code §40-23-194, as amended by 2018 Ala. H.B. 470 §1, effective June 1, 2018. BNA-SUTN AL 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Individuals or businesses that are not required to have a state sales tax license, and who are entitled to make certain sales tax-free purchases at wholesale, may obtain a State Sales and Use Tax Certificate of Exemption. Ala. Admin. Code r. 810-6-5-.02(2); Ala. Admin. Code r. 810-6-5-.02.01(3), effective Feb. 10, 2016. Certificate holders must maintain a list of all vendors to whom they furnish a copy of their exemption certificate. Ala. Admin. Code r. 810-6-5-.02(8), renumbered effective Feb. 10, 2016. Individuals may be required to file information reports with the Department, if requested. Penalties may be imposed if any reporting requirements are not satisfied. Ala. Admin. Code r. 810-6-5-.02.01(6), effective Feb. 10, 2016. Within 30 days of the state's receipt of the application for a certificate, taxpayers will receive either the certificate or a letter denying their application. Denials can be appealed. Ala. Admin. Code r. 810-6-5-.02(4), amended effective Aug. 11, 2016; see Ala. Code §40-2A-8 for information on appealing denied certificate applications. Exempt Entities As of Jan. 1, 2016, all non-governmental entities that are generally exempt from sales, use or lodging taxes are required to annually obtain a certificate of exemption. If an entity does not have a valid certificate of exemption, it will no longer be allowed to make tax-exempt purchases or rent tax-exempt accommodations. Ala. Admin. Code r. 810-6-5-.02(3), added effective Feb. 10, 2016; see also 2015 Ala. S.B. 24;Alabama Dept. of Rev., Exempt Entities Required to Obtain Exemption Certificate. As of June 4, 2016, all non-governmental entities are required to file an annual informational report with the Department to renew a certificate of exemption. Penalties may be imposed for non-compliance with reporting requirements. Ala. Admin. Code r. 810-6-5-.02.02(6), effective June 4, 2016. Blanket Certificates An exempt purchaser who holds an exemption certificate and who regularly makes tax-exempt purchases of the kind and nature for which the exemption certificate has been made may provide a seller with a blanket exemption certificate. A blanket certificate specifies that all tangible personal property subsequently purchased will be for the purpose shown on the certificate, such as a purchase for resale. This relieves the purchaser of providing a separate exemption certificate for each qualifying tax-exempt purchase, as long as there is no change in the character of their operations. Ala. Admin. Code r. 810-6-5-.02(7), renumbered effective Feb. 10, 2016. Contractors, Subcontractors, and Governmental Entities Performing Government Entity Projects All contractors and subcontractors working on qualifying governmental entity projects are entitled to receive from the Department of Revenue a Form STC-1, Sales and Use Tax Certificate of Exemption for Government Entity Projects. Each contractor and subcontractor who obtains a certificate of exemption for a government entity project is required to file monthly consumers use tax returns. Contractors should report their exempt purchases made for each project on the return. Ala. Code §40-9-14; Alabama Notice: Tax Guidance for Contractors, Subcontractors and Alabama Governmental Entities Regarding Construction-related Contracts. Drive-Out Certificates Alabama provides an exemption for motor vehicles purchased for use out-of-state. However, taxpayers must provide properly executed drive-our certificates in order to be relived of remitting sales and use tax on motor vehicles sold to out-of-state buyers. The Department of Revenue will charge a motor vehicle seller the sales and use tax that was due at the point of sale for all automobiles that were sold without a properly executed drive-out certificate. Alabama Administrative Law Judge Ruling Docket No. S. 16-557 (Dec. 28, 2016); see also Ala. Code §40-23-2(4); Ala. Admin. Code r. 810-6-3-.42.03. BNA-SUTN AL 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+1 Year Sales and use tax certificates of exemption are required to be renewed on an annual basis. Ala. Admin. Code r. 810-6-5-.02(3). BNA-SUTN AL 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted Alabama accepts the MTC Uniform Sales and Use Tax Exemption Certificate; provided however, the form is properly completed, issued by the purchaser, and accepted by the seller. Ala. Code §40-27-1 (Article V); Alabama Dept. of Rev., MTC Updated Uniform Resale Certificate. Whenever a vendor receives and accepts in good faith from a purchaser a resale or other exemption certificate or other written evidence of exemption authorized by the appropriate state or subdivision taxing authority, the vendor is relieved of liability for a sales or use tax with respect to the transaction. Ala. Code §40-27-1 (Article V). BNA-SUTN AL 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted Alabama is not a member of the Streamlined Sales and Use Tax Agreement. 2002 Ala. S.B. 185, effective April 17, 2002; Streamlined Sales Tax Governing Board, Streamlined State Status. BNA-SUTN AL 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted Alabama does not accept other exemption certificates. Ala. Admin. Code r. 810-6-5-.02(3). BNA-SUTN AL 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes If an individual or business entity sells tangible personal property, and does not collect sales tax because the purchaser has presented to them an apparently valid State Sales and Use Tax Certificate of Exemption, then the person or business will not be held liable for any unpaid sales or use tax on the sale. Ala. Admin. Code r. 810-6-5-.02(12), renumbered effective Feb. 10, 2016. BNA-SUTN AL 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+No Specific Time Period Alabama does not specifically address whether acceptance of an exemption certificate must be timely. However, in order to be relieved of liability a seller must have relied on an exemption form. Ala. Admin. Code r. 810-6-5-.02(12), renumbered effective Feb. 10, 2016. BNA-SUTN AL 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+No Specific Time Period Alabama statutes and regulations do not specify any time period requirements for record-keeping. Ala. Code §40-23-9. However, Alabama requires individuals and businesses making taxable sales to keep and preserve suitable records of the gross sales, gross proceeds of sales, and gross receipts of sales. This includes maintaining accurate and complete records, books or other information sufficient to allow the Department of Revenue to determine the correct amount of tax. Ala. Code §40-23-9; Ala. Code §40-2A-7(a)(1). Moreover, the Department generally has a 3 year time limitation from the due date or the filing of a return for entering a preliminary assessment (i.e., conducting an audit). Ala. Code §40-2A-7(b)(2). BNA-SUTN AL 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Accepted Persons, firms, and corporations who are not required to have a sales tax license, and who are entitled to make certain purchases at wholesale, tax-free, may obtain a sales and use tax certificate of exemption by applying for same on a form provided by the Alabama Department of Revenue. Ala. Admin. Code r. 810-6-5-.02(2), renumbered effective Feb. 10, 2016. BNA-SUTN AL 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required Persons or companies, other than governmental entities, which have a statutory exemption from the payment of Alabama sales and use taxes, are required to obtain a sales and use tax certificate of exemption to be renewed on an annual basis by applying on a form provided by the Alabama Department of Revenue. Ala. Admin. Code r. 810-6-5-.02.01(4). BNA-SUTN AL 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required When a retail purchaser purchases tangible personal property which is exempt from sales tax because of its intended use in agriculture, the purchaser must give a certificate in the form provided in Ala. Admin. Code r. 810-6-3-.20.01. Ala. Admin. Code r. 810-6-3-.20.01. Persons, firms, and corporations who are not required to have a sales tax license, and who are entitled to make certain purchases at wholesale, tax-free, for use in manufacturing may obtain a sales and use tax certificate of exemption by applying on a form provided by the Alabama Department of Revenue. Ala. Admin. Code r. 810-6-5-.02(2), renumbered effective Feb. 10, 2016. BNA-SUTN AL 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized If the nature of a taxpayer's business makes it very difficult at the time of purchase to determine the applicability of sales or use tax on purchases of tangible personal property, the Department of Revenue may issue a permit allowing the purchaser to make purchases without paying sales tax to the vendor. Ala. Code §40-23-31. Instead, the purchaser must remit the applicable sales tax directly to the Department of Revenue. Ala. Code §40-23-31. The following businesses may qualify for a direct pay permit:• electric cooperative or similar business; • telephone company or similar business; • mining or quarrying business; • compounding or processing tangible personal property business; and • vendors associated with these companies. Ala. Admin. Code r. 810-6-4-.13; Ala. Admin. Code r. 810-6-4-.14. To qualify for a direct pay permit, the following requirements must be met:• permit holders must purchase all tangible personal property without payment of state-administered city and county use taxes to the seller and must report and pay all state-administered city and county use taxes directly to the Department; • permit holders must report state-administered city and county use taxes on forms approved by the Department and must pay the taxes directly to the Department on or before the 20th day of the month following the tax reporting period during which the tangible personal property was used for a taxable purpose; • permit holders must keep the books and records necessary to determine the use tax liability, and must make these books available for examination by the Department of Revenue; • the permit must not extend to construction contracts; and • the permit must not be transferable and may be canceled by the Department of Revenue. Ala. Admin. Code r. 810-6-4-.13 through Ala. Admin. Code r. 810-6-4-.14. In addition, direct pay permits for electric cooperatives, telephone companies, or other similar businesses (or their associated vendors) must relate only to state-administered city and county use taxes. Ala. Admin. Code r. 810-6-4-.13(2). Direct pay permits for businesses engaged in mining, quarrying, compounding, or processing tangible personal property (or their associated vendors) must also be accompanied by a bond or indemnity agreement securing the payment of the taxes to the Department in an amount not exceeding estimated sales tax liability for three months and estimated use tax liability for six months. Ala. Admin. Code r. 810-6-4-.14(1)(d). Direct pay permit holders should make purchases using the permit, then self-report and pay tax to the Department of Revenue at a later date when the tax treatment of the purchases is determined. However, in certain cases a direct pay permit does not need to be used for all purchases because of the unreasonable and undue burden this requirement imposes on taxpayers. If permit holders maintain full and accurate records to demonstrate that sales tax was paid on purchases made without using the direct pay permit, and the records show sales tax was self-reported and paid on purchases made with the permit, then the Department of Revenue can review the records during an audit to determine whether the correct total tax for all purchases was remitted. Thus, direct pay permit holders may pay sales and use taxes to vendors on clearly taxable purchases that do not hinder or interfere with tax collection. Ala. Admin. Code r. 810-6-4-.14; Alabama Administrative Law Judge Ruling Docket No. S. 15-1338 (Feb. 2, 2016) (invalidating the part of Ala. Admin. Code r. 810-6-4-.14 that requires taxpayers to use a direct pay permit for all purchases. The taxpayer's employees made some purchases through other means when it was impracticable to make them using the direct pay permit and when the transaction was clearly subject to sales tax. If the requirement that all purchases be made with the permit were upheld, an undue burden would be placed on taxpayers.) BNA-SUTN AL 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+No Specific Time Period Alabama statutes and regulations do not specify any time period requirements for record-keeping. See Ala. Code §40-23-9. However, Alabama requires individuals and businesses making taxable sales to keep and preserve suitable records of the gross sales, gross proceeds of sales, and gross receipts of sales. This includes any books or other accounts that may be necessary to determine the amount of tax due. Ala. Code §40-23-9. If an individual or business fails to provide complete and accurate records, correct tax liability may be computed by the Department of Revenue using any reasonable method and the most accurate and complete information obtainable. Ala. Code §40-2A-7(b)(1); Alabama Administrative Law Judge Ruling Docket No. S. 16-1315-CE (May 15, 2018)(using a purchase mark-up audit where the taxpayer failed to keep records of sales made); Alabama Administrative Law Judge Ruling Docket No. S. 16-989-CE (Jan. 14, 2018)(because the taxpayer failed to maintain adequate records from which its sales could be accurately computed or verified, the examiner conducted a purchase mark-up audit to compute the taxpayer's liability for the audit period); Alabama Administrative Law Judge Ruling Docket No. S. 13-1067 (Jan. 16, 2014) (because a taxpayer failed to keep accurate records, the Department of Revenue examiner properly conducted a purchase mark-up audit to compute the taxpayer's tax liability). Individuals or businesses that make both taxable retail sales in addition to nontaxable sales must maintain their books and records in a manner that shows the separate gross proceeds from either taxable or nontaxable sales. Ala. Code §40-23-9. If the books do not adequately reflect the distinction between taxable and nontaxable sales, then all sales will be subject to sale tax. Ala. Code §40-23-9. BNA-SUTN AL 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both Taxpayers who have paid sales or use tax, and who believe an overpayment has occurred, may file a petition for a refund with the Department of Revenue. Ala. Code §40-2A-7(c). Alabama has two types of refund petitions that taxpayers may file. A seller may file Alabama Form ST-5: Direct Petition for Refund if the seller remitted in excess of the tax due but never collected the tax from the consumer/purchaser, or if the seller has previously refunded, credited, or repaid the tax directly to the consumer/purchaser. A consumer/purchaser may file Alabama Form ST-6, Refund of Taxes Paid to Seller if tax was paid directly to the seller. Ala. Code §40-2A-7(c). However, if the Department of Revenue has issued a final assessment, then the taxpayer may only submit a petition for refund if all taxes plus interest have been paid, or are paid at the time the refund petition is submitted. Ala. Code §40-2A-7(c). Effective Feb. 25, 2019, a refund petition that is equal to $25 or more and satisfies all other requirements will be processed upon submission. Refund petitions of less than $25 must be requested by the taxpayer or consumer/purchaser on an annual basis by either a single petition for refund or multiple combined petitions for refunds. Refund requests by individuals that are required to be filed annually will first be reduced by the amount of the state use tax due to be reported on the individual's income tax return for the calendar year in which the refund is requested. Ala. Admin. Code r. 810-14-1-.18(3), (5), as amended by Ala. Admin. Monthly, Vol. XXXVII, No. 4 (Jan. 31, 2019), effective Feb. 25, 2019. Effective March 8, 2018, a purchaser or consumer that paid tax directly to a retailer may request a refund of taxes paid. Also, a taxpayer or retailer that remitted tax in excess of what was due, but did not collect the tax from the consumer or purchaser may request a refund. Additionally, a taxpayer or retailer may request a refund of tax paid if the consumer or purchaser paid the tax directly to the taxpayer or retailer, but the taxpayer or retailer may not receive a refund until after the tax has been credited or repaid to the consumer or purchaser. Ala. Code §40-2A-7(c), as amended by 2018 Ala. S.B. 63, effective March 8, 2018; Ala. Admin. Code r. 810-14-1-.18(4), as amended by Ala. Admin. Monthly, Vol. XXXVII, No. 4 (Jan. 31, 2019), effective Feb. 25, 2019. Prior to March 8, 2018, in most cases, individuals or businesses that seek a refund of sales or use taxes they have previously paid must submit the petition for refund jointly with the consumer/purchaser who paid the tax to the taxpayer. If the tax was never collected from the purchaser, or if the tax was previously refunded to the purchaser, then the taxpayer may submit a petition for refund without joint participation by the original purchaser. Ala. Code §40-2A-7(c). A purchaser who is incorrectly charged sales tax on a purchase is required to seek a refund from the Alabama Department of Revenue rather than the retailer. Smith v. Sears, Roebuck & Co., 672 So.2d 794 (Ala. Civ. App. 1995), reh'g denied (July 28, 1995), cert. denied (Dec. 22, 1995). However, the Alabama Court of Civil Appeals found in one case that the customer was not required to first request a sales tax refund from the Department of Revenue. There, the customers were entitled to a refund of sales tax paid on internet-access charges under a mobile telecommunications service plan after a nationwide class action lawsuit determined that the taxes had been collected in violation of the Internet Tax Freedom Act (47 U.S.C. §151). The service provider was ordered in the judgment to request refunds from the department on behalf of all Alabama members of the class. The department asserted that it was not obligated to issue the refunds because the service provider had made the request, rather than the customers. The court found that the customers were not required to request the refund because nothing in the statute barred a customer from receiving a refund from the department if the procedures were not followed. Ala. Code §40-21-121(k); Alabama Dept. of Rev. v. Decatur RSA LP, 2016 BL 288157 (Ala. Civ. App. 2016); see Ala. Code §40-2A-7(c). Refund Applied to Outstanding Liability If the department determines that a refund is due, the amount of the refund plus accrued interest will first be credited by the department against any outstanding final tax liabilities the taxpayer owes to the department. Later, any remaining balance will be refunded to the taxpayer. Ala. Code §40-2A-7(c)(4); Ala. Admin. Code r. 810-14-1-.21. Procedures for Appeal If denied, a taxpayer may appeal the denial of a petition for refund within two years of the date the petition was denied by filing a notice of appeal in one of three locations:• the Alabama Tax Tribunal (prior to Oct. 1, 2014, these cases were handled by the Department of Revenue Administrative Law Division); • the Circuit Court in Montgomery County, Alabama; or • the circuit court of the county in which the taxpayer resides or has a principle place of business in Alabama. Ala. Code §40-2A-7(c)(5); Ala. Admin. Code r. 810-14-1-.21; Ala. Admin. Code r. 887-x-1-.3. BNA-SUTN AL 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+2 or 3 Years Taxpayers must submit a petition for refund within three years from the date the return was filed, or two years from the date of the payment of the tax, whichever is later. If no return was timely filed, then the taxpayer must submit a claim for refund within two years of the date of the payment of the tax. Ala. Code §40-2A-7(c)(2)(a). The Department of Revenue must grant or deny all petitions for refund within six months from the date of submission; however, the parties may agree to extend this deadline by written agreement. If the parties do not extend the deadline, and the Department fails to grant a refund within this six-month period, then the petition for refund will automatically be deemed to be denied. Ala. Code §40-2A-7(c)(3). BNA-SUTN AL 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years Under most circumstances, the Alabama Department of Revenue may make an assessment of unpaid sales or use taxes for three years following the due date of the return or the date the return was filed, whichever is later. Ala. Code §40-2A-7(b)(2). If no return is filed, or if a fraudulent return is filed with the intent to evade taxes, the Department of Revenue may make an assessment at any time. Ala. Code §40-2A-7(b)(2)(a). If a responsible party understates the amount of the taxable sales or other tax base by 25 percent or more, the statute of limitations on assessment is extended to a total of six years. Ala. Code §40-2A-7(b)(2)(b). Waiver of the Statute of Limitations The Department of Revenue and the taxpayer may agree in writing to extend the statute of limitations indefinitely as long as the agreement is entered into prior to the expiration of the original statute of limitations. Ala. Code §40-2A-7(b)(2)(i). Suspending the Statute of Limitations The statute of limitations on assessments by the Department of Revenue will be suspended for the period of time during which the taxpayer or the taxpayer's assets are involved in a bankruptcy proceeding and for an additional six months afterward. Ala. Code §40-2A-7(b)(2)(h)(1). Also, if the taxpayer's assets are in the control or custody of a court in any proceeding, bankruptcy or otherwise, the statute of limitations will be suspended while the court proceeding lasts, and for an additional six months afterward. Ala. Code §40-2A-7(b)(2)(h)(2). BNA-SUTN AL 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Alabama imposes a range of civil and criminal monetary penalties on individuals or businesses that violate tax regulations relating to sales and use taxes. Ala. Code §40-2A-11. These penalties vary by amount depending on the nature of the violation. After penalties have been imposed, they are assessed and collected in the same manner as other applicable taxes. Ala. Code §40-2A-11(j). Accordingly, the Department of Revenue will issue a preliminary assessment to recover the penalties. At the same time the preliminary assessment is made, or prior to that time, the Department of Revenue must provide the taxpayer with a simple and non-technical description of the basis for the penalty asserted, and the method by which the taxpayer may request an administrative review of the preliminary assessment. Ala. Code §40-2A-3. Failure to Timely File a Return Penalty After taking into account any extensions that have been granted, if a taxpayer fails to file any required monthly or quarterly return on or before the filing deadline, a penalty will be imposed of 10 percent of the unpaid amount shown as tax due on the return or $50, whichever is greater. Ala. Code §40-2A-11(a). Failure to Timely Pay Tax Due Penalty After taking into account any extensions that have been granted, if a taxpayer fails to pay to the Department of Revenue the amount shown on a monthly or quarterly return as tax due, a penalty will be imposed of 10 percent of the unpaid amount. Ala. Code §40-2A-11(b). This penalty applies regardless of whether the amount required to be shown on the return actually is shown on the return. Ala. Code §40-2A-11(b)(1) through Ala. Code §40-2A-11(b)(2). Underpayment Due to Negligence Penalty In situations where a taxpayer remits an amount to the Department of Revenue to fulfill their sales tax obligations and the amount remitted is understated due to negligence or disregard of rules or regulations, a tax penalty will be imposed. This penalty equals 5 percent of the amount that erroneously was underpaid due to negligence. In this context, the term “negligence”means any failure to make a reasonable attempt to comply with the applicable tax laws and regulations. The term “disregard”includes any careless, reckless or intentional disregard. Ala. Code §40-2A-11(c). Underpayment Due to Fraud In situations where a taxpayer remits an amount to the Department of Revenue to fulfill their sales tax obligations and the amount remitted is understated due to fraud, a tax penalty will be imposed. This penalty equals 50 percent of the amount that was underpaid due to fraudulent activity. In this context, the term fraud has the same meaning as that term is defined by I.R.C. §6663, including any current updates to that definition. Ala. Code §40-2A-11(d). Fraud can be established by cumulative, circumstantial evidence. Alabama Administrative Law Judge Ruling Docket No. S. 18-103-CE (Jan. 14, 2019)(owner provided no explanation for consistently underreporting sales by 74% for six years); Alabama Administrative Law Judge Ruling Docket No. S. 16-1315-CE (May 15, 2018)(a failure to keep adequate books and records, failure to furnish auditors with records or access to records, consistent underreporting of tax, and implausible or inconsistent explanations regarding underreporting are strong evidence of fraud). Frivolous Return Penalty If the taxpayer files a “frivolous return” as that term is used in I.R.C. §6702, the taxpayer may be liable for a penalty of up to $250. Ala. Code §40-2A-11(e). Frivolous Appeal Penalty If any appeal to the administrative law division or circuit court is determined to be frivolous or primarily for the purpose of delay or to impede collection of any tax, a penalty of $250 or 25 percent of the tax in question, whichever is greater, is assessed in addition to any tax due. Ala. Code §40-2A-11(f). Multiple Penalties The penalties for failure to timely file a return, failure to timely pay tax, filing a frivolous return, filing a frivolous appeal, or negligence may be asserted against the same taxpayer for the same tax period. If the fraud penalty is asserted, no other penalties may be asserted. Ala. Code §40-2A-11(g). Penalty for Willful Failure to Collect Any individual or business that is required to collect and remit applicable state and local sales and use taxes, and who willfully fails to do so, or willfully fails to account for and pay over the applicable taxes will be subject to a penalty. This penalty equals the total amount of the tax evaded, or not collected, or not accounted for and paid over. This penalty may be imposed in addition to other penalties that may be applicable to the taxpayer's violation. Ala. Code §40-29-73(a). BNA-SUTN AL 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes The Alabama Department of Revenue may impose criminal penalties for violation of the rules and regulations relating to sales and use taxes. Ala. Code §40-23-26(b). Failure to Comply With Sales and Use Tax Laws Any individual or business entity that violates the provisions of the Alabama Code and Regulations relating to sales and use tax will be guilty of a misdemeanor, and if convicted will be fined between $50 to $100, or may be imprisoned in the county jail for not more than six months, or both fined and imprisoned. Each act will constitute a separate offense. Ala. Code §40-23-26(b). Failure to Make Sales Reports Any individual or business that fails to make required sales reports or who fails to keep adequate sales records will be guilty of a misdemeanor, and if convicted will be fined between $25 and $500 for each offense. Ala. Code §40-23-11. Each month wherein the individual or business fails to keep adequate records will constitute a separate offense. Ala. Code §40-23-11. If an individual or business willfully refuses to make the required sales reports, or refuses to allow them to be inspected by the Department of Revenue, then the individual or business will be guilty of a misdemeanor, and if convicted will be fined between $50 and $500 for each offense. Ala. Code §40-23-12. Each month of such willful refusal will constitute a separate offense. Ala. Code §40-23-12. Failure to File Use Tax Return A seller or other person who is required to file a use tax return who fails or refuses to do so, or who fails to file any required supplemental return or other data required by the Department of Revenue, or who renders a false or fraudulent use tax return will be guilty of a misdemeanor and subject to a fine that is less than $500. In addition, if a seller or other person who is required to make, render, sign or verify any use tax return or report makes a fraudulent return with the intention of defeating or evading the determination of use tax, the taxpayer will be fined between $300 and $5,000, may be subject to one year in the county jail, or subject to both a fine and imprisonment. Ala. Code §40-23-88. Sales Tax Willful Evasion Penalty If an individual or business that is responsible for collecting and remitting sales or use tax willfully attempts in any way to evade or defeat the payment of any tax, in addition to other penalties, the person or business will be guilty of a felony. If convicted, the party will be fined up to $100,000 for an individual and up to $500,000 for a corporation. The individual may also be subject to imprisonment for up to five years, or subject to both imprisonment and a fine. Ala. Code §40-29-110. Sales Tax Willful Failure to Collect or Pay Penalty If an individual or business that is responsible for collecting and remitting sales or use tax willfully fails to collect, account for and pay over any tax, in addition to other penalties, the person or business will be guilty of a felony. If convicted, the party will be fined up to $10,000, may face imprisonment up to five years, or will be subject to both imprisonment and a fine. Ala. Code §40-29-111. BNA-SUTN AL 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes Where a violation of the state sales and use tax rules and regulations is due to reasonable cause (such as where the taxpayer has acted in good faith), the Department of Revenue may not impose any penalty. If any penalty has been imposed, it must be waived. Ala. Code §40-2A-11(h). The Department of Revenue is required by Alabama law to abate any penalty that is due to erroneous written advice that has been furnished to a taxpayer by an employee of the Department of Revenue. However, certain stated requirements must be met for penalties to be waived in this way:• the employee provided the written advice while acting in his or her official capacity and in good faith; • the taxpayer reasonably relied on the written advice; and • the penalty did not result from the taxpayer's failure to provide adequate or accurate information. Ala. Code §40-2A-4(d). BNA-SUTN AL 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Quarterly In Alabama, the interest rates assessed on underpayments and overpayments of tax are determined quarterly. Ala. Code §40-1-44; I.R.C. §6621. Neither underpayment interest nor overpayment interest is subject to compounding in Alabama. Simple interest is calculated using a daily rate derived from the annual rate. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Federal Rate The interest rate for underpayments of sales and use tax is the rate established by the Secretary of the Treasury under I.R.C. 6621. New interest rates are announced quarterly. Ala. Code §40-1-44(a); Alabama Interest Rates by Calendar Quarter. If an individual or business responsible for collecting and remitting sales or use tax owes tax that is not paid by the due date, interest charges are imposed. Interest is charged from the due date of the tax. The Alabama Department of Revenue calculates interest on such underpayments as well as on overpayments at the same annual rate. Ala. Code §40-1-44; Alabama Interest Rates by Calendar Quarter. Underpayments of County Sales and Use Tax A county that administers its own sales and use taxes may elect to impose interest on underpayments. If the county elects to impose interest on tax delinquencies, it must also pay interest on overpayments at the same rate. Effective Aug. 1, 2017, counties must use the same interest rate for underpayments as the state. Ala. Code §11-3-11.3(g) - (h), as amended by 2017 Ala. S.B. 316, effective Aug. 1, 2017. BNA-SUTN AL 31.13.2.1.
+
+==================================================
+
+Topic: Calendar Year
+
+Annual Rate
+
+==================================================
+
+Topic: 1992
+
+12%
+
+==================================================
+
+Topic: 1993 through 1994
+
+10%
+
+==================================================
+
+Topic: 1995 through 1996
+
+11%
+
+==================================================
+
+Topic: 1997 through 1998
+
+10%
+
+==================================================
+
+Topic: 1999 through 2001
+
+9%
+
+==================================================
+
+Topic: 2002
+
+8%
+
+==================================================
+
+Topic: 2003
+
+7%
+
+==================================================
+
+Topic: 2004 (Jan. - June)
+
+6%
+
+==================================================
+
+Topic: 2004 (July - Dec.)
+
+7%
+
+==================================================
+
+Topic: 2005
+
+8%
+
+==================================================
+
+Topic: 2006
+
+10%
+
+==================================================
+
+Topic: 2007 through 2008
+
+12%
+
+==================================================
+
+Topic: 2009
+
+8%
+
+==================================================
+
+Topic: 2010 through 2017
+
+7%
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:4% 2Q:5% 3Q:5% 4Q:5% In 2018, the Alabama interest rate on underpayments of tax is 4 percent for the first quarter, and 5 percent for the last three quarters. Ala. Code §40-1-44(a);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2017, the Alabama interest rate on underpayments of tax is 4 percent. Ala. Code §40-1-44(a);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:3% 2Q:4% 3Q:4% 4Q:4% In 2016, the Alabama interest rate on underpayments of tax is 3 percent for the first quarter, and 4 percent for the last three quarters. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2015, the Alabama interest rate on underpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2014, the Alabama interest rate on underpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the Alabama interest rate on underpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the Alabama interest rate on underpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:3% 2Q:4% 3Q:4% 4Q:3% In 2011, the Alabama interest rate on underpayments of tax is 3 percent for the first quarter, 4 percent for the second and third quarters, and 3 percent for the fourth quarter. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2010, the Alabama interest rate on underpayments of tax is 4 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2009, the Alabama interest rate on underpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal Rate The Alabama Department of Revenue calculates interest on overpayments at the same annual rate as underpayments. Ala. Code §40-1-44(b);Alabama Dept. of Rev., Quarterly Interest Rates. The interest rate for overpayments of sales and use tax is the rate established by the Secretary of the Treasury under I.R.C. 6621 for underpayments. New interest rates are announced quarterly. Interest is calculated from the date of the overpayment. Ala. Code §40-1-44(b);Alabama Dept. of Rev., Quarterly Interest Rates. Overpayments of County Sales and Use Tax A county that administers its own sales and use taxes may elect to impose interest on underpayments. If the county elects to impose interest on tax delinquencies, it must also pay interest on overpayments at the same rate. Effective Aug. 1, 2017, counties must use the same interest rate for underpayments as the state. Ala. Code §11-3-11.3(g) - (h), as amended by 2017 Ala. S.B. 316, effective Aug. 1, 2017. BNA-SUTN AL 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:4% 2Q:5% 3Q:5% 4Q:5% In 2018, the Alabama interest rate on overpayments of tax is 4 percent for the first quarter, and 5 percent for the last three quarters. Ala. Code §40-1-44(b);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2017, the Alabama interest rate on overpayments of tax is 4 percent. Ala. Code §40-1-44(b);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:3% 2Q:4% 3Q:4% 4Q:4% In 2016, the Alabama interest rate on overpayments of tax is 3 percent for the first quarter, and 4 percent for the last three quarters. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2015, the Alabama interest rate on overpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2014, the Alabama interest rate on overpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the Alabama interest rate on overpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the Alabama interest rate on overpayments of tax is 3 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:3% 2Q:4% 3Q:4% 4Q:3% In 2011, the Alabama interest rate on overpayments of tax is 3 percent for the first quarter, 4 percent for the second and third quarters, and 3 percent for the fourth quarter. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2010, the Alabama interest rate on overpayments of tax is 4 percent. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:5% 2Q:4% 3Q:4% 4Q:4% In 2009, the Alabama interest rate on overpayments of tax is 5 percent for the first quarter, and 4 percent for the last three quarters. Ala. Code §40-1-44;Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+Yes Alabama's amnesty program is effective from July 1, 2018 through Sept. 30, 2018, and applies to taxable periods and taxes due prior to Jan. 1, 2017. 2018 Ala. H.B. 137, effective March 6, 2018. Under the program, the commissioner agrees to waive all penalties and interest associated with the tax periods for which amnesty is granted. The look-back period is limited to the last three full tax years or 36 months of eligible tax returns that are delinquent. Taxpayers granted amnesty must submit to the department by Nov. 15, 2018, all applicable returns, supporting documentation, and the full payment of tax. Taxpayer's are eligible for the amnesty program if they have not been contacted by the department in the past two years for the tax type for which amnesty is being applied for, apply for the program during the set period, and comply with all amnesty requirements. 2018 Ala. H.B. 137, effective March 6, 2018. Taxpayers are ineligible for the program under the following circumstances:• If taxpayer is a party to a criminal investigation or criminal litigation for nonpayment, delinquency, or fraud in relation to any tax imposed by this state and administered by the department. • If taxpayer has delivered or disclosed a false or fraudulent application, document, return, or other statement to the department in connection with an amnesty application. • If taxpayer has been issued a final assessment in which the appeal period has ended. • If taxpayer has entered into a voluntary disclosure agreement with the department before Dec. 31, 2017. • If taxpayer has been granted amnesty for the tax type as part of Alabama's 2016 amnesty program. 2018 Ala. H.B. 137, effective March 6, 2018. The Alabama Department of Revenue has created a website dedicated to the 2018 amnesty program. See Alabama News Release 5/11/18. BNA-SUTN AL 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Alabama did not have an amnesty program in 2017. BNA-SUTN AL 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+Yes Alabama offered a tax amnesty program in 2016, which ran from June 30 to Aug. 30, 2016. Taxes due prior to Jan. 1, 2015 or taxes for taxable periods that began before Jan. 1, 2015 were eligible for the program. 2015 Ala. S.B. 20, effective Sept. 14, 2015; Alabama News Release 4/19/16; Alabama Dept. of Rev., Tax Amnesty Program. Amnesty could only be granted to taxpayers who applied for amnesty during the amnesty period on the appropriate forms, and to taxpayers who paid all of the tax, all fees and costs and any interest due when filing the amnesty application. 2015 Ala. S.B. 20, effective Sept. 14, 2015. The amnesty program applied for all taxes administered by the Alabama Department of Revenue, except the program did not apply to tax penalties imposed under Ala. Code §40-29-73 and penalties for failure to submit information reports that are not based on an underpayment of tax. 2015 Ala. S.B. 20, effective Sept. 14, 2015. Under the amnesty program, there was a three-year look-back period. 2015 Ala. S.B. 20, effective Sept. 14, 2015; Alabama Dept. of Rev., Tax Amnesty Program Information. Taxpayers who had been contacted by the Department of Revenue, or were parties to criminal investigation or litigation were not eligible for the program. 2015 Ala. S.B. 20, effective Sept. 14, 2015; Alabama Dept. of Rev., Tax Amnesty Program Information. BNA-SUTN AL 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Alabama did not have an amnesty program in 2015. BNA-SUTN AL 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Alabama did not have an amnesty program in 2014. BNA-SUTN AL 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Alabama did not have an amnesty program in 2013. BNA-SUTN AL 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Alabama did not have an amnesty program in 2012. BNA-SUTN AL 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Alabama did not have an amnesty program in 2011. BNA-SUTN AL 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+Yes From April 1, 2010, through Sept. 30, 2010, the Alabama Department of Revenue implemented an amnesty program targeted toward individuals and businesses using offshore accounts to avoid Alabama's tax laws. See Alabama News Release 4/1/10, Offshore Tax Account Holders Have Limited Time to Pay What They Owe Alabama. However, in contrast to the 2009 program, the 2010 program did not include amnesty for sales and use taxes. BNA-SUTN AL 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+Yes From Feb. 1, 2009, through May 15, 2009, the Alabama Department of Revenue temporarily waived civil and criminal penalties for delinquent tax filers who came forward and paid what they owed in state taxes, including sales and use taxes. See Alabama Office of the Governor, Operation Clean Slate: Alabama Temporarily Waiving Penalties for Delinquent Tax Filers (Jan. 15, 2009). The program was called “Operation Clean Slate” and was only available to taxpayers that were not already under investigation or who had not been contacted by the Department of Revenue about their tax liability. See Alabama Office of the Governor, Operation Clean Slate: Alabama Temporarily Waiving Penalties for Delinquent Tax Filers (Jan. 15, 2009). BNA-SUTN AL 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The Alabama Department of Revenue offers a Voluntary Disclosure Program only to those taxpayers who have not registered, not filed returns, and have not been contacted by the Alabama Department of Revenue or an agent of the Department, such as the Multistate Tax Commission, for seven years prior to the initial written request. The Department will waive late filing and late payment penalties. Alabama Dept. of Rev., Voluntary Disclosure Agreement Guidelines (July 2008). In order to be considered for the voluntary disclosure program, applicants must submit a letter that includes the following information:• the nature of business the taxpayer conducts in Alabama; • why the taxpayer has not timely filed and remitted taxes; • the type of entity formation; • the type of tax the taxpayer will file and remit; • a statement that the client has not been contacted by the Department or an agent of the Department, for seven years prior to the initial written request for voluntary disclosure, nor are they currently under audit, nor have they filed Alabama tax returns of this type within the last seven years; • the tax year end of the taxpayer, whether calendar or fiscal year end; • a statement of whether or not the taxpayer has collected and failed to remit sales and use tax or withholding tax in the past; and • a statement addressing sales and use taxes to be included. Alabama Dept. of Rev., Voluntary Disclosure Agreement Guidelines (July 2008). To participate in the voluntary disclosure program, the taxpayer must:• enter into a binding agreement with the Department as drafted by the Director of Tax Policy for at least a three-year mandatory look-back period; • file all returns and forms for the period(s) specifically outlined in the agreement within 90 days of the effective date of the agreement; and • remit all tax and interest due as agreed. Alabama Dept. of Rev., Voluntary Disclosure Agreement Guidelines (July 2008). The application for the voluntary disclosure program at the local county level may vary depending on whether the local counties are state administered. If a county is state administered, then the rules applying to the State of Alabama Voluntary Disclosure program apply at the local level. However, if the local county administers its own sales and use tax, then such county may or may not have its own Voluntary Disclosure program. Alabama Dept. of Rev., Voluntary Disclosure Program Guidelines; phone call with Brenda Taylor at the Alabama Department of Revenue, 334-353-9577 (Nov. 2010). BNA-SUTN AL 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+3 years Alabama's voluntary disclosure program has a look-back period of three years. The look-back period is calculated by determining the last three tax years (or 36 months) which are past due. Alabama Dept. of Rev., Voluntary Disclosure Program (July, 2008). BNA-SUTN AL 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Alabama participates in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Alabama may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Online Marketplace Seller Voluntary Disclosure Initiative – Special Multistate Tax Commission (MTC) Program From Aug. 17, 2017, through Nov. 1, 2017, Alabama is participating in the MTC's special limited-time voluntary disclosure initiative in which back sales and use tax liability may be waived for eligible online marketplace sellers that timely register and begin to collect the state's sales and use tax. For more information about this initiative, see Portfolio 1300-2nd: Sales and Use Taxes: General Principles. BNA-SUTN AL 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized For the purpose of determining the correct amount of sale and use tax due, the Department of Revenue has the authority to examine and audit the records, books, or other relevant information that taxpayers are required to maintain relating to sales and use tax. Ala. Code §40-2A-7(a)(2). The Department of Revenue must enter a preliminary assessment within three years of the due date of the return or the actual filing date of the return, whichever is later. If no return is required, the limitations period is three years from the due date of the tax. Ala. Code §40-2A-7(b)(2). If the taxpayer fails to file a return or files a false or fraudulent return, there is no limitations period for entering a preliminary assessment. Ala. Code §40-2A-7(b)(2)(a). The limitations period is six years if the taxpayer omits from the taxable base an amount that should have been included that is in excess of 25 percent of the tax base stated in the return. Ala. Code §40-2A-7(b)(2)(b). The Department of Revenue has the authority to summon records, books, and witnesses necessary to determine the correct sales and use tax owed. Ala. Code §40-2A-7(a)(4); see Alabama Administrative Law Judge Ruling Docket No. S. 10-245 (Aug. 23, 2011); Alabama Administrative Law Judge Ruling Docket No. S. 12-1427 and Docket No. S. 13-189 (Sept. 8, 2015). If a taxpayer fails to provide complete and accurate records, the Department of Revenue is authorized to compute, using any reasonable method, correct tax liability utilizing the most accurate and complete information obtainable. Ala. Code §40-2A-7(b)(1); Alabama Administrative Law Judge Ruling Docket No. S. 13-1067 (Jan. 16, 2014). This includes the purchase mark-up audit method. Alabama Administrative Law Judge Ruling Docket No. S. 16-989-CE (Jan. 14, 2019); Alabama Administrative Law Judge Ruling Docket No. S. 16-1315-CE (May 15, 2018)(noting the purchase mark-up audit is often used and appropriate where the taxpayer does not supply complete records); Dan Nollen and Sons, Inc. v. Alabama Dept. of Rev., Alabama Administrative Law Judge Ruling Docket No. S. 12-1427 and Docket No. S. 13-189 (Sept. 8, 2015); Saigon Restaurant Inc. v. Alabama Dept. of Rev., No. 13-1116 (Ala. Tax Trib. Dec. 19, 2014). After the Department of Revenue issues a preliminary assessment, a taxpayer has 30 days to file a written petition for review. If the taxpayer does not file a written petition for review within 30 days or if the Department upholds its preliminary assessment, the Department will issue a final assessment. Ala. Admin. Code r. 810-14-1-.02. State Contingency Contracts Alabama law prevents the Department of Revenue from contracting with private accounting firms to perform an examination of a taxpayer's books and records where the compensation structure of the contract is based on the amount of tax ultimately collected from the disputed taxpayer. However, the Department of Revenue make contract with outside accounting firms to perform audit services or collection services where the private examining firm has no authority to determine the amount of tax, interest, court costs or other penalties the disputed taxpayer may owe to the state. Ala. Code §40-2A-6(a). Audit Expenses The Department of Revenue or any county or municipal governing authority is prohibited from assessing or attempting to assess a taxpayer for any costs that the tax authority incurs in connection with performing an audit or examination of the taxpayer's records. Ala. Code §40-2A-6(d). BNA-SUTN AL 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted A taxpayer may appeal a final assessment within 30 days of the date the final assessment was mailed or delivered by personal service by filing a notice of appeal in one of three locations: the Alabama Tax Tribunal (prior to Oct. 1, 2014, these cases were handled by the Department of Revenue Administrative Law Division); the Circuit Court in Montgomery County, Alabama; or the circuit court of the county in which the taxpayer resides or has a principle place of business in Alabama. Ala. Code §40-2A-7(b)(5); Ala. Admin. Code r. 810-14-1-.16; Ala. Admin. Code r. 887-x-1-.3; see Alabama Dept. of Rev. v. Decatur RSA LP, 2016 BL 288157 (Ala. Civ. App. 2016). Delinquent Taxpayer Collection Process Financial Institution Data Match Program Effective May 28, 2019, the Alabama Department of Revenue may enter into agreements with financial institutions doing business or authorized to do business in Alabama to identify delinquent taxpayers by developing and operating a financial institution data match (FIDM) program. Ala. Code §40-29-23.1, as added by 2019 Ala. H.B. 420, effective May 28, 2019. A “delinquent taxpayer” is a taxpayer with an outstanding tax liability for which a final assessment is final, due, and owing, and both of the following conditions apply:• the tax liability remains unpaid 10 days after a final notice, before seizure by the department; and • the taxpayer is not making current timely installment payments on the tax liability under agreement with the department. Ala. Code §40-29-23.1(a)(3), as added by 2019 Ala. H.B. 420, effective May 28, 2019. A “financial institution” includes, but is not limited to:• national or state bank; • federal or state savings association; • foreign bank branch; • federal or state credit union; • benefit association; • insurance company; • safe deposit company; • money market mutual fund; or • similar entity doing business or authorized to do business in Alabama. Ala. Code §40-29-23.1(a)(7), as added by 2019 Ala. H.B. 420, effective May 28, 2019. Under the FIDM program, the department and a financial institution may develop and use automated data exchanges to identify delinquent taxpayers that maintain accounts with a financial institution. Ala. Code §40-29-23.1(b), as added by 2019 Ala. H.B. 420, effective May 28, 2019. The following identifying information may be used:• name; • address; • social security number; • federal employer identification number; • other tax identification numbers; or • other identifying information that may be included in a financial institution's records. Ala. Code §40-29-23.1(b)(1)-(6), as added by 2019 Ala. H.B. 420, effective May 28, 2019. Entering into an FDIM is optional for any financial institution. The department of revenue may not assess or enforce any penalty or take any adverse action against a financial institution that chooses not to enter into an FIDM agreement with the department. Ala. Code §40-29-23.1(c), as added by 2019 Ala. H.B. 420, effective May 28, 2019. A financial institution may receive a fee from the department for conducting a data match on a delinquent taxpayer. Ala. Code §40-29-23.1(d), as added by 2019 Ala. H.B. 420, effective May 28, 2019. Unless otherwise required by law, a financial institution providing information to the department under a FIDM program shall not disclose to an account holder that any identifying information has been received from or provided to the department. Ala. Code §40-29-23.1(e)(1), as added by 2019 Ala. H.B. 420, effective May 28, 2019. A financial institution is permitted to disclose to account holders that the department has the authority to request certain identifying information for state tax collection purposes under the FIDM program. Ala. Code §40-29-23.1(e)(2), as added by 2019 Ala. H.B. 420, effective May 28, 2019. The first data match exchange between a financial institution and the department may begin Jan. 1, 2020. Ala. Code §40-29-23.1(h), as added by 2019 Ala. H.B. 420, effective May 28, 2019. BNA-SUTN AL 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:6% 2Q:6% 3Q:TBA 4Q:TBA In 2019, the Alabama interest rate on underpayments of tax is 6 percent. Ala. Code §40-1-44(a);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:6% 2Q:6% 3Q:TBA 4Q:TBA In 2019, the Alabama interest rate on overpayments of tax is 6 percent. Ala. Code §40-1-44(b);Alabama Dept. of Rev., Quarterly Interest Rates. BNA-SUTN AL 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Alabama has not yet announced an amnesty program for 2019. Alabama Dept. of Revenue, Tax Amnesty. BNA-SUTN AL 31.14.11.
+
+==================================================

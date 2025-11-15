@@ -1,0 +1,51 @@
+State: District of Columbia
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination The District of Columbia follows destination-based sourcing of general retail sales. D.C. Mun. Regs. tit. 9, §404.4. For more detailed information on destination-based sourcing rules, see 1300-2nd T.M., The Destination Principle at 1300.07.A BNA-SUTN DC 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Destination The District of Columbia follows destination-based sourcing of general retail sales. D.C. Mun. Regs. tit. 9, §404.4. In the District of Columbia, certain specifically enumerated services consumed in the District that are defined to be retail sales are subject to tax. D.C. Code Ann. §47-2001(n)(1); D.C. Code Ann. § 47-2201(a); D.C. Code Ann. § 47-2202. There is a presumption that all receipts from the sale of services enumerated in the sales and use tax chapter of the D.C. Code are subject to tax unless the contrary is established. D.C. Code Ann. §47-2010. BNA-SUTN DC 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination The District of Columbia follows destination-based sourcing of general retail sales. D.C. Mun. Regs. tit. 9, §404.4. A lease is subject to the District of Columbia's sales and use tax if the tangible personal property is leased or consumed in the District of Columbia. If tangible personal property is rented in the District of Columbia and removed from the District of Columbia for the complete duration of any rental period or periods, the tax is not payable for any period or periods that begin after the removal of the property from the District of Columbia and end before its return. D.C. Code Ann. §47-2001(n)(1)(F); D.C. Mun. Regs. tit. 9, §461.8; D.C. Mun. Regs. tit. 9, §461.9. BNA-SUTN DC 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+No Tax There are no local option sales or use taxes in the District of Columbia. D.C. Code Ann. § 47-2002. BNA-SUTN DC 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Yes The District of Columbia does not apply compensating use tax to sales upon which a purchaser has paid a retail sales tax or made reimbursement of the tax to a vendor or retailer in another state. D.C. Code Ann. §47-2206. To prevent actual multi-state taxation on the sale of toll or wireless telecommunication service, the District of Columbia permits a taxpayer, upon proof that it has paid a properly due excise, sales, use, or gross receipts tax in another jurisdiction on a sale that is subject to taxation under this chapter, to take a credit against the tax for the amount paid, so long as the credit does not exceed the tax imposed under this chapter. D.C. Code Ann. § 47-3907; see also D.C. Code Ann. § 47-2501(b)(1)(B). A tax credit is also permitted under the Multistate Tax Compact. D.C. Code Ann. § 47-441; D.C. Mun. Regs. tit. 9, §4101.1. BNA-SUTN DC 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Yes The District of Columbia Code lists one temporary presence exemption, which relates to materials used in the construction or repair of real property. D.C. Code Ann. § 47-2005(33); D.C. Code Ann. § 47-2206(4). Specifically, the sales of material or equipment used in the construction, and of materials used in the repair or alteration, of real property are exempt from taxation, provided that the materials are temporarily stored, for no longer than 90 days, in the District for the purpose of subsequently transporting the property outside the District for use solely outside the District. D.C. Code Ann. § 47-2005(33); D.C. Code Ann. § 47-2206(4). BNA-SUTN DC 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+No The District of Columbia does not have authority to grant temporary presence exemptions. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). However, if at the time of purchase, the purpose in storing the article in the District is to use or consume the article outside the District, the purchase is not taxable provided that the following facts are subsequently established:• the article is never used or consumed inside the District; D.C. Mun. Regs. tit. 9, §405.12; D.C. Code Ann. § 47-2201(e). and • the article is actually shipped outside the District and used or consumed outside the District. D.C. Mun. Regs. tit. 9, §405.12; D.C. Code Ann. § 47-2201(e). Aircraft The District does not have a temporary presence exemption for aircraft. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). Motor Vehicles The District does not have a temporary presence exemption for motor vehicles. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). Water Vessels The District does not have a temporary presence exemption for water vessels. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). Rolling Stock The District does not have a temporary presence exemption for rolling stock. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). BNA-SUTN DC 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+No The District of Columbia does not have authority to grant temporary presence exemptions. D.C. Code Ann. §47-2002; D.C. Code Ann. §47-2001(f); D.C. Code Ann. §47-2001(h-2);D.C. Office of Tax & Rev., OTR's Guidance for Questions Involving Nexus (Nov. 1, 2002). However, if, at the time of purchase, the purpose in storing the article in the District is to use or consume the article outside the District, the purchase is not taxable provided that the following facts are subsequently established:• the article is never used or consumed inside the District; D.C. Mun. Regs. tit. 9, §405.12; D.C. Code Ann. § 47-2201(e). and • the article is actually shipped outside the District and used or consumed outside the District. D.C. Mun. Regs. tit. 9, §405.12; D.C. Code Ann. § 47-2201(e). The District of Columbia also provides a common carrier exemption. D.C. Code Ann. §47-2201(a)(2)(E). BNA-SUTN DC 4.3.3.
+
+==================================================

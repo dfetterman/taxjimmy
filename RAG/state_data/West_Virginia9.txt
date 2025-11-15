@@ -1,0 +1,33 @@
+State: West Virginia
+
+
+
+Topic: Overview: Taxation of Property and Services Taxation of Property
+
+Taxable Sales of tangible personal property are generally taxable in West Virginia. Sales of property are not taxable when specifically exempt by law, or when the purchaser is buying the property for resale or with an exemption certificate. W. Va. Code §11-15-6(a). More information on the taxation of property is available at 1300 T.M., Sales and Use Taxes: General Principles and 1360 T.M., Sales and Use Taxes: Retail Sales Issues. BNA-SUTN WV 9.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Taxation of Services
+
+Taxable All sales of services are subject to sales and use taxation within the State of West Virginia unless otherwise exempt by law. W. Va. Code §11-15-8. West Virginia defines services as all activities when the individual is engaged in doing something for a customer, but specifically excludes from this definition contracting services, personal services, services rendered by employees for their employers, or any service rendered for resale. W. Va. Code §11-15-2(b)(18). Sales of services provided by “nonprofessionals”in the “trades and occupations” are taxable and include services by interior decorators, security guards, contractors, electricians, and hospital administrators. W.Va. Code R. tit. 110, § 110-15-8.1.1.1; see, e.g., West Virginia Office of Tax Appeals Decision Docket No. 95-466 U (Jan. 6, 1997)(car dealer failed to remit use tax on purchases of security guard services, which are taxable nonprofessional services as specified in the consumer sales and service tax regulations). Sales of professional services and personal services are excepted from tax. W.Va. Code R. tit. 110, § 110-15-8.1. BNA-SUTN WV 9.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Mixed Transactions and the True Object Test
+
+True Object Test West Virginia has adopted the true object test to determine whether the installation of property is incidental to the purchase of tangible personal property, or whether the installation is the service that the customer was truly seeking to receive. If the true object of the transaction is the purchase of the tangible personal property or taxable services, the entire charge is taxable. W.Va. Code R. tit. 110, §110-15-114.2. BNA-SUTN WV 9.3.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Bundled Transactions
+
+Yes When the taxable part of a bundled transaction is not de minimis, or when the nontaxable part of the transaction is de minimis, the entire transaction is subject to sales tax. W. Va. Code §11-15B-2(b)(4); West Virginia Administrative Notice No. 2008-27 (Dec. 4, 2008). A bundled transaction is a retail sale involving two or more products sold for one non-itemized price. Outside of the bundled transaction the products are otherwise distinct and identifiable, each being sold separately. Bundled transactions do not include the sale of any products when the price is variable, with the price being determined based on selections of products by the consumer. Likewise, bundled transactions cannot involve real property or services to real property. W. Va. Code §11-15B-2(b)(4). A transaction otherwise satisfying the definition of a bundled transaction will not be considered a bundled transaction if it is any of the following:• a retail sale of tangible personal property and a service when the tangible personal property is essential to the use of the service, and the tangible personal property is provided exclusively in connection with the service, so long as the true object of the transaction is the service; W. Va. Code §11-15B-2(b)(4)(C)(i). • a retail sale of services when one service is provided that is essential to the use or receipt of a second service, the first service is provided exclusively in connection with the second service, and the true object of the transaction is the second service; W. Va. Code §11-15B-2(b)(4)(C)(ii). • a transaction that includes taxable products and nontaxable products, and the purchase price or sales price of the taxable products is de minimis, 10 percent or less of the total price of the bundled products; W. Va. Code §11-15B-2(b)(4)(C)(iii). • a transaction that involves taxable products along with food or food products taxed at the lower 3 percent rate, when the sales or the purchase price of the products taxable at the regular rate is 10 percent or less of the total price of the bundled products; W. Va. Code §11-15B-2(b)(4)(C)(iv). or • a retail sale of exempt tangible personal property and taxable tangible personal property when the transaction includes food and food ingredients, drugs, durable medical equipment, mobility enhancing equipment, over-the-counter drugs, prosthetic devices, or medical supplies, and the vendor's or seller's purchase price or sales price of the taxable tangible personal property is 50 percent or less of the total purchase price or sales price of the bundled tangible personal property. Vendors and sellers may not use a combination of the purchase price and sales price of the tangible personal property when making the 50 percent determination for a transaction. W. Va. Code §11-15B-2(b)(4)(C)(v). BNA-SUTN WV 9.3.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Local Jurisdictions, Taxability Distinctions
+
+Differs from State The tax base of a local jurisdiction that levies a local sales or use tax in West Virginia is identical to the state sales and use tax base, unless an exemption applies. W. Va. Code §11-15B-34. Local sales or use taxes levied on the following are not subject to the same tax base as the state: • the wholesale sale of gasoline or special fuel to power: motor vehicles, aircraft, locomotives, or watercraft or to electricity, piped natural or artificial gas or other fuels delivered by the seller, which local jurisdictions are prohibited from taxing; or • the retail sale or transfer of motor vehicles, aircraft, watercraft, modular homes, manufactured homes or mobile homes. W. Va. Code §11-15B-34. BNA-SUTN WV 9.4.
+
+==================================================

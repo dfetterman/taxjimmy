@@ -1,0 +1,201 @@
+State: Virginia
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Sales tax does not apply to the sale of real property. Va. Code Ann. §58.1-603. Virginia sales and use tax statutes do not have a definition for real property. However, in a Commissioner's ruling about annexing equipment to a worksite, the state referred to the worksite as merely a location, not a building or a structure: “…the Sales Agreement does not affirmatively and plainly establish an intention to make the conveyor system a permanent part of the realty. Rather, the Sales Agreement defines “Equipment”as “all Equipment, machinery, parts and other items intended to be installed permanently at the Worksite.” However, the term “worksite”is not defined as a specific building or structure. Rather, it is defined as a “location” where equipment is to be installed or used in the installation of the equipment. As such, these definitions do not express or imply an intent (at the time that the agreement was made) for the conveyor system to become a permanent fixture of the realty.” Virginia Ruling of the Commissioner PD 02-162 (Dec. 18, 2002). While this is a discussion of intent, and whether the tangible personal property in question lacked the specific intent for permanent attachment, it is useful in demonstrating how the state will approach questions of real property in a sales and use tax context. In this Commissioner's ruling, the state shows that it will at least define real property to include buildings and structures, but more generally, that the state will not cite directly to any exact definition when seeking to make an analysis about real property. The Commissioner's ruling, without citing to a definition, lists buildings and structures as examples of real property into which a conveyor system could be installed. BNA-SUTN VA 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Nontaxable A fixture is tangible personal property that loses its identity as tangible personal property when incorporated in real estate, and is considered to be part of real estate not subject to Virginia's sales and use tax. See Va. Regs. §10-210-410(A); Virginia Ruling of the Commissioner PD 16-1 (Feb. 2, 2016). An issue arises regarding the point at which tangible personal property becomes realty. To determine whether an item of personal property placed upon real property becomes real property itself, the Department of Taxation looks to the test set out by the Virginia Supreme Court in Transcontinental Gas Pipe Line Corp. v. Prince William County. Transcontinental Gas Pipe Line Corp. v. Prince William Cnty., 210 Va. 550, 172 S.E.2d 757 (Va. 1970). In that case, the court ruled that the classification of property as real estate or as tangible personal property must be determined by the law of fixtures using three general tests to determine whether an item of personal property placed upon realty becomes itself realty. They are:• annexation of the property to the realty; • adaptation to the use or purpose to which that part of the realty with which the property is connected is appropriated; and • the intention of the parties. Transcontinental Gas Pipe Line Corp. v. Prince William Cnty., 210 Va. 550, 172 S.E.2d 757 (Va. 1970). Under the first test, there must be actual or constructive annexation. Danville Holding Corp. v. Clement, 178 Va. 223, 232, 16 S.E.2d 345, 349 (Va. 1941) (cited by Transcontinental Gas Pipe Line). The method or extent of the annexation involved carries little weight in the determination. The second test, adaptation of the personal property to the use of the property to which it is annexed, is entitled to great weight, and if the property is essential to the purpose for which the real property is used, then it will be considered a fixture regardless of whether it can be severed without physical injury to the either property. Danville Holding Corp. v. Clement, 178 Va. 223, 232, 16 S.E.2d 345, 349 (Va. 1941). The final factor, intention of the party making the annexation, is considered to be of paramount and controlling consideration. Danville Holding Corp. v. Clement, 178 Va. 223, 16 S.E.2d 345 (Va. 1941); Transcontinental Gas Pipe Line Corp. v. Prince William Cnty., 210 Va. 550, 172 S.E.2d 757 (Va. 1970) (intention of the party making the annexation is the chief test); Virginia Ruling of the Commissioner PD 19-25 (April 8, 2019) (underground waterworks constituted real property fixtures). Effective July 1, 2017, there are no exceptions to the above-stated rule regarding the classification of property. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; Virginia Ruling of the Commissioner PD 17-139 (June 29, 2017). Accordingly, retailers that both make retail sales and also install fences, venetian blinds, window shades, awnings, storm windows and doors, locks and locking devices, floor coverings, cabinets, countertops, kitchen equipment, window air conditioning units or other comparable items are treated the same as other real property contractors and must pay sales or use tax on their purchase or use of the items they install. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; see Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. Prior to July 1, 2017, Virginia sets forth an exception to the above rule with respect to certain property. Va. Code Ann. §58.1-610(D); Virginia Ruling of the Commissioner PD 13-204 (Nov. 1, 2013); see Virginia Tax Bulletin VTB 17-8 (June 29, 2017). A person selling any of the following items was deemed a retailer (and not a consumer)of such items regardless of whether such person fabricates or installs such items:• fences; Va. Code Ann. §58.1-610(D). • Venetian blinds; Va. Code Ann. §58.1-610(D). • window shades; Va. Code Ann. §58.1-610(D). • awnings; Va. Code Ann. §58.1-610(D). • storm windows and doors; Va. Code Ann. §58.1-610(D). • locks and locking devices; Va. Code Ann. §58.1-610(D). • floor coverings (as distinguished from the floors themselves); Va. Code Ann. §58.1-610(D). See, e.g., Virginia Ruling of the Commissioner PD 16-107 (May 25, 2016) (contractor installed flooring and floor coverings that became permanently attached to existing floors or subflooring; in doing so, the contractor was the user and consumer of all flooring installed and paid the sales tax to its supplier on all tangible personal property it used to fulfill flooring contracts). • cabinets; Va. Code Ann. §58.1-610(D). • kitchen equipment; Va. Code Ann. §58.1-610(D). and • window air conditioning units or other like or comparable items. Va. Code Ann. §58.1-610(D). Automated Teller Machine (ATM) Services Before July 1, 2011, if a service provider permanently installed an automated teller machine(ATM) by pouring concrete, affixed the ATM and installed other materials to real property, then the taxpayer was liable for the tax on the price of all installation materials. See Virginia Ruling of the Commissioner PD 14-59 (April 30, 2014) (taxpayer provided installation, repair and construction services primarily for financial institutions, which included removing and replacing ATMs); Virginia Ruling of the Commissioner PD 91-166 (Aug. 7, 1991). However, effective July 1, 2011, businesses that are primarily engaged in the furnishing and installation of ATMs and other tangible personal property that provide electronic or physical security used by financial institutions, are treated as retailers of such property for purposes of the sales and use tax. As such, each business is required to collect the tax from the purchaser, rather than paying the tax on its purchases of the materials. Qualifying businesses must give their suppliers a resale exemption certificate (Form ST-10) when making purchases of items for resale. See Va. Code Ann. §58.1-610(G); Virginia Ruling of the Commissioner PD 14-59 (April 30, 2014) (taxpayer provides installation, repair and construction services primarily for financial institutions, which include removing and replacing ATMs). If the taxpayer does not sell the ATM, but merely delivers the ATM to the installation site, delivery charges are also not subject to tax. Virginia Ruling of the Commissioner PD 14-59 (April 30, 2014) (taxpayer charges a delivery fee for delivering ATMs to an installation site from a storage warehouse or for moving an ATM from one location to another); see also Virginia Ruling of the Commissioner PD 98-26 (Feb. 13, 1998). In addition, when a service provider does not furnish signs for the area surrounding the ATM, the service provider is only furnishing patching materials and the transaction is for the provision of exempt services. If the service provider furnishes the signs, the taxpayer would be liable for collection of sales tax on the price charged for the signs, but the installation charge would not be taxable. See Virginia Ruling of the Commissioner PD 14-59 (April 30, 2014) (taxpayer installs signage in the area surrounding ATMs and performs miscellaneous services as a part of sign installation). Separate labor charges for repairing a freestanding ATM are exempt from tax on and after July 1, 2011. Service providers must be registered to collect sales tax on repair parts that are transferred to customers. If repairs are made to ATMs that are permanently affixed to real property, the entire charge is nontaxable according to Va. Code Ann. §58.1-610(G). The service providers are the users or consumers of all tangible personal property and the tax is not passed on to the customer. Va. Code Ann. §58.1-609.5; Va. Code Ann. §58.1-610(G); Va. Regs. §10-210-410; see also Virginia Ruling of the Commissioner PD 14-59 (April 30, 2014) (taxpayer provides labor services to repair parts of ATM structures, aside from installation services). BNA-SUTN VA 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Real Property Appliances, electronics, machinery, and equipment are items of tangible personal property which loses its identify as tangible personal property when incorporated into real estate, and is not subject to Virginia's sales and use tax. See Va. Regs. §10-210-410(A); Virginia Ruling of the Commissioner PD 16-1 (Feb. 2, 2016). Retailers that both make retail sales and install such items are treated the same as other real property contractors and must pay sales or use tax on their purchase or use of the items they install. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; see Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. BNA-SUTN VA 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Real Property Plumbing fixtures are items of tangible personal property which loses its identity as tangible personal property when incorporated into real estate, and is not subject to Virginia's sales and use tax. See Va. Regs. §10-210-410(A); Virginia Ruling of the Commissioner PD 16-1 (Feb. 2, 2016). Retailers that both make retail sales and install such items are treated the same as other real property contractors and must pay sales or use tax on their purchase or use of the items they install. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; see Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. BNA-SUTN VA 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Real Property Flooring and window treatments are items of tangible personal property which loses its identity as tangible personal property when incorporated into real estate, and is not subject to Virginia's sales and use tax. See Va. Regs. §10-210-410(A); Virginia Ruling of the Commissioner PD 16-1 (Feb. 2, 2016). Retailers that both make retail sales and install such items are treated the same as other real property contractors and must pay sales or use tax on their purchase or use of the items they install. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; see Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. BNA-SUTN VA 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Real Property Signage fixtures are items of tangible personal property which loses its identity as tangible personal property when incorporated into real estate, and is not subject to Virginia's sales and use tax. Va. Regs. §10-210-4070(A); Virginia Ruling of the Commissioner PD 16-1 (Feb. 2, 2016). Sales tax normally applies to the charge for the manufacture or fabrication of signs, but not separately stated installation charges. However, tax does not apply to a sign which become attached to realty, but the person constructing and installing the sign must pay the tax on all property used in the construction and installation. Va. Regs. §10-210-4070(A) Retail sales of neon and electric signs are subject to tax, excluding any separately stated installation charges. Va. Regs. §10-210-4070(B) BNA-SUTN VA 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+No Guidance Virginia has not issued guidance on the treatment of character of leasehold improvements. BNA-SUTN VA 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Nontaxable Charges for construction labor billed to a contractee are not subject to sales and use tax in Virginia. See Va. Regs. §10-210-4040. A person who contracts to perform construction, reconstruction, installation, repair, or any other service with respect to real estate or real estate fixtures and who furnishes tangible personal property in connection with those services is deemed the end consumer liable for tax on the purchase or use of the tangible personal property. Va. Code Ann. §58.1-610(A); Va. Code Ann. §58.1-610(B); Va. Regs. §10-210-410(A). Contractors are not to pass the tax along to their customers as a tax and should take the amount of tax that is likely to be imposed upon the contract into account when submitting bids. Va. Regs. §10-210-410(A). The tax base for fabricated construction materials purchased by a contractor includes separately stated labor fees for the fabrication. Virginia Ruling of the Commissioner PD 17-88 (June 8, 2017). Construction Materials Used Out of State or in a Foreign Country Contractors generally must pay sales and use tax on materials purchased in Virginia to be incorporated into real property out-of-state. See Virginia Ruling of the Commissioner PD 18-147 (July 25, 2018) (holding that a taxpayer that fabricates and installs window shutters is liable for tax on the raw materials used to fabricate shutters installed out-of-state). However, tangible personal property purchased by a contractor, which is temporarily stored in Virginia but used solely in another state or in a foreign country, is exempt from sales and use tax if the contractor could have purchased the materials free from sales and use tax in the foreign state or country. A construction contractor may apply to the Department for a certificate of exemption, Form ST-11A. The contractor will need to include information to establish that the construction materials can be purchased by the contractor free from the sales or use tax in the foreign country or other state. Va. Code Ann. §58.1-609.3(1); Va. Regs. §10-210-410; Virginia Ruling of the Commissioner PD 12-207 (Dec. 13, 2012). With respect to tangible personal property to be used in a foreign country, the Department has previously ruled that a foreign value-added tax (VAT) is not similar to the Virginia retail sales and use tax. Accordingly, if the foreign country imposes a VAT but no sales tax, the contractor may purchase construction materials free from the Virginia retail sales and use tax. See Virginia Ruling of the Commissioner PD 12-207 (Dec. 13, 2012) (citing Virginia Ruling of the Commissioner PD 08-156 (Aug. 29, 2008). More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN VA 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Lump-sum charges billed to a contractee under a lump-sum construction contract are not subject to sales and use tax in Virginia. See Va. Regs. §10-210-4040. BNA-SUTN VA 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable A contractor's purchases of materials to be incorporated into real property under a lump-sum construction contract are subject to sales and use tax in Virginia. Va. Code Ann. §58.1-610(A); Va. Code Ann. §58.1-610(B); Va. Regs. §10-210-410(A). BNA-SUTN VA 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable Service charges billed to a contractee under a separated construction contract are not subject to sales and use tax in Virginia. See Va. Regs. §10-210-4040. BNA-SUTN VA 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Nontaxable Materials charges billed to a contractee under a separated construction contract are not subject to sales and use tax in Virginia, and contractors are not to pass the tax along to their customers as a tax. Va. Regs. §10-210-410(A). BNA-SUTN VA 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Taxable A contractor's purchases of materials to be incorporated into real property under a separated construction contract are subject to sales and use tax in Virginia. Va. Code Ann. §58.1-610(A); Va. Code Ann. §58.1-610(B); Va. Regs. §10-210-410(A). BNA-SUTN VA 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Nontaxable Real property repair services are not subject to sales and use tax in Virginia. See Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Nontaxable Separately stated charges for parts and materials used to repair real property are not subject to sales and use tax in Virginia, and contractors are not to pass the tax along to their customers as a tax. Va. Regs. §10-210-410(A). BNA-SUTN VA 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Nontaxable Real property installation services are not subject to sales and use tax in Virginia. See Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Nontaxable Interior real property maintenance services are not subject to Virginia's sales and use tax. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Nontaxable Exterior real property maintenance services are not subject to Virginia's sales and use tax. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Charges for excavation and demolition services are exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Charges for site cleanup services are exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable Plumbing work is exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable Electrical work is exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Nontaxable HVAC installation services are exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. Virginia law generally treats businesses that sell and install tangible personal property that becomes real property upon installation as contractors. As contractors, such businesses must pay the tax on the purchase price of the materials and not charge sales tax to their customers. HVAC installation is therefore a nontaxable charge, and any taxed owed on the items being installed is generally the responsibility of the contractor. Va. Regs. §10-210-410; Va. Code Ann. §58.1-609.5(1). Window Units For sales occurring on or after July 1, 2017, dealers who sell at retail but also sell and offer installation of window air conditioning units and similar items will be treated as consuming contractors, and will owe tax on the purchase of such units. Prior to July 1, 2017, Virginia made an exception for retailers who sold and installed window air conditioning units and similar items. Provided these businesses maintained a retail or wholesale place of business and an inventory of the listed items, and provided they performed installation as part of or incidental to the sale of the listed items, they were deemed retailers, and were authorized to collect sales tax from their customers on the sale of the listed items. Separately stated installation charges were exempt from tax. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. BNA-SUTN VA 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Nontaxable HVAC systems will be considered real property upon installation, and Virginia does not tax separately stated charges for labor or services rendered in repairing real property. Va. Code Ann. §58.1-609.5. BNA-SUTN VA 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Nontaxable Gutter cleaning services are exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Nontaxable Window cleaning services are exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Nontaxable Power washing buildings is exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Nontaxable Power washing sidewalks and parking lots is exempt from Virginia's sales and use tax, as such services are not specifically enumerated as taxable. Va. Regs. §10-210-4040. BNA-SUTN VA 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends Virginia sales and use tax applies to sign fabrication, but not signs that become incorporated into realty or painted on real property. Sign Fabrication Generally, sales tax applies to charges for the manufacture or fabrication of signs, outdoor boards, and similar items. The total charge for the finished product is taxable, including the labor involved in the construction or painting of the sign, boards, etc. However, tax does not apply to separately stated installation charges under these circumstances. Va. Regs. §10-210-4070(A). Signs in a Construction Context Any person who constructs and installs signs, billboards or similar items which, upon installation, become incorporated into realty, is considered a contractor, and tax does not apply to charges for constructing and installing a sign which becomes attached to realty. The contactor is responsible for paying tax on all property used in the construction and installation. Va. Regs. §10-210-4070(A). Sign Painting Tax does not apply to charges for painting signs on buildings, trucks, outdoor boards, windows, doors, etc. Materials and supplies used in performing such services are taxable to the painter at the time of purchase (or upon removal from exempt inventory). Va. Regs. §10-210-4070(B). BNA-SUTN VA 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Contractor/Retailer Persons who install tangible personal property may be classified as real estate contractors, responsible for paying the tax on purchases of materials that are used or consumed in the installation work. Va. Code Ann. §58.1-610; Virginia Ruling of the Commissioner PD 14-43 (Mar. 21, 2014). Such persons will be deemed to have purchased the tangible personal property for use or consumption. Va. Code Ann. §58.1-610; Virginia Ruling of the Commissioner PD 14-43 (Mar. 21, 2014). Effective July 1, 2017, there are no exceptions to the above-stated rule regarding the purchase of tangible personal property for use or consumption by a contractor. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; Virginia Ruling of the Commissioner PD 17-139 (June 29, 2017). Accordingly, retailers that both make retail sales and also install fences, venetian blinds, window shades, awnings, storm windows and doors, locks and locking devices, floor coverings, cabinets, countertops, kitchen equipment, window air conditioning units or other comparable items are treated the same as other real property contractors and must pay sales or use tax on their purchase or use of the items they install. Va. Code Ann. §58.1-610(D), as amended by 2017 Va. H.B. 1890, effective July 1, 2017; Virginia Tax Bulletin VTB 17-8 (June 29, 2017); Virginia Dept. of Tax., Sales Tax Requirements For Real Property Contractors Changes. Prior to July 1, 2017, an exception, available under Va. Code Ann. §58.1-610(D), applies to a retailer who sells and installs items such as fences, venetian blinds, storm windows, locks, floor coverings, countertops, kitchen equipment, and like or comparable items, in which case the tax is collected from the ultimate customer. Va. Code Ann. §58.1-610, as amended by S.B. 57, enacted March 11, 2010, effective (July 1, 2010) (requires dealers selling and installing countertops to collect sales and use tax from customers). Tax was collected from the ultimate consumer regardless of whether the seller installs the above-described items. Va. Code Ann. §58.1-610; Virginia Ruling of the Commissioner PD 14-43 (Mar. 21, 2014). For purposes of the now repealed exception, a retailer was a person who maintained a retail or wholesale place of business, maintained an inventory of the aforementioned items and/or materials which enter into or become a component part of the aforementioned items, and performed installation as part of or incidental to the sale of the aforementioned items. Va. Regs. §10-210-410; Virginia Ruling of the Commissioner PD 14-43 (Mar. 21, 2014). BNA-SUTN VA 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Same as Contractors For the purposes of Virginia's sales and use tax, subcontractors providing services in connection with real estate are treated in the same manner as prime contractors. Va. Regs. §10-210-410. BNA-SUTN VA 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Depends A contractor purchasing tangible personal property in connection with real property construction contracts with the Commonwealth of Virginia, the United States or political subdivisions thereof is exempt from paying sales and use tax on the purchases in instances where the credit of a governmental entity is bound directly and the contractor has been officially designated as the purchasing agent for such governmental entity. Va. Regs. §10-210-410. Otherwise, purchases of tangible personal property by contractors in connection with real property construction contracts with the governments of Virginia or the United States or political subdivisions thereof, are sales to such contractors for their own use or consumption and contractors are subject to the tax on such transactions. Va. Regs. §10-210-410; Virginia Ruling of the Commissioner PD 19-25 (April 8, 2019). Contractors are not subject to the use tax when provided with tangible personal property purchased by a governmental entity for use in real property construction contracts. Va. Regs. §10-210-410. Government Contractors Virginia provides an exclusion from the sales and use tax for tangible personal property for use or consumption by the Virginia government or the United States. Va. Code Ann. §58.1-609.1. The exclusion does not apply to sales and leases to privately owned financial and other corporations chartered by the United States. Likewise, the exclusion does not apply to tangible personal property that is acquired by the Commonwealth or any of its political subdivisions and then transferred to private businesses for their own or for nongovernmental purposes. Va. Code Ann. §58.1-609.1. To be exempted from the sales tax, the purchases must be made pursuant to required official purchase orders to be paid out of public funds. Va. Regs. §10-210-690(A); Virginia Ruling of the Commissioner PD 17-2 (Jan. 19, 2017) (sales between a subcontractor and a contractor who is contracting with the government are not tax exempt as such sales are not made to a government entity with a valid exemption certificate). Alternatively, in situations where the credit of a governmental entity is bound directly and a contractor has been officially designated as the purchasing agent for such governmental entity, the purchases will be deemed exempt from the tax. Va. Regs. §10-210-410(J); See Virginia Ruling of the Commissioner PD 15-172 (Aug. 25, 2015) citing Virginia Ruling of the Commissioner PD 14-91 (June 12, 2014). BNA-SUTN VA 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Conditional/Partial Exemption Mobile and Manufactured Homes Manufactured homes (i.e., mobile homes) are not subject to sales tax in Virginia. Va. Code Ann. §58.1-609.1(2). However, manufactured homes are subject to the Motor Vehicle Sales and Use Tax unless they are permanently attached to real estate and included in the sale of real estate. Va. Code Ann. §58.1-609.1(2); Va. Code Ann. §58.1-2402(A)(1); see Virginia Ruling of the Commissioner PD 12-19 (March 5, 2012) (stating that manufactured homes were formerly known as mobile homes). “Manufactured home” means a structure subject to federal regulation, which is transportable in one or more sections;is eight body feet or more in width and 40 body feet or more in length in the traveling mode, or is 320 or more square feet when erected on site; is built on a permanent chassis; is designed to be used as a single-family dwelling, with or without a permanent foundation, when connected to the required utilities; and includes the plumbing, heating, air-conditioning, and electrical systems contained in the structure. Va. Code Ann. §58.1-2402(A)(1); Va. Code Ann. §36-85.3. Modular Buildings Virginia imposes sales tax on 60 percent of modular buildings' retail sales price. Va. Code Ann. §58.1-610.1; see also Virginia Ruling of the Commissioner PD 15-227 (Dec. 9, 2015) (providing guidance regarding the tax rate imposed on modular buildings in Virginia generally versus the tax rate imposed in the Northern Virginia and Hampton Roads regions). A modular building means single and multifamily houses, apartment units, commercial buildings, and permanent additions thereof, comprised of one or more sections that are intended to become real property, primarily constructed at a location other than the permanent site, built to comply with the Virginia Industrialized Building Safety Law (§36-70 et seq.) as regulated by the Virginia Department of Housing and Community Development, and shipped with most permanent components in place to the site of final assembly. A modular building does not include a mobile office as defined in §58.1-2401 or any manufactured building subject to and certified under the provisions of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. §5401 et seq.). Va. Code Ann. §58.1-602(A). When a modular building retailer sells and installs a modular building onto a permanent foundation, the retailer is deemed the final consumer of the modular building and must pay the sales and use tax based on 60 percent of the retailer's cost for the modular building. Va. Code Ann. §58.1-610.1; Virginia Tax Bulletin VTB 00-3 (June 20, 2000). When a modular building manufacturer contracts to build, sell, deliver and install a modular building the manufacturer is deemed a real property construction contractor and is deemed the consumer of the materials incorporated into a modular building. The exemption does not affect the taxability of the materials purchased by a modular building manufacturer. Va. Code Ann. §58.1-610.1; Virginia Tax Bulletin VTB 00-3 (June 20, 2000). If a modular building manufacturer sells a modular building at retail without installation and the manufacturer has paid sales or use tax on the cost of materials incorporated into the modular building, the manufacturer must charge sales tax on 60 percent of the sale price of the modular building and may claim a sales and use tax credit for the amount of sales tax it paid on the cost of materials for the modular building sold. Va. Code Ann. §58.1-610.1; Virginia Tax Bulletin VTB 00-3 (June 20, 2000). BNA-SUTN VA 28.8.
+
+==================================================

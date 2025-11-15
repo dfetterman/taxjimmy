@@ -1,0 +1,411 @@
+State: New York
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Exempt General aviation aircraft are exempt from sales and use tax. N.Y. Tax Law §1115(a)(21-a), as added by 2015 N.Y. A.B. 3009, effective Sept. 1, 2015; see also New York TSB-M-15(3)S (July 24, 2015). Additionally, machinery and equipment to be installed on general aviation aircraft is exempt. N.Y. Tax Law §1115(a)(21-a), as added by 2015 N.Y. A.B. 3009, effective Sept. 1, 2015; see also New York TSB-M-15(3)S (July 24, 2015). “General aviation aircraft” means an aircraft used in civil aviation that is not a commercial or military aircraft or an unmanned aerial vehicle or drone. N.Y. Tax Law §1115(a)(21-a) The exemption applies to the receipts for sale, lease, or rental of the following:• the aircraft itself; • other property that is affixed to the aircraft for its equipping (e.g., furniture, fixtures, built-in appliances, window coverings, climate control systems, or entertainment systems); and • property that the aircraft is outfitted with at the time of sale that is necessary for its normal operation (e.g., avionics, radios, weather radar systems, and navigation and emergency lighting). New York TSB-M-15(3)S (July 24, 2015). The exemption applies to sales (including leases subject to the accelerated tax payment provisions of section 1111(i)of the Tax Law) or uses occurring on or after Sept. 1, 2015. The exemption also applies to sales made under a contract entered into prior to Sept. 1, 2015, if the purchaser takes delivery of the aircraft or the machinery or equipment on or after Sept. 1, 2015. New York TSB-M-15(3)S (July 24, 2015). Fractional Ownership of Aircraft The Department of Taxation and Finance has issued an advisory opinion concluding that the sale or lease of a fractional share of an aircraft is the sale of a nontaxable air transportation service. New York TSB-A-17(1)S (Feb. 3, 2017). In a fractional share ownership transaction, the fractional share owner purchases an interest in an aircraft that entitles such owner to a specific number of annual flight hours based on the size of his or her share, which can range between a 1/16th share and 16/16ths share. The fractional share owner receives title to the fractional interest in the aircraft, which is documented and filed with the Federal Aviation Administration. The Department has determined that because the transaction does not transfer possession, command, and control of the aircraft to the fractional share owner, and the seller of the shares retains the exclusive right to arrange flights and provide pilots and crew, and remains responsible for the aircraft maintenance, the fractional share owner has purchased a nontaxable service. Dominion and control over the aircraft has not been transferred, thus, the transaction does not constitute the sale of tangible personal property. New York TSB-A-17(1)S (Feb. 3, 2017). The Department additionally concluded that the sale of an aircraft that is retired for the fractional share ownership program is an exempt sale of a general aviation aircraft. New York TSB-A-17(1)S (Feb. 3, 2017). Leases of Noncommercial Aircraft N.Y. Tax Law §1111(i) imposes a special payment regime for sales and use tax on certain leases of noncommercial aircraft. Instead of tax being due upon each periodic lease payment required under the lease, as is the case with other leases, the Tax Law requires the lessee to pay sales tax at the inception of the lease on the total amount of the lease payments for the entire term of the lease. The statute and regulations achieve this result by deeming all receipts due or consideration given or contracted to be given under the lease as having been paid or given at the inception of the lease. Therefore, no refund is allowed based upon the fact that receipts are not actually paid, as in the case of early termination of a lease, failure to exercise an option to renew a lease, or bad debt. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(a). Only noncommercial aircraft leases for a term of one year or more fall within this special sales tax payment regime. However, the term “lease for a term of one year or more”is statutorily defined to include any lease for a shorter term that includes an option to renew or other like provision where the cumulative time period that the lease may be in effect upon exercise of such option or provision is one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(2)(I). BNA-SUTN NY 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Exempt Property used by or purchased for the repair or maintenance of general aviation and commercial aircraft is not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Depends Services rendered with respect to general aviation are not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). The repair services exemption is subject to some limitations. For example, the repair or maintenance of avionics equipment on general aviation and commercial aircraft is exempt, but the repair of onboard decorations or small appliances is not exempt. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Exempt Property used by or purchased for the repair or maintenance of general aviation and commercial aircraft is not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Depends Maintenance services rendered with respect to general aviation are not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). The maintenance services exemption is subject to some limitations. For example, the repair or maintenance of avionics equipment on general aviation and commercial aircraft is exempt, but the repair of onboard decorations or small appliances is not exempt. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Depends Effective Dec. 1, 2017, aviation gasoline sold by motor fuel distributors is not subject to the prepaid sales tax on motor fuel. New York TSB-M-17(2)M (Nov. 27, 2017). Fuel distributors will not be required to pass through the prepaid sales tax on aviation gasoline if they receive Form FT-1013, certifying that the fuel purchased will be used in commercial or general aviation aircraft. New York TSB-M-17(2)M (Nov. 27, 2017); New York Notice N-17-16 (Nov. 2017). Retail sellers of aviation gasoline who purchase aviation gasoline from registered distributors are also no longer required to pay the prepaid sales tax on motor fuel. New York TSB-M-17(2)M (Nov. 27, 2017); New York Notice N-17-17 (Nov. 2017). Retail sales of aviation gasoline or kero-jet fuel for use in commercial aircraft and general aviation aircraft after Dec. 1, 2017 are not subject to locally imposed sales and use taxes. New York TSB-M-17(2)M (Nov. 27, 2017); New York Notice N-17-17 (Nov. 2017). Commercial aircraft, except commercial airlines, must also pay tax on purchases of kero-jet fuel, but may apply for a refund of the tax paid. N.Y. Tax Law §1115(j); see N.Y. Tax Law §1115(a)(9); N.Y. Tax Law §1102(a)(1); New York TSB-A-05(15)S (May 25, 2005). BNA-SUTN NY 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Subject to a few limitations, commercial aircraft purchased to be primarily used in intrastate, interstate or foreign commerce are not subject to sales and use tax. N.Y. Tax Law §1115(a)(21); New York TSB-M-09(4)S (May 12, 2009). Machinery or equipment to be installed on such aircraft and property used by or purchased for the use of such aircraft for maintenance and repairs and flight simulators purchased by commercial airlines are exempt from tax. N.Y. Tax Law §1115(a)(21). The exemption applies to the receipts for sale, lease, or rental of the following:• the aircraft itself; • other property that is affixed to the aircraft for its equipping (e.g., furniture, fixtures, built-in appliances, window coverings, climate control systems, or entertainment systems); and • property that the aircraft is outfitted with at the time of sale that is necessary for its normal operation (e.g., avionics, radios, weather radar systems, and navigation and emergency lighting). New York TSB-M-15(3)S (July 24, 2015); see also New York TSB-A-11(1)S (Dec. 20, 2010) (additions made to N.Y. tax law effective in 2009 that narrow the scope of the exemption do not apply to the relocation to New York of an aircraft purchased out-of-state in 2003; pre-amendment versions of exemption language apply). BNA-SUTN NY 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Property used by or purchased for the repair or maintenance of general aviation and commercial aircraft is not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Depends Services rendered with respect to a commercial aircraft are not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Property used by or purchased for the repair or maintenance of commercial aircraft is not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Depends Services rendered with respect to commercial aircraft are not subject to tax. N.Y. Tax Law §1105(c)(3)(v); see also N.Y. Tax Law §1115(a)(21). BNA-SUTN NY 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Depends Effective Dec. 1, 2017, aviation gasoline sold by motor fuel distributors is not subject to the prepaid sales tax on motor fuel. New York TSB-M-17(2)M (Nov. 27, 2017). Fuel distributors will not be required to pass through the prepaid sales tax on aviation gasoline if they receive Form FT-1013, certifying that the fuel purchased will be used in commercial or general aviation aircraft. New York TSB-M-17(2)M (Nov. 27, 2017); New York Notice N-17-16 (Nov. 2017). Retail sellers of aviation gasoline who purchase aviation gasoline from registered distributors are also no longer required to pay the prepaid sales tax on motor fuel. New York TSB-M-17(2)M (Nov. 27, 2017); New York Notice N-17-17 (Nov. 2017). Commercial aircraft, except commercial airlines, must pay tax on purchases of kero-jet fuel, but may apply for a refund of the tax paid. N.Y. Tax Law §1115(j); see N.Y. Tax Law §1115(a)(9); N.Y. Tax Law §1102(a)(1); New York TSB-A-05(15)S (May 25, 2005). Retail sales of aviation gasoline or kero-jet fuel for use in commercial aircraft and general aviation aircraft after Dec. 1, 2017, are not subject to locally imposed sales and use taxes. New York Notice N-17-17 (Nov. 2017). If the distributor is an airline, it is exempt from prepayment of sales and use tax on kero-jet fuel imported by the airline for use in its own airplanes. N.Y. Tax Law §1102(a)(1), as amended by 2015 N.Y. S.B. 6409, Part Y, § 4, effective June 1, 2016. In addition, a distributor is exempt from prepayment of sales and use tax on aviation gasoline sold for use in commercial aircraft and general aviation aircraft. N.Y. Tax Law §1102(a)(1), as amended by 2015 N.Y. S.B. 6409, Part Y, § 4, effective June 1, 2016. BNA-SUTN NY 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends Motor vehicles are taxable as tangible personal property, unless sold to a nonresident or another exemption applies. N.Y. Tax Law §1105(a). Any credit amount for a trade-in vehicle which the vendor intends for resale is excluded from the sales price. N.Y. Tax Law §1101(b)(3). Title registration will not be issued until the commissioner has received proof that the sales and use tax has been paid. N.Y. Tax Law §1132(f). Sales of motor vehicles to nonresidents of New York are exempt from state and local sales tax. A nonresident is a purchaser that does not have a place of abode in New York, will not use the motor vehicle in carrying on any employment, trade, business, or profession in New York, and will not register the vehicle in the state. New York TB-ST-590. Purchased or leased tractors, trailers or semitrailers are exempt from sales tax. To qualify, the vehicle must be used in combination where the gross weight of the combination exceeds 26,000 pounds. New York TB-ST-890. Purchased or leased omnibuses are exempt from sales tax. To qualify, the vehicle must weigh at least 26,000 pounds, measure at least 40 feet in length, and be used to transport persons for hire by a certified or permitted omnibus carrier. New York TB-ST-890. Sales to Related Persons Sales of motor vehicles by the owner to his/her spouse, child, or parent are exempt from sales and use tax provided that the owner is not a dealer, as defined in Vehicle and Traffic Law §415 and clarified in N.Y. Comp. Codes R. & Regs. tit. 20, §528.15(b)(2). N.Y. Tax Law §1115(a)(14); N.Y. Comp. Codes R. & Regs. tit. 20, §528.15. Leases of Motor Vehicles N.Y. Tax Law §1111(i) imposes a special payment regime for sales and use tax on certain leases of motor vehicles, vessels and noncommercial aircraft. Instead of tax being due upon each periodic lease payment required under the lease, as is the case with other leases, the Tax Law requires the lessee to pay sales tax at the inception of the lease on the total amount of the lease payments for the entire term of the lease. The statute and regulations achieve this result by deeming all receipts due or consideration given or contracted to be given under the lease as having been paid or given at the inception of the lease. Therefore, no refund is allowed based upon the fact that receipts are not actually paid, as in the case of early termination of a lease, failure to exercise an option to renew a lease, or bad debt. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(a); In re Greenfield, New York Division of Tax Appeals Determination No. 827851 (Sept. 27, 2018). No refund of prepaid sales tax is allowed even when the vehicle was stolen, destroyed or moved out of state. In re Moerdler, New York Tax Appeals Tribunal Decision No. 816969 (April 26, 2001); In re Miehle, New York Tax Appeals Tribunal Decision No. 816201 (Aug. 24, 2000). Only motor vehicle leases for a term of one year or more fall within this special sales tax payment regime. However, the term “lease for a term of one year or more” is statutorily defined to include any lease for a shorter term that includes an option to renew or other like provision where the cumulative time period that the lease may be in effect upon exercise of such option or provision is one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(2)(I). For purposes of payment of tax at the inception of a lease, ‘motor vehicle' means a vehicle with a gross weight of 10,000 pounds or less. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(b)(3). Any vehicle with a gross vehicle weight of more than 10,000 pounds that is leased or rented is not subject to N.Y. Tax Law §1111(i). Tax on such vehicles must be imposed upon each lease payment due over the term of the lease. See N.Y. Comp. Codes R. & Regs. tit. 20, §541.9(c)(1)(i); New York TSB-A-08(27)S (June 9, 2008). Receipts for an excess mileage or use charge, excess wear charge, or a damage assessment are subject to tax at the time they are paid or due from the lessee. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(6). When a lessor accepts a vehicle for resale as a trade-in on a lease agreement, the total receipts do not include the value of the trade-in. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(5); New York TSB-A-96(19)S (March 22, 1996); New York TSB-A-95(20)S (June 12, 1995); New York TSB-A-10(53)S (Oct. 18, 2010) (an automobile dealer, acting as agent for a leasing company, may allow a customer a credit for the value of a trade-in vehicle against the capitalized cost of the vehicle to be leased, the New York Department of Taxation and Finance ruled, noting that if the credit reduced the payments due under the lease, the amount subject to sales tax also would be reduced). Renewal options are included in the computation of the tax, whether or not they are exercised or are for a period of one year or more. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(1). Third, the lessor must apply the rate of tax that is in effect for the local jurisdiction where the vehicle, vessel or aircraft is regularly garaged, moored, hangared or stored. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(3). Any use tax due is similarly based upon the rate in effect in the jurisdiction in New York where the property is regularly garaged, moored, hangared or stored. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(d)(2). A Terminal Rental Adjustment Clause (TRAC) means a provision of an agreement, such as a lease, which permits or requires the lease price to be adjusted upward or downward by reference to the amount realized by the lessor under the lease upon sale or other disposition of a motor vehicle (or other property). I.R.C. §7701(h)(3)(a). A TRAC lease is considered a lease and is subject to tax accordingly. N.Y. Veh. & Traf. Law § 397-b. Local Sales and Use Taxes New York taxes leases and rentals of motor vehicles. N.Y. Tax Law §1105(a); N.Y. Tax Law §1101(b)(5). New York authorizes cities and counties to impose local sales and use taxes in one of two ways. Under the first method of imposing local sales and use tax, the local sales and use tax applies to the same base as the state sales and use tax. N.Y. Tax Law §1210(iv)(a)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Under the second method, a jurisdiction may, but is not required to, impose a tax on certain transactions that comprise the state tax base. N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. However, charges for motor vehicle rentals are not among the qualifying transactions. N.Y. Tax Law §1105(a) - N.Y. Tax Law §1105(f); N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Therefore, leases and rentals of motor vehicles are subject to the local sales and use tax if the jurisdiction imposes its tax under the first method. For more information on the state sales and use tax applicable to the lease and rental of motor vehicles, see the Excise Tax Navigator, at New York 9.2. BNA-SUTN NY 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for motor vehicles are subject to tax. New York TB-ST-40. Motor vehicle repair parts purchased for use in performing taxable repair services are considered purchased for resale, and are not subject to tax at the time of purchase, so long as they becomes physical component parts of the motor vehicle being repaired, or the property is transferred to the purchaser of the service. N.Y. Comp. Codes R. & Regs. tit. 20, §526.6(c)(6). BNA-SUTN NY 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Maintaining, servicing or repairing tangible personal property, including motor vehicles, is subject to tax unless an exemption applies. N.Y. Comp. Codes R. & Regs. tit. 20, §527.5(a)(3). BNA-SUTN NY 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Motor vehicle service providers must collect sales tax on the total charge for parts and services that they provide, including parts and supplies such as windshield wipers, motor oil, and other products sold directly to the customer. New York TB-ST-40. Tangible personal property purchased for use in performing services which are taxable under N.Y. Tax Law §1105(c)(1), (3), and (5) purchased for resale and not subject to tax at the time of purchase, where the property so sold (i) becomes a physical component part of the property upon which the services are performed, or (ii) is later actual transferred to the purchaser of the service in conjunction with the performance of the service subject to tax. N.Y. Comp. Codes R. & Regs. tit. 20, §526.6(c)(6). BNA-SUTN NY 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Maintaining, servicing or repairing tangible personal property, including motor vehicles, is subject to tax unless an exemption applies. N.Y. Comp. Codes R. & Regs. tit. 20, §527.5(a)(3). BNA-SUTN NY 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Taxable New York imposes sales and use tax on each gallon of motor fuel and diesel motor fuel sold or used in New York. N.Y. Tax Law §1102(a)(1); New York TSB-M-11(8)S (June 10, 2011); New York Publication 787; New York Publication 790. For information on the rates of sales and use tax imposed on motor fuels, see the Sales and Use Tax Navigator, at New York 30.1. Alternative Fuels Through Aug. 31, 2021, sales of compressed natural gas (including liquefied natural gas), E85, and hydrogen fuel for use in motor vehicles are exempt from sales tax. N.Y. Tax Law § 1115(a)(42), as amended by 2015 N.Y. S.B. 6409, effective April 13, 2016; New York TSB-M-16(3)M (July 22, 2016); New York TSB-M-16(4)S (July 22, 2016). Uncompressed natural gas purchased for conversion into compressed natural gas and used or sold for use or consumption directly and exclusively in the engine of a motor vehicle is exempt through Aug. 31, 2021. N.Y. Tax Law § 1115(a)(42), as amended by 2015 N.Y. S.B. 6409, effective April 13, 2016; New York TSB-M-16(3)M (July 22, 2016); New York TSB-M-16(4)S (July 22, 2016). Through Aug. 31, 2021, biodiesel, or B20, sold or used as qualified fuel is subject to tax at 80 percent of any applicable cents-per-gallon rate. N.Y. Tax Law § 1111(n); see New York TSB-M-14(4)M (July 24, 2014); New York TSB-M-12(10)S (Aug. 3, 2012); New York TSB-M-12(6)S (May 3, 2012); New York Publication 718-F (providing instructions for calculating tax on B20); New York Notice N-17-1 (Feb. 2017). BNA-SUTN NY 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable In addition to the applicable state and local sales and use taxes, New York imposes a 6 percent special tax on the receipts from the rental of a passenger car that is rented or used in the state. N.Y. Tax Law §1160(a), as amended by 2009 A.B. 157, effective June 1, 2009. See New York TSB-M-09(1)S (April 30, 2009). The 6 percent rate took effect June 1, 2009. Prior to that the rate was 5 percent. For contracts entered into before June 1, 2009, but that expire after that date, taxpayers must apportion the rate accordingly. N.Y. Tax Law §1160(a), as amended by 2009 A.B. 157, effective June 1, 2009. See New York TSB-M-09(1)S (April 30, 2009). Local Sales and Use Taxes New York taxes leases and rentals of motor vehicles. N.Y. Tax Law §1105(a); N.Y. Tax Law §1101(b)(5). New York authorizes cities and counties to impose local sales and use taxes in one of two ways. Under the first method of imposing local sales and use tax, the local sales and use tax applies to the same base as the state sales and use tax. N.Y. Tax Law §1210(iv)(a)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Under the second method, a jurisdiction may, but is not required to, impose a tax on certain transactions that comprise the state tax base. N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. However, charges for motor vehicle rentals are not among the qualifying transactions. N.Y. Tax Law §1105(a) - (f); N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Therefore, leases and rentals of motor vehicles are subject to the local sales and use tax if the jurisdiction imposes its tax under the first method. For additional discussion of passenger car rental tax and special supplemental taxes in New York, see the Excise Tax Navigator, at New York 9.2. BNA-SUTN NY 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+No Guidance New York does not provide guidance on the tax treatment of motor vehicles held in resale inventory and used for demonstration purposes. See N.Y. Tax Law §1101-N.Y. Tax Law §1150. BNA-SUTN NY 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Motor vehicle service providers must collect sales tax on the total charge for parts and services that they provide. New York TB-ST-40. BNA-SUTN NY 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Motor vehicles are taxable as tangible personal property. N.Y. Tax Law §1105(a). Any credit amount for a trade-in vehicle which the vendor intends for resale is excluded from the sales price. N.Y. Tax Law §1101(b)(3). Tractors, trailers or semi-trailers, and property installed on such vehicles for their equipping, are not subject to sales tax provided such vehicle is used in combination where the gross vehicle weight of such combination exceeds twenty-six thousand pounds. Maintenance and repair on such motor vehicles is also exempt. N.Y. Tax Law §1115(a)(26); N.Y. Tax Law §1115(g)(2); New York TB-ST-890. Title registration will not be issued until the commissioner has received proof that the sales and use tax has been paid. N.Y. Tax Law §1132(f). Sales of motor vehicles to nonresidents of New York are exempt from state and local sales tax. A nonresident is a purchaser that does not have a place of abode in New York, will not use the motor vehicle in carrying on any employment, trade, business, or profession in New York, and will not register the vehicle in the state. New York TB-ST-590. Purchased or leased tractors, trailers or semitrailers are exempt from sales tax. To qualify, the vehicle must be used in combination where the gross weight of the combination exceeds 26,000 pounds. New York TB-ST-890. Purchased or leased omnibuses are exempt from sales tax. To qualify, the vehicle must weigh at least 26,000 pounds, measure at least 40 feet in length, and be used to transport persons for hire by a certified or permitted omnibus carrier. New York TB-ST-890. Sales to Related Persons Sales of motor vehicles by the owner to his/her spouse, child, or parent are exempt from sales and use tax provided that the owner is not a dealer, as defined in Vehicle and Traffic Law §415 and clarified in N.Y. Comp. Codes R. & Regs. tit. 20, §528.15(b)(2). N.Y. Tax Law §1115(a)(14); N.Y. Comp. Codes R. & Regs. tit. 20, §528.15. Leases of Motor Vehicles N.Y. Tax Law §1111(i) imposes a special payment regime for sales and use tax on certain leases of motor vehicles, vessels and noncommercial aircraft. Instead of tax being due upon each periodic lease payment required under the lease, as is the case with other leases, the Tax Law requires the lessee to pay sales tax at the inception of the lease on the total amount of the lease payments for the entire term of the lease. The statute and regulations achieve this result by deeming all receipts due or consideration given or contracted to be given under the lease as having been paid or given at the inception of the lease. Therefore, no refund is allowed based upon the fact that receipts are not actually paid, as in the case of early termination of a lease, failure to exercise an option to renew a lease, or bad debt. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(a); In re Greenfield, New York Division of Tax Appeals Determination No. 827851 (Sept. 27, 2018). Only motor vehicle leases for a term of one year or more fall within this special sales tax payment regime. However, the term “lease for a term of one year or more” is statutorily defined to include any lease for a shorter term that includes an option to renew or other like provision where the cumulative time period that the lease may be in effect upon exercise of such option or provision is one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(2)(I). For purposes of payment of tax at the inception of a lease, motor vehicle means a vehicle with a gross weight of 10,000 pounds or less. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(b)(3). Any vehicle with a gross vehicle weight of more than 10,000 pounds that is leased or rented is not subject to N.Y. Tax Law §1111(i). Tax on such vehicles must be imposed upon each lease payment due over the term of the lease. See N.Y. Comp. Codes R. & Regs. tit. 20, §541.9(c)(1)(i); New York TSB-A-08(27)S (June 9, 2008). Receipts for an excess mileage or use charge, excess wear charge, or a damage assessment are subject to tax at the time they are paid or due from the lessee. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(6). When a lessor accepts a vehicle for resale as a trade-in on a lease agreement, the total receipts do not include the value of the trade-in. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(5); New York TSB-A-96(19)S (March 22, 1996); New York TSB-A-95(20)S (June 12, 1995); New York TSB-A-10(53)S (Oct. 18, 2010) (an automobile dealer, acting as agent for a leasing company, may allow a customer a credit for the value of a trade-in vehicle against the capitalized cost of the vehicle to be leased, the New York Department of Taxation and Finance ruled, noting that if the credit reduced the payments due under the lease, the amount subject to sales tax also would be reduced). Renewal options are included in the computation of the tax, whether or not they are exercised or are for a period of one year or more. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(1). Third, the lessor must apply the rate of tax that is in effect for the local jurisdiction where the vehicle, vessel or aircraft is regularly garaged, moored, hangared or stored. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(c)(3). Any use tax due is similarly based upon the rate in effect in the jurisdiction in New York where the property is regularly garaged, moored, hangared or stored. N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(d)(2). A Terminal Rental Adjustment Clause (TRAC) means a provision of an agreement, such as a lease, which permits or requires the lease price to be adjusted upward or downward by reference to the amount realized by the lessor under the lease upon sale or other disposition of a motor vehicle (or other property). I.R.C. §7701(h)(3)(a). A TRAC lease is considered a lease and is subject to tax accordingly. N.Y. Veh. & Traf. Law § 397-b. Local Sales and Use Taxes New York taxes leases and rentals of motor vehicles. N.Y. Tax Law §1105(a); N.Y. Tax Law §1101(b)(5). New York authorizes cities and counties to impose local sales and use taxes in one of two ways. Under the first method of imposing local sales and use tax, the local sales and use tax applies to the same base as the state sales and use tax. N.Y. Tax Law §1210(iv)(a)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Under the second method, a jurisdiction may, but is not required to, impose a tax on certain transactions that comprise the state tax base. N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. However, charges for motor vehicle rentals are not among the qualifying transactions. N.Y. Tax Law §1105(a) - (f); N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Therefore, leases and rentals of motor vehicles are subject to the local sales and use tax if the jurisdiction imposes its tax under the first method. For more information on the state sales and use tax applicable to the lease and rental of motor vehicles, see the Excise Tax Navigator, at New York 9.2. BNA-SUTN NY 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair and replacement parts for motor vehicles are generally subject to tax. New York TB-ST-40. Motor vehicle repair parts purchased for use in performing taxable repair services are considered purchased for resale, and are not subject to tax at the time of purchase, so long as they becomes physical component parts of the motor vehicle being repaired, or the property is transferred to the purchaser of the service. N.Y. Comp. Codes R. & Regs. tit. 20, §526.6(c)(6). BNA-SUTN NY 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Taxable Maintaining, servicing or repairing tangible personal property, including motor vehicles, is subject to tax unless an exemption applies. N.Y. Comp. Codes R. & Regs. tit. 20, §527.5(a)(3). BNA-SUTN NY 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Motor vehicle service providers must collect sales tax on the total charge for parts and services that they provide, including parts and supplies such as windshield wipers, motor oil, and other products sold directly to the customer. New York TB-ST-40. Tangible personal property purchased for use in performing services which are taxable under 1105(c)(1),(3), and (5) of the Tax Law purchased for resale and not subject to tax at the time of purchase, where the property so sold (i) becomes a physical component part of the property upon which the services are performed, or (ii) is later actual transferred to the purchaser of the service in conjunction with the performance of the service subject to tax. N.Y. Comp. Codes R. & Regs. tit. 20, §526.6(c)(6). BNA-SUTN NY 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Taxable Maintaining, servicing or repairing tangible personal property, including motor vehicles, is subject to tax unless an exemption applies. N.Y. Comp. Codes R. & Regs. tit. 20, §527.5(a)(3). BNA-SUTN NY 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Taxable New York imposes sales and use tax on each gallon of motor fuel and diesel motor fuel sold or used in New York. N.Y. Tax Law §1102(a)(1); New York TSB-M-11(8)S (June 10, 2011); New York Publication 787; New York Publication 790. For information on the rates of sales and use tax imposed on motor fuels, see the Sales and Use Tax Navigator, at New York 30.1. Alternative Fuels Through Aug. 31, 2021, sales of compressed natural gas (including liquefied natural gas), E85, and hydrogen fuel for use in motor vehicles are exempt from sales tax. A partial exemption is available for B-20 fuel. N.Y. Tax Law § 1115(a)(42), as amended by 2015 N.Y. S.B. 6409, effective April 13, 2016; New York TSB-M-16(3)M (July 22, 2016); New York TSB-M-16(4)S (July 22, 2016). Uncompressed natural gas purchased for conversion into compressed natural gas and used or sold for use or consumption directly and exclusively in the engine of a motor vehicle is exempt through Aug. 31, 2021. N.Y. Tax Law § 1115(a)(42), as amended by 2015 N.Y. S.B. 6409, effective April 13, 2016; New York TSB-M-16(3)M (July 22, 2016); New York TSB-M-16(4)S (July 22, 2016). Fuel Use Tax New York imposes fuel use tax on motor fuel and diesel motor fuel used by qualified motor vehicles that operate on New York state public highways. N.Y. Tax Law §523. “Qualified motor vehicles” are motor vehicles, other than recreational vehicles, used, designed, or maintained for the transportation of persons or property that:• have two axles and a gross weight exceeding 26,000 pounds; N.Y. Tax Law §521(b)(1)(i). • have three or more axles, regardless of weight; N.Y. Tax Law §521(b)(1)(ii). or • use the power train and the trailing unit in combination, and the combined weight is more than 26,000 pounds. N.Y. Tax Law §521(b)(1)(iii). For additional discussion of New York's fuel use tax, see the Excise Tax Navigator, at New York 8.1. BNA-SUTN NY 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Motor vehicle service providers must collect sales tax on the total charge for parts, including tires, and services that they provide. New York TB-ST-40. BNA-SUTN NY 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends Effective June 1, 2015, New York exempts from sales and use tax receipts exceeding$230,000 from the sale, lease, or use of a vessel, including any outboard motor or trailer sold in conjunction with the vessel. N.Y. Tax Law §1115(jj)(1), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015) (addressing the changed law regarding sales and use tax on vessels); New York TSB-A-16(12)S (April 25, 2016). Any amount of the price that exceeds $230,000 is exempt from tax. N.Y. Tax Law §1115(jj)(1), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-A-17(6)S (May 1, 2017); New York TSB-A-16(12)S (April 25, 2016); New York TSB-M-15(2)S (July 24, 2015) (addressing the changed law regarding sales and use tax on vessels). When computing the vessel's price for purposes of the $230,000 cap, New York includes:• the price of the vessel itself, including: o property affixed to the vessel for its equipping (e.g., furniture, fixtures, built-in appliances, window coverings, climate control systems, navigation equipment, or entertainment systems); and o property that the vessel is outfitted with at the time of sale that is necessary for its normal operation (e.g., an anchor, a flare gun, flotation devices, pumps, ropes, cables, chains, lifeboat or life raft); • the price of any outboard motor sold with the vessel; • the price of any trailer sold with the vessel; and • any charges by the seller for shipping or delivery. New York TSB-A-17(6)S (May 1, 2017); New York TSB-M-15(2)S (July 24, 2015). The combined price on these items is reduced by the amount of any trade-in allowance. Items that are not necessary for the normal operation of the vessel are not included in calculating the $230,000 cap. Such items include deck furniture, decorative items, tableware, glassware, cookware, and any other items not necessary for the normal operation of the vessel. New York TSB-A-17(6)S (May 1, 2017). The reciprocal credit for sales or use tax paid to another state or jurisdiction is limited to the amount of tax paid on the purchase price of the vessel up to $230,000, regardless of the actual purchase price or actual amount of tax paid to the other state or jurisdiction. New York TSB-M-15(2)S (July 24, 2015). For vessels purchased out-of-state by New York residents that are used out-of-state but later become subject to New York's use tax, the vessel's purchase price, current market value, or fair rental value will be deemed not to exceed $230,000. N.Y. Tax Law §1115(jj)(2), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015). Receipts exceeding that amount will be exempt from calculation of the tax due. N.Y. Tax Law §1115(jj)(3), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015). Payment of sales and use tax on the lease of water vessels is due at the inception of the lease on the total amount of the lease payments for the entire term of the lease, instead of the tax being due upon each lease payment where the lease is for a term or one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(a). Sales tax payment is also due at the lease inception where the lease is for any period of less than one year but includes one or more options to renew, where if exercised the cumulative period of the lease would be one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(b). Temporary Presence in State “Use” of a vessel occurs (1) when the purchaser uses the vessel in New York for a period exceeding 90 consecutive days; (2) when the vessel is first required to be registered within New York; or (3) on the date the vessel is first registered within the state. N.Y. Tax Law §1118(13), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015). The limitation provided under N.Y. Tax Law §1118, will only apply to the first $230,000 of the out-of-state purchase price of the vessel. N.Y. Tax Law §1115(jj)(6), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015. BNA-SUTN NY 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for vessels are subject to tax. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Repair and maintenance services to water vessels are subject to tax. N.Y. Tax Law §1105(c)(3). BNA-SUTN NY 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Oil, filters and other maintenance items for vessels are subject to tax. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Taxable Maintenance services to water vessels are subject to tax. N.Y. Tax Law §1105(c)(3). BNA-SUTN NY 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Taxable Fuel is subject to tax as tangible personal property. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Commercial vessels in New York are exempt from use tax when they are primarily engaged in interstate or foreign commerce. N.Y. Tax Law §1115(a)(8); N.Y. Comp. Codes R. & Regs. tit. 20, §528.9. The purchase of a commercial vessel will not be subject to tax if the purchaser's intent at the time of sale is for 50 percent or more of the receipts derived from the vessels activities to be from interstate or foreign commerce. New York TSB-A-14(5)S (Jan. 29, 2014). A commercial vessel is any type of watercraft used primarily (1) to transport persons or property, for hire, or (2) by the purchaser of the vessel to transport such person's tangible personal property in the conduct of such person's business, or (3) both. N.Y. Tax Law §1101(b)(16); N.Y. Comp. Codes R. & Regs. tit. 20, §528.9(a)(3). Charter vessels that take extended trips into waters of states other than New York, even when the trips begin and end at a New York port, are eligible for exemption from use tax. In re Celtic Quest, Inc., New York Division of Tax Appeals Determination No. 825281 (April 3, 2014) (more than 50 percent of the petitioner's receipts were derived from interstate commerce because extended trips to other states' waters were intentional and not incidental to his business operations). Ferry boats used directly and predominantly to provide ferry service for vehicles and passengers in New York state by a ferry company whose rates for ferry service are regulated by the county or counties in which that service is provided are exempt from tax. In addition to this ferry boat exemption, fuel, provisions, and supplies used in operating an exempt ferry boat, and property purchased or used to maintain or repair an exempt ferry boat, are also exempt from sales tax. These exemptions do not apply to charges for the service of maintaining, servicing, or repairing an exempt ferry boat or related property. New York TSB-M-08(11)S. Retail sales of fishing vessels that are used directly and predominantly in the harvesting of fish for sale, and any tangible personal property used by or purchased for the use of such vessels for fuel, provisions, supplies, maintenance, and repairs, are not subject to sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985) (summarizing the enactment of the sales and use tax exemption for commercial fishing vessels, which expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) -property used in the production of tangible personal property, gas, electricity, refrigeration, and steam). For vessels purchased out-of-state by New York residents that are used out-of-state but later become subject to New York's use tax, the vessel's purchase price, current market value, or fair rental value will be deemed not to exceed $230,000. N.Y. Tax Law §1115(jj)(2), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015). Receipts exceeding that amount will be exempt from calculation of the tax due. N.Y. Tax Law §1115(jj)(3), as added by 2015 N.Y. A.B. 3009, effective June 1, 2015; see also New York TSB-M-15(2)S (July 24, 2015). Payment of sales and use tax on the lease of water vessels is due at the inception of the lease on the total amount of the lease payments for the entire term of the lease, instead of the tax being due upon each lease payment where the lease is for a term of one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(a). Sales tax payment is also due at the lease inception where the lease is for any period of less than one year but includes one or more options to renew, where if exercised the cumulative period of the lease would be one year or more. N.Y. Tax Law §1111(i); N.Y. Comp. Codes R. & Regs. tit. 20, §527.15(b). Refund for Tax Paid on Certain Vessels Used for Transportation of Vessels Taxpayers may apply for a refund or credit of sales or use tax paid on vessels and on equipment, parts, lubricants, fuels, and repairs for such vessels if the vessels have the capacity to seat 20 or more passengers and are used by the vessel operator in the transportation on water of passengers for hire. The amount of the refund or credit allowed depends on the vessel's “local transit service percentage.” N.Y. Tax Law §1119(b); New York TSB-A-17(6)S (May 1, 2017). BNA-SUTN NY 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Property used by or purchased for the use of commercial vessels primarily engaged in interstate or foreign commerce is not subject to tax. This may include, but is not limited to provisions, supplies, and maintenance and repair parts (other than articles purchased for the original equipping of a new ship). N.Y. Tax Law §1105(c)(3)(iv); see also N.Y. Tax Law §1115(a)(8). Additionally, repair and replacement parts for qualified ferry boats are exempt from tax. N.Y. Tax Law §1115(a)(43); New York TSB-M-08(11)S. The exemption applies to ferry boats used directly and predominantly to provide ferry service for vehicles and passengers within a county or counties by a ferry company whose rates for that ferry service are regulated by the county or counties in which that service is provided. N.Y. Tax Law §1115(a)(43); New York TSB-M-08(11)S. BNA-SUTN NY 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Exempt Services rendered with respect to commercial vessels primarily engaged in interstate or foreign commerce, and property used by or purchased for the use of such vessels for fuel, provisions, supplies, and maintenance and repairs (other than articles purchased for the original equipping of a new ship), are not subject to tax. N.Y. Tax Law §1105(c)(3)(iv); see also N.Y. Tax Law §1115(a)(8). Services rendered with respect to fishing vessels and property used by or purchased for the vessels are not subject to tax. N.Y. Tax Law §1105(c)(3)(vii); see also N.Y. Tax Law §1115(a)(24). BNA-SUTN NY 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Property used by or purchased for the use of commercial vessels primarily engaged in interstate or foreign commerce is not subject to tax. This may include, but is not limited to provisions, supplies, and maintenance and repair parts (other than articles purchased for the original equipping of a new ship). N.Y. Tax Law §1105(c)(3)(iv); see also N.Y. Tax Law §1115(a)(8). Additionally, repair and replacement parts for qualified ferry boats are exempt from tax. N.Y. Tax Law §1115(a)(43); New York TSB-M-08(11)S. The exemption applies to ferry boats used directly and predominantly to provide ferry service for vehicles and passengers within a county or counties by a ferry company whose rates for that ferry service are regulated by the county or counties in which that service is provided. N.Y. Tax Law §1115(a)(43); New York TSB-M-08(11)S. BNA-SUTN NY 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Exempt Services rendered with respect to commercial vessels primarily engaged in interstate or foreign commerce, and property used by or purchased for the use of such vessels for fuel, provisions, supplies, and maintenance and repairs (other than articles purchased for the original equipping of a new ship), are not subject to tax. N.Y. Tax Law §1105(c)(3)(iv); see also N.Y. Tax Law §1115(a)(8). Services rendered with respect to fishing vessels and property used by or purchased for the vessels are not subject to tax. N.Y. Tax Law §1105(c)(3)(vii); see also N.Y. Tax Law §1115(a)(24). BNA-SUTN NY 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Exempt Fuel used by or purchased for use in commercial vessels primarily engaged in interstate or foreign commerce, by qualified ferry boats, or by fishing vessels, is exempt from tax. N.Y. Tax Law §1115(a)(8); N.Y. Tax Law §1115(a)(24); N.Y. Tax Law §1115(a)(43); New York TSB-M-08(11)S. BNA-SUTN NY 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Exempt Retail sales of fishing vessels that are used directly and predominantly in the harvesting of fish for sale, are not subject to sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). The enactment of the sales and use tax exemption for commercial fishing vessels expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) for property used in the production of tangible personal property, gas, electricity, refrigeration, and steam. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Exempt Retail sales of fishing vessels that are used directly and predominantly in the harvesting of fish for sale, and any tangible personal property used by or purchased for the use of such vessels for repairs, are not subject to sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). The enactment of the sales and use tax exemption for commercial fishing vessels expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) for property used in the production of tangible personal property, gas, electricity, refrigeration, and steam. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Repair services rendered with respect to fishing vessels are not subject to tax. N.Y. Tax Law §1105(c)(3)(vii); see also N.Y. Tax Law §1115(a)(24). BNA-SUTN NY 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Exempt Tangible personal property used by or purchased for the use on commercial fishing vessels for maintenance, are not subject to sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). The enactment of the sales and use tax exemption for commercial fishing vessels expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) for property used in the production of tangible personal property, gas, electricity, refrigeration, and steam. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Maintenance services rendered with respect to fishing vessels are not subject to tax. N.Y. Tax Law §1105(c)(3)(vii); see also N.Y. Tax Law §1115(a)(24). BNA-SUTN NY 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Fuel purchased for the use of commercial fishing vessels is exempt from sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Exempt Tangible personal property used on commercial fishing vessels is exempt from sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). The enactment of the sales and use tax exemption for commercial fishing vessels expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) for property used in the production of tangible personal property, gas, electricity, refrigeration, and steam. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Exempt Retail sales of fishing vessel tools and supplies are not subject to sales and use tax. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). The enactment of the sales and use tax exemption for commercial fishing vessels expanded the exemption previously available to commercial fishing vessels under N.Y. Tax Law §1115(a)(12) for property used in the production of tangible personal property, gas, electricity, refrigeration, and steam. N.Y. Tax Law §1115(a)(24); New York TSB-M-85(17)S (Oct. 7, 1985). BNA-SUTN NY 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The purchase, lease, or rental of rolling stock is subject to tax in New York. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Rolling stock repair and replacement parts are subject to tax in New York. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Depends Repair and maintenance services to rolling stock are subject to tax. N.Y. Tax Law §1105(c)(3). Services rendered with respect to railroad rolling stock primarily engaged in carrying freight in intrastate, interstate, or foreign commerce are not subject to tax. N.Y. Tax Law §1105(c)(3)(viii). However, the exemption does not include any charge for parts or other tangible personal property whether the property has become a physical component part of the property upon which the services are performed or has been transferred to the services purchaser together with the taxed services. N.Y. Tax Law §1105(c)(3)(viii). BNA-SUTN NY 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Rolling stock repair and replacement parts are subject to tax in New York. N.Y. Tax Law §1105; N.Y. Tax Law §1110; N.Y. Comp. Codes R. & Regs. tit. 20, §525.1; N.Y. Comp. Codes R. & Regs. tit. 20, §525.2. BNA-SUTN NY 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Depends Repair and maintenance services to rolling stock are subject to tax. N.Y. Tax Law §1105(c)(3). Services rendered with respect to railroad rolling stock primarily engaged in carrying freight in intrastate, interstate, or foreign commerce are not subject to tax. N.Y. Tax Law §1105(c)(3)(viii). However, the exemption does not include any charge for parts or other tangible personal property whether the property has become a physical component part of the property upon which the services are performed or has been transferred to the services purchaser together with the taxed services. BNA-SUTN NY 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Taxable New York does not provide use-based exemptions for rolling stock fuel. Rolling stock fuel is therefore taxable. N.Y. Tax Law §1115. BNA-SUTN NY 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Depends Transportation services are subject to sales tax regardless of where the charge is paid as long as service is provided within the state. N.Y. Tax Law §1105(c)(10). BNA-SUTN NY 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Depends Transportation services are subject to sales tax regardless of where the charge is paid as long as service is provided within the state. N.Y. Tax Law §1105(c)(10). BNA-SUTN NY 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Depends Transportation services are subject to sales tax regardless of where the charge is paid as long as service is provided within the state. N.Y. Tax Law §1105(c)(10). The operator of a passenger charter sailing excursion business in which passengers were given the choice among several destinations was found to be providing a nontaxable transportation service because the operator maintained full responsibility for the operation of the boat at all times and was deemed to retain dominion and control over the boat. New York TSB-A-97(52)S (Aug. 25, 1997); New York TSB-A-00(30)S (Aug. 3, 2000) (aircraft rental found to be nontaxable transportation service because dominion and control not relinquished). BNA-SUTN NY 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Transportation services provided by a bus are specifically excluded from the sale of taxable transportation services. N.Y. Tax Law §1105(c)(10). Effective April 12, 2018, the definition of bus means “any motor vehicle with a seating capacity of at least fifteen persons, excluding the driver, that does not otherwise qualify as a limousine.” Effective April 12, 2018, the definition of limousine is expanded to include any vehicle with a seating capacity of between fifteen and twenty persons, excluding the driver, that has only two axles and four tires. Prior to April 12, 2018, a limousine was defined only as a vehicle with a seating capacity of up to fourteen persons, excluding the driver. N.Y. Tax Law §1101(b)(34), as amended by 2017 N.Y. S.B. 7509, Part NNN, effective April 12, 2018; New York TSB-M-18(1)S (May 25, 2018). For bus charters, where a charterer's rights are limited to boarding the bus and riding to the agreed destination, the bus company is providing a nontaxable transportation service. New York TSB-M-85(17)S (April 10, 1984), Bus Company Transactions — Transp. Service vs. Equipment Rental. The bus company guidelines are often referenced in other rulings concerning vehicle or vessel rentals. New York TSB-A-98(83)S (Dec. 2, 1998) (helicopter services); New York TSB-A-98(46)S (July 29, 1998) (yacht charters). BNA-SUTN NY 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable Transportation services provided by a taxicab are not subject to tax. N.Y. Tax Law §1105(c)(10). Additionally, effective June 29, 2017, prearranged transportation network company trips are not taxable transportation services. N.Y. Tax Law §1101(b)(34), as amended by 2017 N.Y. A.B. 3009, Part AAA, § 17, effective July 9, 2017; N.Y. Tax Law §1105(c)(10); New York TSB-M-17(1)M (June 23, 2017); New York TSB-M-17(1)S (June 23, 2017). Prior to June 29, 2017, prearranged transportation network company trips constitute taxable transportation services. N.Y. Tax Law §1101(b)(34), as amended by 2017 N.Y. A.B. 3009, Part AAA, § 17, effective July 9, 2017; N.Y. Tax Law §1105(c)(10); New York TSB-M-17(1)M (June 23, 2017); New York TSB-M-17(1)S (June 23, 2017). A tax is imposed on any taxicab ride that begins in New York City and ends anywhere within the boundaries of the Metropolitan Commuter Transport District. N.Y. Tax Law §1281. For additional discussion of tax on car services, taxi cabs and other forms of transit in New York, see the Excise Tax Navigator, at New York 9.5. BNA-SUTN NY 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Taxable New York taxes sales of transportation services provided by limousine. N.Y. Tax Law §1105(c)(10). Transportation services include livery services (e.g., limousine or other motor vehicle with a driver, but excluding taxicabs and busses). N.Y. Tax Law §1101(b)(34). Effective April 12, 2018, the definition of limousine is expanded to include any vehicle with a seating capacity of between fifteen and twenty persons, excluding the driver, that has only two axles and four tires. Prior to April 12, 2018, a limousine was defined only as a vehicle with a seating capacity of up to fourteen persons, excluding the driver. N.Y. Tax Law §1101(b)(34), as amended by 2017 N.Y. S.B. 7509, Part NNN, effective April 12, 2018; New York TSB-M-18(1)S (May 25, 2018). Local Sales and Use Tax New York taxes sales of transportation services. N.Y. Tax Law §1105(c)(10). Transportation services generally include livery services (e.g., a limousine or other motor vehicle with a driver, but excluding taxicabs and busses). N.Y. Tax Law §1101(b)(34). New York law authorizes cities and counties to impose local sales and use taxes in one of two ways. Under the first method of imposing local sales and use tax, the local sales and use tax applies to the same base as the state sales and use tax. N.Y. Tax Law §1210(iv)(a)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Under the second method, a jurisdiction may, but is not required to, impose a tax on certain transactions that comprise the state tax base. N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. However, charges for transportation services are not among the qualifying transactions. N.Y. Tax Law §1105(a) - (f); N.Y. Tax Law §1210(iv)(b)(1), as amended by 2019 N.Y. A.B. 5246, effective May 29, 2019. Therefore, transportation services (which exclude taxi cab services) are subject to the local sales and use tax if the jurisdiction imposes its tax under the first method. BNA-SUTN NY 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable The service of transporting goods is not subject to sales tax unless the charge is included as part of the bill for the sale of taxable property or services. N.Y. Tax Law §1105(a); N.Y. Tax Law §1105(c); New York TB-ST-341. For more information on any applicable excise taxes, see New York 9. BNA-SUTN NY 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Depends As of Jan. 1, 2015, storage-in-transit services are nontaxable transportation services under enumerated conditions. New York TSB-M-14(16)S (Nov. 17, 2014). The following are the requirements to treat storage-in-transit services as nontaxable transportation services: • the mover provides the customer with a bill of lading with a destination address that is different from the address where the property is to be moved and different from address where the property will be stored; • the mover is responsible for any loss or damage to the property during the storage-in-transit period; • the mover remains responsible to complete the moving process for the entire storage-in-transit period; and • any charge for storage-in-transit made or identified prior to the transportation service does not exceed the charge for the actual transportation service. New York TSB-M-14(16)S (Nov. 17, 2014). Before Jan. 1, 2015, storage-in-transit services provided by a mover were treated as taxable storage services if they involved the storage of items in excess of 30 days. N.Y. Tax Law §1105(a); N.Y. Tax Law §1105(c); New York TB-ST-341. BNA-SUTN NY 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Taxable Providing parking, garaging or storing for motor vehicles by entities that operate a garage, parking lot or other place of business engaged in providing parking, garaging or storing for motor vehicles is a taxable service. N.Y. Tax Law § 1105(c)(6). However, receipts paid for parking services to a homeowner's association by its members or receipts paid by members to a person leasing the parking facility from the homeowner's association are not subject to tax. N.Y. Tax Law § 1105(c)(6); New York TB-ST-677; New York TSB-A-14(24)S (July 22, 2014) (fines for illegal parking are not taxable parking charges); see New York TSB-A-02(41)S (July 26, 2002) (airport parking and shuttle service taxable as parking service because neither offered independently); New York TSB-A-08(5)S (Jan. 22, 2008) (airport parking and shuttle service taxable because customers would not need shuttle without parking, and neither service was offered independently); New York TSB-M-08(14)S (Dec. 12, 2008) (to be exempt from sales tax, lease or rental of parking space must be subject to written agreement giving lessee exclusive right to occupy space); New York TSB-A-10(8)S (Feb. 25, 2010) (educational institution that is part of State University of New York must charge sales tax on vehicle registration fees for parking services); New York TSB-A-09(27)S (June 26, 2009) (Rental charges under a lease agreement that give a tenant the exclusive right to occupy a specified garage are not subject to sales and use tax because the nature of the payments are for a leased premises and not for garage or storage services). BNA-SUTN NY 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable Charges for mooring are not taxable. N.Y. Comp. Codes R. & Regs. tit. 20, §527.6(b)(3), Example 1. BNA-SUTN NY 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable Charges for towing are subject to sales tax. See New York TSB-A-97(8)S (Feb. 24, 1997) and New York TSB-A-97(10)S (Feb. 25, 1997) (New York City marshals are required to collect and remit sales tax on charges for towing services when owner claims vehicle from marshal). BNA-SUTN NY 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Depends Car wash services are taxable when car wash personnel wash, wax, or vacuum the car or assist with these services. New York TB-ST-105. However, certain coin-operated car wash services are exempt. N.Y. Tax Law §1115(t); New York TB-ST-105. To be an exempt coin-operated car wash service, the car must be:• washed, waxed, or vacuumed exclusively with coin-operated equipment; • washed without any assistance by the car wash employees; and • washed, waxed, or vacuumed by a customer or by fully automated equipment. New York TB-ST-105. BNA-SUTN NY 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Depends Detailing services that are performed, at least in part, by car wash employees are taxable. New York TB-ST-105. However, the services of cleaning or shampooing automobile carpets, upholstery, and other car interior surfaces that are covered in cloth or vinyl fabrics or leather by applying cleaning compounds or solvents are not taxable. New York TB-ST-105. The exclusion for carpet and upholstery cleaning does not apply to the mere vacuuming of car interiors or to other services incidental to washing cars, such as wiping floor mats, waxing the exterior, and cleaning vinyl tops. New York TB-ST-105. BNA-SUTN NY 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Depends Emissions Inspection Equipment Enhanced emissions inspection equipment for use in emissions inspection and maintenance is exempt from sales and use tax when the equipment is purchased and used by an official inspection station that is authorized to conduct motor vehicle emission inspections. N.Y. Tax Law §1115(a)(31). BNA-SUTN NY 29.15.
+
+==================================================

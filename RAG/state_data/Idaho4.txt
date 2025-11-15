@@ -1,0 +1,411 @@
+State: Idaho
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Aircraft are taxable as a sale of tangible personal property. Idaho Code §63-3612(2)(h). Aircraft Leasing The lease of an aircraft is taxable, subject to a few exemptions. An aircraft lease is exempt if:• the sale, purchase, or use of aircraft is primarily used for air ambulance services; or • the sale or purchase of aircraft is for use outside Idaho by nonresidents, even though delivery is made within the state, but only when: ○ the aircraft will be taken from the point of delivery to a point outside the state; and ○ the aircraft will not be in the state more than 90 days in any 12-month period. Idaho Code §63-3622GG; Idaho Commission Decision Docket No. 26129 (April 24, 2015). Renting an aircraft without an operator (a “bare rental”) is taxable and the owner must collect tax on each rental payment. The rental of an aircraft with an operator (a “fully equipped rental”) is considered a service and therefore not taxable. Idaho Commission Decisions Docket No. 0-859-267-072 (Jan. 22, 2018) (rejecting petitioner's claim than its aircraft was purchased for resale because it did not resell the aircraft but rather made a fully equipped rental, and therefore the owner was subject to use tax). Further, aircraft purchased and held for resale are exempt from sales and use tax. Idaho Regs. §35.01.02.128; Idaho Code §63-3621A.; Idaho Commission Decision Docket No. 24978 (Feb. 13, 2017) (where purchaser of airplane has no documentation to substantiate sale for resale, such as a sales contract, payments received by purchaser for labor, FAA registration or documents related to the acquisition, assembly, or disposal of each airplane, a purchase will not qualify for sale for resale exemption). However, aircraft become taxable when used for purposes other than demonstration or display. Idaho Regs. §35.01.02.037(10); Idaho Code §63-3621A. Flight Instruction Aircraft used primarily for flight instruction are not considered to be held for resale, so their purchase or lease is taxable (including their parts and oil). However, the purchase of the flight instruction by a student is not subject to sales tax. Idaho Regs. §35.01.02.037.08; Idaho Commission Decision Docket No. 1-762-365-440 (Dec. 29, 2017) (charges for fuel and maintenance by lessee are included in the total sales price of the lease and are subject to tax). The purchase of aircraft, aircraft parts and oil used primarily for flying services, such as recreational flights, is taxable. Recreational flights include balloon rides, sightseeing, wildlife viewing, and similar activities. Idaho State Tax Commission, Aircraft (July 14, 2015). Example: A man purchased an aircraft in 2012. He allegedly purchased it for flight training purposes, specifically to train pilots in operations and navigation under instrument conditions. In June 2013, he brought the aircraft to Idaho, at which time the aircraft allegedly suffered maintenance issues with the flight training equipment. The man used the aircraft exclusively for personal purposes through 2014. Result: The man owes sales and use tax on the purchase of the aircraft. Idaho Commission Decision Docket No. 38924 (Oct. 30, 2015). Temporary Presence in State Aircraft may not be used in Idaho more than 90 days in any 12-month period without incurring use tax on the fair market value of the aircraft at the time it entered Idaho. Idaho Regs. §35.01.02.037.02.c.ii; Idaho Regs. §35.01.02.073; Idaho Code §63-3621A. Wild Fire Suppression Aircraft Effective June 30, 2016, Idaho provides a sales and use tax exemption for the sale, lease, purchase, or use of fixed-wing aircraft that is used primarily as an air tactical group supervisor platform under contract with a governmental entity for wild fire activity. Idaho Code §63-3622GG(5), as added by 2016 Idaho H. 540, effective June 30, 2016; see also Idaho Tax Update for June 2016. Idaho also exempts repair and replacement materials and parts installed, affixed, or applied in connection with the remodeling, repair, and maintenance of such aircraft for wild fire activity. Idaho Code §63-3622GG(4), as added by 2016 Idaho H. 540, effective June 30, 2016; see also Idaho Tax Update for June 2016. BNA-SUTN ID 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Intrastate and noncommercial aircraft repair and replacement parts are subject to sales and use tax, absent some exemption. Idaho Code §63-3612(2)(h). An exemption would apply to repair and replacement materials and parts for aircraft primarily used for air ambulance services, and for fixed-wing aircraft used primarily as an air tactical group supervisor platform under contract with a governmental entity for wild fire activity. Idaho Code §63-3622GG(4), as amended by 2016 Idaho H. 540, effective June 30, 2016. Further, parts purchased to repair or maintain aircraft held for resale are not subject to sales and use tax. Idaho Regs. §35.01.02.037(10)(c); Idaho Code §63-3621A. Federal Aviation Administration (FAA) approved materials, parts and components installed on non-resident privately owned aircraft by qualified employees of an FAA approved repair station are also exempt from sales and use tax. Idaho Code §63-3622GG(4); Idaho Regs. §35.01.02.037; Idaho Commission Decision Docket No. 26129 (April 24, 2015). This includes parts that are being installed as a result of a warranty or a service agreement. Idaho Regs. §35.01.02.037; Idaho Regs. §35.01.02.049, effective March 28, 2018. BNA-SUTN ID 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Aircraft repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. Persons repairing, renovating, or altering aircraft are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property unless an exemption applies. Idaho Regs. §35.01.02.062.02. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Intrastate and noncommercial aircraft oil and other maintenance items are subject to sales and use tax, absent some exemption. Idaho Code §63-3612(2)(h). Parts purchased to repair or maintain aircraft held for resale are not subject to sales and use tax. Idaho Regs. §35.01.02.037.10.c; Idaho Code §63-3621A. BNA-SUTN ID 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02. The sales price of the parts or materials used must be separately stated and sales tax must be charged on parts or materials transferred to a customer. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Aircraft fuel is subject to the Idaho Motor Fuels Tax, and therefore is exempt from sales and use tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of aircraft. Idaho Code §63-2401(18). Idaho statutes and regulations do not provide for other use-based exemptions for aircraft fuel. Idaho Code §63-3621. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt The sale, purchase, or use of aircraft is exempt if it is primarily used to provide passenger or freight services for hire as a common carrier. Idaho Code §63-3622GG. The sales and use tax exemptions related to aircraft provided in Idaho Code §63-3622GG were scheduled to expire as of June 30, 2016. The Idaho legislature removed the sunset provision and made the exemptions permanent effective Feb. 19, 2016. 2016 Idaho H. 361, effective Feb. 19. 2016. An aircraft lease is exempt if primarily used to provide passenger or freight services for hire as a common carrier and only if:• the person operates the aircraft under the authority of the laws of Idaho, the United States, or any foreign government; • the aircraft is used to provide services indiscriminately to the public;and • the aircraft itself transports the person or property from one location on the ground or water to another. Idaho Code §63-3622GG. The primary use of the aircraft determines whether it qualifies for exemption. Flight hours are used to determine whether an aircraft is primarily used in an exempt capacity. Idaho Code §63-3622GG; Idaho Commission Decisions Docket No. 0-093-507-584 (Jan. 27, 2017); Idaho Commission Decisions Docket No. 1-472-090-112 (Jan. 27, 2017); Idaho Commission Decisions Docket No. 25522 (Dec. 1, 2016). An aircraft lease is also exempt if the sale, purchase, or use of aircraft is primarily used for air ambulance services. The sale or purchase of aircraft for use outside Idaho by nonresidents is exempt, even though delivery is made within the state, but only when:• the aircraft will be taken from the point of delivery to a point outside the state;and • the aircraft will not be in the state more than 90 days in any 12-month period. Idaho Code §63-3622GG; Idaho Commission Decision Docket No. 26129 (April 24, 2015). BNA-SUTN ID 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Aircraft repair and replacement materials and parts installed, affixed or applied to, or sold or purchased to be installed, affixed or applied to aircraft in connection with the remodeling, repair, or maintenance of aircraft are exempt. Idaho Code §63-3622GG(4). Where the aircraft is primarily used to provide passenger or freight services for hire as a common carrier, repair and replacement parts will be exempt only if: • the person operates the aircraft under the authority of the laws of Idaho, the United States, or any foreign government; • the aircraft is used to provide services indiscriminately to the public;and • the aircraft itself transports the person or property from one location on the ground or water, to another. Idaho Code §63-3622GG(1). Primary Use Calculation In determining primary use, the Tax Commission will consider the hours of exempt or nonexempt use as a percentage of the total hours during the reporting period. Additionally, the Tax Commission will only consider hours of actual use in calculating exempt or nonexempt use. Idaho Commission Decisions Docket No. 0-093-507-584 (Jan. 27, 2017); Idaho Commission Decisions Docket No. 1-472-090-112 (Jan. 27, 2017). If an aircraft is leased on a monthly basis and occasionally involved in exempt use to charter passenger flights, the tax commission will evaluate the percentage of exempt use versus non-use on a month-to-month basis, rather than the percentage of use over the course of the entire lease term. Additionally, the tax commission will not consider hours in which the aircraft was ready for use (available for chartering flights), but not actually in use, as part of the calculation of exempt hours. Idaho Commission Decisions Docket No. 0-093-507-584 (Jan. 27, 2017); Idaho Commission Decisions Docket No. 1-472-090-112 (Jan. 27, 2017). BNA-SUTN ID 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. Persons repairing, renovating, or altering aircraft are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property unless an exemption applies. Idaho Regs. §35.01.02.062.02. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Aircraft maintenance items installed, affixed or applied to aircraft in connection with maintenance, are exempt from tax where the aircraft is primarily used to provide passenger or freight services for hire as a common carrier. Idaho Code §63-3622GG(4); Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02. The sales price of the parts or materials used must be separately stated and sales tax must be charged on parts or materials transferred to a customer. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Exempt Aircraft fuel is subject to the Idaho Motor Fuels Tax, and therefore is exempt from sales and use tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of aircraft. Idaho Code §63-2401(18). Idaho statutes and regulations do not provide for other use-based exemptions for aircraft fuel. Idaho Code §63-3621. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Motor vehicles are generally subject to sales and use tax in Idaho. Idaho Regs. §35.01.02.106.01; Idaho Code §63-3619; Idaho Code §63-3621. For Idaho sales and use tax purposes, a motor vehicle is defined as a car, bus, truck, motor home, or on-highway motorcycle that's required to be registered for use on public roads. Vehicles such as snowmobiles, boats, ATVs, UTVs, and motorcycles intended for off-road use aren't considered motor vehicles and not all exemptions from sales and use tax apply. Idaho Code §63-3605L. If an Idaho resident buys a vehicle outside of the state, use tax is due (with credit given for taxes paid to another state) on the fair market value at the time it enters Idaho. Idaho Regs. §35.01.02.073. When a vehicle is purchased from a non-dealer, the buyer must present a bill of sale as proof of the gross sales price. If there is no bill of sale or receipt, sales tax is collected based on the “average trade-in price” listed in the most recent NADA Guide. Idaho Regs. §35.01.02.106.05, as amended by Idaho Admin. Bull. 19-1 (January 2, 2019); Idaho Commission Decisions Docket No. 1-147-209-728 (Nov. 20, 2017) (price listed on a bill of sale need not be market value, and only has to be accurate reflection of consideration exchanged for the vehicle). See also 2019 Idaho S.C.R. 18, effective March 29, which rejected a pending rule which would have altered Idaho Regs. §35.01.02.106.05.b to have the NADA value be the taxable value if it was higher than the actual sales price; Idaho Admin. Bull. 19-5 (May 1, 2019) (reflecting the S.C.R.'s rejection). Effective July 1, 2017, a sale of a motor vehicle, trailer, vessel, ATV, utility type vehicle, specialty off-highway vehicle, off-road motorcycle, or snowmobile to a nonresident for use outside of Idaho, even though the vehicle is delivered into Idaho, is exempt from sales tax if:• the vehicle will be taken from the point of delivery in Idaho to a point outside of Idaho; and • the vehicle will be registered and titled (if required) immediately under the laws of another state, will not be used in Idaho for more than 90 days in any 12-month period, and will not be required to be titled under the laws of Idaho. Idaho Code §63-3622R, amended by 2017 Idaho H. 32, effective July 1, 2017; Idaho Regs. §35.01.02.107.10, as amended by Idaho Admin. Bull. 19-1 (January 2, 2019); Idaho Commission Decisions Docket No. 38926 (July 17, 2017) (an Idaho resident who claims to have sporadically used a car in Idaho does not qualify for an exemption for using a vehicle for less than 90 days in 12 months); Idaho Commission Decisions Docket No. 23422 (Feb. 23, 2017). Nonresidents who purchase a vehicle for use outside of Idaho must complete a certificate, Form ST-104-NR, to be exempt from sales tax. Idaho Code §63-3622R; Idaho Regs. §35.01.02.107.10, as amended by Idaho Admin. Bull. 19-1 (January 2, 2019); Idaho Commission Decisions Docket No. 1-088-008-192 (Sept. 11, 2017). Where purchasers of a motor vehicle register the car in Idaho, they cannot claim the nonresident exemption. Idaho Commission Decisions Docket No. 23422 (Feb. 23, 2017); Idaho Commission Decisions Docket No. 2-041-663-488 (Nov. 27, 2017) (exemption does not apply to Idaho resident whose name is on the vehicle's title). Prior to July 1, 2017, vehicles had to be used in Idaho for no more than 60 days to qualify for this exemption. See Idaho Code §63-3622R (2014). The new resident exemption allows a resident of Idaho to register a motor vehicle in Idaho without paying a use tax if the vehicle was acquired while a resident of another state and the acquisition occurred at least three months prior to moving to Idaho. Idaho Code §63-3621; Idaho Commission Decisions Docket No. 25324 (July 17, 2017)(where individuals purchase a motor vehicle after relocating to Idaho, they may not claim the exemption for new Idaho residents); Idaho Commission Decisions Docket No. 23422 (Feb. 23, 2017)(where purchasers of motor vehicle were residents of Idaho and their last Idaho resident income tax return was filed well before the purchase of the vehicle, purchase does not qualify for the new resident exemption). Motor Vehicle Leasing The lease or rental of a motor vehicle is subject to sales and use tax. Idaho Regs. §35.01.02.106.01. The lessor of a motor vehicle is a retailer and must collect sales tax from the lessee on each rental or lease payment, at the tax rate in effect on that date. Idaho Regs. §35.01.02.106.06.b. The tax applies whether the vehicle is leased or rented on an hourly, daily, weekly, monthly, mileage, or any other basis. Idaho Regs. §35.01.02.106.06.d. When calculating the base subject to tax, a deduction from the tax base is allowed for a vehicle traded in for the rental or lease of another vehicle. Idaho Regs. §35.01.02.106.06.g. A lease-purchase is subject to sales or use tax on the full purchase price at the time vehicle is delivered to the lessee. Idaho Regs. §35.01.02.106.06.a; Idaho Regs. §35.01.02.024.12.a. Leases of this nature are subject to sales tax on each lease payment and on the buy-out or residual value when the lessee exercises his or her option to buy. Idaho Regs. §35.01.02.106.06.a; Idaho Regs. §35.01.02.024.12.b. A terminal rental adjustment clause lease is treated as a lease with options to purchase because the purchase option in a terminal rental adjustment clause lease should be fair market value, and therefore sales tax is collected on each lease payment and on the option price when exercised. Idaho Regs. §35.01.02.106.06.a; Idaho Regs. §35.01.02.024.12.b; Idaho Code §49-512A. Lease-purchase agreements can also include transfers that are called leases by the parties, but are actually installment or conditional sales. Idaho Regs. §35.01.02.024.12.a. When ownership passes to the transferee at the end of the lease agreement without additional consideration equal to at least the fair market value of the property, the transaction is a sale. Idaho Regs. §35.01.02.024.12.a. Thus, a lease with a nominal purchase option, such as a $1.00 purchase option would be treated as a sale, and taxable at the date the motor vehicle is delivered to the lessee. Idaho Regs. §35.01.02.024.12.a. Once the transferee exercises the option to buy, the transferee must collect sales tax from the transferor on the full remaining purchase price, the residual, when the option is exercised. Idaho Regs. §35.01.02.024.12. If the lessor is responsible for maintaining the vehicle and the maintenance requirement is stated in the lease or rental agreement, tax does not apply to the lessor's necessary repair parts. Idaho Regs. §35.01.02.106.06.e. Motor vehicle rental companies may purchase motor vehicles tax exempt when the vehicles are held for rental and are used for no purpose other than retention, demonstration, or display while holding the vehicles for sale or rental in the regular course of business. Idaho Regs. §35.01.02.108.01. Motor vehicle rental companies that withdraw motor vehicles from their rental inventory and use them in a taxable manner may report the tax either:• at the time the vehicle is withdrawn from resale inventory, the taxpayer may report and pay use tax on his acquisition cost; or • during each month or part of a month during which a motor vehicle is held for purposes other than resale, the taxpayer may report and pay use tax on a reasonable monthly rental value. Idaho Regs. §35.01.02.108.06; Idaho Regs. §35.01.02.108.05. The term “reasonable monthly rental value”is the amount equal to rental actually charged for vehicles of like or similar make and model when the vehicles are leased or rented by a person in the community in the business of leasing or renting those vehicles. Idaho Regs. §35.01.02.108.05.b. Temporary Presence in State Motor vehicles may not be used in Idaho more than 90 days in any 12-month period without incurring use tax on the fair market value of the vehicle at the time it entered Idaho. Idaho Code §63-3621A; Idaho Regs. §35.01.02.073.04. BNA-SUTN ID 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Persons repairing, renovating, or altering motor vehicles are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property. Idaho Regs. §35.01.02.062.01. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. However, there is no tax due on repairs made under a mandatory warranty, because the customer paid tax when they purchased the warranty. Idaho Sales and Use Tax Publication EIS00399 (July 1, 2019). BNA-SUTN ID 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02; Idaho Regs. §35.01.02.011.03.f. For a taxpayer operating a business that applies coatings, all materials become part of the coating should be purchased exempt for resale. When billing a customer, the taxpayer should collect sales tax on any charges for materials. Coatings applied to new tangible personal property are taxable both for labor charges and materials charges, unless another exemption applies. Idaho Regs. §35.01.02.046.09;Idaho State Tax Comn., Tax Update for June 2014 (June 27, 2014). Coatings applied to motor vehicles include, but are not limited to, paint, powder coat, chrome plating, spray-on bedliners, and anodized coatings. Idaho Regs. §35.01.02.046.02;Idaho State Tax Comn., Tax Update for June 2014 (June 27, 2014). Effective July 1, 2014, the Idaho State Tax Commission has updated its guidance to clarify when tax is due, as a means for correcting inconsistencies it perceived in how businesses were applying the tax. Idaho Regs. §35.01.02.046;Idaho State Tax Comn., Tax Update for June 2014 (June 27, 2014). BNA-SUTN ID 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Intrastate and noncommercial motor vehicles oil and other maintenance items are subject to sales and use tax, absent some exemption. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor fuels are exempt from sales and use taxes, and are subject to the Idaho Motor Fuels Tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of motor vehicles. Idaho Code §63-2401(18). For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Passenger car rentals are subject to Idaho sales and use tax. Idaho Code §63-3612(2)(h); Idaho Regs. §35.01.02.024.01; Idaho Regs. §35.01.02.106.01. BNA-SUTN ID 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Nontaxable Inventory that is not resold but is withdrawn for use by the retailer is subject to use tax, unless such inventory is withdrawn by the retailer for use as a display or demonstration. Idaho Regs. §35.01.02.014.04. BNA-SUTN ID 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Absent an exemption, tires for intrastate and noncommercial motor vehicles are subject to sales and use tax. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt An exemption is provided from the sales and use tax for the sale or lease of motor vehicles and trailers to commercial or private carriers to be substantially used in interstate commerce. Idaho Code §63-3622R(c); Idaho Regs. §35.01.02.101. To qualify for the exemption, a purchaser must:• register the vehicle with a maximum gross weight of over twenty-six thousand pounds; • register the vehicle under the International Registration Plan (IRP); and • operate the vehicle in a fleet of vehicles under the International Registration Plan (IRP) with a minimum of 10 percent of the fleet miles operated outside the state of Idaho. Idaho Code §63-3622R(c); Idaho Regs. §35.01.02.101; see also Idaho Form ST-104IC: Sales Tax Exemption Certificate Interstate Commerce Vehicles. Likewise, the sale or lease of trailers which are part of a fleet of vehicles registered under the international registration plan used substantially in interstate commerce, are also exempt. “Substantially used in interstate commerce” means that the vehicles or trailers will be part of a fleet with a minimum of ten percent of the miles operated by the fleet accrued outside of Idaho in any four fiscal year quarters beginning July 1 and ending June 30 of each year under the international registration plan. Idaho Code §63-3622R(c); Idaho Regs. §35.01.02.101. For more information regarding the International Registration Plan, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Persons repairing, renovating, or altering motor vehicles are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property. Idaho Regs. §35.01.02.062.01. The interstate commerce motor vehicle exemption does not apply to repair or replacement parts. Idaho Regs. §35.01.02.101.06. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. However, there is no tax due on repairs made under a mandatory warranty, because the customer paid tax when they purchased the warranty. Idaho Sales and Use Tax Publication EIS00399 (July 1, 2019). BNA-SUTN ID 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. Persons repairing, renovating, or altering motor vehicles are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property unless an exemption applies. Idaho Regs. §35.01.02.062.02. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items used for intrastate and noncommercial motor vehicles are subject to sales and use tax, unless another exemption applies. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services to motor vehicles are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Motor fuels are exempt from sales and use taxes, and are subject to the Idaho Motor Fuels Tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of motor vehicles. Idaho Code §63-2401(18). For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Tires sold for common carriers or vehicles to be used in interstate commerce are subject to tax. Idaho Code §63-3612(2)(h). The interstate commerce motor vehicle exemption does not apply to repair or replacement parts. Idaho Regs. §35.01.02.101.06. BNA-SUTN ID 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are taxable as tangible personal property. Idaho Code §63-3612(1). A boat owner must register his boat each year with the Department of Parks and Recreation through authorized agents appointed by that department. Idaho Regs. §35.01.02.113.02. When registering the boat for the first time or transferring the registration to a new owner, the owner must complete Form ST-109, Recreational Vehicle Registration Sales Tax Affidavit. Idaho Regs. §35.01.02.113.02. Effective July 1, 2017, sales to nonresidents of water vessels for use outside of the state are exempt from Idaho sales and use tax, even if such vessels are delivered within the state, provided the vessel:• will be taken from the point of delivery in Idaho to a point outside of Idaho; and • will be registered and titled (if required) immediately under the laws of another state, will not be used in Idaho for more than 90 days in any 12-month period, and will not be required to be titled under the laws of Idaho. Idaho Code §63-3622R, amended by 2017 Idaho H. 32, effective July 1, 2017; Idaho Regs. §35.01.02.107.10; see also Idaho Commission Decisions Docket No. 38910 (Dec. 5, 2017) (denying exemption where the purchasers were Idaho residents and took possession in Idaho even though an Oregon address was used to purchase the vessel. Prior to July 1, 2017, the vessel had to be used in Idaho for less than 60 days in any 12-month period to qualify for this exemption. Idaho Code §63-3622R(1)(a) (2014). Vessel means any boat intended to carry one or more persons on the water which is either sold together with a motor; or is 11 feet in length or more, but including only canoes, kayaks, paddleboards, inflatable boats or similar watercraft that are sold together with a motor. Idaho Code §63-3622R(1)(a)(4), as amended by 2016 Idaho H. 348, effective July 1, 2016. Temporary Presence in State Water vessels may not be used in Idaho more than 90 days in any 12-month period without incurring use tax on the fair market value of the vehicle at the time it entered Idaho. Idaho Code §63-3621A; Idaho Regs. §35.01.02.073. BNA-SUTN ID 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Person repairing, renovating, or altering water vessels, are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property. Idaho Regs. §35.01.02.062.01. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. However, there is no tax due on repairs made under a mandatory warranty, because the customer paid tax when they purchased the warranty. Idaho Sales and Use Tax Publication EIS00399 (July 1, 2019). BNA-SUTN ID 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Exempt Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for use in intrastate and noncommercial water vessels are subject to sales and use tax unless another exemption applies. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02; Idaho Code §63-3612 BNA-SUTN ID 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Exempt Water vessel fuels are exempt from sales and use taxes, and are subject to the Idaho Motor Fuels Tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of motor boats. Idaho Code §63-2401(18). Idaho statutes and regulations do not provide for other use-based exemptions for water vessel fuel. Idaho Code §63-3621. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are taxable as tangible personal property. Idaho Code §63-3612(1). Idaho does not discuss or provide a common carrier or interstate exemption for water vessels. Idaho Code §63-3609; Idaho Regs. §35.01.02.037.01.h BNA-SUTN ID 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Person repairing, renovating, or altering water vessels, are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property. Idaho Regs. §35.01.02.062.01. The sales price of the parts or materials must be separately stated and sales tax must be charged on parts or materials. Idaho Regs. §35.01.02.062.02. When parts and materials are not separately stated from repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Regs. §35.01.02.062.02. However, there is no tax due on repairs made under a mandatory warranty, because the customer paid tax when they purchased the warranty. Idaho Sales and Use Tax Publication EIS00399 (July 1, 2019). BNA-SUTN ID 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items used for interstate and common carrier water vessels are subject to sales and use tax, unless another exemption applies. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02; Idaho Code §63-3612 BNA-SUTN ID 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Exempt Water vessel fuels are exempt from sales and use taxes, and are subject to the Idaho Motor Fuels Tax. Idaho Regs. §35.01.02.078. Motor fuels include gasoline, ethanol, ethanol blended fuel, gasoline blend stocks, natural gasoline, special fuels, aircraft engine fuels or any other fuels suitable for the operation or propulsion of motor boats. Idaho Code §63-2401(18). Idaho statutes and regulations do not provide for other use-based exemptions for water vessel fuel. Idaho Code §63-3621. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are taxable as tangible personal property. Idaho Code §63-3612(1). BNA-SUTN ID 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable Person repairing, renovating, or altering water vessels, are required to collect sales tax on the parts or materials necessary for the repair or renovation of the property. Idaho Regs. §35.01.02.062.01. BNA-SUTN ID 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Repair labor that is separately stated is not taxable. Idaho Regs. §35.01.02.062.02. BNA-SUTN ID 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items used in commercial fishing vessels are subject to sales and use tax, unless another exemption applies. Idaho Code §63-3612(2)(h). BNA-SUTN ID 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02; Idaho Code §63-3612. BNA-SUTN ID 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt Water vessel fuels are exempt from sales and use taxes, and are subject to the Idaho Motor Fuels Tax. Idaho Regs. §35.01.02.078. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable Idaho does not discuss the taxability of commercial fishing equipment, thus such items are likely subject to sales and use tax as tangible personal property. Idaho Code §63-3619; Idaho Code §63-3621; Idaho Code §63-3613(a). BNA-SUTN ID 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable Idaho does not discuss the taxability of commercial fishing supplies, thus such items are likely subject to sales and use tax as tangible personal property. Idaho Code §63-3619; Idaho Code §63-3621; Idaho Code §63-3613(a). BNA-SUTN ID 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable The purchase, lease, or rental of rolling stock is subject to tax unless a specific exemption applies. Idaho Code §63-3612(1). Railroad rolling stock rebuilt or remanufactured in Idaho and which was used in interstate commerce for at least three consecutive months prior to the rebuilding or remanufacturing is exempt from tax. Idaho Code §63-3622CC; Idaho Regs. §35.01.02.104.01. Qualified railroad rolling stock may include flanged-wheel vehicles designed and manufactured specifically for use on railroad tracks and railroad systems, and associated component parts. Rolling stock is exempt if it is being rebuilt, and was used in interstate commerce for at least three consecutive months before being rebuilt, and all parts and labor used in the rebuilding would be exempt from tax even if the charge was a lump sum. Otherwise, separately stated labor would be exempt, but parts would be taxable. Idaho Code §63-3622CC; Idaho Code §63-3622DD; Idaho Regs. §35.01.02.104; Idaho Regs. §35.01.02.062. BNA-SUTN ID 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair and replacement parts are generally subject to tax as tangible personal property. Idaho Code §63-3612(1). Repair and replacement parts for rolling stock are exempt if the rolling stock is being rebuilt and was previously used in interstate commerce for at least three consecutive months. Idaho Code §63-3622CC; Idaho Code §63-3622DD; Idaho Regs. §35.01.02.104; Idaho Regs. §35.01.02.062. BNA-SUTN ID 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Nontaxable Separately stated repair labor is not taxable. If parts and materials are not separately stated from the repair labor, the total amount for parts and repair labor is subject to sales tax. Idaho Code §63-3622CC; Idaho Code §63-3622DD; Idaho Regs. §35.01.02.104.01; Idaho Regs. §35.01.02.062; Idaho Sales and Use Tax Publication 10. BNA-SUTN ID 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for rolling stock are subject to sales tax, unless another exemption applies. Idaho Code §63-3612(2)(h). Oil and other maintenance items for rolling stock are exempt if the rolling stock is being rebuilt and was previously used in interstate commerce for at least three consecutive months. Idaho Code §63-3622CC; Idaho Code §63-3622DD; Idaho Regs. §35.01.02.104.01; Idaho Regs. §35.01.02.062. BNA-SUTN ID 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax. Idaho Regs. §35.01.02.062.02; Idaho Code §63-3612. BNA-SUTN ID 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Taxable Sales of fuel used to operate rolling stock in interstate commerce or for use by a common carrier are subject to sales tax.. See Idaho Regs. §35.01.02.104.04.d. The exemption for fuel subject to Idaho's motor fuels tax does not apply to fuel used in rolling stock, because fuel used in rolling stock is not a “motor fuel.” “Motor fuels” are only those fuels suitable for the operation or propulsion of motor vehicles, motor boats or aircraft. Idaho Code §63-2401(18). However, fuel used in testing remanufactured or rebuilt railroad rolling stock engines is exempt from tax. Further, fuel that is necessary to and primarily used in the remanufacturing or rebuilding process is exempt from sales and use tax. Idaho Regs. §35.01.02.104.04.d. For more information regarding the Idaho Motor Fuels Tax, see the Excise Tax Navigator, beginning at Idaho 8. BNA-SUTN ID 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Depends Receipts from intrastate flights are taxable, with the exception of regularly scheduled flights by certified air carriers under the authority of the FAA. Idaho Regs. §35.01.02.037. Receipts from recreational flights, on-demand intrastate flights, and unscheduled flights transporting passengers or freight are taxable. Idaho Regs. §35.01.02.037. Interstate flights and flying lessons are not subject to sales tax. Idaho Regs. §35.01.02.037. Additionally, charges for emergency transportation of sick or injured persons, are not subject to tax. Idaho Regs. §35.01.02.037.07. BNA-SUTN ID 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable Passenger rail transportation is not subject to sales and use tax. Idaho Sales and Use Tax Publication 41. BNA-SUTN ID 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Passenger water transportation is not subject to sales and use tax. Idaho Code §63-3612(2); Idaho Sales and Use Tax Publication 41. BNA-SUTN ID 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable Passenger bus transportation is not subject to sales and use tax. Idaho Code §63-3612(2); Idaho Sales and Use Tax Publication 41. BNA-SUTN ID 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable Idaho sales and use taxes do not apply to taxi cab services. Idaho Code §50-1044; Idaho Code §50-1045; Idaho Code §50-1046; 2003 Idaho H. 428 (was formerly Idaho Code §63-2602). Idaho sales and use taxes do not apply to transit services. Idaho Code §50-1044; Idaho Code §50-1045; Idaho Code §50-1046; 2003 Idaho H. 428 (was formerly Idaho Code §63-2602). BNA-SUTN ID 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable Idaho sales and use taxes do not apply to taxi cab, bus, or limousine services. Idaho Code §50-1044; Idaho Code §50-1045; Idaho Code §50-1046; 2003 Idaho H. 428 (was formerly Idaho Code §63-2602). BNA-SUTN ID 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable Property transportation is not subject to sales and use tax. Idaho Code §63-3612(2); Idaho Sales and Use Tax Publication 41. BNA-SUTN ID 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Moving services are not subject to sales and use tax. Idaho Code §63-3612(2); Idaho Sales and Use Tax Publication 41. BNA-SUTN ID 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable Idaho sales and use taxes do not apply to parking services. Idaho Code §50-1044; Idaho Code §50-1045; Idaho Code §50-1046; 2003 Idaho H. 428 (was formerly Idaho Code §63-2602). BNA-SUTN ID 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable Boat slip and mooring fees are not subject to sales and use tax. Idaho Regs. §35.01.02.025.01. BNA-SUTN ID 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Nontaxable Idaho sales and use taxes do not apply to towing services. Idaho Code §63-3612(2); Idaho Sales and Use Tax Publication 41 BNA-SUTN ID 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Nontaxable Car wash services are not subject to sales and use tax. Idaho Code §63-3612(2). BNA-SUTN ID 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Nontaxable Car detailing services are not subject to sales and use tax. Idaho Code §63-3612(2). BNA-SUTN ID 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Exempt Idaho exempts a motor vehicle dealer's labor or service charge from sales and use tax when the charge is for adding accessories to new vehicles. Idaho Code §63-3622OO, as added by 2019 Idaho H. 86, effective July 1, 2019. “Accessory”means an object, feature, or device that does not come standard with a motor vehicle when delivered from a vehicle manufacturer or distributor. Examples include chemical paint sealant, anti-theft devices, window tinting, and truck bed coating. Idaho Code §63-3622OO(2)(a), as added by 2019 Idaho H. 86, effective July 1, 2019. “Motor vehicle”means a passenger car, moped, motorbike, motorcycle, motorized wheelchair, neighborhood electric vehicle, specialty off-highway vehicle, all-terrain vehicle, as defined in Idaho Code §49-102 through §49-127, or as defined in Idaho Code Idaho Code §63-3622R(a)(4). Idaho Code §63-3622OO(2)(b), as added by 2019 Idaho H. 86, effective July 1, 2019. BNA-SUTN ID 29.15.
+
+==================================================

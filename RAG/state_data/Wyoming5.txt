@@ -1,0 +1,201 @@
+State: Wyoming
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Wyoming does not impose sales or use tax on real property. Wyo. Stat. §39-15-105(a)(iv)(F). “Real property”is defined as land and appurtenances, including structures affixed upon it. Wyo. Stat. §39-15-101(a)(v). In Wyoming, “tangible personal property”means all personal property that can be seen, weighed, measured, felt or touched, or that is in any other manner perceptible to the senses. “Tangible personal property” includes electricity, water, gas, steam and prewritten computer software, as well as controlled substances they are sold through a written prescription through a licensed practitioner. Wyo. Stat. §39-15-101(a)(ix). BNA-SUTN WY 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Four-part Test Fixtures are generally not subject to tax, as long as they are sufficiently attached to real property to be considered real property themselves. Wyo. Stat. §39-15-101(a)(v). The Wyoming definition for real property includes the test used by the state for determining when an article of tangible personal property becomes sufficiently attached to real property that it is considered real property itself. Evaluating the four criteria, an article is considered real property if:• it is buried or embedded; Wyo. Stat. §39-15-101(a)(v)(A). or • it is physically or constructively annexed to the real property; Wyo. Stat. §39-15-101(a)(v)(B). • it is adapted to the use of the real property; Wyo. Stat. §39-15-101(a)(v)(C). and • one can reasonably infer that the intent of the annexing party was to make the article a permanent part of the real property. Wyo. Stat. §39-15-101(a)(v)(D). In Wyoming Dept. of Rev. v. Hanover Compression LP, Hanover did not pay sales tax on the income derived from operating and maintaining compressor facilities because of the belief that the services were performed to real property. The compressor facilities were affixed to a concrete foundation. Wyoming Dept. of Rev. v. Hanover Compression LP, 196 P.3d 781 (Wyo. 2008). The Wyoming Supreme Court subsequently upheld the Board of Equalization's (Board) interpretation of Wyo. Stat. §39-15-101(a)(v), and the four criteria set forth therein. The Board interprets the statute to have two parts. The first sentence is the original definition of real property. The second sentence was added later and refers to an “article.” The legislative intent for adding the term “article”to the definition of real property was to identify two distinct types of property. The definition includes traditional land, appurtenances, and structures, and since 2008, “articles” are considered real property when the four requirements of Wyo. Stat. §39-15-101(a)(v) are met. The Court also defined the term “affixed” by using its ordinary meaning to conclude that the Board's interpretation was correct. “Affixed” means to attach physically or to attach in any way. The Court held that the second sentence of §39-15-101(a)(v) clearly identifies when an article becomes affixed and is then considered real property. Therefore, the Court held that the services performed on the compressor facilities were not subject to sales tax, because they were performed on real rather than personal property. Wyoming Dept. of Rev. v. Hanover Compression LP, 196 P.3d 781 (Wyo. 2008). BNA-SUTN WY 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Depends The sale and installation of appliances, electronics, machinery, or equipment is subject to Wyoming's sales and use tax, unless such item becomes sufficiently attached to real property to be considered real property itself, and the installation charges are separately stated. Wyo. Regs. ch. 2 §13(p). Installation services that do not render tangible personal property part of the real property to which it is installed are subject to sales tax. Wyo. Regs. ch. 2 §13(p); Wyoming Sales and Use Tax Bulletin- Manufacturing Exemption Information. BNA-SUTN WY 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Depends The sale and installation of plumbing fixtures is subject to Wyoming's sales and use tax, unless such the fixtures become sufficiently attached to real property to be considered real property, and the installation charges are separately stated. Wyo. Regs. ch. 2 §13(p). Installation services that do not render tangible personal property part of the real property to which it is installed are subject to sales tax. Wyo. Regs. ch. 2 §13(p); Wyoming Sales and Use Tax Bulletin- Manufacturing Exemption Information. BNA-SUTN WY 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Depends The sale and installation of flooring and window treatments is subject to Wyoming's sales and use tax, unless such item becomes sufficiently attached to real property to be considered real property itself, and the installation charges are separately stated. Wyo. Regs. ch. 2 §13(p). Installation services that do not render tangible personal property part of the real property to which it is installed are subject to sales tax. Wyo. Regs. ch. 2 §13(p); Wyoming Sales and Use Tax Bulletin- Manufacturing Exemption Information. BNA-SUTN WY 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Depends The sale and installation of signage is subject to Wyoming's sales and use tax, unless the signage becomes sufficiently attached to real property to be considered real property itself, and the installation charges are separately stated. Wyo. Regs. ch. 2 §13(p). Installation services that do not render tangible personal property part of the real property to which it is installed are subject to sales tax. Wyo. Regs. ch. 2 §13(p); Wyoming Sales and Use Tax Bulletin- Manufacturing Exemption Information. BNA-SUTN WY 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+Depends Wyoming does not treat leasehold improvements per se as tangible personal property. Wyo. Regs. ch. 2 §13(p). Installation services that do not render tangible personal property part of the real property to which it is installed are subject to sales tax. Wyo. Regs. ch. 2 §13(p); Wyoming Sales and Use Tax Bulletin- Manufacturing Exemption Information. BNA-SUTN WY 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Depends Charges for construction labor billed to a contractee are not subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-103(a)(i)(K); Wyo. Regs. ch. 2 §10(c). Contractors and subcontractors are considered the end users of all materials and supplies used by them in real property construction activities, and therefore are subject to the sales and use tax on the tangible personal property purchased. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). As a result the following applies:• Under the sales and use tax law of Wyoming, any contractor who furnishes tangible personal property in the construction, alteration, improvement or repair of real property is deemed the consumer or user of tangible personal property. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). • Contractors are liable for the sales and use tax on their cost of materials, fixtures, supplies and any other taxable services or transactions incidental to the performance of construction, alteration, improvement, or repair on real property. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). • Contractors are liable for the sales and use tax on their rental of equipment. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). • Sales of tangible personal property to be used in the repair, improvement, construction, or alteration of real property are taxable sales. It does not matter if the tangible personal property was sold to the owner of real property or to a contractor. Wyo. Regs. ch. 2 §10(d). Labor The labor charges to alter, construct, or improve real property are not subject to sales and use tax except where imposed under Wyo. Stat. §39-15-103(a)(i)(K). Wyo. Regs. ch. 2 §10(c). However, charges for labor to alter, construct, or improve tangible personal property are subject to sales tax. Wyo. Stat. §39-15-103(a)(i)(J). Oil and Gas Well Site Services Services associated with well site development are subject to tax. This includes exploration, seismographic activities, geophysical activities, bringing power to the site, locating power poles, dirt work, rigging up, drilling, coring, logging, and testing. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Taxing Issues - March 2016. Before July 1, 2015, the area of taxation was limited to a 250 foot radius around the well site. Wyo. Stat. §39-15-105(a)(xviii), as amended by, 2015 Wyo. H.B. 51, effective July 1, 2015; Wyoming Taxing Issues - March 2016. However, services provided to an oil, gas, or coal drill site before production has begun are not subject to tax. Services are not subject to tax until completion of under-reaming or the attainment of total depth of the oil or gas well. After that period, all third-party services performed in an area where production equipment is installed to store or prepare oil or gas for transportation are subject to tax. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Tangible personal property purchased or leased for use in rendering oil and gas well site services are subject to tax and must separately stated from any charges that are exempt. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Effective April 15, 2014, Tools that are lost down hole or damaged beyond repair before production, that the oil customer is required to pay for, are not subject to tax. Wyoming Dept. of Rev., Policy Statement: Important Clarification Concerning the Taxability of Tools Lost Down Hole; Wyoming Taxing Issues - March 2016. More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN WY 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Lump-sum charges billed to a contractee under a lump-sum construction contract are not subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). Tangible personal property purchased or leased for use in rendering oil and gas well site services are subject to tax and must separately stated from any charges that are exempt. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. BNA-SUTN WY 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Depends A contractor's purchases of materials to be incorporated into real property under a lump-sum construction contract are subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). A contractor's purchases of tangible personal property used in rendering oil and gas well site services are exempt as sale-for-resale. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Effective April 15, 2014, Tools that are lost down hole or damaged beyond repair before production, that the oil customer is required to pay for, are not subject to tax. Wyoming Dept. of Rev., Policy Statement: Important Clarification Concerning the Taxability of Tools Lost Down Hole; Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Depends Service charges billed to a contractee under a separated construction contract are not subject to sales and use tax in Wyoming. Wyo. Regs. ch. 2 §10(c). Oil and Gas Well Site Services Services associated with well site development are subject to tax. This includes exploration, seismographic activities, geophysical activities, bringing power to the site, locating power poles, dirt work, rigging up, drilling, coring, logging, and testing. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Taxing Issues - March 2016. Before July 1, 2015, the area of taxation was limited to a 250 foot radius around the well site. Wyo. Stat. §39-15-105(a)(xviii), as amended by, 2015 Wyo. H.B. 51, effective July 1, 2015; Wyoming Taxing Issues - March 2016. However, services provided to an oil, gas, or coal drill site before production has begun are not subject to tax. Services are not subject to tax until completion of under-reaming or the attainment of total depth of the oil or gas well. After that period, all third-party services performed in an area where production equipment is installed to store or prepare oil or gas for transportation are subject to tax. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. BNA-SUTN WY 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Depends Materials charges billed to a contractee under a separated construction contract are not subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). Tangible personal property used in rendering oil and gas well site services are subject to tax and must separately stated from any charges that are exempt. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Effective April 15, 2014, Tools that are lost down hole or damaged beyond repair before production, that the oil customer is required to pay for, are not subject to tax. Wyoming Dept. of Rev., Policy Statement: Important Clarification Concerning the Taxability of Tools Lost Down Hole; Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Depends A contractor's purchases of materials to be incorporated into real property under a separated construction contract are subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). A contractor's purchases of tangible personal property used in rendering oil and gas well site services are exempt as sale-for-resale. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Effective April 15, 2014, Tools that are lost down hole or damaged beyond repair before production, that the oil customer is required to pay for, are not subject to tax. Wyoming Dept. of Rev., Policy Statement: Important Clarification Concerning the Taxability of Tools Lost Down Hole; Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Depends Real property repair services are not subject to sales and use tax in Wyoming. Wyo. Regs. ch. 2 §13(dd); Wyo. Regs. ch. 2 §10(c); Wyoming Taxing Issues - March 2016. Oil and Gas Well Site Services Services associated with well site development are subject to tax. This includes exploration, seismographic activities, geophysical activities, bringing power to the site, locating power poles, dirt work, rigging up, drilling, coring, logging, and testing. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Taxing Issues - March 2016. Before July 1, 2015, the area of taxation was limited to a 250 foot radius around the well site. Wyo. Stat. §39-15-105(a)(xviii), as amended by, 2015 Wyo. H.B. 51, effective July 1, 2015; Wyoming Taxing Issues - March 2016. However, services provided to an oil, gas, or coal drill site before production has begun are not subject to tax. Services are not subject to tax until completion of under-reaming or the attainment of total depth of the oil or gas well. After that period, all third-party services performed in an area where production equipment is installed to store or prepare oil or gas for transportation are subject to tax. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. BNA-SUTN WY 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Depends Separately stated charges for parts and materials used to repair real property are not subject to sales and use tax in Wyoming. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). Wyoming provides that contractors who furnish tangible personal property in the performance of their services to real property are the consumer or user of such tangible personal property and are responsible any sales tax at the time of purchase. Wyo. Stat. §39-15-303(b)(i); Wyo. Stat. §39-16-303(b)(i). Tangible personal property purchased or leased for use in rendering oil and gas well site services are subject to tax and must separately stated from any charges that are exempt. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. Effective April 15, 2014, Tools that are lost down hole or damaged beyond repair before production, that the oil customer is required to pay for, are not subject to tax. Wyoming Dept. of Rev., Policy Statement: Important Clarification Concerning the Taxability of Tools Lost Down Hole; Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Depends Real property installation services are not subject to sales and use tax in Wyoming. Wyo. Regs. ch. 2 §13(p). Charges made by a vendor for the installation of tangible personal property to real property are exempt from sales and use tax provided the installation charges are separately stated and the installation is to real property. Wyo. Regs. ch. 2 §13(p). Oil and Gas Well Site Services Services associated with well site development are subject to tax. This includes exploration, seismographic activities, geophysical activities, bringing power to the site, locating power poles, dirt work, rigging up, drilling, coring, logging, and testing. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Taxing Issues - March 2016. Before July 1, 2015, the area of taxation was limited to a 250 foot radius around the well site. Wyo. Stat. §39-15-105(a)(xviii), as amended by, 2015 Wyo. H.B. 51, effective July 1, 2015; Wyoming Taxing Issues - March 2016. However, services provided to an oil, gas, or coal drill site before production has begun are not subject to tax. Services are not subject to tax until completion of under-reaming or the attainment of total depth of the oil or gas well. After that period, all third-party services performed in an area where production equipment is installed to store or prepare oil or gas for transportation are subject to tax. Wyo. Stat. §39-15-105(a)(viii)(B); Wyoming Sales and Use Tax Publication- Oil, Conventional Natural Gas and Coal Bed Methane Industries. BNA-SUTN WY 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Nontaxable Building maintenance is not among the enumerated services subject to sales tax in Wyoming. Wyo. Stat. §39-15-103(a). BNA-SUTN WY 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Nontaxable Building maintenance is not among the enumerated services subject to sales tax in Wyoming. Wyo. Stat. §39-15-103(a). BNA-SUTN WY 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Labor or service charges for repairs, alterations or improvements of real property, including excavation and demolition, are not subject to tax. Wyo. Regs. ch. 2 §13(dd); Wyo. Regs. ch. 2 §10(c). BNA-SUTN WY 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Site cleanup is not an enumerated services and is not subject to sales tax in Wyoming. Wyo. Stat. §39-15-103(a). BNA-SUTN WY 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable Plumbing is not among the enumerated services subject to sales tax in Wyoming. Wyo. Stat. §39-15-103(a). BNA-SUTN WY 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable Electrical work is not among the enumerated services subject to sales tax in Wyoming. Wyo. Stat. §39-15-103(a). BNA-SUTN WY 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Nontaxable HVAC installation services are considered real property installation services, which are nontaxable if separately stated. Wyo. Regs. ch. 2 §13(p). BNA-SUTN WY 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Nontaxable HVAC repair services will be considered real property repair services;labor or service charges for repairs, alterations, or improvements of real property are not subject to tax. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Nontaxable Gutter cleaning services will be considered nontaxable real property maintenance or cleaning services. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Nontaxable Window cleaning services will be considered nontaxable real property maintenance or cleaning services. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Nontaxable Power washing services will be considered nontaxable real property maintenance or cleaning services. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Nontaxable Power washing services will be considered nontaxable real property maintenance or cleaning services. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends Sign painting and lettering services will be subject to tax depending if it is performed on tangible personal property or real property. Wyo. Stat. §39-15-103(a)(i)(J). Sign painting and lettering services for tangible personal property are considered taxable services. Wyoming taxes any charge for services performed for the repair, alteration or improvement of tangible personal property. Wyo. Stat. §39-15-103(a)(i)(J). Sign painting and lettering services to real property will be considered nontaxable real property services. Labor or service charges for repairs, alterations or improvements of real property are not subject to tax. Wyo. Regs. ch. 2 §13(dd); Wyoming Taxing Issues - March 2016. BNA-SUTN WY 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Defined “Contractor”means any general or prime contractor or subcontractor. Wyoming Sales and Use Tax Publication - Construction Industry. “General or prime contractor” means:(A) Any person who agrees with the owner or lessee of real property in Wyoming to perform services or furnish materials and services for the construction, alteration, improvement or repair of real property in Wyoming; or (B) Any person who acts in behalf of the owner or lessee of real property in Wyoming to arrange for the furnishing of services or the furnishing of materials and services for the construction, alteration, improvement or repair of real property in Wyoming; or (C) Any person who owns or leases real property in Wyoming for the purpose of developing that property and in the development thereof alters or makes improvements to the property or contracts for the alteration or improvement of the property. Wyo. Stat. §39-15-301; Wyo. Stat. §39-15-303; Wyo. Stat. §39-16-303. “Nonresident general or prime contractor” means any general or prime contractor who has not been a bona fide resident of the state of Wyoming for at least one (1) year prior to bidding upon a contract. Wyo. Stat. §39-15-301. “Subcontractor” means any person who agrees with another contractor to perform any part of that contractor's obligation for furnishing services or furnishing materials and services for the construction, alteration, improvement or repair of real property in Wyoming. Wyo. Stat. §39-15-301. More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN WY 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Defined Wyoming defines “subcontractor” as any person who agrees with another contractor to perform any part of that contractor's obligation for furnishing services or furnishing materials and services for the construction, alteration, improvement, or repair of real property in Wyoming. Wyoming Sales and Use Tax Publication - Construction Industry. More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN WY 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Taxable Contractors who enter contracts with exempt entities (such as the state of Wyoming, its political subdivision or religious or charitable organizations)are subject to sales and use tax on all equipment, materials, fixtures, and supplies purchased by the contractor to perform under the contract. Wyo. Regs. ch. 2 §10(e). The sales and use tax can be avoided only if the exempt entity purchases all of the tangible property needed to improve or construct the real property from a third party supplier and the contractor performs a labor only contract. Wyoming Sales and Use Tax Publication - Construction Industry. The supplier and contractor cannot be the same company. Wyoming Sales and Use Tax Publication - Construction Industry BNA-SUTN WY 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Partial Wyoming imposes a sales tax on the initial sale of a mobile, manufactured, prebuilt or modular home. The tax is set at 70 percent of the sales price of the mobile, manufactured, prebuilt or modular home. Wyo. Stat. §39-15-103(b)(iv); Wyoming Taxing Issues -- June 2019. The sales price of the home would include any additional amenities purchased as part of the home; for example, upgraded appliances, carpet, and cabinetry. Sales tax is not applied to separately stated freight charges to transport the home to the buyer, charges for setting the home on real property, or completing and finishing work, i.e. roofing, plumbing, or electrical wiring. Wyoming Taxing Issues -- June 2019. Setting the home as well as completing and finishing the home is considered work to real property performed by a contractor which is not subject to sales tax. Wyoming Taxing Issues -- June 2019. However, there is no tax on any further subsequent sale of the mobile, manufactured, prebuilt or modular home once the initial tax has been paid. Wyo. Stat. §39-15-105(a)(v)(B). Mobile, manufactured, prebuilt and modular homes include the following:• modular homes: residential dwellings constructed in a factory to a residential construction other than the Federal Manufactured Home Construction and Safety Standards; Wyo. Stat. §39-15-101(a)(xiii)(A). • prebuilt homes: any dwelling that is wholly, or in substantial part, made, formed, fabricated, or assembled in manufacturing facilities for installation or assembly on a building site. It includes but is not limited to, a manufactured home, modular home and mobile home; Wyo. Stat. §39-15-101(a)(xiii)(B). • manufactured homes: residential dwelling conforming to the Federal Manufactured Home Construction and Safety Standards. In order to meet the requirements, the unit has to be more than 8.5 feet in width and designed, constructed and equipped as a dwelling place or place of business. Wyo. Stat. §39-15-101(a)(xiii)(C). BNA-SUTN WY 28.8.
+
+==================================================

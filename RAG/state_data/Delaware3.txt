@@ -1,0 +1,165 @@
+State: Delaware
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+No Tax Delaware does not impose a sales and use tax. BNA-SUTN DE 30.7.
+
+==================================================

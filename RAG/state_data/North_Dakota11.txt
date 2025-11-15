@@ -1,0 +1,81 @@
+State: North Dakota
+
+
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Sales Tax
+
+Yes North Dakota imposes a sales tax on the gross receipts of all retail sales of tangible personal property within the state. N.D. Admin. Code §81-04.1-01-01. BNA-SUTN ND 1.1.1.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Use Tax
+
+Yes North Dakota imposes a use tax on the storage, use, or consumption of tangible personal property within the state. N.D. Admin. Code §81-04.1-01-01. If property is purchased at retail for use, storage, or consumption in the state and is not subject to sales tax, it is subject to the use tax. N.D. Cent. Code §57-40.2-02.1(1); N.D. Admin. Code §81-04.1-01-01. BNA-SUTN ND 1.1.2.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Local Option Sales and Use Tax
+
+Local Tax Authorized In addition to the state sales and use tax, North Dakota law allows cities and counties to impose local sales, use and gross receipt taxes, lodging taxes, lodging and restaurant taxes, and motor vehicle taxes. N.D. Cent. Code § 11-09.1-01; N.D. Cent. Code § 40-05.1-06; N.D. Cent. Code §40-57.3-01; N.D. Cent. Code § 57-01-02.1(1); N.D. Cent. Code § 57-39.4-02. North Dakota has authorized both cities and counties within the state to enact local sales and use taxes under their home rule charter, without limitation on the rate. N.D. Cent. Code §11-09.1-05(2); N.D. Cent. Code §40-05.1-06(2); N.D. Cent. Code §40-05.1-06(16). However, local option taxes imposed under a city or county's home rule charter must be imposed on the same items and provide the same exemptions as the state sales and use tax. N.D. Cent. Code §11-09-1-05(2)(a); N.D. Cent. Code §40-05.1-06(16)(a); see N.D. Cent. Code §57-39.2-01, et seq.; N.D. Cent. Code §57-40.2-01, et seq. Any jurisdiction enacting this tax does not have to enact both the sales and use tax, and may elect to only enact a sales tax. North Dakota Guideline—Sales, Use and Gross Receipts Tax Requirements (Jan. 2012); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. To date, most locations that impose a local option sales tax also impose a local option use tax. North Dakota Guideline—Sales, Use and Gross Receipts Tax Requirements (Jan. 2012) (Bisbee, Cando and Scranton are the only cities as of Jan. 1, 2017 that impose a local option sales tax without a corresponding local option use tax). However, cities such as Bisbee, Cando and Scranton impose a local sales tax only. Local sales tax in the cities of Bisbee, Cando, and Scranton applies only if the seller and buyer are located within the city limits of these cities. North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Similarly, in other local jurisdictions where city has enacted a sales tax but not a corresponding use tax, the business or buyer must be located in the locality to be affected by local taxes. Natl. Bellas Hess v. Illinois Dept. of Rev., 386 U.S. 753 (1967), overruled by South Dakota v. Wayfair, Inc., 138 S. Ct. 2080, 2018 BL 219995 (U.S. 2018); Nat'l Geographic Soc'y v. Cal. Bd. of Equalization, 430 U.S. 551 (1977); Quill Corp. v. North Dakota, 504 U.S. 298 (1992), overruled in part by South Dakota v. Wayfair, Inc., 138 S. Ct. 2080, 2018 BL 219995 (U.S. 2018); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Additionally, with respect to local sales and use taxes, the actual amount of tax paid can be subject to a cap imposed by the local jurisdiction. N.D. Cent. Code §11-09.1-05(2); N.D. Cent. Code §40-05.1-06(2); N.D. Cent. Code §40-05.1-06(16); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Jurisdictions that have a tax cap for county and city local sales are still to collect sale and use tax on the full value of the transaction or item as determined for state sales and use tax purposes. N.D. Cent. Code §11-09.1-05(2)(c); N.D. Cent. Code §40-05.1-06(16)(c); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. BNA-SUTN ND 1.1.3.
+
+==================================================
+
+Topic: Imposition of Tax General Rule - Imposition of Tax Excise and Replacement Taxes
+
+Yes As a member of the Streamlined Sales and Use Tax Agreement, North Dakota prohibits replacement taxes. However, North Dakota imposes several excise taxes that operate in a manner similar to a transactional sales tax. See, e.g., N.D. Cent. Code §57-36.01; N.D. Cent. Code §57-39.5-01; N.D. Cent. Code §57-39.6-01. For information on North Dakota's excise taxes, see the Excise Tax Navigator, at North Dakota 1.1. Replacement Taxes The Streamlined Sales and Use Tax Agreement prohibits member states from imposing a “prohibited replacement tax” which is a tax outside of the sales and use tax that is imposed on products defined in the Agreement. Generally, the Streamlined Sales Tax Governing Board will make a finding regarding whether or not a member state has imposed a replacement tax. Streamlined Sales and Use Tax Agreement, as amended through Dec. 14, 2018, Section 334; Streamlined Sales Tax Governing Board Rules and Procedures, as amended through May 3, 2018. North Dakota is a full member of the Streamlined Sales and Use Tax Agreement. Streamlined Sales Tax Governing Board, Taxability Matrix, North Dakota (version 2018.0). BNA-SUTN ND 1.1.4.
+
+==================================================
+
+Topic: Imposition of Tax Historical Information
+
+Est. 1935 North Dakota first enacted sales tax in 1935. It was initially enacted at a rate of 2 percent. North Dakota 2014 State and Local Tax Guide (Dec. 2014). Four years later, in 1939, North Dakota enacted a corresponding 2-percent use tax. The sales and use tax rate increased from 2 percent to 2.25 percent in 1963. However, in 1965 the sales tax law was referred and disapproved and use tax was collected in place of sales tax from 1965-1967. In 1967, new sales and use tax laws were enacted setting the rate for both sales and use tax at 3 percent. In years following the reenactment of the sales tax, the rate of sales and use tax was reduced and increased frequently. In addition, numerous pieces of legislation were also enacted carving our exemptions from taxation for certain items and services and applying special rates to certain forms of property subject to sales and use tax. North Dakota 2014 State and Local Tax Guide (Dec. 2014). BNA-SUTN ND 1.2.
+
+==================================================
+
+Topic: Imposition of Tax Pending and Trending Developments
+
+Economic Nexus North Dakota is the birthplace of Quill Corp. v. North Dakota, a landmark case wherein the Supreme Court of the United States ruled that a business must have physical presence in a taxing state in order to be liable for collection of sales tax from retail sales made to the taxing state's residents. Quill Corp. v. North Dakota, 504 U.S. 298 (1992), overruled in part by South Dakota v. Wayfair, Inc., 138 S. Ct. 2080, 2018 BL 219995 (U.S. 2018). With the passage of time, several states have attempted to avoid Quill's limitations on their ability to require out-of-state sellers to collect sales tax by enacting legislation establishing monetary thresholds, implementing incentive programs, or offering vendor discounts. Quill Corp. v. North Dakota, 504 U.S. 298 (1992), overruled in part by South Dakota v. Wayfair, Inc., 138 S. Ct. 2080, 2018 BL 219995 (U.S. 2018). Economic Nexus North Dakota has also passed legislation requiring out-of-state vendors who make more than $100,000 of sales or 200 or more separate sales transactions delivered into North Dakota in a calendar year to collect and remit sales tax. The North Dakota State Tax Commission has indicated that this provision became effective upon the release of the decision in South Dakota v. Wayfair, Inc.. Enforcement of the statute began Oct. 1, 2018, and any out-of-state retailers who meet North Dakota's economic nexus threshold must begin collecting sales tax by that date or 60 days after they meet the threshold, whichever is later. N.D. Cent. Code §57-39.2-02.2, as added by 2017 N.D. S.B. 2298, effective June 21, 2018; North Dakota State Tax Comn., Remote Seller Sales Tax;North Dakota State Tax Comn., FAQ—Remote Seller Sales Tax; North Dakota State Tax Comn., Rauschenberger Issues Statement on U.S. Supreme Court Remote Seller Sales Tax Case (June 21, 2018); see South Dakota v. Wayfair, Inc., 138 S. Ct. 2080, 2018 BL 219995 (U.S. 2018). For more information on North Dakota's treatment of nexus for sales and use tax purposes, see the Sales and Use Tax Navigator, at North Dakota 3.1.2. BNA-SUTN ND 1.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Sale' and 'Retail Sale'
+
+Defined North Dakota defines “sale” as any transfer of title or possession, exchange or barter, conditional or otherwise, in any manner or by any means whatever, for a consideration. N.D. Cent. Code §57-39.2-01(23), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. A “sale” includes the furnishing or service of steam, gas, or communication, the furnishing of hotel, motel, or other accommodations, the furnishing of tickets or admissions to any place of amusement, athletic event, or place of entertainment, including the playing of any machine for amusement or entertainment in response to the use of a coin, and sales of magazines and other periodicals. Effective July 1, 2017, the definition of “sale”specifically excludes the provision of internet access service. N.D. Cent. Code §57-39.2-01(23), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017 and by 2019 N.D. S.B. 2192, effective June 30, 2019. BNA-SUTN ND 1.4.1.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Lease'
+
+Defined North Dakota defines “lease” or “rental” as any transfer of possession or control of tangible personal property for a fixed or indeterminate term for consideration. N.D. Cent. Code §57-39.2-01(14). “Lease” or “rental”does not include:• a transfer of possession or control of property under a security agreement or deferred payment plan, which requires the transfer upon completion of the required payments; • a transfer of possession or control of property under an agreement that requires the transfer of title upon completion of required payments and payment of an option price that does not exceed the greater of one hundred dollars or 1 percent of the total required payments; or • providing tangible personal property with an operator for a fixed or indeterminate period of time, where the operator is necessary for the equipment to perform as designed. N.D. Cent. Code §57-39.2-01(14). BNA-SUTN ND 1.4.2.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Use' or 'Storage, Use, or Consumption'
+
+Defined “Use”is defined as the exercise by any person of any right or power over tangible personal property incident to the ownership or possession of that property, including the storage, use, or consumption of that property in the state. N.D. Cent. Code §57-40.2-01(8). “Use” does not include processing, or the sale of that property in the regular course of business. The definition includes the severing of sand or gravel from the soil of the state for use within or outside North Dakota. N.D. Cent. Code §57-40.2-01(8). BNA-SUTN ND 1.4.3.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Tangible Personal Property'
+
+Defined In North Dakota, “tangible personal property” means personal property that can be seen, weighed, measured, felt, or touched or that is in any other manner perceptible to the senses. N.D. Cent. Code § 57-39.2-01(25). The term includes electricity, water, gas, steam, and prewritten computer software. N.D. Cent. Code § 57-39.2-01(25). BNA-SUTN ND 1.4.4.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Intangible Property'
+
+Not Defined North Dakota does not expressly define “intangible property.” N.D. Cent. Code § 57-39.2-01(25). However, “tangible personal property” means personal property that can be seen, weighed, measured, felt, or touched or that is in any other manner perceptible to the senses. The term includes electricity, water, gas, steam, and prewritten computer software. N.D. Cent. Code § 57-39.2-01(25). BNA-SUTN ND 1.4.5.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Retailer' or 'Vendor'
+
+Defined In North Dakota, “retailer” or “seller” includes every person engaged in the business of selling tangible goods, wares, or merchandise at retail, in addition to several other business activities. N.D. Cent. Code § 57-39.2-01(22), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. More specifically, this includes leasing or renting hotel, motel, or other accommodations;furnishing steam, gas, and communication services; selling tickets or admissions to places of amusement, entertainment, and athletic events; selling magazines, or other periodicals; and any person, who by contract or otherwise, agrees to furnish for a consideration a totally or partially finished product consisting in whole or in part of tangible personal property subject to the sales tax. N.D. Cent. Code § 57-39.2-01(22), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017 and by 2019 N.D. S.B. 2192, effective June 30, 2019. All items of tangible personal property entering into the performance of such contract as a component part of the product agreed to be furnished under the contract are likewise subject to sales tax. N.D. Cent. Code § 57-39.2-01(22), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. “Retailer”or “seller” also includes the state or any municipality furnishing steam, gas, or communication service to members of the public in its proprietary capacity, every clerk, auctioneer, agent, or factor selling tangible personal property owned by any other retailer, and every person who engages in regular or systematic solicitation of a consumer market in North Dakota by the distribution of catalogs, periodicals, advertising fliers, or other advertising, or by means of print, radio or television media, by mail, telegraphy, telephone, computer database, cable, optic, microwave, or other communication system. N.D. Cent. Code § 57-39.2-01(22), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. Effective July 1, 2017, the term “communication services” specifically excludes the provision of internet access service for purposes of the definitions of “retailer” and “seller.” N.D. Cent. Code § 57-39.2-01(22), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. BNA-SUTN ND 1.4.6.
+
+==================================================
+
+Topic: Imposition of Tax Key Definitions 'Purchaser' or 'Consumer'
+
+Not Defined In North Dakota the terms “purchaser” and “consumer”are not expressly defined, but the term “consumer” includes persons to whom sales, rental or leases are made and entities such as a hospital, infirmary, sanatorium, nursing home, home for the aged, or similar institution that furnishes services to any patient or occupant. N.D. Cent. Code § 57-39.2-01(21), as amended by 2015 N.D. S.B. 2096, effective July 1, 2017. BNA-SUTN ND 1.4.7.
+
+==================================================

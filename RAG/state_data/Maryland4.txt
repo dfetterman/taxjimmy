@@ -1,0 +1,411 @@
+State: Maryland
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Aircraft purchased for intrastate use are tangible personal property, and subject to sales and use tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for taxable aircraft are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Charges for repair services for aircraft are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items for taxable aircraft are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Charges for maintenance services for aircraft are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Fuel that is subject to motor fuel excise tax in Maryland is exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-221(a)(3). Aviation fuel and turbine fuel are subject to motor fuel excise tax, and therefore, their sales are exempt from sales and use tax. Md. Code Ann. Tax-Gen. §9-101; Md. Code Ann. Tax-Gen. §9-302. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1. BNA-SUTN MD 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of aircraft used principally in interstate or foreign commerce are exempt from sales tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). Sales of aircraft that are not principally used in interstate or foreign commerce are subject to tax. Md. Code Ann. Tax-Gen. §11-102; Md. Code Ann. Tax-Gen. §11-103; Md. Code Ann. Tax-Gen. §11-101(k); Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). Aircraft are principally used in interstate or foreign commerce if, during the first year of the aircraft's use, one of the following is true:• more than 50 percent of the total mileage traveled by the aircraft is mileage: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United States and a pickup or delivery point outside the United States;or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(1). • more than 50 percent of the total trips taken by the aircraft are: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United states and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(2). or • more than 50 percent of the total days of use are days during which the aircraft has been used for a trip: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup and delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States. Md. Regs. Code §03.06.01.26(B)(3). Sales of aircraft are also exempt if bought outside of Maryland, solely for use in another state, and only stored in Maryland pending shipment to another state. Md. Code Ann. Tax-Gen. §11-216(a)(1). BNA-SUTN MD 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of replacement parts or other tangible personal property used physically in, on, or by aircraft used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Charges for repair services for aircraft are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of tangible personal property, such as oil and filters, used physically in, on, or by aircraft used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Charges for maintenance services for aircraft are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Exempt Sales of fuel subject to motor fuel excise tax in Maryland are exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-221(a)(3). Sales of aviation fuel and turbine fuel are subject to motor fuel excise tax, and therefore, are exempt from sales and use tax. Md. Code Ann. Tax-Gen. §9-101; Md. Code Ann. Tax-Gen. §9-302. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1. BNA-SUTN MD 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Exempt The sale of a motor vehicle is exempt from sales and use tax, and subject to the motor vehicle excise tax. Md. Code Ann. Tax-Gen. §11-221(a)(4); Md. Code Ann. Transp. §13-809(b); Md. Code Ann. Transp. §13-811. The motor vehicle excise tax applies to sales of motor vehicles, trailers, semitrailers, mopeds, motor scooters, and off-highway recreational vehicles. Md. Code Ann. Transp. §13-809(b). Additionally, motor vehicle leases are exempt from sales or use tax when the period of the lease agreement is for greater than one year. Md. Code Ann. Tax-Gen. §11-221(a)(5). Electric Vehicle Recharging Equipment Rebate Program For fiscal years 2018 through 2020 eligible applicants may receive an electric vehicle recharging equipment rebate. 2017 Md. S.B. 393, effective July 1, 2017, repealing and reenacting Md. Code Ann. State Government Code §9-2009. Individuals may receive a rebate equal to the lesser of $700 or 40 percent of the costs of acquiring and installing qualified electric vehicle recharging equipment. A business entity or a state or local government unit is allowed a rebate equal to the lesser of $4,000 or 40 percent of the acquisition and installation costs for such qualified equipment. A retail service dealer may receive a rebate amounting to the lesser of either $5,000 or 40 percent of the acquisition and installation costs. 2017 Md. S.B. 393, effective July 1, 2017, repealing and reenacting Md. Code Ann. State Government Code §9-2009. Maryland defines qualified electric vehicle recharging equipment to mean property used to recharge motor vehicles that are propelled by electricity. 2017 Md. S.B. 393, effective July 1, 2017, repealing and reenacting Md. Code Ann. State Government Code §9-2009. For more information on taxes on motor vehicle excise tax in Maryland, see the Excise Taxes Navigator, at Maryland 9.2. BNA-SUTN MD 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Charges for repair and replacement parts for motor vehicles are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Charges for repair services for motor vehicles are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Charges for oil, filters, and other maintenance items for motor vehicles are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Charges for maintenance services for motor vehicles are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Sales of motor fuel are exempt from sales and use tax; instead, motor fuel is subject to the motor fuel excise tax. Md. Code Ann. Tax-Gen. §11-221(a)(3); Md. Code Ann. Tax-Gen. §9-101; Md. Code Ann. Tax-Gen. §9-302. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1 BNA-SUTN MD 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Short-term motor vehicle leases of passenger vehicles for a period of 180 days or less are subject to state sales tax at a special rate of 23 cents for each two dollars of the cost of the vehicle rental and an additional one cent on each additional nine cents of the cost of the vehicle rental. Md. Code Ann. Tax-Gen. §11-104(c). For an exact table of rate calculations, see Md. Code Ann. Tax-Gen. §11-104(c)(2). To qualify as a short-term motor vehicle lease, the vendor must not provide a driver as part of the rental, and the vehicle must not be used by the lessee to transport individuals or property for hire. Md. Code Ann. Tax-Gen. §11-104(c)(1)(i). Dump trucks, tow trucks, and various farm vehicle leases do not qualify as short term motor vehicle leases. Md. Code Ann. Tax-Gen. §11-104(c)(1)(ii). For motor vehicle rentals lasting more than 180 days and less than one year, a flat sales tax rate of 11.5 percent is applied to monthly rental or lease payments. Interview with Office of the Comptroller of Maryland, July 28, 2010; Maryland Sales and Use Tax Return, Form 202; Maryland Tax Tip No. 8. Peer-to-Peer Car Sharing Effective from July 1, 2018, to June 30, 2020, charges made in connection with a shared motor vehicle used for peer-to-peer car sharing that is made available on a peer-to-peer car sharing program are taxable. Md. Code Ann. Tax-Gen. §11-104(c-1), as amended by 2018 Md. S.B. 743, effective July 1, 2018; Maryland Sales and Use Tax Facts July 2018 - June 2019. “Peer-to-peer car sharing” means “the authorized use of a motor vehicle by an individual other than the vehicle's owner through a peer-to-peer sharing program.” These charges are taxable at a special rate of 8 percent. Md. Code Ann. Tax-Gen. §11-104(c-1), as amended by 2018 Md. S.B. 743, effective July 1, 2018. BNA-SUTN MD 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+No Guidance Maryland does not provide guidance on the tax treatment of motor vehicles held in resale inventory and used for demonstration purposes. BNA-SUTN MD 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Tires are subject to sales and use tax as tangible personal property. Md. Code Ann. Tax-Gen. §11-101(k); Md. Code Ann. Tax-Gen. §11-102(a). Maryland has a Tire Recycling Fee of $0.80 for each new tire sold in Maryland. The fee applies to the first sale of a tire in Maryland and is imposed on the seller. Maryland Tax Tip No. 16. BNA-SUTN MD 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of motor vehicles used principally in interstate or foreign commerce are not subject to sales tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). Motor vehicles are principally used in interstate or foreign commerce if, during the first year of the motor vehicle's use, one of the following is true:• more than 50 percent of the total mileage traveled by the motor vehicle is mileage: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United States and a pickup or delivery point outside the United States;or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(1). • more than 50 percent of the total trips taken by the motor vehicle are: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United states and a pickup or delivery point outside the United States;or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(2). or • more than 50 percent of the total days of use are days during which the motor vehicle has been used for a trip: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup and delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States. Md. Regs. Code §03.06.01.26(B)(3). Sales of motor vehicles are also exempt if bought outside of Maryland, solely for use in another state, and are only stored in Maryland pending shipment to another state. Md. Code Ann. Tax-Gen. §11-216(a)(1). Further, motor vehicles that will be titled or registered in another state are not subject to tax, except for rentals. Md. Code Ann. Tax-Gen. §11-208(c)(3). Sales of buses to a person who uses the bus only in the operation of the transportation system of a Maryland political subdivision for public transportation on regular schedules between fixed terminals, are not subject to tax. Md. Code Ann. Tax-Gen. §11-223. BNA-SUTN MD 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of replacement parts or other tangible personal property used physically in, on, or by motor vehicles used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Nontaxable Charges for repair services for motor vehicles are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Tangible personal property, such as oil and filters, used physically in, on, or by motor vehicles used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Charges for maintenance services for motor vehicles are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Sales of fuel subject to motor fuel excise tax in Maryland; thus, fuel is exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-221(a)(3); Md. Code Ann. Tax-Gen. §9-101; Md. Code Ann. Tax-Gen. §9-302. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1. BNA-SUTN MD 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Tires are subject to sales and use tax as tangible personal property. Md. Code Ann. Tax-Gen. §11-101(k); Md. Code Ann. Tax-Gen. §11-102(a). Maryland has a Tire Recycling Fee of $0.80 for each new tire sold in Maryland. The fee applies to the first sale of a tire in Maryland and is imposed on the seller. Maryland Tax Tip No. 16. BNA-SUTN MD 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends Maryland sales and use tax does not apply to sales of vessels that are subject to Maryland boat excise titling taxes, except for rentals. Md. Code Ann. Tax-Gen. §11-221(a)(7); Md. Code Ann. Nat. Res. §8-716. For purposes of the boat excise titling taxes, a vessel does not include “a ship's lifeboat, a vessel propelled only by sail, or vessel manually propelled.” Md. Code Ann. Nat. Res. §8-716(7)(ii). Sales tax applies to these items. Md. Code Ann. Tax-Gen. §11-102; Md. Code Ann. Tax-Gen. §11-103; Md. Code Ann. Tax-Gen. §11-101(k); Md. Code Ann. Nat. Res. §8-716(7)(ii). For more information on water vessel taxes in Maryland, see the Excise Taxes Navigator, at Maryland 9.3. BNA-SUTN MD 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts for water vessels are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Charges for repair services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Sales of oil, filters, and other maintenance items for water vessels are subject to sales tax. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). BNA-SUTN MD 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Charges for maintenance services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Depends Sales of dyed diesel fuel made by a marina are subject to sales and use tax at a rate of 6 percent applied to 94.5 percent of the gross receipts from the dyed diesel fuel sales. Md. Code Ann. Tax-Gen. §11-104(h)(2); Md. Code Ann. Tax-Gen. §11-410; Md. Regs. Code §03.06.01.45. Dyed diesel fuel is defined as “diesel fuel that is dyed under U.S. Environmental Protection Agency rules for high sulfur diesel fuel or is dyed under internal revenue service rules for nontaxable use. Md. Code Ann. Tax-Gen. §11-104(h)(1)(ii); Md. Regs. Code §03.06.01.45. Marina is defined as “a person who maintains a place of business where motor fuel is sold primarily to vessels. Md. Code Ann. Tax-Gen. §11-104(h)(1)(iii); Md. Regs. Code §03.06.01.45. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1 BNA-SUTN MD 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of water vessels used principally in interstate or foreign commerce are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). Water vessels are principally used in interstate or foreign commerce if, during the first year of the vessel's use, one of the following is true:• more than 50 percent of the total mileage traveled by the vessel is mileage: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(1). • more than 50 percent of the total trips taken by the vessel are: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United states and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(2). or • more than 50 percent of the total days of use are days during which the vessel has been used for a trip: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup and delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States. Md. Regs. Code §03.06.01.26(B)(3). Sales of water vessels are also exempt if bought outside of Maryland, solely for use in another state, and are only stored in Maryland pending shipment to another state. Md. Code Ann. Tax-Gen. §11-216(a)(1). Vessels are defined as “every description of watercraft, including an ice boat but not including a seaplane, that is used or capable of being used as a means of transportation on water or ice.” Vessel also includes motors, spars, sails, and accessories of a vessel. Md. Code Ann. Nat. Res. §8-701. BNA-SUTN MD 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of replacement parts or other tangible personal property used physically in, on, or by vessels used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Nontaxable Charges for repair services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of tangible personal property, such as oil and filters, used physically in, on, or by water vessels used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Charges for maintenance services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Depends Sales of fuel used for a commercial fishing vessel or vessel used for commercial purposes is exempt from sales or use tax. Md. Code Ann. Tax-Gen. §11-218(3). Sales of dyed diesel at fuel made by a marina are subject to sales and use tax rate of 6 percent applied to 94.5 percent of the gross receipts from the dyed diesel fuel sales. Md. Code Ann. Tax-Gen. §11-104(h)(2); Md. Code Ann. Tax-Gen. §11-410; Md. Regs. Code §03.06.01.45. For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1 BNA-SUTN MD 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Depends Maryland sales and use tax does not apply to sales of commercial fishing vessels, instead such vessels are subject to Maryland's excise titling tax. Md. Code Ann. Tax-Gen. §11-221(a)(7); Md. Code Ann. Nat. Res. §8-716. For more information on water vessel taxes in Maryland, see the Excise Taxes Navigator, at Maryland 9.3. BNA-SUTN MD 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Exempt Repair parts to be used in a commercial fishing vessel or a vessel otherwise used for commercial purposes are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-218(3); Md. Regs. Code §03.06.01.45(D)(3). BNA-SUTN MD 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Charges for repair services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Exempt Tangible personal property, such as oil and filters, used physically in, on, or by water vessels used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Charges for maintenance services for water vessels are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Depends Fuel used for a commercial fishing vessel or vessel used for commercial purposes is exempt from sales or use tax. Md. Code Ann. Tax-Gen. §11-218(3). BNA-SUTN MD 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Exempt Commercial fishing items purchased for seafood harvesting purposes are exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-218(1). Exempt seafood harvesting items include: clam rakes, oyster rakes, crab bait, crab pots, fish nets, dredges, handscrapes, and hand or patent tongs. Md. Code Ann. Tax-Gen. §11-218(1); Md. Code Ann. Tax-Gen. §11-218(2). BNA-SUTN MD 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Exempt Certain supplies purchased for commercial seafood harvesting purposes are exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-218(1). Exempt seafood harvesting items include: clam rakes, oyster rakes, crab bait, crab pots, fish nets, dredges, handscrapes, and hand or patent tongs. Md. Code Ann. Tax-Gen. §11-218(1); Md. Code Ann. Tax-Gen. §11-218(2). BNA-SUTN MD 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of rolling stock used principally in interstate or foreign commerce are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). Rolling stock are principally used in interstate or foreign commerce if, during the first year of the item's use, one of the following is true:• more than 50 percent of the total mileage traveled by the rolling stock is mileage: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(1) . or • more than 50 percent of the total trips taken by the rolling stock: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup or delivery point within the United states and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States; Md. Regs. Code §03.06.01.26(B)(2). or • more than 50 percent of the total days of use are days during which the rolling stock has been used for a trip: ο between a pickup or delivery point in one state and a pickup or delivery point in another state or the District of Columbia; ο between a pickup and delivery point within the United States and a pickup or delivery point outside the United States; or ο between pickup and delivery points outside the United States. Md. Regs. Code §03.06.01.26(B)(3). A sale of rolling stock is also exempt if bought outside of Maryland, solely for use in another state, and only stored in Maryland pending shipment to another state. Md. Code Ann. Tax-Gen. §11-216(a)(1). BNA-SUTN MD 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of replacement parts or other tangible personal property used physically in, on, or by railroad rolling stock used principally in interstate or foreign commerce, are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Nontaxable Charges for repair services for rolling stock are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt A sale of tangible personal property, such as oil and filters, used physically in, on, or by railroad rolling stock used principally in interstate or foreign commerce, is exempt from tax. Md. Code Ann. Tax-Gen. §11-208(c); Md. Regs. Code §03.06.01.26(A). BNA-SUTN MD 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Charges for maintenance services for rolling stock are not subject to sales tax. Md. Regs. Code §03.06.01.03(A). BNA-SUTN MD 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Depends A sale of fuel that is subject to motor fuel excise tax in Maryland is exempt from sales and use tax. Md. Code Ann. Tax-Gen. §11-221(a)(3); Md. Code Ann. Tax-Gen. §9-101; Md. Code Ann. Tax-Gen. §9-302. Sales of other types of fuel are subject to sales and use tax unless a specific exemption applies. Md. Code Ann. Tax-Gen. §11-101(h)(1); Md. Code Ann. Tax-Gen. §11-102(a)(1). For more information on motor fuel tax, see the Excise Taxes Navigator, at Maryland Section 8.1 BNA-SUTN MD 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Exempt Sales of air transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Exempt Sales of rail transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). Effective July 1, 2017, Maryland also specifically exempts sales of light rail vehicles or related equipment, provided the vehicle will be used to provide transit service on the Purple Line in Montgomery County and Prince George's County. Md. Code Ann. Tax-Gen. §11-233, as enacted by 2017 Md. H.B. 713, effective July 1, 2017. The Purple Line is a proposed light rail line that is expected to connect with the Washington, D.C., Metrorail system and other regional rail and bus transportation systems running in Maryland. Maryland Transit Admin., Purple Line, Project Overview. BNA-SUTN MD 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Exempt Sales of water transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Exempt Sales of bus transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Exempt Sales of taxi, or other passenger transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Exempt Sales of limousine services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Exempt Sales of property transportation services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. §11-223(2). BNA-SUTN MD 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Exempt Sales of moving services are exempt from Maryland sales and use tax. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Code Ann. Tax-Gen. §11-223(2); Md. Regs. Code §03.06.01.01(A). BNA-SUTN MD 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable Parking and valet charges are not taxable. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Regs. Code §03.06.01.01(A). Maryland law only authorizes local jurisdictions to impose a parking tax in limited circumstances. For example, the Maryland Constitution specifically authorizes the city of Baltimore to impose taxes by ordinance, and Baltimore has chosen to impose a valet parking tax, which is collected by the operator of the valet service. Md. Const. art. XI-C, § 3;Baltimore, Md., Code art. 28 §22-5(a), as amended by Baltimore City Ordinance No. 13-98 (Feb. 11, 2013). BNA-SUTN MD 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable Boat slip and mooring fees are not taxable. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Regs. Code §03.06.01.01(A). Counties and cities may impose a tax on boat slip and mooring fees, however. Md. Code Ann. Tax-Gen. § 11-102(c)(1)(ii)(3); Controller v. Pleasure Cove Yacht Club, Inc., 639 A.2d 685, 334 Md. 450 (Md. 1994). BNA-SUTN MD 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Nontaxable Charges for towing services are not subject to sales tax. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Regs. Code §03.06.01.01(A). BNA-SUTN MD 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Nontaxable Charges for car washing are not subject to sales tax. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Regs. Code §03.06.01.01(A). BNA-SUTN MD 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Nontaxable Charges for car detailing are not subject to sales tax. Md. Code Ann. Tax-Gen. § 11-101(m); Md. Regs. Code §03.06.01.01(A). BNA-SUTN MD 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Exempt Port Cargo Handling Equipment Sales of equipment or machinery used to load/unload and handle cargo for ocean going vessels within an international marine terminal are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(a). Additionally, rentals of equipment or machinery that are owned by the Maryland Port Administration and used only to load/unload ocean going vessels are exempt from tax. Md. Code Ann. Tax-Gen. §11-208(a). Light Transit Vehicle and Related Equipment The sale of a light rail transit vehicle or related equipment is exempt if the vehicle will be used to provide transit service on the Purple Line in Montgomery County. Md. Code Ann. Tax-Gen. §11-233, as added by 2017 Md. H.B. 713, effective July 1, 2017. BNA-SUTN MD 29.15.
+
+==================================================

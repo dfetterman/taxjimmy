@@ -1,0 +1,51 @@
+State: Idaho
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination For purposes of determining applicability of the Idaho sales and use tax, retail sales in Idaho are generally sourced on a destination basis. Idaho Commission Decision Docket No. 24089 (Aug. 15, 2012). More specifically, Idaho sales and use tax will not apply to a sale of tangible personal property where a seller delivers the property outside the state, for use outside the state, through either a common carrier, United States mail, or seller's delivery service. It is not determinative that title to the goods passes in another state. As long as the goods are delivered into Idaho, the exemption does not apply, regardless of when and where title passes. Idaho Commission Decision Docket No. 24089 (Aug. 15, 2012). To qualify for this exemption, the seller must maintain records to support the exemption. Shipping data in the form of bills of lading, postal receipts, or invoices setting forth the out-of-state destination with adequate supporting documentation are all acceptable forms of evidence of out-of-state delivery. Idaho Code §63-3622Q; Idaho Regs. §35.01.02.092. BNA-SUTN ID 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Depends Idaho does not provide general sourcing rules for services. However, sales of certain services are included in the definition of “retail sale,” and are thus sourced on a destination basis. Idaho Code §63-3609; Idaho Commission Decision Docket No. 24089 (Aug. 15, 2012). Idaho tax law relating to the sourcing of mobile telecommunications is in compliance with the federal Mobile Telecommunications Sourcing Act. Accordingly, the Idaho sales and use tax applies to wireless calls that are billed to a customer whose primary place of use is in Idaho, to the extent the services are associated with transmission that originate and terminate within Idaho or within any other state. 4 U.S.C. §§116–126. Therefore, with respect to sourcing, when mobile telecommunications services are provided to a customer whose place of primary use is located in Idaho and the charges are billed by or for the customer's home service provider, the services are deemed to be provided at the customer's place of primary use. A customer's place of primary use is generally either the residential address or the primary business street address of the customer, and must be a location within the licensed service area of the home service provider. 4 U.S.C. §§116. BNA-SUTN ID 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination For purposes of determining applicability of the Idaho sales and use tax, leases and rentals in Idaho are generally sourced on a destination basis. Idaho Regs. §35.01.02.024(11). BNA-SUTN ID 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+Destination Idaho county sales and use tax are allocated in the same manner as the state sales tax. 2003 Idaho H. 428 (was formerly Idaho Code §63-2603). BNA-SUTN ID 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Depends Idaho law provides that when tangible personal property subject to use tax has been subject to a general retail sales or use tax by another state in an amount equal to or greater than the amount of the Idaho tax, and evidence can be given of such payment, the property will not be subject to Idaho use tax. Idaho Code §63-3621(j). However, if the amount paid to the other state was less, the property is subject to use tax to the extent that the Idaho tax exceed the tax paid to the other state. Idaho Code §63-3621(j). BNA-SUTN ID 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Depends The use tax does not apply to the use of household goods, personal effects and personally owned vehicles or aircraft owned by a resident of Idaho if such articles were acquired by such person in another state while a resident of that state 3 months prior to entering Idaho. Idaho Code §63-3621(l). Where an individual purchases a motor vehicle after relocating to Idaho, he or she may not claim the exemption for new Idaho residents. Idaho Commission Decisions Docket No. 25324 (July 17, 2017). BNA-SUTN ID 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+Depends The use tax does not apply to the use of a motor vehicle by a nonresident which is registered or licensed under the laws of the state of his residence and is not used in Idaho for more than a cumulative period of time totaling 90 days in any consecutive 12 months, and which is not required to be registered or licensed under the laws of Idaho. Idaho Code §63-3621(k); Idaho Commission Decisions Docket No. 38926 (July 17, 2017) (an Idaho resident who claims to have sporadically used a car in Idaho may not claim an exemption for using a vehicle for less than 90 days in 12 months). The use tax also does not apply to any use of a motor vehicle which is registered or licensed under the laws of the state of residence of a nonresident student while such nonresident student is enrolled as a full-time student in an institution of postsecondary education that is both physically located in Idaho and recognized as accredited by the state board of education. Idaho Code §63-3621(k). BNA-SUTN ID 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Exempt The sale or purchase of tangible personal property shipped by the seller via common carrier for use out-of-state is exempt from tax. Idaho Code §63-3622P. Effective July 1, 2017, a sale of a motor vehicle, trailer, vessel, ATV, utility type vehicle, specialty off-highway vehicle, off-road motorcycle, or snowmobile to a nonresident for use outside of Idaho, even though the vehicle is delivered into the State of Idaho, is exempt from sales tax if:• the vehicle will be taken from the point of delivery in Idaho to a point outside of Idaho; and • the vehicle will be registered and titled (if required) immediately under the laws of another state, will not be used in Idaho for more than 90 days in any 12-month period, and will not be required to be titled under the laws of Idaho. Idaho Code §63-3622R, amended by 2017 Idaho H. 32, effective July 1, 2017; Idaho Regs. §35.01.02.107(10). Prior to July 1, 2017, a sale of a motor vehicle, trailer, vessel, ATV, utility type vehicle, specialty off-highway vehicle, off-road motorcycle, or snowmobile to a nonresident for use outside Idaho, even though the vehicle is delivered into the State of Idaho, is exempt from sales tax if:• the vehicle will be taken from the point of delivery in Idaho to a point outside of Idaho; and • the vehicle will be registered and titled (if required) immediately under the laws of another state, will not be used in Idaho for more than 60 days in any 12-month period, and will not be required to be titled under the laws of Idaho. Idaho Code §63-3622R; Idaho Regs. §35.01.02.107(10). Prior to July 1, 2015, sales of Utility Type Vehicles (UTVs) and Specialty Off-Highway Vehicles (SOHVs) to nonresidents meeting the requirements above were not exempt from sales tax. 2015 Idaho H. 12, effective July 1, 2015. Prior to July 1, 2015, the only way for a nonresident purchasing a UTV or SOHV from an Idaho retailer to avoid paying Idaho sales tax would be to have had delivery of the vehicle occur outside of Idaho. Idaho Commission Decisions Docket No. 0-421-480-448 (Jan. 15, 2019). BNA-SUTN ID 4.3.3.
+
+==================================================

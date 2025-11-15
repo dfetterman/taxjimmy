@@ -1,0 +1,51 @@
+State: Mississippi
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Generally Origin-Based Mississippi tax law generally follows an origin based sourcing scheme and sources sales for the purposes of distributing municipal taxes to the location of the business from which the sale is made. Miss. Code Ann. §27-65-3(f). However, different sourcing rules apply to a few enumerated circumstances. Miss. Code Ann. §27-65-3(f). Specifically, retail sales made by a transient vendor along a route from a vehicle are sourced to the site where delivery is made to the customer. Additionally, for wholesale sales of tangible personal property taxed at wholesale rates, the amount of the sale that is allowed as a credit against the sales tax liability of the retailer, is sourced to the location of the business of the retailer receiving the credit. When a wholesale sale of tangible personal property is taxed at wholesale rates, the amount of the sale that is not allowed as a credit against the sales tax liability of the retailer is sourced to the rural destination site of the sale. Lastly, income that is received from the renting or leasing of property that is used for transportation purposes between cities or counties also is sourced to the rural destination site. Miss. Code Ann. §27-65-3(f). BNA-SUTN MS 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Origin-Based Mississippi utilizes origin-based sourcing; however, specific sourcing rules apply to sales of telecommunications services. Miss. Code Ann. §27-65-3(f). Telecommunications Sourcing Rules Sales of telecommunication services that are sold on a call-by-call basis are sourced to Mississippi when the call either originates or terminates in Mississippi and is charged to a service address in Mississippi. Miss. Regs. §35.IV.06.02.301. A sale of telecommunications for a fixed or flat monthly amount when a customer is entitled to make an unlimited number of calls is sourced to Mississippi when the service is billed to the customer's place of primary use in Mississippi. Miss. Code Ann. §27-65-19(1)(e)(v)2; Miss. Regs. §35.IV.06.02.302. Sales of private communications services when all of the customer channel termination points are located in Mississippi are sales of intrastate services and are sourced to Mississippi. Miss. Regs. §35.IV.6.02.304. Sales of private communications services with multiple customer channel termination points in multiple states are sales of interstate or international services, and are sourced to Mississippi on a prorated basis using the number of termination points in Mississippi compared to the total number of termination points. Miss. Regs. §35.IV.06.02.305. Sales of prepaid calling services or prepaid wireless calling services are sourced to Mississippi when the customer physically purchases the service at a vendor's place of business in Mississippi. If the customer does not physically purchase the service at a business location in Mississippi, then the sale is sourced to Mississippi if the customer's shipping address is in Mississippi when the sale involves a shipment; or if the customer's billing address is in Mississippi when the sale does not involve a shipment. If none of the above situations apply to a sale of prepaid wireless calling services, the service may be sourced based on the location associated with the mobile telephone number. Miss. Regs. §35.IV.06.02.306. Mobile Telecommunications Sourcing The federal Mobile Telecommunications Services Act provides that sales of mobile telecommunications services are sourced to the customer's place of primary use. Miss. Code Ann. §27-65-19(1)(e)(v)3.a. Thus, in accordance with this federal act, sales of mobile telecommunication services are sourced to Mississippi when the customer's place of primary use is in Mississippi. Miss. Code Ann. §27-65-19(1)(e)(v)3.a; Miss. Regs. §35.IV.6.02.401. BNA-SUTN MS 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Depends Generally, Mississippi utilizes origin-based sourcing. Miss. Code Ann. §27-65-3(f). However, income received from renting or leasing property used for transportation between cities has a rural destination situs. Miss. Code Ann. §27-65-3(f). BNA-SUTN MS 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+Generally Origin-Based Mississippi tax law generally follows an origin based sourcing scheme and sources sales for the purposes of distributing municipal taxes to the location of the business from which the sale is made. Miss. Code Ann. §27-65-3(f). Enumerated exceptions to the origin sourcing rules are:• retail sales made by a transient vendor along a route from a vehicle are sourced to the site where delivery is made to the customer; • for wholesale sales of tangible personal property taxed at wholesale rates, the amount which is allowed as a credit against the sales tax liability of the retailer, is sourced to the location of the business of the retailer receiving the credit; • for wholesale sales of tangible personal property taxed at wholesale rates, the amount of which is not allowed as a credit against the sales tax liability of the retailer is sourced to the rural destination site of the sale; and • income that is received from the renting or leasing of property that is used for transportation purposes between cities or counties also has a rural destination situs. Miss. Code Ann. §27-65-3(f). BNA-SUTN MS 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Use Tax Credit Mississippi allows a reciprocal use tax credit up to the amount of any sales or use tax properly paid to another state. Miss. Code Ann. § 27-67-7(a). Sales tax paid to another state is properly paid if the situs of the sale is that state. Use tax is properly paid to another state if the first use of the property occurs in that state. Miss. Regs. §35.IV.01.06.100. Also, any local sales and use tax claimed as a credit must have been levied under the authority of the state. Miss. Regs. §35.IV.01.06.100. The Mississippi reciprocal use tax credit is calculated by applying the rate of sales or use tax paid to another state to the value of the property at the time it enters Mississippi. If the amount is less than what would be paid under Mississippi sales tax law, the owner must remit the difference to the state. In addition to state taxes paid, Mississippi allows a taxpayer to take a credit against Mississippi state taxes due for local taxes paid as well as taxes paid to the District of Columbia. Miss. Code Ann. § 27-67-7(a); Miss. Code Ann. § 27-68-3(g); Miss. Regs. §35.IV.01.06.100. BNA-SUTN MS 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Exemptions Allowed Mississippi law exempts the retail sales of automobiles, trucks, truck-tractors, and rotary-wing aircraft from tax if the vehicle is exported from Mississippi within 48 hours and registered and first used in another state. Mississippi Dept. of Rev., Sales Tax Frequently Asked Questions; Miss. Code Ann. §27-65-101(1)(s), as amended by 2018 Miss. S.B. 2998, effective July 1, 2018. Mississippi also exempts from use tax the use, storage, or consumption of jet aircraft engines temporarily located within Mississippi and brought into the state for research and/or testing purposes at a jet aircraft engine research and testing facility. Miss. Code Ann. §27-67-7(o). BNA-SUTN MS 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+Exemptions Allowed The storage, use, or consumption of tangible personal property or specified digital products brought temporarily into the state by a nonresident is exempt from use tax, so long as such items are not for use in connection with a business activity. Miss. Code Ann. §27-67-7(c). Mississippi also exempts the temporary storage of tangible personal property to be shipped or mailed outside the state, even if the property's final destination cannot be determined prior to storage. Miss. Code Ann. §27-65-23; Miss. Regs. §35.IV.05.05.102, as amended, effective Sept. 1, 2018; see Miss. Regs. §35.IV.09.03.107, as amended effective April 1, 2018 (addressing ice sales and ice manufacturers). BNA-SUTN MS 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Exemptions Allowed Sales of tangible personal property for immediate export to a foreign country are exempt from Mississippi's sales and use tax. Miss. Code Ann. §27-65-111(d). Mississippi also exempts sales of automobiles, trucks, truck-tractors, semi-trailers, trailers, boats, travel trailers, motorcycles, all-terrain cycles, and rotary-wing aircraft that are exported within 48 hours, registered, and first used in another state. Mississippi Dept. of Rev., Sales Tax Frequently Asked Questions; Miss. Code Ann. §27-65-101(1)(s), as amended by 2018 Miss. S.B. 2998, effective July 1, 2018.. BNA-SUTN MS 4.3.3.
+
+==================================================

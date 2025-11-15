@@ -1,0 +1,201 @@
+State: Arkansas
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Real property is not subject to Arkansas gross receipts tax, nor its compensating use tax, as it is not tangible personal property. Ark. Code Ann. §26-52-103(30); Ark. Code Ann. §26-52-301(1); Ark. Code Ann. §26-53-106(a). Real property includes land, all rights and privileges belonging to the land, and all things contained on the land, such as buildings, structures, improvements, and all kinds of fixtures. Ark. Code Ann. §26-1-101(9). Arkansas provides an exemption for fill material provided to a consumer if the business transporting or delivering the fill material obtained the fill material free of charge and the charge to the consumer or user is only for the delivery of the material. Ark. Code Ann. § 26-52-401(30); Arkansas Administrative Decision No. 16-430 (Feb. 17, 2016). Initial installation is not taxable in the following circumstances:• when the initial installation is of flooring, motors, electrical appliances or devices, household appliances, or machinery in a newly constructed or substantially modified building or other improvement or structure affixed to real estate; Ark. Regs. GR-9.17(C)(2); see also Arkansas Revenue Legal Counsel Opinion No. 20190314 (May 21, 2019) (”substantially modified” would include gutting and remodeling of an entire building or gutting and remodeling a significant identified area of a building); Arkansas Revenue Legal Counsel Opinion No. 20130505 (May 18, 2018); or • when the installation is for nonmechanical, passive, or manually operated components that become part of the real estate after installation. Ark. Code Ann. §26-52-301(3)(B)(viii)(a); Ark. Regs. GR-9.17(C)(3) (exempt items include, but are not limited to, walls, ceilings, doors, locks, windows, glass, heat and air ducts, roofs, wiring, breakers, breaker boxes, electrical switches and receptacles, light fixtures, pipes, plumbing fixtures, fire and security alarms, intercoms, sprinkler systems, parking lots, fences, gates, fireplaces, and similar components which become a part of real estate after installation, except flooring); Arkansas Administrative Decision No. 17-033 (May 9, 2017) (the installation of blinds is a nontaxable installation of nonmechanical, passive, or manually operated components); Arkansas Revenue Legal Counsel Opinion No. 20130505 (May 18, 2018) (the installation of vinyl on inner and outer windows and doors and the installation of awnings are nontaxable installations of nonmechanical, passive, or manually operated components). BNA-SUTN AR 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Three or Four-Part Test Fixtures are not subject to Arkansas' gross receipts tax, or its compensating use tax, because fixtures are considered real property. Ark. Code Ann. §26-52-301(1); Ark. Code Ann. §26-52-103(30); Ark. Code Ann. §26-53-106(a); Ark. Code Ann. §26-1-101(9). Installation of a passive fixture device, such as duct work, is not a taxable service. However, the installation of a mechanical fixture device, such as a fan, would be a taxable service. If both passive and mechanical device installations are separately stated on the customer invoice, only the mechanical device installation is subject sales and use tax. If the installations are billed as one lump-sum charge, the entire amount will be subject to sales and use tax. Arkansas Revenue Legal Counsel Opinion No. 20160804 (Aug. 19, 2016). The Supreme Court of Arkansas has outlined a three-prong test to determine whether tangible personal property remains as such, and is taxable, or if it has become a fixture, and thus a nontaxable part of real property. Pledger v. Halvorson, 921 S.W.2d 576, 324 Ar. 302 (Ark. 1996) (citing McIlroy Bank & Trust v. Fed. Land Bank of St. Louis, 585 S.W.2d 947, 266 Ark. 481 (Ark. 1979); Corning Bank v. Bank of Rector, 576 S.W.2d 949, 265 Ark. 68 (Ark. 1979)). The first prong of the test is whether the tangible personal property is annexed or affixed to the real property. The second prong of the test looks to determine whether the tangible personal property are appropriate and adapted to the use or purpose of that part of the real property to which it has been affixed. The third, and most important prong, is whether the party making the annexation or attachment intended to make it permanent. Pledger v. Halvorson, 921 S.W.2d 576, 324 Ar. 302 (Ark. 1996) (citing McIlroy Bank & Trust v. Fed. Land Bank of St. Louis, 585 S.W.2d 947, 266 Ark. 481 (Ark. 1979); Corning Bank v. Bank of Rector, 576 S.W.2d 949, 265 Ark. 68 (Ark. 1979)). The Arkansas Supreme Court has also sometimes used a fourth inquiry to determine whether tangible personal property has become a fixture: whether the property is attached in such a manner that it cannot be removed without serious injury to the real estate. See Sanders v. Putman, 866 S.W.2d 827, 315 Ark. 251 (Ark. 1993); Adamson v. Sims, 151 S.W.3d 23, 85 Ark. App. 278 (Ark. Ct. App. 2004); Arkansas Administrative Decision No. 17-292; Arkansas Administrative Decision No. 17-293. BNA-SUTN AR 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Taxable The sale and initial installation of electrical appliances and household appliances are taxable. Ark. Code Ann. §26-52-301(3)(B)(i)(l). BNA-SUTN AR 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Nontaxable The initial installation, alteration, addition, cleaning, refinishing, replacement, or repair of plumbing fixtures is nontaxable. Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(15). BNA-SUTN AR 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Depends The initial installation, alteration, addition, cleaning, refinishing, replacement, or repair of windows is nontaxable. The sale and initial installation of flooring is generally taxable. Ark. Code Ann. §26-52-301(3)(B)(i)(j); Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(5). BNA-SUTN AR 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Depends Whether the sale and installation of signage is taxable depends on whether the sign is mechanical or passive and whether it is installed in new construction. Ark. Regs. GR-21(B); Arkansas Revenue Legal Counsel Opinion No. 20170627 (Aug. 7, 2017); Arkansas Administrative Decision No. 17–089. The installation of billboard or sign is taxable if it is mechanical or “electrical”(e.g., moving signs, signs with lights, etc.), unless it is installed in a newly constructed building. The installation of detached electrical pole signs is taxable. The seller should charge tax on both the sales price of electrical signs and the cost of the signs' installation. Ark. Regs. GR-21(B); Arkansas Revenue Legal Counsel Opinion No. 20170627 (Aug. 7, 2017); Arkansas Administrative Decision No. 17–089; Arkansas Revenue Legal Counsel Opinion No. 20130505 (May 18, 2018) (the installation, alteration, addition, cleaning, refinishing, replacement and repair of an illuminated pylon sign is taxable). If the billboard/sign is passive or non-mechanical (e.g., sign made with non-electrical materials)then the sign will be a tax exempt installation to reality. Since the installation of non-electrical and non-mechanical building signs is a non-taxable service, the seller should charge and remit tax on the sales price of the signs but not on its charge for the installation of the signs because those charges are separately stated. Ark. Regs. GR-21(B); Arkansas Revenue Legal Counsel Opinion No. 20170627 (Aug. 7, 2017); Arkansas Administrative Decision No. 17–089. Removal of old signs is not a taxable service. Arkansas Revenue Legal Counsel Opinion No. 20170627 (Aug. 7, 2017). BNA-SUTN AR 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+No Guidance Arkansas does not address the character of leasehold improvements. Ark. Code Ann. §26-52-101. BNA-SUTN AR 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Nontaxable Construction and contracting services for real property are generally not subject to Arkansas sales tax. Ark. Regs. GR-21. The initial installation, alteration, addition, cleaning, refinishing, replacement, or repair of nonmechanical, passive, or manually operated components of buildings or other improvements or structures affixed to real estate are not subject to Arkansas gross receipts or compensating use taxes. Ark. Code Ann. §26-52-301(3)(B)(viii)(a). Nonmechanical, passive, and manually operated components of buildings or structures affixed to real estate include:• walls; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(1). • ceilings; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(2). • doors; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(3). • locks; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(4). • windows; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(5). • glass; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(6). • heat and air ducts; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(7). • roofs; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(8). • wiring; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(9). • breakers; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(10). • breaker boxes; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(11). • electrical switches and receptacles; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(12). • light fixtures; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(13). • pipes; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(14). • plumbing fixtures; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(15). • fire and security alarms; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(16). • intercoms; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(17). • sprinkler systems; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(18); see also Arkansas Revenue Legal Counsel Opinion No. 20170112 (April 18, 2017)(irrigation systems installed on golf courses considered nontaxable sprinkler systems). • parking lots; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(19). • fences; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(20). • gates; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(21). • theater seating; Arkansas Revenue Legal Counsel Opinion No. 20160404 (June 21, 2016). • staircases; Arkansas Revenue Legal Counsel Opinion No. 20170624 (April 23, 2018). • fireplaces; Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(22). and • similar components which become part of real estate after installation, except flooring. Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(23). Also, the following services are also not subject to tax:• the initial installation of carpet or flooring into a newly constructed or substantially modified building is not a taxable service; Ark. Regs. GR-21(E)(4)(a). • the installation, repair or replacement of custom or standard sized cabinets, shelves or other built in furnishings which become affixed to real property, are not taxable services; Ark. Regs. GR-21(E)(5)(a). and • the initial installation of a garage door in new construction, whether electronically controlled or not, is not a taxable service. Ark. Regs. GR-21(E)(6)(a). Contractors and subcontractors are the consumers of tangible personal property (or specified digital products or digital codes, as of Jan. 1, 2018) used or consumed in providing such nontaxable services. Ark. Code Ann. §26-52-301(3)(B)(viii)(b), as amended by 2017 Ark. H.B. 1162, §16, effective Jan. 1, 2018; Ark. Code Ann. §26-53-201, as amended by 2017 Ark. H.B. 1162, §58, effective Jan. 1, 2018; Arkansas Revenue Legal Counsel Opinion No. 20160606 (Sept. 16, 2016). A contractor is any person who contracts or undertakes to construct, manage, or supervise the construction, erection, alteration, or repair of any building or structure affixed to real property. Ark. Code Ann. §26-52-103(5). Contractors are the consumers of all tangible personal property purchased, used, or consumed in the performance of a construction contract within the state. Contractors are also the consumer of all tangible personal property stored within the state for use by the contractor, or over which the contractor may exercise any right or power. Ark. Code Ann. §26-52-307(a); Ark. Code Ann. §26-53-201; Arkansas Revenue Legal Counsel Opinion No. 20171004 (Oct. 19, 2017). Contractors holding a sales tax permit that make retail sales in addition to performing construction work may purchase all construction materials exempt from tax as sales for resale. In this case, the contractor must pay tax on its purchase price of any such materials withdrawn from inventory for use in the performance of nontaxable construction services. Ark. Regs. GR-21(D)(1). Contractors that do not hold a sales tax permit must pay tax on their materials at the time of purchase. Ark. Regs. GR-21(D)(2). Childcare Facilities A business that constructs or contracts for the operation of a child care facility for the primary purpose of providing child care to its employees may obtain a refund of compensating use tax paid on the purchase of construction materials and furnishings used in the initial construction and equipping of the facility after it is licensed. Ark. Code Ann. § 26-53-132. Tangible Personal Property Procured From Outside of Arkansas for Use by Contractors in State Arkansas imposes a compensating use tax upon all tangible personal property procured from outside of the state for storage, use, or consumption by a contractor in the performance of a contract in Arkansas. This tax is imposed upon, but not limited to, machinery, equipment, repair or replacement parts, materials, and supplies. Ark. Code Ann. §26-53-203(a). See Arkansas Revenue Legal Counsel Opinion No. 20160105 (Jan. 27, 2016) (providers of chimney repair services must pay sales tax on the materials they use to repair or clean chimneys). The tax is calculated using the purchase price paid by the contractor. Ark. Code Ann. §26-53-203(a). Effective Jan. 1, 2018, tax also is imposed on specified digital products or digital code procured from outside the state for use by contractors in Arkansas. Ark. Code Ann. §26-53-203, as amended by 2017 Ark. H.B. 1162, §59, effective Jan. 1, 2018. If the tangible personal property being used within the state is leased by the contractor, the contractor is responsible for paying the compensating use tax upon the value of their lease payments. Ark. Code Ann. §26-53-203(b). Where the contractor has already paid sales or use tax to another state, the contractor is exempt from paying the compensating use tax upon tangible personal property used within the state to the extent that the tax paid is equal to or greater than the amount of tax that would be owed to the state. If the amount of tax previously paid is less than the amount that would be paid to the state, the contractor must pay the difference. Ark. Code Ann. §26-53-203(c). More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN AR 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Lump-sum amounts charges for materials and construction services to real property are not subject to Arkansas' sales and use tax. The contractor must pay the sales tax on all purchases at the time of purchase unless the contractor holds a sales tax permit. Ark. Code Ann. §26-52-307(a)(1); Ark. Regs. GR-9(A); Ark. Regs. GR-21. BNA-SUTN AR 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable A contractor's purchases of materials are subject to Arkansas' sales and use tax. The contractor must pay the sales tax on all purchases at the time of purchase unless the contractor holds a sales tax permit. Ark. Code Ann. §26-52-307(a)(1); Ark. Regs. GR-9(A); Ark. Regs. GR-21 BNA-SUTN AR 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable Service charges in separately stated construction contracts are not subject to Arkansas' sales and use tax. Ark. Regs. GR-21. BNA-SUTN AR 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Taxable Separately stated amounts charged by a contractor for materials are subject to Arkansas' sales and use tax. Ark. Code Ann. §26-52-307(a)(1); Ark. Regs. GR-9(A). The contractor must pay the sales tax on all purchases at the time of purchase unless the contractor holds a sales tax permit. Ark. Regs. GR-21. BNA-SUTN AR 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Taxable Separately stated amounts charged by a contractor for materials used to repair real property are subject to Arkansas' sales and use tax. Ark. Code Ann. §26-52-307(a)(1); Ark. Regs. GR-9(A). The contractor must pay the sales tax on all purchases at the time of purchase unless the contractor holds a sales tax permit. Ark. Regs. GR-21. BNA-SUTN AR 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Depends Arkansas'gross receipts and use tax applies to repair services performed on flooring, motors, rugs, electrical appliances or devices, household appliances, and machinery affixed to real property, but does not apply to repair services performed on nonmechanical, passive, or manually operated components of buildings or other real property improvements or structures. Ark. Code Ann. §26-52-301(3)(B)(i); Ark. Code Ann. §26-52-301(3)(B)(viii)(a). “Flooring”means tile, hardwood, vinyl, carpet, a finished surface applied to concrete or other subfloor, or any other floor covering that overlays the subfloor of a structure to provide a finished surface for the floor, including decorative finishes. Ark. Regs. GR-9.17(B)(3). Examples of nonmechanical, passive, or manually operated components include, without limitation, the following:• walls; • ceilings; • doors; • locks; • windows; • glass; • heat and air ducts; • roofs; • wiring; • breakers; • breaker boxes; • electrical switches and receptacles; • light fixtures; • pipes; • plumbing fixtures; • fire and security alarms; • intercoms; • sprinkler systems; • parking lots; • fences; • gates; • fireplaces;and • similar components which become a part of real estate after installation, except flooring. Ark. Code Ann. §26-52-301(3)(B)(viii)(a). Where taxable services of cleaning tangible personal property and nontaxable services of cleaning non-mechanical components are performed together and not billed separately, all charges for the services are taxable. Arkansas Administrative Decision No. 18-325 (Aug. 10, 2018). BNA-SUTN AR 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Depends Separately stated amounts that a contractor or repairman charges for parts and materials used in performing real property repair services are subject to tax only if the real property repair service performed is taxable. Ark. Regs. GR-21(D)(1). If the repair services are nontaxable, such as when performed on nonmechanical, passive, or manually operated components of building or other real property improvements or structures, the contractor or repairman is treated as the end consumer subject to tax on the parts and materials. Ark. Code Ann. §26-52-307(a); Ark. Regs. GR-21(A); Ark. Regs. GR-21(D). BNA-SUTN AR 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Depends The initial installation of flooring, motors, rugs, electrical appliances or devices, household appliances, or machinery upon real property is subject to tax in Arkansas, unless installed in a newly constructed or substantially modified building or other improvement or structure affixed to real property. Ark. Regs. GR-9.17(A); Ark. Regs. GR-9.17(B)(1); Ark. Regs. GR-9.17(C)(2). For example, the initial installation in existing structures of dishwashers, stoves, ovens, refrigerators, heating and air conditioning units, garbage disposals, water heaters, ceiling fans, garage door motors, electrical signs, washing machines, and dryers is taxable. Ark. Regs. GR-21(C)(2). With the exception of the initial installation of carpet or other flooring in an existing building, the initial installation of nonmechanical, passive, or manually operated components of buildings or other improvements or structures affixed to real estate is not subject to Arkansas' gross receipts and use tax. Ark. Code Ann. §26-52-301(3)(B)(viii)(a); Ark. Regs. GR-21(B)(3). Examples of nonmechanical, passive, or manually operated components include, without limitation, the following:• walls; • ceilings; • doors; • locks; • windows; • glass; • heat and air ducts; • roofs; • wiring; • breakers; • breaker boxes; • electrical switches and receptacles; • light fixtures; • pipes; • plumbing fixtures; • fire and security alarms; • intercoms; • sprinkler systems; • parking lots; • fences; • gates; • fireplaces;and • similar components which become a part of real estate after installation, except flooring. Ark. Code Ann. §26-52-301(3)(B)(viii)(a). BNA-SUTN AR 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Taxable Interior real property maintenance is subject to tax. Ark. Regs. GR-21(C); Ark. Regs. GR-9(A); Ark. Regs. GR-9(B). Taxable interior real property maintenance includes:• the cleaning of the interior of any building or structure, including vents, ducts, windows, walls, ceilings, or floors; Ark. Regs. GR-21(C)(1). • cleaning, repairing, and refinishing motors, electrical appliances, machines, and other mechanical items; Ark. Regs. GR-21(C)(2). • cleaning and repairing carpets and rugs; Ark. Regs. GR-21(C)(3). • repairing elevators; Ark. Regs. GR-21(C)(4). • janitorial work; Ark. Regs. GR-9(B). and • furniture and upholstery cleaning. Ark. Regs. GR-9(A). Generally, services performed on non-mechanical components or fixtures within or on a building or other improvement to real estate are not taxable. Ark. Regs. GR-21.B.1; Arkansas Administrative Decision No. 18-325 (Aug. 10, 2018). The initial installation, alteration, addition, cleaning, refinishing, replacement, and repair of mechanical tools, electrical appliances and devices, motors of all kinds, and machinery of all kinds are generally taxable even if the associated devices or machines are affixed to real property. Similar services performed on nonmechanical, passive, or manually operated components are not taxable. Ark. Code Ann. §26-52-301(3)(B)(i); Arkansas Administrative Decision No. 18-325 (Aug. 10, 2018) (where taxable services of cleaning tangible personal property and nontaxable services of cleaning non-mechanical components are performed together and not billed separately, all charges for the services are taxable). BNA-SUTN AR 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Taxable Exterior real property maintenance services are subject to Arkansas' sales and use tax if they constitute any of the following: collection and disposal of solid wastes; the cleaning of parking lots and gutters;cleaning or janitorial work; pool cleaning and servicing; or lawn care and landscaping services. Ark. Code Ann. §26-52-316(a)(2); Ark. Code Ann. §26-52-316(a)(3); Ark. Code Ann. §26-52-301(3)(D)(i)(b); Ark. Code Ann. §26-52-301(3)(D)(i)(c); Ark. Code Ann. §26-52-301(3)(D)(i)(f); Arkansas Revenue Legal Counsel Opinion No. 20160313 (May 14, 2018) (labor services that rid a building, dwelling, or other structure of extraneous matter are subject to gross receipts tax). Taxable parking lot cleaning includes the services of cleaning, sweeping, or pressure washing parking lots, cleaning up trash from parking lots, and snow removal. Ark. Regs. GR-9.7(B). Pavement patching, asphalt repair, sealing, grading, installing wheelstops, and sandblasting to prepare for resurfacing are not taxable services. Ark. Regs. GR-9.7(C). The cleaning of nonmechanical, passive, or manually operated components of buildings or other improvements or structures affixed to real estate is not taxable, except when the cleaning is considered cleaning or janitorial work. Ark. Regs. GR-9.4(D). Exterior real property maintenance taxable as cleaning or janitorial work includes:• the cleaning of the exterior of any building or structure, including vents, ducts, windows, and walls; Ark. Regs. GR-21(C)(1). and • cleaning electrical appliances, machines, and other mechanical items. Ark. Regs. GR-21(C)(2). Items that are used or consumed in performing cleaning or janitorial services may not be purchased tax-exempt. This includes, but is not limited to, uniforms, machines, equipment, cleansers, disinfectants, wax, rags, mops, brooms, and sponges. Such items are subject to state and local gross receipts or use tax when purchased for use by the service provider. Items such as bathroom tissue, paper towels, and hand soap that are transferred to the customer for subsequent use as part of the transaction between the service provider and the customer may be purchased by the service provider exempt from tax as a sale-for-resale. Ark. Regs. GR-9.4(F); Arkansas Revenue Legal Counsel Opinion No. 20160313 (May 14, 2018) (supplies used for services must not be purchased tax-exempt and are not eligible for a sale-for-resale exemption because title to the supplies did not pass from purchaser to clients). Services that are performed to clean and sanitize the production and packaging areas of food processing facilities to meet specific standards prescribed and required by the United States Department of Agriculture exceed the scope of ordinary cleaning work provided in what is normally considered to be cleaning or janitorial services and are not taxable as cleaning or janitorial services. Ark. Regs. GR-9.4(E). BNA-SUTN AR 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Excavation and demolition services are not subject to Arkansas' sales and use tax. Ark. Code Ann. §26-52-301(3). Further, the service of leveling and shaping land is nontaxable. Arkansas Revenue Legal Counsel Opinion No. 20170112 (April 18, 2017). BNA-SUTN AR 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Depends Site cleanup services are not enumerated taxable services, however, other cleaning services are subject to sales and use tax. Ark. Code Ann. §26-52-301(3)(D)(i)(b); Ark. Regs. GR-9.4(A). Taxable cleaning services would include:• waste removal; • parking lot and gutter cleaning; and • janitorial work. Ark. Regs. GR-9(B); Ark. Regs. GR-9.4(A). BNA-SUTN AR 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable The initial installation, alteration, addition, cleaning, refinishing, replacement, or repair of plumbing fixtures is nontaxable. Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(15). BNA-SUTN AR 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable The initial installation, alteration, addition, cleaning, refinishing, replacement, or repair of electrical switches and receptacles is nontaxable. Ark. Code Ann. §26-52-301(3)(B)(viii)(a)(12). BNA-SUTN AR 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Depends Whether HVAC installation is taxable depends on whether it is replaced in an existing structure. Ark. Regs. GR-21. The initial installation in existing structures and the repair or replacement of heating and air conditioning units and water heaters are taxable services. However, labor charges for the first-time installation of heating and air conditioning machinery and heating and air ducts into a newly constructed or substantially modified building are not taxable, nor are the initial installation of nonmechanical components. Ark. Regs. GR-21(B); Ark. Regs. GR-21(C). BNA-SUTN AR 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Depends The repair or replacement of heating and air conditioning units and water heaters are taxable services. Ark. Regs. GR-21(C)(2). However, the alteration, cleaning, refinishing, or repair of nonmechanical, passive or manually operated components, such as air ducts, are not taxable services. Ark. Regs. GR-21(B); Arkansas Revenue Legal Counsel Opinion No. 20180511 (Oct. 10, 2018). BNA-SUTN AR 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Taxable Gutter cleaning services are taxable. Ark. Regs. GR-9.7(A). The tax applies to the service of cleaning gutters that are located at the edge of a roof or at the edge of a street or road. Ark. Regs. GR-9.7(A). BNA-SUTN AR 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Taxable Window cleaning services are considered taxable cleaning and maintenance services. Ark. Regs. GR-21(C)(1). BNA-SUTN AR 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Taxable Power washing building services are considered taxable cleaning and maintenance services. Ark. Regs. GR-21(C)(1). BNA-SUTN AR 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+Taxable Parking lot cleaning services, including power washing, are enumerated taxable services. Ark. Regs. GR-9.7(B). Taxable parking lot cleaning includes the services of cleaning, sweeping, or pressure washing parking lots, cleaning up trash from parking lots, and snow removal. Ark. Regs. GR-9.7(B). Pavement patching, asphalt repair, sealing, grading, installing wheelstops, and sandblasting to prepare for resurfacing are not taxable services. Ark. Regs. GR-9.7(C). BNA-SUTN AR 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends The taxability of sign painting and lettering services, depends on the type of property being painted or lettering applied. Ark. Regs. UT-12. Repair, alteration, and refinishing of certain types of tangible personal property are subject to Arkansas' gross receipts and use tax. Ark. Regs. UT-12. Arkansas' gross receipts and use tax applies to repair services performed on flooring, motors, rugs, electrical appliances or devices, household appliances, and machinery affixed to real property, but does not apply to repair services performed on nonmechanical, passive, or manually operated components of buildings or other real property improvements or structures. Ark. Regs. UT-12. BNA-SUTN AR 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Not Defined Arkansas does not have contractor classifications. Ark. Code Ann. §26-52-103(5). BNA-SUTN AR 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Not Defined Arkansas does not define the term subcontractor, thus for sales and use tax purposes, subcontractors will be treated as contractors. Ark. Code Ann. §26-52-103; Ark. Regs. GR-3. BNA-SUTN AR 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Taxable A contractor must pay sales tax on materials and supplies purchased by it in its own name for use in a construction project regardless of whether the entity for which the project is constructed is an exempt entity. Ark. Code Ann. §26-52-307(a)(1); Ark. Regs. GR-21. However, a contractor purchasing materials and supplies as an agent of an exempt entity may claim the entity's exemption. Arkansas Revenue Legal Counsel Opinion No. 20170901 (Nov. 21, 2017); Arkansas Revenue Legal Counsel Opinion No. 20170714 (Aug. 4, 2017). Government Contractors In general, contractors who make purchases pursuant to a contract with the United States government are subject to tax. Arkansas considers the contractor to be the ultimate consumer of the property or services and the contractor must pay tax on the transaction. Ark. Regs. GR-47. BNA-SUTN AR 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Partial Exemption Arkansas imposes gross receipts and compensating use tax on 62 percent of the sales price paid for new modular and manufactured homes. Ark. Code Ann. §26-52-802(b); Ark. Regs. GR-15(C)(1). Charges for transporting or delivering and for installing modular and manufactured homes are excluded from the sales price before calculating the 62-percent base subject to tax. Ark. Regs. GR-15(C)(2). For purposes of the gross receipts tax and the compensating use tax, the following definitions apply:• Manufactured Home: A manufactured home is a factory-built structure produced in accordance with the Federal Manufactured Home Construction and Safety Standards Act. A manufactured home must be designed to be used as a dwelling unit. Ark. Regs. GR-15(A)(1). • Modular Home: A modular home is a factory-built structure produced in accordance with state and local construction laws and standards. A modular home must be designed to be used as a dwelling unit. Ark. Regs. GR-15(A)(3). Prior to being affixed to real property, modular buildings used for purposes other than as a dwelling unit are fully taxable. See Arkansas Revenue Legal Counsel Opinion No. 20180925 (Oct. 10, 2018) (modular pharmacy building taxable as tangible personal property). No tax is due on the sale of mobile homes constructed prior to the enactment of the Federal Manufactured Home Construction and Safety Standards Act of 1974 or of used modular or manufactured homes. Ark. Code Ann. §26-52-802(c); Ark. Regs. GR-15(A)(2). Arkansas also exempts from the compensating use tax the storage, use, or consumption of a modular home built from materials upon which the gross receipts tax has already been paid. Ark. Code Ann. §26-53-118. Purchasers of trailers are required to pay tax on the total purchase price at the time of registration. Ark. Code Ann. §26-52-510(a)(2); Arkansas Revenue Legal Counsel Opinion No. 20171120 (March 9, 2018); see Arkansas Administrative Decision No. 18-159 (May 24, 2018) (purchase of trailer not entitled to reduction of tax base for manufactured or modular homes). However, trailers registered for use on public roads and highways and purchased for less than $4,000 are exempt from tax. Ark. Code Ann. §26-52-510(b)(1)(B). Tiny Homes Tiny homes and similar dwellings built upon trailers registered to be used or moved on the public roads and highways of Arkansas are subject to gross receipts and compensating use tax as trailers. Arkansas Revenue Legal Counsel Opinion No. 20170102 (March 3, 2017). BNA-SUTN AR 28.8.
+
+==================================================

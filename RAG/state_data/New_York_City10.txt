@@ -1,0 +1,51 @@
+State: New York City
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination Sales of tangible personal property are subject to the New York City sales and use tax if delivery occurs or will occur in the City. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e); New York Publication 750. Deliveries made outside the City are not subject to New York City sales and use tax. N.Y. Tax Law §1213. For sourcing purposes, “delivery”includes the transfer of possession to the purchaser and the receiving of the property or service. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e). BNA-SUTN NYC 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Destination Sales of taxable services are subject to the New York City sales and use tax if performance occurs or will occur in the City. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e); New York Publication 750. Performance of the service occurs where receipt of the service happens. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e). Note that where a taxable transportation service begins in one jurisdiction and ends in another, the service is taxed in the jurisdiction where the service commenced. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e). Credit Rating Service Sourcing The New York Department of Taxation advised that the best method of determining local sales tax for credit rating services is by using the address to which the invoice for the service is sent. Therefore, a credit rating service that is invoiced to an address within New York City will be subject to the city's 4.5 percent local sales tax. No sales tax is due to either the state or New York City if the credit rating service is invoiced to an address outside of New York City. This rule applies to all taxable sales of credit rating services originally invoiced to an address within New York City on or after September 1, 2015. New York TSB-M-15(4)S (July 24, 2015). BNA-SUTN NYC 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination Sales of tangible personal property are subject to the New York City sales and use tax if delivery occurs or will occur in the City. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e); New York Publication 750. Deliveries made outside the City are not subject to New York City sales and use tax. N.Y. Tax Law §1213. For sourcing purposes, “delivery”includes the transfer of possession to the purchaser and the receiving of the property or service. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e). To determine if property should be sourced to New York, the transfer of possession with respect to a rental, lease, or license to use requires that one or more of three attributes of property ownership has been transferred. N.Y. Comp. Codes R. & Regs. tit. 20, §526.7(e)(4). These three attributes are:• custody or possession of the tangible personal property, actual or constructive; N.Y. Comp. Codes R. & Regs. tit. 20, §526.7(e)(4)(i). • the right to custody or possession of the tangible personal property; N.Y. Comp. Codes R. & Regs. tit. 20, §526.7(e)(4)(ii). and • the right to use, or control or direct the use of, tangible personal property. N.Y. Comp. Codes R. & Regs. tit. 20, §526.7(e)(4)(iii). BNA-SUTN NYC 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+Destination Sales of tangible personal property are subject to the New York City sales and use tax if delivery occurs or will occur in the City. N.Y. Tax Law §1213; N.Y. Tax Law §1218; N.Y.C. Admin. Code §11-2001(e); New York Publication 750. BNA-SUTN NYC 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Depends The New York City sales and use tax; parking surtax; and tax on credit reporting services are collected and administered by the New York State Tax Commission under the same rules and provisions as the state sales and use tax. N.Y.C. Admin. Code §11-2001(d); N.Y.C. Admin. Code §11-2001(e); N.Y.C. Admin. Code §11-2044; N.Y.C. Admin. Code §11-2052(a). New York allows a reciprocal use tax credit up to the amount of any sales or use tax paid to another state. This credit only applies if the state to which the tax was paid grants credit for sales tax paid in New York. If the amount is less than what would be paid under New York sales tax law, the owner must remit the difference to the state. In addition to state taxes paid, New York allows a taxpayer to take a credit against New York State taxes due for local taxes paid as well as taxes paid to the District of Columbia. N.Y. Tax Law §1118(7); New York Publication 39. BNA-SUTN NYC 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Nontaxable New York City generally imposes tax on the same sales and services taxed at the state level. N.Y. Tax Law §1210(a)(1). A New York resident taxpayer generally does not owe use tax on taxable property or services purchased before she became a New York resident. N.Y. Tax Law §1118(2); New York TSB-ST-913. But see New York TSB-M-09(4)S (May 12, 2009) (addressing nonresident purchases of aircraft, vessels, and motor vehicles). Similarly, a corporation that had never previously conducted business in New York does not owe use tax on property it brings into the state when it first begins doing business in New York. N.Y. Tax Law §1118(2). Use tax is imposed on the use of any tangible personal property that was manufactured, processed, or assembled by the user if the user offers items of the same kind for sale in the regular course of its business. N.Y. Tax Law §1110(a); N.Y. Comp. Codes R. & Regs. tit. 20, §531.3(b)(1). “Offered for sale in regular course of business” means that over 10 percent of the user's sales in the previous 12 months (excluding sales to exempt organizations), measured by weight, volume, size or other unit on which the price is based, is attributable to the product in question. N.Y. Comp. Codes R. & Regs. tit. 20, §531.3(b)(1)(b). A manufacturer, processor, or assembler who uses an item of the same kind that he sells in the regular course of business must pay use tax on the regular list or catalog price. N.Y. Comp. Codes R. & Regs. tit. 20, §531.3(b)(i). If the seller does not maintain a price list or catalog, use tax is based on the average prices charged for such item. N.Y. Comp. Codes R. & Regs. tit. 20, §531.3(b)(i). The use tax also applies to the “use”or consumption in New York of three types of services -- services that would have been subject to sales tax if purchased within New York. N.Y. Tax Law §1110(a)(C); N.Y. Comp. Codes R. & Regs. tit. 20, §531.1(b)(3). Specifically, use tax is imposed on:• information services; • interior decorating and design services; and • protective and detective services. N.Y. Tax Law §1110(a)(C). BNA-SUTN NYC 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+Taxable New York City generally imposes tax on the same sales and services taxed at the state level. N.Y. Tax Law §1210(a)(1). New York does not have a sales tax exemption for items that are temporarily stored in-state. N.Y. Tax Law §1110. BNA-SUTN NYC 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Depends New York City generally imposes tax on the same sales and services taxed at the state level. N.Y. Tax Law §1210(a)(1). Sales and use tax is generally imposed on purchases made or delivered in New York. New York TB-ST-913. However, a motor vehicle that is purchased in New York is not subject to sales and use tax if it is purchased by a customer, who at the time of delivery, is a nonresident, has no permanent place of abode of New York and is not engaged in carrying on in New York any employment, trade, business or profession in which the motor vehicle will be used in New York, if:• the vendor of such motor vehicle issues a temporary certificate of registration; • the purchaser does not register the motor vehicle in New York before registering the motor vehicle in another jurisdiction; • prior to taking delivery, the purchaser furnishes to such vendor a statement that the motor vehicle will not be used in New York as required by the Commissioner of the New York Department of Taxation of Finance. N.Y. Tax Law §1117(a). BNA-SUTN NYC 4.3.3.
+
+==================================================

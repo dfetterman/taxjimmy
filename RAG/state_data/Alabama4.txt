@@ -1,0 +1,411 @@
+State: Alabama
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends Whether sales of aircraft are subject to sales and use tax in Alabama depends on where the aircraft is permanently domiciled. Ala. Code §40-23-4(a)(37). Sales of aircraft permanently domiciled in Alabama are subject to sales and use tax. The gross receipts of any aircraft manufactured, sold and delivered in Alabama are exempt if the aircraft is not permanently domiciled in Alabama and is removed to another state. Ala. Code §40-23-4(a)(37) Alabama Revenue Ruling No. 2017-002 (July 14, 2017) (if a taxpayer brings buyer furnished equipment into Alabama to be assembled into an airplane and the resulting airplane will not be domiciled in Alabama, the provision of the equipment to the assembler and the ultimate transfer of the airplane is exempt from Alabama sales and use tax). Making an emergency landing in Alabama by itself will not make an aircraft subject to Alabama sales and use tax, neither will having a rare stop in Alabama on a charter flight or flying over Alabama. Ala. Code §40-23-4(a)(37) Alabama Revenue Ruling No. 2017-002 (July 14, 2017) (if a taxpayer brings buyer furnished equipment into Alabama to be assembled into an airplane and the resulting airplane will not be domiciled in Alabama, the provision of the equipment to the assembler and the ultimate transfer of the airplane is exempt from Alabama sales and use tax). Sales of airplanes that meet the definition of automotive vehicles are subject to state sales tax at a reduced rate of 2 percent. Ala. Code §40-23-2(4); Ala. Admin. Code r. 810-6-2-.103. Casual sales of airplanes that meet the definition of automotive vehicles are subject to Alabama sales or use tax at the reduced rate of 2 percent. Ala. Admin. Code r. 810-6-1-.33(3); Alabama Revenue Ruling No. 2015-001 (June 12, 2015) (although vessel qualified as an automotive vehicle or motorboat, it was not required to be registered with an Alabama judge of probate). For purposes of the sales and use tax, “automotive vehicle” includes “automobiles, trucks, buses, tractors(crawler and pneumatic tired types), motorcycles, motorscooters, automotive industrial trucks, Ross Carriers, lift trucks, locomotive cranes, airplanes, tugs, motorboats with built-in motors, boats with outboard type motors attached thereto by attachments intended to be permanent rather than readily removable and which motors are controlled with remote controls built on or into the hull of said boat.” Ala. Admin. Code r. 810-6-1-.12(1). In Class 2 municipalities, sales of materials or supplies, which become a component part of an aircraft of 30,000 pounds gross weight or greater, for use in fulfilling a contract for the painting, repair, conversion, modification, or reconditioning of such aircraft, are exempt from municipal sales and use tax. Ala. Code §11-44C-94(a); Ala. Code §11-44C-94.1. Airplane Leases Lease agreements for airplanes that meet the definition of an automotive vehicle are subject to the license tax. Ala. Code §40-12-222. The license tax is imposed on the gross proceeds derived by the lessor from the lease or rental of the automotive vehicle. Ala. Code §40-12-222. The license tax must be remitted monthly. Ala. Code §40-12-224; Ala. Code §40-23-8. The license tax is imposed on leases covering automotive vehicles at a reduced state rate of 1.5 percent, rather than the normal license tax rate of 4 percent. Ala. Code §40-12-222. BNA-SUTN AL 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairman, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer, and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer, but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases wholesale for use in making repairs and also for use in selling the same kinds of materials for use by others. If the repairer purchases the materials wholesale and uses them to make repairs, then they will be subject to sales tax when they are withdrawn for use by the repairer. If the repairer purchases the materials wholesale, carries a stock of the materials, and sells a substantial amount of them outright, then they will be subject to sales tax at the time of the sale, because the repairer is then considered a vendor. Ala. Admin. Code r. 810-6-1-.95(1)(d). The gross receipts from the sale of parts, components, and systems that become a part of a fixed or rotary wing military aircraft or certified transport category aircraft that undergoes conversion, reconfiguration, or general maintenance is exempt from sales and use tax, so long as the address of the aircraft for FAA registration is not in Alabama. Ala. Code §40-23-4(a)(48). BNA-SUTN AL 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of lubricating oil, filters, and other maintenance items which become a component part of an aircraft for noncommercial, intrastate use are exempt from tax. Ala. Code §40-23-4(a)(40); Ala. Code §40-23-4(a)(1). BNA-SUTN AL 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor fuel sold for use in aircraft, including gasoline, blended fuel, diesel fuel, and aviation fuel, is subject to excise tax in lieu of Alabama's sales and use tax. Ala. Code §40-17-325; Ala. Code §40-17-328; Ala. Code §40-17-322(7); Ala. Code §40-17-322(19); Ala. Code §40-17-322(25); Ala. Code §40-17-322(37). BNA-SUTN AL 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of any aircraft to or by a certified or licensed air carrier with a hub operation within Alabama, for use in conducting intrastate, interstate, or foreign commerce for transporting people or property by air are exempt from tax. Ala. Code §40-23-4(a)(40). Further, sales of ground support and vehicles used by or for aircraft, as well as sales of any replacement parts, components, systems, supplies and sundries affixed to or used on an aircraft to or by a certificated or licensed air carrier with a hub operation within Alabama, for use in conducting intrastate, interstate, or foreign commerce for transporting people or property by air are exempt from tax. Ala. Code §40-23-4(a)(40). For this exemption to apply, two criteria must be met: (1) 15 or more flight departures and five or more different first-stop destinations originate from the hub location, five days per week for six or more months during the year; and (2) passengers and/or property are regularly exchanged at the hub location between flights of the same or a different certificated or licensed air carrier. Ala. Code §40-23-4(a)(40). Leases Alabama provides a wide range of specific exemptions from the license tax (rental or lease tax) for certain types of lease or rental agreements, including proceeds of a lease or rental agreement covering aircraft, applicable replacement parts, components, systems, or other supplies used on the aircraft, including all ground support equipment, where the aircraft are used by a licensed air carrier in interstate commerce and the hub operation criteria discussed above are met. Ala. Code §40-12-223(13). Aircraft not Permanently Domiciled in Alabama Sales of aircraft manufactured, sold and delivered in Alabama that are not permanently domiciled in Alabama and that are removed from Alabama are not subject to Alabama sales tax. Ala. Code §40-23-4(a)(37). An aircraft is considered not permanently domiciled in Alabama if:• the hanger, airstrip, or other housing unit which the aircraft is intended to leave from and return to in the regular course of use is located outside of Alabama; or • the buyer is an air carrier, foreign air carrier, or intrastate air carrier, and is operating or conducting scheduled or unscheduled services, and the buyer's headquarters is not in Alabama on the date of the aircraft purchase. An aircraft manufactured, sold and delivered in Alabama is considered removed from Alabama if the first flight of the aircraft after delivery, excluding any intrastate flights for post-delivery maintenance or modification work or for training in Alabama, is planned for a destination outside of Alabama, provided that the foregoing is not the exclusive method for showing removal of an aircraft from Alabama. Ala. Code §40-23-4(a)(37); Ala. Admin. Code r. 810-6-3-.78. Military aircraft and certified transport category aircraft Effective retroactively Oct. 1, 2012, through May 30, 2022, the storage, use, or consumption of parts, components, and systems that become a part of fixed or rotary aircraft through conversion, reconfiguration, or maintenance are exempt from use tax so long as the aircraft is registered outside of Alabama. The exemption applies only to military aircraft and certified transport category aircraft. Ala. Code §40-23-4(a)(48), as added by 2013 Ala. H.B. 216, effective retroactively to Oct. 1, 2012 (expires May 30, 2022). BNA-SUTN AL 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Exempt Sales of replacement parts, components, systems, supplies, and sundries affixed to or used on an aircraft by a licensed air carrier with a hub operation in Alabama, for use in conducting intrastate, interstate, or foreign commerce for transporting people or property by air are exempt from sales and use tax. Ala. Code §40-23-4(a)(40). The storage, use, or consumption of parts, components, and systems that become a part of a fixed or rotary wing military aircraft or certified transport category aircraft that undergoes conversion, reconfiguration, or general maintenance is exempt from use tax, so long as the address of the aircraft for FAA registration is not in Alabama. Ala. Code §40-23-4(a)(48). BNA-SUTN AL 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of lubricating oil, filters, and other maintenance items which become a component part of an aircraft for noncommercial, interstate use are exempt from tax. Ala. Code §40-23-4(a)(40); Ala. Code §40-23-4(a)(1). BNA-SUTN AL 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Nontaxable Motor fuel sold for use in aircraft, including gasoline, blended fuel, diesel fuel, and aviation fuel, is subject to excise tax in lieu of Alabama's sales and use tax. Ala. Code §40-17-325; Ala. Code §40-17-328; Ala. Code §40-17-322(7); Ala. Code §40-17-322(19); Ala. Code §40-17-322(25); Ala. Code §40-17-322(37). Furthermore, sales of aviation jet fuel to a certified or licensed air carrier for use in scheduled all-cargo operations on international flights or in scheduled all-cargo operations on international flights or in international commerce are exempt from sales and use tax. Ala. Code §40-23-4(a)(42). BNA-SUTN AL 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Sales of automotive vehicles are subject to state sales tax at a reduced rate of 2 percent. Ala. Code §40-23-2(4); Ala. Code §40-23-101. However, truck bodies sold separately and not part of an automotive vehicle at the time of purchase are taxed at the full 4 percent state tax rate. If truck chassis and body are purchased outside Alabama and assembled into a unit for sale in Alabama, it will qualify for the 2 percent reduced state rate. Ala. Admin. Code r. 810-6-2-.103. “Automotive vehicle” includes “automobiles, trucks, buses, tractors (crawler and pneumatic tired types), motorcycles, motorscooters, automotive industrial trucks, Ross Carriers, lift trucks, locomotive cranes, airplanes, tugs, motorboats with built-in motors, boats with outboard type motors attached thereto by attachments intended to be permanent rather than readily removable and which motors are controlled with remote controls built on or into the hull of said boat.” Ala. Admin. Code r. 810-6-1-.12(1). “Automotive vehicle” is also defined to include a “power shovel, dragline, crawler, crawler crane, ditcher, or any similar machine that is self-propelled, in addition to self-propelled machines used primarily as instruments of conveyance.” Ala. Code §40-23-1(a)(12); Ala. Admin. Code r. 810-6-1-.12(2). Casual sales of automotive vehicles, truck trailers, semitrailers, travel trailers, and manufactured homes are subject to Alabama sales or use tax at the reduced rate of 2 percent. Ala. Admin. Code r. 810-6-1-.33(3); Alabama Revenue Ruling No. 55-001 (June 12, 2015) (transfer of ownership between related corporate entities, as part of a corporate restructuring, of an offshore drilling vessel used exclusively outside of Alabama would be an exempt casual sale;although vessel qualified as an automotive vehicle or motorboat, it was not required to be registered with an Alabama judge of probate). Taxpayers are allowed credit for any sales tax that is legally imposed by another state on the purchase of an automotive vehicle. Alabama Notice: Casual Sales and Use Tax Reciprocity Notice (Sept. 11, 2017). When a used automotive vehicle is taken in trade as a credit or partial payment on the sale of a new or used automotive vehicle, sales tax is levied on the net difference. Other items exchanged for full or partial payment are taxable. When a trade-in vehicle is resold, it is subject to sales tax. Trade in provisions do not apply when a rental or leased vehicle is exchanged for a new or used vehicle. If a trade-in exceeds the selling price of the vehicle being purchased, the dealer may not add the amount of the trade-in allowance to its tax return as a deduction on the sales tax return. Ala. Admin. Code r. 810-6-1-.22; Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). A vehicle may be traded in to a dealer by the titled owner on behalf of another individual without first being titled in the individual's name. For example, a father may trade in a vehicle titled in his name on behalf of his son without titling it first in the son's name. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). Retailers must separately state the amount of state, county, and city tax collected. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). School Buses A school bus purchased by an individual for use under the direction of and control of a board of education is subject to tax. School buses purchased by the school and paid for directly with school funds or obligating school funds are exempt from tax. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). Driver's Education Vehicles A vehicle provided by a dealer to a school for driver's education purposes is subject to the $5 fee, but not sales tax. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). Motor Vehicle Leases Motor vehicle lease agreements are subject to the license tax. The license tax is imposed on the gross proceeds derived by the lessor from the lease or rental of the motor vehicle. Ala. Code §40-12-222. The license tax must be remitted monthly. Ala. Code §40-12-224; Ala. Code §40-23-8. The license tax is imposed on leases covering motor vehicles at a reduced state rate of 1.5 percent, rather than the normal license tax rate of 4 percent. Ala. Code §40-12-222. Alabama provides a wide range of specific exemptions from the license tax for certain types of lease or rental agreements, including:• proceeds from the lease of a truck or other tractor-trailer for operation over public highways when the lessor furnishes a driver for the vehicle, and the transaction is deemed a service under applicable state law; Ala. Code §40-12-223(8). • proceeds from the lease or rental of vehicles between regulated motor carriers on a per diem basis; Ala. Code §40-12-223(9). • proceeds from a rental agreement covering the rental of an automobile, truck trailer, semitrailer, or house trailer when the vehicle is leased in another state and merely returned to the lessor in Alabama; Ala. Admin. Code r. 810-6-5-.09(10). and • proceeds from a lease agreement covering a truck, truck trailer, or semitrailer entered into outside Alabama, when the vehicle occasionally travels in Alabama in interstate commerce. Ala. Admin. Code r. 810-6-5-.09(11). Motor Vehicle Leases With Nominal Buyback Provision An Alabama administrative decision indicates that any lease, including motor vehicle leases, that provides the lessee with the option to return the vehicle to the lessor or purchase it at fair market value will be taxed as a lease. Otherwise, a motor vehicle lease with a nominal buyback provision is treated as a conditional sale. Alabama Administrative Law Judge Ruling Docket No. S. 08-329 (Feb. 5, 2009). A Terminal Rental Adjustment Clause (TRAC) is defined in the Internal Revenue Code as a provision in an agreement, such as a lease, that permits or requires the lease price to be adjusted upward or downward by reference to the amount realized by the lessor under the lease on sale or other disposition of a motor vehicle (or other property). 26 U.S.C. §7701(h)(3). Under both federal tax law and Alabama law, a TRAC lease is considered a lease and is subject to tax accordingly. 26 U.S.C. §7701(h)(1); Ala. Code §40-12-391(c)(2). Motor Vehicles Purchased for First Use Out-of-State Effective Jan. 1, 2016, sales of automobiles, motorcycles, trucks, truck trailers, and semitrailers (excluding vehicle campers or housecars) that will be registered or titled outside of Alabama, and exported or removed from Alabama within 72 hours by the purchaser (or the agent) for first use outside of Alabama are no longer exempt from state sales tax. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 25, effective Jan. 1, 2016. These sales are subject to state sales tax in an amount equal to only Alabama automotive sales tax unless the state in which the purchaser will title or register the vehicle allows an Alabama resident to purchase a motor vehicle for first titling and registration in Alabama without paying sales tax to that state. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 25, effective Jan. 1, 2016. However, the Alabama sales tax due on a motor vehicle for use in another state is not to exceed the amount of tax that otherwise would have been due to the state of first use. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 20, effective Jan. 1, 2016. Exported Trucks Alabama exempts from taxation the purchase of a new truck weighing no more than 8,000 pounds if the following conditions are met:• the truck is manufactured in Alabama; Ala. Code §40-23-39(b)(1). • the truck is purchased by a nonresident of the United States; Ala. Code §40-23-39(b)(2). • the truck is delivered to the purchaser in Alabama by the manufacturer or an affiliated corporation; Ala. Code §40-23-39(b)(3). • at the time of purchase the purchaser intends to export the truck to and permanently license it in a foreign country within 90 days of the date of delivery; Ala. Code §40-23-39(b)(4) and • the purchaser obtains a temporary metal license plate and a temporary registration certificate for the truck from the judge of probate or license commissioner of the county in which the manufacturer is located. Ala. Code §40-23-39(b)(5). Further, tangible personal property brought into Alabama by a nonresident for his own storage, use, or consumption while temporarily within Alabama is not subject to use tax. However, if the property is used in performing of a contract, the property will be subject to tax. Ala. Code §40-23-62(2), as amended by 2018 Ala. H.B. 242 effective April 6, 2018 BNA-SUTN AL 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairman, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer, but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but are not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases wholesale for repairs. If the repairer withdraws these materials and uses them, the withdrawal is subject to sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). However, dealers may purchase repair parts and materials as sales for resale for repair and reconditioning of vehicles in inventory for sale if the parts or materials become a part of the vehicle that will be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116. Purchases of parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairman. Ala. Admin. Code r. 810-6-1-.116(2). Further, accessories purchased from a dealer after the transfer of title and possession of a vehicle, are taxed at a 4-percent rate. Ala. Admin. Code r. 810-6-2-.02(1). BNA-SUTN AL 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, dealers may purchase repair parts and materials as sales for resale for repair and reconditioning of vehicles in inventory for sale if the parts or materials become a part of the vehicle that will be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116(1). Parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairman. Ala. Admin. Code r. 810-6-1-.116(2). Supplies consumed by the repair shop such as paint and solder, as well as tools and machinery used, are taxable at the time of the sale to the repair shop and collected by the supplier or paid to the Department of Revenue as use tax if the supplier is not licensed to collect sales tax. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). Lubricating oil and greases are exempt from sales and use taxes. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). BNA-SUTN AL 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Providing services within Alabama is not subject to sales or use tax if separately stated. Ala. Code §40-23-2(1). BNA-SUTN AL 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Exempt Motor fuel sold for use in motor vehicles, including gasoline, blended fuel, diesel fuel, and aviation fuel, is subject to excise tax in lieu of Alabama's sales and use tax. Ala. Code §40-17-325; Ala. Code §40-17-328; Ala. Code §40-17-322(7); Ala. Code §40-17-322(19); Ala. Code §40-17-322(25); Ala. Code §40-17-322(37). BNA-SUTN AL 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Nontaxable The state of Alabama sales and use tax does not apply to passenger car rentals. See Ala. Admin. Code r. 810-6-1-.150. However, the state does impose a privilege or license tax on individuals or commercial entities that engage in the business of leasing or renting tangible personal property, including auto rentals. Similar to the state, a local privilege or license tax is imposed on a person engaged in the business of renting or leasing automotive vehicles. Ala. Code §11-51-207(a); Ala. Code §11-51-207(b); Ala. Code §40-12-222(b). For more information on taxes on passenger car rentals in Alabama, see Excise Taxes Navigator, at Alabama 9.2. BNA-SUTN AL 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Partial Dealers that withdraw vehicles from their stock for use in the operation of business must pay a withdrawal fee of $5 for each withdrawn vehicle. Ala. Admin. Code r. 810-6-2-.04. Loaned Vehicles A vehicle loaned by the dealership to a celebrity spokesperson or other person supplying a business or service to the dealership is subject to rental tax on the value of the vehicle. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). Vehicles loaned to college sports teams and their coaches free of charge that remain in the inventory of the dealer for sale, and display dealer tags are not subject to sales tax but must pay the $5 annual demonstrator fee. Alabama Automotive Sales, Use and Lease Tax Guide (Nov. 2017). BNA-SUTN AL 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairman, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer, but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but are not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases wholesale for repairs. If the repairer withdraws these materials and uses them, the withdrawal is subject to sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). However, dealers may purchase repair parts and materials as sales for resale for repair and reconditioning of vehicles in inventory for sale if the parts or materials become a part of the vehicle that will be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116. Purchases of parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairman. Ala. Admin. Code r. 810-6-1-.116(2). Further, accessories purchased from a dealer after the transfer of title and possession of a vehicle, are taxed at a 4-percent rate. Ala. Admin. Code r. 810-6-2-.02(1). BNA-SUTN AL 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable Sales of automotive vehicles are subject to state sales tax at a reduced rate of 2 percent. Ala. Code §40-23-2(4). Sales of truck bodies sold separately and not part of an automotive vehicle at the time of purchase are taxed at the full 4-percent state tax rate. If truck chassis and body are purchased outside Alabama and assembled into a unit for sale in Alabama, the unit will qualify for the 2 percent reduced state rate. Ala. Admin. Code r. 810-6-2-.103. “Automotive vehicle” includes “automobiles, trucks, buses, tractors (crawler and pneumatic tired types), motorcycles, motorscooters, automotive industrial trucks, Ross Carriers, lift trucks, locomotive cranes, airplanes, tugs, motorboats with built-in motors, boats with outboard type motors attached thereto by attachments intended to be permanent rather than readily removable and which motors are controlled with remote controls built on or into the hull of said boat. Ala. Admin. Code r. 810-6-1-.12(1). “Automotive vehicle” is also defined to include a “power shovel, dragline, crawler, crawler crane, ditcher, or any similar machine that is self-propelled, in addition to self-propelled machines that are used primarily as instruments of conveyance. Ala. Code §40-23-1(a)(12); Ala. Admin. Code r. 810-6-1-.12(2). Casual sales of automotive vehicles, truck trailers, semitrailers, travel trailers, and manufactured homes are subject to Alabama sales or use tax at the reduced rate of 2 percent. Ala. Admin. Code r. 810-6-1-.33(3); Alabama Revenue Ruling No. 55-001 (June 12, 2015) (transfer of ownership between related corporate entities, as part of a corporate restructuring, of an offshore drilling vessel used exclusively outside of Alabama would be an exempt casual sale;although vessel qualified as an automotive vehicle or motorboat, it was not required to be registered with an Alabama judge of probate). Motor Vehicle Leases Motor vehicle lease agreements are subject to the license tax. Ala. Code §40-12-222. The license tax is imposed on the gross proceeds derived by the lessor from the lease or rental of the motor vehicle. Ala. Code §40-12-222. The license tax must be remitted on a monthly basis. Ala. Code §40-12-224; Ala. Code §40-23-8. The license tax is imposed on leases covering motor vehicles at a reduced state rate of 1.5 percent, rather than the normal license tax rate of 4 percent. Ala. Code §40-12-222. Alabama provides a wide range of specific exemptions from the license tax for certain types of lease or rental agreements, including the following:• proceeds from lease of a truck or other tractor-trailer for operation over public highways when the lessor furnishes a driver for the vehicle, and the transaction is deemed a service under applicable state law; Ala. Code §40-12-223(8). • proceeds from the lease or rental of vehicles between regulated motor carriers on a per diem basis; Ala. Code §40-12-223(9). • proceeds from a rental agreement covering the rental of an automobile, truck trailer, semitrailer, or house trailer when the vehicle is leased in another state and merely returned to the lessor in Alabama; Ala. Admin. Code r. 810-6-5-.09(10); and • proceeds from a lease agreement covering a truck , truck trailer, or semitrailer entered into outside Alabama, when the vehicle occasionally travels in Alabama in interstate commerce. Ala. Admin. Code r. 810-6-5-.09(11). Motor Vehicle Leases With Nominal Buyback Provision An Alabama administrative decision indicates that any lease, including motor vehicle leases, that provides the lessee with the option to return the vehicle to the lessor or purchase it at fair market value will be taxed as a lease. Otherwise, a motor vehicle lease with a nominal buyback provision is treated as a conditional sale. Alabama Administrative Law Judge Ruling Docket No. S. 08-329 (Feb. 5, 2009). A Terminal Rental Adjustment Clause (TRAC) is defined in the Internal Revenue Code as a provision in an agreement, such as a lease, that permits or requires the lease price to be adjusted upward or downward by reference to the amount realized by the lessor under the lease on sale or other disposition of a motor vehicle (or other property). 26 U.S.C. §7701(h)(3). Under both federal tax law and Alabama law, a TRAC lease is considered a lease and is subject to tax accordingly. 26 U.S.C. §7701(h)(1); Ala. Code §40-12-391(c)(2). Motor Vehicles Purchased for First Use Out-of-State Effective Jan. 1, 2016, sales of automobiles, motorcycles, trucks, truck trailers, and semitrailers (excluding vehicle campers or housecars) that will be registered or titled outside of Alabama, and exported or removed from Alabama within 72 hours by the purchaser (or their agent) for first use outside of Alabama are no longer exempt from state sales tax. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 25, effective Jan. 1, 2016. These sales are subject to state sales tax in an amount equal to only Alabama automotive sales tax unless the state in which the purchaser will title or register the vehicle allows an Alabama resident to purchase a motor vehicle for first titling and registration in Alabama without paying sales tax to that state. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 25, effective Jan. 1, 2016. However, the Alabama sales tax due on a motor vehicle for use in another state is not to exceed the amount of tax that otherwise would have been due to the state of first use. Ala. Code §40-23-2(4), as amended by 2015 Ala. H.B. 20, effective Jan. 1, 2016. Exported Trucks Alabama exempts from taxation the purchase of a new truck weighing no more than 8,000 pounds if the following conditions are met:• the truck is manufactured in Alabama; Ala. Code §40-23-39(b)(1). • the truck is purchased by a nonresident of the United States; Ala. Code §40-23-39(b)(2). • the truck is delivered to the purchaser in Alabama by the manufacturer or an affiliated corporation; Ala. Code §40-23-39(b)(3). • at the time of purchase the purchaser intends to export the truck to and permanently license it in a foreign country within 90 days of the date of delivery; Ala. Code §40-23-39(b)(4) and • the purchaser obtains a temporary metal license plate and a temporary registration certificate for the truck from the judge of probate or license commissioner of the county in which the manufacturer is located. Ala. Code §40-23-39(b)(5). Further, tangible personal property brought into Alabama by a nonresident for storage, use, or consumption while temporarily within Alabama is not subject to use tax. However, if the property is used in performing a contract, the use of the property will be subject to tax. Ala. Code §40-23-62(2), as amended by 2018 Ala. H.B. 242 effective April 6, 2018. BNA-SUTN AL 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends The materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairer, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer, and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and are their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on the materials on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases at wholesale for use in repairs. If the repairer withdraws these materials uses them, the withdrawal is subject to the sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). However, dealers may purchase repair parts and materials as sales for resale for repair and reconditioning of vehicles in inventory for sale if the parts or materials become a part of the vehicle that will later be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116(1). Parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairer. Ala. Admin. Code r. 810-6-1-.116(2). Further, accessories purchased from a dealer after the transfer of title and possession of a vehicle, are taxed at a 4-percent rate. Ala. Admin. Code r. 810-6-2-.02(1). BNA-SUTN AL 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Depends Dealers may purchase repair parts and materials as sales for resale for repair and reconditioning vehicles in inventory for sale if the parts or materials become a part of the vehicle that will later be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116. Parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairer. Ala. Admin. Code r. 810-6-1-.116(2). BNA-SUTN AL 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Exempt Motor fuel sold for use in motor vehicles, including gasoline, blended fuel, diesel fuel, and aviation fuel, is subject to excise tax in lieu of Alabama's sales and use tax. Ala. Code §40-17-325; Ala. Code §40-17-328; Ala. Code §40-17-322(7); Ala. Code §40-17-322(19); Ala. Code §40-17-322(25); Ala. Code §40-17-322(37). BNA-SUTN AL 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Depends The materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairer, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer, and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and are their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on the materials on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases at wholesale for use in repairs. If the repairer withdraws these materials uses them, the withdrawal is subject to the sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). However, dealers may purchase repair parts and materials as sales for resale for repair and reconditioning of vehicles in inventory for sale if the parts or materials become a part of the vehicle that will later be sold and taxed on the total sales price. Ala. Admin. Code r. 810-6-1-.116(1). Parts used in repairing the vehicles of others are taxable when sold to the customer and such materials used in reconditioning the vehicles of others are taxable when withdrawn and used by the dealer-repairer. Ala. Admin. Code r. 810-6-1-.116(2). Further, accessories purchased from a dealer after the transfer of title and possession of a vehicle, are taxed at a 4-percent rate. Ala. Admin. Code r. 810-6-2-.02(1). BNA-SUTN AL 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Purchases Sales of motor boats are subject to state sales tax at a reduced rate of 2 percent. Ala. Code §40-23-2(4); Ala. Admin. Code r. 810-6-2-.46.01 Casual sales of motor boats are also subject to the reduced state rate. However, boats not meeting the definition of motor boats, are subject to state sales and use tax at the regular retail rate. Ala. Admin. Code r. 810-6-1-.33(3). A transfer of ownership between related corporate entities, as part of a corporate restructuring, of an offshore drilling vessel used exclusively outside of Alabama would be an exempt casual sale; although the vessel qualified as an automotive vehicle or motorboat, it was not required to be registered with an Alabama judge of probate. Alabama Revenue Ruling No. 2015-001 (June 12, 2015). “Motor boat” is defined as a “boat with one or more built-in motors or a boat with an outboard type motor or motors attached thereto by attachments intended to be permanent rather than readily removable and which motor or motors are controlled with remote controls built on or into the hull of the boat.” Ala. Code §40-23-100(3). Boat-related items subject to a general rate of 4 percent include:• aluminum fishing boats sold alone; • boat motors sold alone; • nonautomotive boats sold alone; • sail boats sold alone; and • skis, ropes, etc. Ala. Admin. Code r. 810-6-2-.46.01. Boat-related items subject to a reduced rate of 2 percent include:• boat trailers sold alone; • boat, motor and trailer sold as a unit meeting the definition of motor boat; • coast guard required equipment and accessories such as fire extinguishers and life jackets; • depth finders, trolling motors, and other permanently attached accessories sold with the unit at the time of the original purchase of a motor boat; and • sail boats sold with auxiliary motor permanently attached. Ala. Admin. Code r. 810-6-2-.46.01. When sold by manufacturers or builders, sales of vessels, barges, and commercial fishing vessels of over five tons load displacement, as registered with the U.S. Coast Guard and licensed by the Alabama Department of Conservation and Natural Resources, are exempt from tax. Ala. Code §40-23-4(a)(12). But see Alabama Administrative Law Judge Ruling Docket No. S. 15-652 (April 28, 2016) (vessel did not qualify as exempt because it was purchased from a dealer in Orange Beach rather than from the North Carolina-based manufacturer; qualified as exempt for other reasons). When a boat without a motor is sold with a trailer, the total selling price of the boat is taxable at the general rate of 4 percent and the trailer is taxable at the reduced rate of 2 percent on the net trade difference (total selling price of the trailer less credit allowed for a qualifying automotive unit traded-in), provided the boat and trailer prices are separately stated on the dealer's invoice. The unit traded-in for the trailer must qualify as an automotive unit. If the boat and trailer prices are not separately stated on the invoice, the total selling price of the boat and trailer is taxable at the general rate of 4 percent with no deduction allowed for a trade-in. Ala. Admin. Code r. 810-6-2-.46.01(d). If a dealer removes a motor from a customer's motorboat, accepts it as part payment of another motor, and installs the new motor; the tax is computed at 4 percent of the net difference paid. A motor sold with a motor traded that is not part of a motorboat at the time of the sale is taxable at 4 percent of the total selling price. Ala. Admin. Code r. 810-6-2-.46.01(f). Boats, motors, and trailers sold with trade-in allowed are taxable at 2 percent of the net difference paid provided both units qualify as an automotive vehicle. Ala. Admin. Code r. 810-6-2-.46.01(j). License Tax Exemptions: Alabama provides a wide range of exemptions from the license tax for certain types of lease or rental agreements, including proceeds from the lease or rental of boat docks or other waterway docking facilities, Ala. Code §40-12-223(2) and the lease or rental of vessels used in interstate or foreign commerce. Ala. Code §40-12-223(12). Motorboat Leases Lease agreements for boats that meet the definition of automotive vehicle, including motor boats, are subject to the license tax. Ala. Code §40-12-222(a). The license tax is imposed on the gross proceeds derived by the lessor from the lease or rental of the motor vehicle. Ala. Code §40-12-222. The license tax must be remitted monthly. Ala. Code §40-12-224; Ala. Code §40-23-8. The license tax is imposed on leases covering motor vehicles at a reduced state rate of 1.5 percent, rather than the normal license tax rate of 4 percent. Ala. Code §40-12-222. “Automotive vehicle” includes “automobiles, trucks, buses, tractors (crawler and pneumatic tired types), motorcycles, motorscooters, automotive industrial trucks, Ross Carriers, lift trucks, locomotive cranes, airplanes, tugs, motorboats with built-in motors, boats with outboard type motors attached thereto by attachments intended to be permanent rather than readily removable and which motors are controlled with remote controls built on or into the hull of said boat.” Ala. Admin. Code r. 810-6-1-.12(1). BNA-SUTN AL 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairer, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer, and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases wholesale for use in repairs. If the repairer withdraws these materials and uses them, the withdrawal is subject to sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). BNA-SUTN AL 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Exempt In Alabama, sales of oil, filters, and other maintenance items which become a component part of ships or vessels over five tons load displacement are exempt from sales and use taxation. Ala. Code §40-23-4(a)(13); Ala. Code §40-23-62, as amended by 2018 Ala. H.B. 242 effective April 6, 2018. BNA-SUTN AL 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Taxable The sale of fuel used in noncommercial, intrastate commerce aboard watercraft, including ships, vessels, towing vessels or barges, drilling ships, rigs or barges, or seismic or geophysical vessels, is taxable. Ala. Code §40-23-4(a)(10); Ala. Code §40-23-62, as amended by 2018 Ala. H.B. 242 effective April 6, 2018; Alabama Administrative Law Judge Ruling Docket No. S. 98–306 (Nov. 5, 1999). BNA-SUTN AL 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Sales of railroad cars, vessels, barges, and commercial fishing vessels of over five tons load displacement as registered with the U.S. Coast Guard and licensed by the State of Alabama Department of Conservation and Natural Resources, are exempt from sales and use tax when sold by the manufacturers or builders thereof. Ala. Code §40-23-4(a)(12); Ala. Code §40-23-62, as amended by 2018 Ala. H.B. 242 effective April 6, 2018. Additionally, leases or rentals of vessels used in interstate or foreign commerce are exempt from the license tax on leases and rentals. Ala. Code §40-12-223(12). Sales of materials, equipment, and machinery which become a component part of ships, vessels, towing vessels or barges, or drilling ships, rigs or barges, or seismic or geophysical vessels, other watercraft and commercial fishing vessels of over five tons load displacement as registered with the U.S. Coast Guard and licensed by the Alabama Department of Conservation and Natural Resources, are exempt from tax. Ala. Code §40-23-4(a)(13). Additionally, sales of lifeboats, personal flotation devices, ring life buoys, survival craft equipment, distress signals, EPIRBs, fire extinguishers, injury placards, waste management plans and logs, marine sanitation devices, navigation rulebooks, navigation lights, sound signals, navigation day shapes, oil placard cards, garbage placards, FCC SSL, stability instructions, first aid equipment, compasses, anchor and radar reflectors, general alarm systems, bilge pumps, piping, and discharge and electronic position fixing devices which are used for such watercraft described above, are exempt from tax. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Service providers generally must pay sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairer, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer, and the repairer must collect and remit the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). © Ala. Admin. Code r. 810-6-1-.95(1)(d). Sales of materials, equipment, and machinery that become a component part of ships, vessels, towing vessels or barges, or drilling ships, rigs or barges, or seismic or geophysical vessels, other watercraft and commercial fishing vessels of over five tons load displacement as registered with the U.S. Coast Guard and licensed by the Alabama Department of Conservation and Natural Resources, are exempt from tax. Ala. Code §40-23-4(a)(13). Also exempt are sales of lifeboats, personal flotation devices, ring life buoys, survival craft equipment, distress signals, EPIRBs, fire extinguishers, injury placards, waste management plans and logs, marine sanitation devices, navigation rulebooks, navigation lights, sound signals, navigation day shapes, oil placard cards, garbage placards, FCC SSL, stability instructions, first aid equipment, compasses, anchor and radar reflectors, general alarm systems, bilge pumps, piping, and discharge and electronic position fixing devices which are used for such watercraft. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Exempt Sales of materials, equipment, and machinery that become a component part of ships or vessels over five tons load displacement are exempt from tax. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Exempt The sale of fuel used in foreign, international, or interstate commerce aboard watercraft, including ships, vessels, towing vessels or barges, drilling ships, rigs or barges, or seismic or geophysical vessels, is exempt from tax. Ala. Code §40-23-4(a)(10). The sale of fuel used aboard commercial fishing vessels is also exempt. Ala. Code §40-23-4(a)(27). A marina's sales of diesel fuel to charter fishing boats, pleasure crafts, and boats owned by businesses are taxable because the vessels are not engaged in interstate commerce. To qualify for exemption as a vessel engaged in interstate commerce, Ala. Code §40-23-4(a) requires that the vessel must travel between an Alabama port and another state's or country's port. Merely leaving Alabama's territorial waters does not result in interstate commerce. Alabama Dept. of Rev. v. Orange Beach Marina Inc., 699 So.2d 1279 (Ala. Civ. App. 1997). However, the Alabama Supreme Court has stated that the exemption for fuel used in vessels in interstate commerce includes vessels that do not travel from port to port. Therefore, purchases of fuel and supplies used on vessels that dredge two federal navigation waterways were exempt from Alabama sales tax because dredging was substantially related to interstate commerce. Bean Dredging LLC v. Alabama Dept. of Rev., 855 So. 2d 513 (Ala. 2003). BNA-SUTN AL 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Depends The sale of commercial fishing vessels of over five tons load displacement are exempt from sales and use tax when sold by their manufacturer or builder. Ala. Code §40-23-4(a)(12). The words commercial fishing vessels shall mean vessels whose masters and owners are regularly and exclusively engaged in fishing as their means of livelihood. Ala. Code §40-23-4(a)(27). BNA-SUTN AL 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Exempt The sales materials, equipment, and machinery which, at any time, enter into and become a component part of commercial fishing vessels of over five tons load displacement are exempt from sales and use tax. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Exempt The sales materials, equipment, and machinery which, at any time, enter into and become a component part of commercial fishing vessels of over five tons load displacement are exempt from sales and use tax. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Exempt The gross proceeds from sales of fuel for use or consumption aboard commercial fishing vessels are exempt from sales tax. Ala. Code §40-23-4(27). BNA-SUTN AL 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Exempt The sales commercial fishing equipment, that enters into and become a component part of commercial fishing vessels of over five tons load displacement are exempt from sales and use tax. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Depends The sale of tools and some other enumerated items, which, at any time, enter into and become a component part of commercial fishing vessels of over five tons load displacement are exempt from sales and use tax. However, most supplies will be subject sales and use tax. Ala. Code §40-23-4(a)(13). The following items are exempt from sales and use tax:• lifeboats, personal flotation devices, ring life buoys; • survival craft equipment, distress signals, EPIRB's; • fire extinguishers; • marine sanitation devices; • navigation rulebooks, navigation lights, sound signals, navigation day shapes; • stability instructions, first aid equipment; • compasses, anchor and radar reflectors; • general alarm systems; • bilge pumps, piping, and discharge and electronic position fixing devices which are used on the aforementioned watercraft. Ala. Code §40-23-4(a)(13). BNA-SUTN AL 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Purchases When sold by the manufacturers or builders, sales of railroad cars are exempt from tax. Otherwise, the sale of railroad rolling stock is subject to sales and use tax. Ala. Code §40-23-4(a)(12). However, sales of locomotives that meet the definition of “automotive vehicle,” not including railroad cars that do not have a self-contained motor, are subject to state sales tax at a reduced rate of 2 percent. Ala. Code §40-23-2(4); Ala. Admin. Code r. 810-6-2-.103 Casual sales of locomotives that meet the definition of “automotive vehicles” are subject to Alabama sales or use tax at the reduced rate of 2 percent. Ala. Admin. Code r. 810-6-1-.33(3); Alabama Revenue Ruling No. 2015-001 (June 12, 2015) (although vessel qualified as an automotive vehicle or motorboat, it was not required to be registered with an Alabama judge of probate). Sales of machines used by railroad companies in maintaining, repairing or reconditioning their equipment are subject to the sales or use tax rate of 4 percent. Ala. Admin. Code r. 810-6-2-.74. Further, wire rope used on locomotive cranes and other material handling equipment are subject to 4 percent sales and use tax and not the 1.5 percent special machine rate. Ala. Admin. Code r. 810-6-2-.105. “Automotive vehicle” includes “automobiles, trucks, buses, tractors (crawler and pneumatic tired types), motorcycles, motorscooters, automotive industrial trucks, Ross Carriers, lift trucks, locomotive cranes, airplanes, tugs, motorboats with built-in motors, boats with outboard type motors attached thereto by attachments intended to be permanent rather than readily removable and which motors are controlled with remote controls built on or into the hull of said boat.” Ala. Admin. Code r. 810-6-1-.12(1). License Tax Exemptions: Alabama exempts the proceeds of a lease covering railroad equipment that is used in interstate or foreign commerce from the license or rental tax. Ala. Code §40-12-223(12). Locomotive Leases Lease agreements for locomotives that meet the definition of “automotive vehicle” are subject to the license tax. Ala. Code §40-12-222. The license tax is imposed on the gross proceeds derived by the lessor from the lease or rental of the motor vehicle. Ala. Code §40-12-222. The license tax must be remitted on a monthly basis. Ala. Code §40-12-224; Ala. Code §40-23-8. The license tax is imposed on leases covering motor vehicles at a reduced state rate of 1.5 percent, rather than the normal license tax rate of 4 percent. Ala. Code §40-12-222. Leases or rentals of railroad equipment used in interstate or foreign commerce are exempt from license tax for leases and rentals. Ala. Code §40-12-223(12). For more information on the motor vehicle license tax, see the Excise Taxes Navigator, at Alabama 9. BNA-SUTN AL 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Depends Service providers are generally responsible for paying sales or use tax on items purchased or used in rendering their service. Ala. Admin. Code r. 810-6-1-.85. However, the materials used in making a repair are divided into four categories, with each category determining the tax treatment of the property within it. Ala. Admin. Code r. 810-6-1-.95(1). The first category includes materials that pass to the customer, do not lose their identity as tangible personal property when used by the repairer, and are a substantial part of the repair job. Such materials are considered sold at retail by the repairer and the repairer is responsible for collecting and remitting the tax due. So long as the repairer separately states the charge for the materials from the charge for the service, only the charge for the materials is subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(a). The second category includes materials that pass to the customer but lose their identity or are inconsequential to the repair job. Such materials are considered used or consumed by the repairer, and their sales to the repairer are subject to tax. Ala. Admin. Code r. 810-6-1-.95(1)(b). The third category includes materials used or consumed by the repairer, but not passed to the customer. Such materials are considered consumed by the repairer, and the repairer owes tax on charges for the materials when purchased. Ala. Admin. Code r. 810-6-1-.95(1)(c). The fourth category involves the materials in categories two and three that the repairer purchases wholesale for use in repairs. If the repairer withdraws these materials and uses them, the withdrawal is subject to sales tax. The repairer does not qualify as a vendor of such items unless the repairer maintains a stock of them and sells a substantial amount from this stock. If a repairer makes only isolated sales or “accommodation”sales of these items, the repairer does not qualify as a vendor of them, and the supplier must collect the tax from the repairer. Ala. Admin. Code r. 810-6-1-.95(1)(d). BNA-SUTN AL 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Nontaxable Repair and installation services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2(1); Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters, and other maintenance items used by railroad companies in maintaining, repairing or reconditioning their equipment are subject to sales or use tax at the rate of 4 percent. Ala. Admin. Code r. 810-6-2-.74. BNA-SUTN AL 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Maintenance services are not subject to sales and use tax in Alabama, so long as such charges are separately stated. Ala. Code §40-23-2; Ala. Admin. Code r. 810-6-2-.79(3); Ala. Admin. Code r. 810-6-1-.09(1). BNA-SUTN AL 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Exempt The United States Court of Appeals for the Eleventh Circuit has ruled that by taxing diesel fuel purchased by rail carriers and exempting that purchased by water carriers, Alabama violates the Railroad Revitalization and Regulatory Reform Act of 1976 (4-R Act) and directed the United States District Court for the Northern District of Alabama to enjoin collection of the tax from rail carriers. CSX Transp., Inc. v. Ala. Dep't of Revenue, 2018 BL 100282 (11th Cir. 2018). Alabama has been involved in ongoing litigation regarding its taxation of fuel used by railroads. CSX Transportation, Inc., a rail carrier, has alleged that the exemption for fuel purchased by motor carriers and water carriers is discriminatory against railroads in violation of the 4-R Act. The United States Supreme Court granted certiorari and issued a decision in 2015, Alabama Dept. of Rev. v. CSX Transp., Inc., 135 S. Ct. 1136, 2015 BL 57818 (2015). remanding the case to the Court of Appeals for the Eleventh Circuit. The court vacated its prior decision and remanded the case to the United States District Court for the Northern District of Alabama to consider whether Alabama has a sufficient justification for treating rail carriers differently from motor and water carriers. CSX Transp., Inc. v. Alabama Dept. of Rev., 797 F.3d 1293, 2015 BL 266503 (11th Cir. 2015). The district court found that it did and that the tax therefore did not violate the 4-R Act. CSX Transp., Inc. v. Alabama Dept. of Rev., 247 F. Supp. 3d 1240, 2017 BL 100324 (N.D. Ala. 2017). On appeal, the Eleventh Circuit agreed that Alabama had shown sufficient justification for its different treatment of motor carriers, but found that there was insufficient justification for the state's different treatment of water carriers. Based on this, the Eleventh Circuit ruled that by exempting water carriers and not rail carriers, Alabama discriminated against railroads in violation of the 4-R Act. The court reversed and remanded the case to the district court with instructions to enter declaratory and injunctive relief in CSX's favor. CSX Transp., Inc. v. Ala. Dep't of Revenue, 2018 BL 100282 (11th Cir. 2018). BNA-SUTN AL 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Nontaxable The state of Alabama sales and use tax does not apply to property transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable The state of Alabama sales and use tax does not apply to transportation services. Ala. Code §40-23-2. BNA-SUTN AL 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Nontaxable The state of Alabama sales and use tax does not apply to parking. Ala. Code §40-23-2. BNA-SUTN AL 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Nontaxable The state of Alabama sales and use tax does not apply to boat slip and mooring fees. Ala. Code §40-23-2. BNA-SUTN AL 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Nontaxable The state of Alabama sales and use tax does not apply to towing fees. Ala. Code §40-23-2. BNA-SUTN AL 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Nontaxable The state of Alabama sales and use tax does not apply to car wash services. Ala. Code §40-23-2. BNA-SUTN AL 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Nontaxable The state of Alabama sales and use tax does not apply to car detailing services. Ala. Code §40-23-2. BNA-SUTN AL 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Nontaxable Alabama does not have exemptions for other types of transportation property. Ala. Code §40-23-2. BNA-SUTN AL 29.15.
+
+==================================================

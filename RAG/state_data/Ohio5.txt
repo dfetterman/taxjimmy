@@ -1,0 +1,201 @@
+State: Ohio
+
+
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Real Property
+
+Nontaxable Ohio does not impose sales and use tax on sales of real property. Ohio Rev. Code Ann. §5739.02(A)(1). Ohio defines “real property” as realty and land including all growing crops, trees, plants, and shrubs, all buildings, structures, improvements, and fixtures of whatever kind on the land, and all rights and privileges belonging or appertaining to such property. Ohio Rev. Code Ann. §5701.02(A); see also Palace Hotels, LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2016-1300 (March 5, 2018) (finding a roof, fiberglass decking, plumbing, electrical, and concrete foundations to be real property). BNA-SUTN OH 28.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal General Rule for Classification
+
+Three-part Test Ohio uses a three-part test to determine whether tangible personal property has been affixed to real property. Funtime, Inc. v Wilkins, 822 N.E.2d 781, 2004 Ohio 6890 (Ohio 2004). In making this determination, Ohio considers the following:1) whether the property has become actually annexed to the real property; 2)whether the property increases or enhances utilization or enjoyment of the land; and 3) the intention of the party making the annexation to permanently attach the item to the real property. Funtime, Inc. v Wilkins, 822 N.E.2d 781, 2004 Ohio 6890 (Ohio 2004) (quoting Zangerle v. Standard Oil Co. of Ohio, 60 N.E.2d 52 (Ohio 1945). Ohio further differentiates between fixtures and “business fixtures.” Ohio Admin. Code §5703-9-14(B); see also Funtime, Inc. v Wilkins, 822 N.E.2d 781, 2004 Ohio 6890 (Ohio 2004) (amusement rides affixed to amusement park were taxable business fixtures because they would not be of benefit to a real property occupant engaged in a different business); Hoffman Props. LP v. Testa, Ohio Board of Tax Appeals Decision No. 2011-1372 (April 29, 2014) (specialized irrigation system affixed to golf course was a taxable business fixture because it was designed to address the unique needs of operating a golf course), aff'd 2015 BL 313185 (Ohio Ct. App. 2015). Tangible personal property is a fixture if it has become permanently attached or affixed to the land or to a building, structure, or improvement, and primarily benefits the real property rather than the business conducted on the premises. Ohio Rev. Code Ann. §5701.02(C). Property is a “business fixture”if it primarily benefits the business, if any, conducted on the real property (e.g., machinery, equipment, signs, or storage bins). Ohio Rev. Code Ann. §5701.03(B); Ohio Admin. Code §5703-9-14(B). “Business fixture” includes machinery, equipment, signs, storage bins and tanks, whether above or below ground, and broadcasting, transportation, transmission, and distribution systems, whether above or below ground. Ohio Rev. Code Ann. §5701.03(B); see also Pep Boys - Manny, Moe & Jack of Del., Inc. v. Testa, No. 2015-706 (Ohio B.T.A. 2016) (stating that Ohio Rev. Code Ann. §5701.03(B) “clearly contemplates that signs and equipment, that are permanently attached to the land and that benefit the specific business conducted thereon, are taxable”). “Business fixture” also means those portions of buildings, structures, and improvements specially designed, constructed, and used for the business conducted in the building, structure, or improvement, including, but not limited to, foundations and supports for machinery and equipment. Ohio Rev. Code Ann. §5701.03(B). “Business fixture” does not include fixtures that are common to buildings, including, but not limited to, heating, ventilation, and air conditioning systems primarily used to control the environment for people or animals, tanks, towers, and lines for potable water or water for fire control, electrical and communication lines, and other fixtures that primarily benefit the realty and not the business conducted by the occupant on the premises. Ohio Rev. Code Ann. §5701.03(B). Fixtures are nontaxable real property in Ohio; however, business fixtures retain their character as taxable tangible personal property. Ohio Rev. Code Ann. §5701.02(C). BNA-SUTN OH 28.2.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Appliances, Electronics, Machinery, and Equipment
+
+Taxable Appliances, electronics, machinery, and equipment are considered business fixtures if annexed to real property. The sale and installation of such items is subject to sales tax. Ohio Rev. Code Ann. §5701.03(B); Ohio Admin. Code §5703-9-14(B); see also Pep Boys - Manny, Moe & Jack of Del., Inc. v. Testa, No. 2015-706 (Ohio B.T.A. 2016) (stating that Ohio Rev. Code Ann. §5701.03(B) “clearly contemplates that signs and equipment, that are permanently attached to the land and that benefit the specific business conducted thereon, are taxable”) If such items are not annexed to real property, they will be treated as tangible personal property. Charges for the sale and installation of tangible personal property are taxable unless another exemption applies. Ohio Rev. Code Ann. §5739.01(H)(1)(a)(v); Ohio Rev. Code Ann. §5701.02(C). BNA-SUTN OH 28.2.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Plumbing Fixtures
+
+Nontaxable Charges for the sale and installation of plumbing fixtures are not subject to sales tax in Ohio. Ohio Admin. Code §5703-3-01(B)(2). Plumbing fixtures are considered to be annexed to real property upon installation and contracts to install plumbing fixtures are treated as construction contracts, which are nontaxable. Ohio Admin. Code §5703-3-01(B)(2). Plumbing fixtures are not treated as taxable “business fixtures.” The definition of “business fixture”excludes items that are common to buildings. Ohio Rev. Code Ann. §5701.03(B). BNA-SUTN OH 28.2.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Flooring and Window Treatments
+
+Depends Flooring Charges for the sale and installation of carpet are taxable, while charges for the sale and installation of other types of flooring are not. See Ohio Rev. Code Ann. §5701.01(B)(5). Sales and installations of carpet are specifically excluded from being treated as fixtures or construction contracts and are always subject to tax in Ohio. Ohio Rev. Code Ann. §5701.01(B)(5); Ohio Information Release ST 1994-01. Carpet padding, tack strips, adhesive, and similar materials that are integral and necessary components of carpet installation transactions are also subject to tax. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(C)(1). Other types of flooring, including linoleum, tile, hardwood, and vinyl, become annexed to real property when installed. Charges for the sale and installation of such items are treated as a construction contract and are not taxable. Ohio Information Release ST 1994-01; Ohio Opinion of the Tax Commissioner No. 91-0001 (May 23, 1991). Window Treatments Ohio does not specifically address the taxability of window treatments. See Ohio Rev. Code Ann. §§5739.01-5739.99. Whether or not window treatments are taxable depends on whether such items become annexed to real property. Ohio Rev. Code Ann. §5701.02(C). Window treatments that are easily removed, such as standard curtains and draperies are taxable as tangible personal property. Both the sale and installation of such items is taxable in Ohio. Ohio Rev. Code Ann. §5739.01(H)(1)(a)(v); Ohio Rev. Code Ann. §5701.02(C). However, more permanent installations such as awnings or shades, are considered real property. Charges for the sale and installation of these items are treated as nontaxable charges under a construction contract. Ohio Admin. Code §5703-3-01(B)(2). BNA-SUTN OH 28.2.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Sale and Installation of Signage
+
+Taxable Signage is considered a business fixture if annexed to real property. The sale and installation of such items is subject to sales tax. Ohio Rev. Code Ann. §5701.03(B); Ohio Admin. Code §5703-9-14(B); see also Pep Boys - Manny, Moe & Jack of Del., Inc. v. Testa, No. 2015-706 (Ohio B.T.A. 2016) (stating that Ohio Rev. Code Ann. §5701.03(B) “clearly contemplates that signs and equipment, that are permanently attached to the land and that benefit the specific business conducted thereon, are taxable”) If signage is not annexed to real property, it will be treated as tangible personal property. Charges for the sale and installation of tangible personal property are taxable unless another exemption applies. Ohio Rev. Code Ann. §5739.01(H)(1)(a)(v); Ohio Rev. Code Ann. §5701.02(C). BNA-SUTN OH 28.2.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Fixtures, Classifying Property as Real or Personal Character of Leasehold Improvements
+
+No Guidance Ohio does not specifically address leasehold improvements for sales and use tax purposes. SeeOhio Rev. Code Ann. §5701.01-5739.99. BNA-SUTN OH 28.2.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Construction Materials and Contracts, Generally
+
+Depends Ohio sales and use tax does not apply to construction contracts. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Information Release ST 2003-01. Instead, Ohio law imposes sales and use tax on the purchase, lease, rental, consumption, or use of machinery, equipment, supplies, tools, and other tangible personal property used by a construction contractor in completing a construction contract. Ohio Admin. Code §5703-9-14(H). Likewise, the repair or installation of any of these items is also subject to taxation. Ohio Admin. Code §5703-9-14(H). The contractor is responsible for paying the applicable tax on any tangible personal property or service used in completing the construction contract. Ohio Admin. Code §5703-9-14(D)(1); Durabilt Inc. v. Testa (Ohio Ct. App., 5th Dist. 2011). A construction contract is any agreement, whether written or oral, in which tangible personal property is incorporated into real property so that it becomes part of the real property. A construction contract can be for either new construction or for addition or alteration to a previously existing structure. Ohio Admin. Code §5703-9-14(A). A construction contractor is anyone that performs construction contracts, and includes both primary contractors and subcontractors. Ohio Admin. Code §5703-9-14(A). More information on the taxation of construction contractors is available at 1840 T.M., State Taxation of Construction Contractors. BNA-SUTN OH 28.3.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Lump-Sum Charges
+
+Nontaxable Ohio sales and use tax does not apply to construction contracts. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Information Release ST 2003-01. Sales and use tax is due instead on the purchase, lease, rental, consumption, or use of machinery, equipment, supplies, tools, and other tangible personal property used by a construction contractor in completing a construction contract. Ohio Admin. Code §5703-9-14(H). Likewise, the repair or installation of any of these items is also subject to taxation. Ohio Admin. Code §5703-9-14(H). BNA-SUTN OH 28.3.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Lump-Sum Construction Contracts, Contractor's Purchases of Materials
+
+Taxable A construction contractor who purchases materials or taxable services for incorporation into real property is the consumer of these materials or services and must pay sales or use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or is performing work on a nontaxable construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D). Items purchased by contractors may be found to be purchased for resale if the contractee has ultimate control over the items. In one case, the commissioner alleged that traffic maintenance items were purchased for use by the taxpayer in fulfilling a contract for construction services instead acquired for lease or rental to its customer. However, because the customer had control over exactly which items were used, when they were used, and how they were used, it was found that the traffic maintenance items were in fact leased to the customer. Therefore the taxpayer's initial purchase of the items was for resale. Karvo Paving, Co. v. Testa, Ohio Board of Tax Appeals Decision No. 2016-782 (Jan. 4, 2018). BNA-SUTN OH 28.3.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Service Charges
+
+Nontaxable Ohio sales and use tax does not apply to construction contracts. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Information Release ST 2003-01. BNA-SUTN OH 28.3.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Materials Charges
+
+Nontaxable Ohio sales and use tax does not apply to separately stated materials charges under construction contracts. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D); Ohio Information Release ST 2003-01. The construction contractor is the consumer of all materials for incorporation and must pay sales and use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or unless the contractor is performing work on a nontaxable construction contract, e.g., for a tax exempt entity. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D); Ohio Information Release ST 2003-01. BNA-SUTN OH 28.3.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Construction Materials and Contracts Separated Construction Contracts, Contractor's Purchases of Materials
+
+Taxable A construction contractor who purchases materials or taxable services for incorporation into real property is the consumer of these materials or services and must pay sales or use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or is performing work on a nontaxable construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D). BNA-SUTN OH 28.3.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Service
+
+Nontaxable Real property repair is a nontaxable service. Ohio Rev. Code Ann. §5739.01. BNA-SUTN OH 28.4.1.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Repair, Separately Stated Parts and Materials Charges
+
+Taxable A construction contractor who purchases materials or taxable services for incorporation into real property is the consumer of those materials or services and must pay sales or use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or is performing work on a nontaxable construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D). A person who manufactures or fabricates items of tangible personal property, and then sells some of the items and incorporates some into real property, must elect whether to be treated as a manufacturer or as a construction contractor on the purchase of raw materials incorporated into the manufactured items. If the person elects to be treated as a manufacturer, the purchase of all raw materials may be exempt from the tax on the basis that they will be incorporated as a material or part into an item manufactured for sale. The manufacturer must accrue and pay use tax on the price of any self-manufactured item subsequently consumed in performing a taxable construction contract, or in any other taxable manner. If the person elects to be treated as a construction contractor, the person must pay sales or use tax on the acquisition cost of all raw materials, unless such materials are ultimately consumed in performing a nontaxable construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(F). BNA-SUTN OH 28.4.2.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Real Property Installation
+
+Depends Services performed on real property such as repair, maintenance, and improvements to real property are generally not subject to sales and use tax. Ohio Rev. Code Ann. §5739.01(B). The transfer and affixation of personal property when title to the personal property does not transfer to the owner or lessee of the premises is a sale and not a construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(B). Because business fixtures retain their character as tangible personal property, installation, repair, and maintenance for business fixtures are subject to sales and use tax unless the business fixtures are otherwise exempt from sales and use tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a); Ohio Rev. Code Ann. §5739.01(B)(3)(b); Ohio Rev. Code Ann. §5739.01(B)(7); Ohio Admin. Code §5703-9-14(B). A construction contractor who purchases materials or taxable services for incorporation into real property is the consumer of these materials or services and must pay sales or use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or unless the contractor is performing work on a nontaxable construction contract, e.g., for a tax exempt entity. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D). BNA-SUTN OH 28.4.3.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Interior Real Property Maintenance
+
+Taxable Ohio imposes sales and use tax on most interior real property maintenance services. Ohio Rev. Code Ann. §5739.01(B)(3)(j); Ohio Rev. Code Ann. §5739.02. Taxable building maintenance and janitorial services include, but are not limited to:• disinfecting and deodorizing; • carpet and upholstery cleaning; • chimney sweeping; • cleaning venetian blinds and window shades; • cleaning windows, walls, ceilings, and indoor pools; • washing and waxing floors; • sandblasting, chemically cleaning, power washing or cleaning building exteriors, including siding, roofs, chimneys, and gutters; • cleaning grease traps, sludge pits, blast furnaces and other industrial cleaning if performed inside a building; • snow removal and sweeping dirt off parking garage decks (in buildings); • emptying waste baskets for picking up trash for immediate or eventual removal from a building; • cleaning ventilating systems, including furnace and ductwork; and • housekeeping(maid) services. Ohio Rev. Code Ann. §5739.01(B)(3)(j); Ohio Information Release ST 2002-04; see Dunlop &Johnston, Inc., et al. v. Testa, Ohio Bd. Tax App., No. 2014-1513 (Feb. 9, 2015) (Taxpayer contractor challenged assessment on cleaning services provided, contending that they were incorporated into realty as part of a construction contract with the Ohio National Guard, and therefore not taxable. With no evidence to rebut the assessment of tax, the Board of Tax Appeals determined that construction appeared to have concluded at the time a third-party cleaner provided the services in question, and affirmed the assessment.). The following are nontaxable activities associated with building maintenance and janitorial services:• applying stain repellent to carpeting; • repairing chimneys, carpeting, roofs, ceilings, walls, floors, and other forms of real property; • painting exterior and interior building surfaces; • miscellaneous maintenance; • plumbing, electrical, heating, ventilating, and air conditioning repair or maintenance; • snow and ice removal from parking lots, driveways, and sidewalks (if sales do not exceed $5,000 in a calendar year); • cleaning outdoor pools; • unclogging drains and pipes; • clearing leaves, grass, and other debris from lawns, sidewalks, patios, etc. (if sales do not exceed $5,000 in a calendar year); • removing unwanted articles from a building when in connection with the service of hauling them away; • off-site cleaning of building contents such as draperies and venetian blinds;and • stripping wallpaper, paint, varnish, etc. off walls, floors, and ceilings. Ohio Information Release ST 2002-04; see also Ohio Board of Tax Appeals Decision No. 2016-34 (April 14, 2017) (taxable cleaning does not include service of removing from draft beer lines build up of bacteria, yeast, mold, beer stones and other particulates, the primary purpose of which is preventative or restorative to ensure proper function of draft beer system; any cleaning is merely incidental). BNA-SUTN OH 28.4.4.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Exterior Real Property Maintenance
+
+Taxable Ohio imposes sales and use tax on most exterior real property maintenance services. Ohio Rev. Code Ann. §5739.01(B)(3)(j). Taxable building maintenance and janitorial services include, but are not limited to:• disinfecting and deodorizing; • carpet and upholstery cleaning; • chimney sweeping; • cleaning venetian blinds and window shades; • cleaning windows, walls, ceilings, and indoor pools; • washing and waxing floors; • sandblasting, chemically cleaning, power washing or cleaning building exteriors, including siding, roofs, chimneys, and gutters; • cleaning grease traps, sludge pits, blast furnaces and other industrial cleaning if performed inside a building; • snow removal and sweeping dirt off parking garage decks (in buildings); • emptying waste baskets for picking up trash for immediate or eventual removal from a building; • cleaning ventilating systems, including furnace and ductwork; and • housekeeping(maid) services. Ohio Rev. Code Ann. §5739.01(B)(3)(j); Ohio Information Release ST 2002-04; see Dunlop &Johnston, Inc., et al. v. Testa, Ohio Bd. Tax App., No. 2014-1513 (Feb. 9, 2015) (Taxpayer contractor challenged assessment on cleaning services provided, contending that they were incorporated into realty as part of a construction contract with the Ohio National Guard, and therefore not taxable. With no evidence to rebut the assessment of tax, the Board of Tax Appeals determined that construction appeared to have concluded at the time a third-party cleaner provided the services in question, and affirmed the assessment.). The following are nontaxable activities associated with building maintenance and janitorial services:• applying stain repellent to carpeting; • repairing chimneys, carpeting, roofs, ceilings, walls, floors, and other forms of real property; • painting exterior and interior building surfaces; • miscellaneous maintenance; • plumbing, electrical, heating, ventilating, and air conditioning repair or maintenance; • snow and ice removal from parking lots, driveways, and sidewalks (if sales do not exceed $5,000 in a calendar year); • cleaning outdoor pools; • unclogging drains and pipes; • clearing leaves, grass, and other debris from lawns, sidewalks, patios, etc. (if sales do not exceed $5,000 in a calendar year); • removing unwanted articles from a building when in connection with the service of hauling them away; • off-site cleaning of building contents such as draperies and venetian blinds;and • stripping wallpaper, paint, varnish, etc. off walls, floors, and ceilings. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Excavation and Demolition
+
+Nontaxable Excavation and demolition are nontaxable services. Ohio Rev. Code Ann. §5739.01; Ohio Information Release ST 2003-02. BNA-SUTN OH 28.4.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Site Cleanup
+
+Nontaxable Removing unwanted articles from a building when in connection with the service of hauling them away is a nontaxable service. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Plumbing
+
+Nontaxable Charges for plumbing repair or maintenance are not subject to sales tax in Ohio. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.8.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Electrical Work
+
+Nontaxable Charges for electrical repair or maintenance are not subject to sales tax in Ohio. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.9.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Installation
+
+Nontaxable Charges for the installation of HVAC systems are not subject to sales tax in Ohio. Ohio Rev. Code Ann. §5739.01(B). Services performed on real property such as repair or installation of improvements to real property are generally not subject to sales and use tax. Ohio Rev. Code Ann. §5739.01(B). HVAC systems will generally be considered fixtures, and will be treated as real property under most circumstances. Fixtures are nontaxable real property in Ohio. HVAC systems are considered fixtures if permanently attached or affixed to the land or to a building, structure, or improvement, and primarily benefits the real property rather than the business conducted on the premises. Ohio Rev. Code Ann. §5739.02(C). Although the installation of “business fixtures” is taxable in Ohio, HVAC systems are specifically excluded from the definition of “business fixtures” as items “primarily used to control the environment for people or animals.” Therefore, the installation of an HVAC system remains nontaxable, even if the system is installed to a business or other commercial property. Ohio Rev. Code Ann. §5739.03(B). BNA-SUTN OH 28.4.10.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property HVAC Repair
+
+Nontaxable Charges for the repair of HVAC systems are not subject to sales tax in Ohio. Ohio Information Release ST 2002-04. Heating, ventilating, and air conditioning repair or maintenance are explicitly listed as nontaxable activities associated with building maintenance. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.11.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Gutter Cleaning
+
+Taxable Charges for gutter cleaning services are subject to sales tax in Ohio. Ohio Information Release ST 2002-04. Gutter cleaning is included in a list of taxable building maintenance and janitorial services. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.12.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Window Cleaning
+
+Taxable Charges for window cleaning services are subject to sales tax in Ohio. Ohio Information Release ST 2002-04. Window cleaning is included in a list of taxable building maintenance and janitorial services. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.13.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Buildings
+
+Taxable Charges for power washing building exteriors are subject to sales tax in Ohio. Ohio Information Release ST 2002-04. Power washing building exteriors is included in a list of taxable building maintenance and janitorial services. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.14.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Power Washing Sidewalks and Parking Lots
+
+No Guidance Ohio does not provide specific guidance on the taxability of charges for power washing sidewalks and parking lots. See Ohio Information Release ST 2002-04. However, charges for power washing building exteriors are taxable. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.15.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Services to Real Property Sign Painting and Lettering Services
+
+Depends Signs are specifically included among business fixtures in Ohio, so any services (painting or lettering) to signs that qualify as business fixtures will be subject to tax. Ohio Rev. Code Ann. §5701.03(B); Ohio Admin. Code §5703-9-14(B). Business fixtures retain their character as tangible personal property. Installation, repair, and maintenance for business fixtures are subject to sales and use tax unless the business fixtures are otherwise exempt from sales and use tax. Ohio Rev. Code Ann. §5739.01(B)(3)(a); Ohio Rev. Code Ann. §5739.01(B)(3)(b); Ohio Rev. Code Ann. §5739.01(B)(7); Ohio Admin. Code §5703-9-14(B). However, painting exterior and interior building surfaces are specifically included in a list of nontaxable activities associated with building maintenance and janitorial services, so under certain circumstances, lettering may be nontaxable. Ohio Information Release ST 2002-04. BNA-SUTN OH 28.4.16.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contractor Classifications
+
+Yes Retailer-contractors A construction contractor that purchases tangible personal property to be incorporated into real property and that also makes substantial sales of the same type of tangible personal property is entitled to purchase such property free from sales and use tax under the sale for resale exclusion as a retailer. Ohio Admin. Code §5703-9-14(E). Any tangible personal property purchased under this exemption that is ultimately incorporated into real property pursuant to a construction contract is subject to the use tax. The contractor must remit the appropriate amount of use tax due under such circumstances. Ohio Admin. Code §5703-9-14(E). Contractors as Manufacturers A contractor that manufactures or fabricates tangible personal property, sells some of the property, and incorporates some into real property pursuant to construction contracts must elect whether to be treated as a manufacturer or a construction contractor when purchasing the raw materials used to manufacture or fabricate the tangible personal property. The contractor does not need to notify the department about the election and may elect to be treated differently on the purchase of raw materials for distinct manufactured items. The law requires a contractor to maintain complete records detailing how each purchase of raw materials was treated for tax purposes. Ohio Admin. Code §5703-9-14(F)(1). Election to be Treated as a Manufacturer If a contractor elects to be treated as a manufacturer, then all raw materials purchased may be exempt from tax as they will become a part of an item manufactured for sale. The contractor must accrue and pay use tax on any self-manufactured item later used in the completion of a construction contract. Ohio Admin. Code §5703-9-14(F)(1)(a). Election to be Treated as a Construction Contractor If a contractor elects to be treated as a construction contractor, then the contractor must pay sales or use tax on purchases of any materials used in the manufacturing process. The tax base is the acquisition cost. The only exception to this rule is if the ultimate manufactured product is used in completing a non-taxable construction contract. If the manufactured item is used in such an exempt contract, then no sales or use tax is due. The contractor will not be entitled to a refund of tax even if the raw materials are incorporated into items manufactured for sale. If the sale is a retail sale, the contractor must collect sales tax on the transaction. Ohio Admin. Code §5703-9-14(F)(1)(b). BNA-SUTN OH 28.5.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Subcontractors
+
+Taxable A construction contractor who purchases materials or taxable services for incorporation into real property is the consumer of those materials or services and must pay sales or use tax on their purchase price, unless the contractor manufactures or fabricates items for incorporation into real property or is performing work on a nontaxable construction contract. Ohio Rev. Code Ann. §5739.01(B)(5); Ohio Admin. Code §5703-9-14(D). BNA-SUTN OH 28.6.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Contracts with Exempt Entities
+
+Exempt A contractor can purchase materials tax-exempt if the materials are to be incorporated into enumerated real property or contracts involving exempt uses or entities. Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1). Specifically, a contractor may purchase materials tax-exempt if the materials are to be incorporated into the following:• real property pursuant to a contract with the United States government or its agencies, the State of Ohio, or an Ohio political subdivision; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(a). • real property that is owned or will be owned when the construction contract is completed by the United States government or its agencies, the State of Ohio, or an Ohio political subdivision; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(b). • a place of public worship or religious education, or a building used exclusively for charitable purposes by a nonprofit organization; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(c). • original construction of a sports facility as defined by Ohio law; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(d). • real property located in another state, so long as the materials and equipment purchased and used would have been exempt from taxation in that other state if sold to a contractor; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(e). • a horticulture structure or livestock structure built for a person engaged in the business of horticulture or producing livestock; Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(f). or • a hospital facility. Ohio Rev. Code Ann. §5739.02(B)(13); Ohio Admin. Code §5703-9-14(D)(1)(g). A contractee claiming one of the above listed exemptions must complete and deliver to the contractor a construction contract exemption certificate. If the contractee is a governmental entity of either the federal government or Ohio, then a government official must sign under the political subdivision section of the construction contract exemption certificate. Any other contractee claiming an exemption must sign under the owner/contractee section of the exemption certificate. Ohio Admin. Code §5703-9-14(I)(1). A contractor must make and retain copies of the construction contract exemption certificate signed by the contractee. A contractor should use the copies when making purchases of materials that will be incorporated into real property as stated in the construction contract. A contractor must sign each certificate copy used when purchasing materials. Ohio Admin. Code §5703-9-14(I)(1). BNA-SUTN OH 28.7.
+
+==================================================
+
+Topic: Real Property, Construction Contracts and Materials, Mobile and Manufactured Homes Mobile and Manufactured Homes
+
+Taxable If a new motor vehicle dealer purchases a new manufactured or mobile home from the manufacturer, remanufacturer, or distributor, then the motor vehicle dealer is not liable for paying tax at this time. The dealer becomes responsible for paying tax when the mobile or manufactured home is sold to a customer that is not also engaged in the business of selling such homes. Ohio Rev. Code Ann. §5739.0210(E). The dealer may not charge the purchaser tax, but may include the tax in the selling price of the home. Ohio Rev. Code Ann. §5739.0210(F). The tax must be remitted to the state on the earlier of:• the date on which the manufactured or mobile home is delivered to the customer; • the date on which the vendor receives full payment from the customer;or • if the purchase is being financed, the date on which the financing of the home is completed. Ohio Rev. Code Ann. §5739.0210(E). The state exempts from taxation the sale of used mobile or manufactured homes on which a transfer tax has been imposed. Ohio Rev. Code Ann. §5739.0210(C). A manufactured home is defined as a building that is constructed in an off-site facility in conformity with the federal construction and safety standards established by the secretary of housing and urban development pursuant to the Manufactured Housing Construction and Safety Standards Act of 1974. It must also have a permanent label or tag attached to it certifying compliance with all applicable federal construction and safety standards. Ohio Rev. Code Ann. §5739.0210(A)(1); Ohio Rev. Code Ann. §3781.06(C)(4). A mobile home is a building that is constructed in an off-site facility, is more than 35 feet in length or is 320 or more square feet, is built on a permanent chassis, is transportable in one or more sections, and does not qualify as a manufactured home. Ohio Rev. Code Ann. §5739.0210(A)(3); Ohio Rev. Code Ann. §4501.01(O). BNA-SUTN OH 28.8.
+
+==================================================

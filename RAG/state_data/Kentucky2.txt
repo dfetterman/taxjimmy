@@ -1,0 +1,459 @@
+State: Kentucky
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Kentucky Department of Revenue The Office of Sales and Excise Taxes's Division of Sales and Use Tax within the Kentucky Department of Revenue administers all matters relating to sales and use taxes. Ky. Rev. Stat. Ann. §131.020(1)(d) The matters undertaken by the Divisions' includes, but is not limited to, technical tax research, compliance, taxpayer assistance, tax-specific training, and publications. Ky. Rev. Stat. Ann. §131.020(1)(d) BNA-SUTN KY 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+No Local Tax Although the Kentucky legislature has passed legislation authorizing Kentucky municipalities to impose local sales and use tax, no city or municipality has imposed a local sales or use tax. Ky. Rev. Stat. Ann. §92.281. BNA-SUTN KY 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Any vendor wishing to do business within Kentucky must file an application with the Department of Revenue for a permit. Ky. Rev. Stat. Ann. §139.240. A vendor is required to submit an application for each place of business, and each application must contain the name under which the vendor conducts business. Ky. Rev. Stat. Ann. §139.240. If approved, the Department of Revenue grants a separate permit for each place of business. Once granted to the business owner, the permit is nontransferable, and remains valid only for the business owner's use. Once granted the permit, the business owner is required to conspicuously display the permit to conduct business. Ky. Rev. Stat. Ann. §139.250. Kentucky requires remote retailers, including those whose retail sales are facilitated by a marketplace provider, to register for a sales tax permit and collect and remit sales tax if they completed 200 or more separate transactions with Kentucky purchasers in the current or previous year or if their gross receipts from sales to Kentucky purchasers exceeded $100,000 in the current or previous year. Ky. Rev. Stat. Ann. §139.340, as amended by 2019 Ky. H.B. 354, effective March 26, 2019. Kentucky requires marketplace providers, such as Amazon.com, who make retail sales of their own or facilitate sales of property or services for others to register for a sales tax permit and collect and remit sales tax when they complete or facilitate 200 or more separate transactions with Kentucky purchasers in the current or previous year or when their sales or their facilitated sales to Kentucky purchasers exceed $100,000. The marketplace seller must obtain separate permits for its retail and facilitation activities. Ky. Rev. Stat. Ann. §139.450(2), as amended by 2019 Ky. H.B. 354, effective March 26, 2019. The Kentucky Tax Registration Application and Instructions may be found at the Department of Revenue's Register A Business website, or may be completed online. BNA-SUTN KY 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor Kentucky provides that sales tax to be collected by the retailer from the purchaser and remitted to Kentucky with the retailer's monthly return. Ky. Rev. Stat. Ann. §139.210; Ky. Rev. Stat. Ann. §139.580. Kentucky provides that sales taxes collected by the retailer shall constitute a debt of the retailer to Kentucky and shall be deemed to be held in trust by the retailer for Kentucky. Ky. Rev. Stat. Ann. §139.210(3)(4). BNA-SUTN KY 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes. All purchasers storing, using or otherwise consuming in Kentucky tangible personal property or digital property purchased from a retailer are liable for use tax; liability for this tax is not extinguished until the tax has been paid to the state. Ky. Rev. Stat. Ann. §139.310. However, a receipt from a retailer maintaining a place of business in Kentucky or a retailer authorized by the department to collect sales and use tax, given to the purchaser is sufficient to relieve the purchaser from further liability for tax to which such receipt may refer. Ky. Rev. Stat. Ann. §139.310. BNA-SUTN KY 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Kentucky holds the president, vice president, treasurer, secretary, and any other individual holding a position of similar power personally liable for the sales and use tax liability of their corporation. Ky. Rev. Stat. Ann. §139.185(1). The individuals are held jointly and severally liable, and cannot escape liability by dissolving the corporation, removing the corporation to another state, or forfeiting their position in the corporation. Ky. Rev. Stat. Ann. §139.185(1). Kentucky holds the managers of a limited liability company, and both the general partners and partners of a limited liability partnership personally liable for the sales and use tax owed by their respective business. The individuals are held jointly and severally liable for the tax liability, and dissolution of, withdrawal from, or resigning their position within a limited liability company or limited liability partnership will not allow an individual to escape personal liability. Ky. Rev. Stat. Ann. §139.185(2). BNA-SUTN KY 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Kentucky provides that a taxpayer will not be subject to penalties and interest for having failed to pay the correct amount of sales and use tax if the taxpayer relied on erroneous data in the taxability matrix completed and made available to the public by the Department. Ky. Rev. Stat. Ann. §139.795(6); Streamlined Sales Tax Governing Board, Taxability Matrix, Kentucky (version 2018.0); Streamlined Sales Tax Governing Board, User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). BNA-SUTN KY 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability Kentucky considers certified service providers to be the agent of a seller and thus the service provider is generally liable for sales and use tax due on all sales transactions it processes for the seller. Ky. Rev. Stat. Ann. §139.795(1). However, the service provider is not liable for not collecting the sales or use taxes when such failure results from the reliance on software certified by the state of Kentucky. Ky. Rev. Stat. Ann. §139.795(1)(b). BNA-SUTN KY 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided A use tax return must be filed by every retailer engaged in business in Kentucky and by every person purchasing tangible personal property or digital property where the storage, use or other consumption of which is subject to the use tax. Ky. Rev. Stat. Ann. §139.550(2). A person filing a use tax return may claim a credit for sales tax paid to another state if that amount equals or is greater than the tax imposed by Kentucky, and the other state offers a reciprocal credit to its taxpayers for sales tax paid to Kentucky. Ky. Rev. Stat. Ann. § 139.510(1). This credit applies only to use tax imposed under Ky. Rev. Stat. Ann. § 139.310. Kentucky Board of Tax Appeals Order No. K-21900 (Mar. 22, 2012). All returns must be signed by the person required to file the return or by an authorized agent. Ky. Rev. Stat. Ann. §139.550(3). Also, persons not regularly engaged in selling at retail and not having a permanent place of business, but are temporarily engaged in selling farm trucks, concessionaires at fairs, carnivals, and the like must report and remit tax on a nonpermit basis. Ky. Rev. Stat. Ann. §139.550(4). For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. BNA-SUTN KY 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th of Month Kentucky requires taxpayers to file the sales and use tax return no later than the twentieth day of the month following the month for which the tax has been collected. Ky. Rev. Stat. Ann. §139.540; Ky. Rev. Stat. Ann. §139.550. For vendors who wish to file their return on a quarterly basis, a written request may be made at least 90 days prior to the date on which the quarterly return would be due. After approval of the written application, the vendor may file their returns on a quarterly basis. No vendor granted the permission to file on a quarterly basis may begin filing on a monthly basis without authorization from the Department of Revenue. Ky. Rev. Stat. Ann. §139.590(2). BNA-SUTN KY 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Kentucky requires taxpayers to remit payment for sales and use tax with the monthly return no later than the twentieth day of the month following the month for which the tax has been collected. Ky. Rev. Stat. Ann. §139.540; Ky. Rev. Stat. Ann. §139.550; Ky. Rev. Stat. Ann. §139.580 BNA-SUTN KY 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes Upon written request and the showing of good cause, the Kentucky Department of Revenue may extend the time for filing a return or paying tax by a period of no longer than 30 days Ky. Rev. Stat. Ann. §139.620(1). Any vendor who receives an extension is responsible for paying interest on the outstanding tax for the period starting with the date on which the return was due and ending with the date upon which the return is filed. Ky. Rev. Stat. Ann. §139.620(1). BNA-SUTN KY 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+By request Kentucky taxpayers with disaster-related delays must contact the department to request an extension or waiver of penalties. Kentucky Tax Alert September 2017. BNA-SUTN KY 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers Kentucky requires the payment of sales and use tax by Electronic Funds Transfer(”EFT”) where the taxpayer's average payment per reporting period during the twelve month period ending September 30 of the year immediately preceding the current calendar year exceeds twenty-five thousand dollars. Ky. Rev. Stat. Ann. §131.155(2)(e); 103 Ky. Admin. Regs. 1:060(1). In order to pay via EFT a vendor must first register by submitting a completed EFT Authorization form. 103 Ky. Admin. Regs. 1:060(1). BNA-SUTN KY 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Effective January 2014, Kentucky began accepting and processing electronic payments of tax via ACH and credit cards. Kentucky Tax Alert January 2014. BNA-SUTN KY 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+1.75%, 1% Kentucky allows vendors to be reimbursed for the cost of collecting and remitting the sales and use tax. Ky. Rev. Stat. Ann. §139.570. The vendor is entitled to deduct 1.75 percent of the first $1000 on each return, and 1 percent of the total tax exceeding $1,000. Ky. Rev. Stat. Ann. §139.570. However, if the tax being remitted is past due, no discount is allowed. Ky. Rev. Stat. Ann. §139.570(1)(a). No vendor may receive a discount greater than $1,500. Ky. Rev. Stat. Ann. §139.570(1)(b). BNA-SUTN KY 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Kentucky relieves the vendor from having to collect and remit sales tax from a purchaser if the purchaser displays either a resale certificate, certificate of exemption, or Streamlined Sales and Use Tax Agreement certificate of exemption. Ky. Rev. Stat. Ann. §139.270(1); Streamlined Sales and Use Tax Agreement - Certificate of Exemption.; see Kentucky Sales Tax Facts June 2015. If a seller fails to obtain an exemption certificate, the seller may still be relieved from liability if the retailer obtains information establishing that the transaction was not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.270(3). Types of Certificates State Specific Exemption Certificates • Kentucky Form 51A105: Resale Certificate • Kentucky Form 51A111: Machinery for New and Expanded Industry Exemption Certificate • Kentucky Form 51A126: Purchase Exemption Certificate • Kentucky Form 51A127: Out-of-State Purchase Exemption Certificate • Kentucky Form 51A128: Solid Waste Recycling Machinery Exemption Certificate • Kentucky Form 51A143: Purchase Exemption Certificate Watercraft Industry • Kentucky Form 51A149: Certificate of Exemption for Pollution Control Facilities • Kentucky Form 51A150: Aircraft Exemption Certificate • Kentucky Form 51A154: Certificate of Exemption Out-of-State Delivery for Aircraft, All Terrain Vehicle (ATV), Mobile/Manufactured Homes, Campers, Boats, Motors or Trailers (Copies of this form must be provided to: Seller, Purchaser and the Department of Revenue) • Kentucky Form 51A157: Certificate of Exemption-Water Used In Raising Equine • Kentucky Form 51A158: Farm Exemption Certificate • Kentucky Form 51A159: On-Farm Facilities Certificate of Exemption for Materials, Machinery & Equipment • Kentucky Form 51A216: Application for Pollution Control Tax Exemption Certificate • Kentucky Form 51A222: Certificate of Exemption for Alcohol Production Facilities • Kentucky Form 51A227: Kentucky Sales & Use Tax Certificate of Resale (Schools) • Kentucky Form 51A228: Application for Fluidized Bed Combustion Technology Tax Exemption Certificate • Kentucky Form 51A229: Fluidized Bed Combustion Technology Tax Exemption Certificate BNA-SUTN KY 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked Kentucky does not specify any validity periods for resale certificates, certificate of exemption, or streamlined sales and use agreement certificate of exemption. Ky. Rev. Stat. Ann. §139.270. See Kentucky Sales Tax Facts June 2015. Thus, an exemption certificate is valid as long as the exempt purpose still exists. Retention Periods The state does not specify the duration of time that a seller should retain exemption certificates, but the statute of limitations on assessing sales tax in Kentucky is four years after the date the return is filed. Therefore, a taxpayer should maintain such records for a minimum of four years from such filings. Ky. Rev. Stat. Ann. §139.620(1). BNA-SUTN KY 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted Kentucky provides that the Multistate Tax Commission (”MTC”) Certificates are valid for use as a resale certificate and constitutes a blanket certificate. 103 Ky. Admin. Regs. 31:111; Uniform Sales & Use Tax Exemption/Resale Certificate — Multijurisdiction. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 states have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the states that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. Kentucky does not permit the use of this certificate to claim a resale exclusion for the purchase of a taxable service, but allows the MTC certificate to be used as a single purchase certificate or blanket certificate. Uniform Sales & Use Tax Exemption Certificate. BNA-SUTN KY 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted Kentucky is a full member to the Streamlined Sales Tax Agreement and accepts the SST Governing Board exemption certificate, Form F0003. 103 Ky. Admin. Regs. 31:111; Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN KY 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Accepted Any substitute for the recommended exemption certificates must contain the relevant data elements that correspond to the information that the purchaser would otherwise provide to the retailer or seller on the Streamlined Sales and Use Tax Agreement Certificate of Exemption. Ky. Rev. Stat. Ann. §139.270(1)(a)(2); Streamlined Sales and Use Tax Agreement - Certificate of Exemption. A sales and use tax permit is not a substitute for a properly completed Kentucky resale certificate or Streamlined Sales and Use Tax Agreement Certificate of Exemption. Kentucky Sales Tax Facts June 2015; Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN KY 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes Kentucky provides that a seller is relieved of sales and use tax liability only if the seller accepts an exemption certificate in good faith. Kentucky Tax Alert January 2011. In order for the Multistate Tax Certificate to be accepted in good faith by the seller, the seller must exercise care that the property or service being sold is of a type normally sold wholesale, resold, leased, rented, or incorporated as an ingredient or component of a product manufactured by the buyer and then resold in the usual course of its business. A seller failing to exercise care could be held liable for the sales tax due. See “Instructions Regarding Uniform Sales and Use Tax Exemption Certificate.” BNA-SUTN KY 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+90 days The vendor must obtain a properly completed resale certificate or certificate of exemption from a purchaser within 90 days from the date of purchase and keeps a copy of the accepted certificate in its files. Ky. Rev. Stat. Ann. §139.270(1). If the vendor is unable to obtain a copy of the certificate within 90 days, other documentation may be used to establish to the Department of Revenue that the transaction was not subject to sales and use tax. Ky. Rev. Stat. Ann. §139.270(1). BNA-SUTN KY 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+4 Years Kentucky requires that every seller, retailer, or person storing, using, or otherwise consuming in the state tangible personal digital or property purchased at retail maintain all invoices, records, receipts, and other pertinent papers for a period of at least four years unless the Department of Revenue authorizes their earlier destruction. Ky. Rev. Stat. Ann. §139.720(1). Additionally, the statute of limitations on assessing sales tax in Kentucky is four years after the date the return is filed. Taxpayers should maintain relevant records for a minimum of four years from such filings. Ky. Rev. Stat. Ann. §139.620(1). BNA-SUTN KY 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Accepted Kentucky authorizes the issuance of resale certificates either as single purchase certificates or blanket certificates. 103 Ky. Admin. Regs. 31:111. A “single purchase certificate” must include an itemization by the purchaser of the property to be purchased. 103 Ky. Admin. Regs. 31:111. A “blanket certificate” includes a general description by the purchaser of the kind of property to be purchased for resale in the regular course of business. 103 Ky. Admin. Regs. 31:111. BNA-SUTN KY 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Accepted Kentucky authorizes the issuance of certificates of exemptions which may be use to claim entity based exemptions. Ky. Rev. Stat. Ann. §139.270(2). Kentucky stipulates that a relief from liability provided to the retailer who accepts an exemption certificate for an entity-based exemption if the product sought to be exempted from sales and use tax is actually received by the purchaser at a location operated by the seller and the state in which such seller's location resides provides an exemption certificate that clearly and affirmatively denies the claimed exemption. Ky. Rev. Stat. Ann. §139.270(2). Kentucky defines “entity-based exemption”as an exemption based on who purchases the product or who sells the product. Kentucky further clarifies that an exemption available to all individuals is not considered an entity-based exemption. Ky. Rev. Stat. Ann. §139.270(2). BNA-SUTN KY 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted Kentucky authorizes the issuance of certificates of exemptions which may be use to claim use-based exemptions. Ky. Rev. Stat. Ann. §139.270(2). BNA-SUTN KY 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized Kentucky issues, to qualifying taxpayers, direct pay authorization (DPA) that permits a taxpayer to report sales and use tax directly to the Kentucky Revenue Cabinet on all purchases of tangible personal property, except for energy and energy producing fuels. 103 Ky. Admin. Regs. 31:030(1). Upon receiving a DPA, the taxpayer must give all vendors a copy of the DPA form, 103 Ky. Admin. Regs. 31:030(4)(1). which if accepted by the vendor in good faith and retained by the vendor in compliance with the record-keeping requirements, relieves the vendor of the duty of collecting and paying the sales and use tax. 103 Ky. Admin. Regs. 31:030(5)(1). It becomes the taxpayer's duty to report and remit the sales and use tax on all taxable purchase of tangible personal property, excluding energy and energy producing fuels, that would have been remitted by the vendor if the taxpayer was not a holder of a DPA. 103 Ky. Admin. Regs. 31:030(5)(2). A holder of a DPA may be required by the Revenue Cabinet to execute a bond or indemnity agreement securing the payment of sales and use tax in an amount not less than$75,000 and not greater than three times the estimated monthly liability. 103 Ky. Admin. Regs. 31:030(8). Qualifications To qualify for a direct pay authorization, the taxpayer must meet all of the following requirements:• be a person engaged in: o manufacturing; o extracting minerals, ores, clay, stone, coal, or natural gas; o operating a transportation company; or o operating a distribution facility. 103 Ky. Admin. Regs. 31:030(2)(1). • have a valid Kentucky retail sales and use tax permit; 103 Ky. Admin. Regs. 31:030(2)(2). • have a record of timely tax payments; 103 Ky. Admin. Regs. 31:030(2)(3). • maintain records so that purchases from a Kentucky vendor can be properly reported and purchases from an out-of-state vendor can be verified; 103 Ky. Admin. Regs. 31:030(2)(4). and • either: o be engaged in business in Kentucky and own property, other than office furniture and equipment, that is located in more than one state; 103 Ky. Admin. Regs. 31:030(2)(5). or o have been engaged in business in Kentucky for more than 24 months and have purchased tangible personal property of at least $10 million dollars for use in Kentucky operations in the preceding calendar or fiscal year. 103 Ky. Admin. Regs. 31:030(2)(6). Limitations A taxpayer holding a DPA may not issue the DPA to a construction contractor or allow a contractor to use the DPA to purchase, lease, or rent tangible personal property or purchase taxable services. 103 Ky. Admin. Regs. 31:030(6). Additionally, the DPA is not transferable upon the sale, lease, or other transfer of the business, and the Revenue Cabinet must be notified within 10 days of the effective date of a sale, lease, or other transfer of the business. 103 Ky. Admin. Regs. 31:030(9). Termination A DPA must be terminated by the Revenue Cabinet for any of the following reasons:• failure to be an eligible taxpayer; 103 Ky. Admin. Regs. 31:030(10)(1)(a). • failure to timely file sales and use tax returns and timely pay any tax due; 103 Ky. Admin. Regs. 31:030(10)(1)(b). or • failure to comply with any of the provisions of Kentucky Administrative Regulations Title 103, Chapter 31, Regulation 030. 103 Ky. Admin. Regs. 31:030(10)(1)(c). Upon receipt of notification of termination, the holder of a DPA must notify all vendors with 30 days of the termination. 103 Ky. Admin. Regs. 31:030(10)(2)(b). Energy Direct Pay Authorization(EDPA) Kentucky exempts energy or energy-producing fuels used in the course of manufacturing, processing, mining, or refining and any related distribution, transmission, and transportation services for the energy that are billed to the user, to the extent that the cost of the energy or energy-producing fuels used, and related distribution, transmission, and transportation services for the energy that are billed to the user exceed 3 percent of the cost of production. See Ky. Rev. Stat. Ann. §139.480(3); 103 Ky. Admin. Regs. 30:140. Taxpayers who qualify for the exemption must apply for an EDPA with the Department of Revenue. 103 Ky. Admin. Regs. 30:140(4)(1). This variety of a direct pay authorization may not be used for any purchases other than those for energy or energy-producing fuels. 103 Ky. Admin. Regs. 30:140(7). Applicants for an EDPA must set forth an itemization of the accounts included in cost of production based on costs incurred in the last completed fiscal or calendar year ending prior to the date of the application. 103 Ky. Admin. Regs. 30:140(6)(1). If the energy cost and any related distribution, transmission, and transportation services for the energy that are billed to the user does not exceed 3 percent of the cost of production, an EDPA is not issued. 103 Ky. Admin. Regs. 30:140(9). If the energy cost and any related distribution, transmission, and transportation services for the energy that are billed to the user exceeds 3 percent of the cost of production, the taxpayer must do the following:• estimate the tax by multiplying the cost of production by 3 percent and multiplying the resulting figure by 6 percent; and • report and make monthly payments equal to one-twelfth of the total estimated tax. 103 Ky. Admin. Regs. 30:140(5)(3). Cost of production is the total of all costs, according to accepted accounting principles, incurred in manufacturing, mining, processing, or refining of tangible personal property computed on the basis of plant facilities except for the cost of the energy or energy-producing fuels used and the related distribution, transmission, and transportation services for this energy that are billed to the user. 103 Ky. Admin. Regs. 30:140(1). A company is not required to include the costs of production of separate and distinct business operations, even if they are all located on the same or adjoining land. A company is only required to include the costs of production attributable to the business operation that the exemption will apply to. Revenue Cabinet v. James B. Beam Distilling Co., No. 89–SC-000697–DG (Ky. 1990). Four months after the end of each fiscal or calendar year ending subsequent to the date of the authorization, the taxpayer must file a “Kentucky Sales and Use Tax Energy Exemption Annual Return, reconciling the estimate to the amount of tax due. If additional tax is due, the taxpayer must pay the tax due, or if no additional tax is due, the taxpayer may credit the overpayment on next year's estimate or apply for a refund. The taxpayer must also make an estimate for the succeeding year and adjust the payment for the months remaining so that the total tax to be paid for the year will agree with the total estimated tax. 103 Ky. Admin. Regs. 30:140(6). BNA-SUTN KY 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+4 Years Kentucky requires that records be maintained for at least four years. Ky. Rev. Stat. Ann. §139.720(2). Specifically, every vendor or person storing, using, or otherwise consuming within its boundaries tangible personal property, digital property, or services set forth in Ky. Rev. Stat. Ann. §139.200, purchased at retail, must maintain all invoices, records, receipts, and other relevant documentation pertaining to the property for a period of no fewer than four years unless otherwise stated by Department of Revenue. Ky. Rev. Stat. Ann. §139.720, as amended by 2019 Ky. H.B. 354, effective March 26, 2019. However, if the taxpayer and the Department of Revenue agree to extend the time period for the Department to assess additional tax, the time requirement for maintaining the records is automatically extended as long as necessary to complete the assessment. 103 Ky. Admin. Regs. 31:020(3). The records required to be kept must show:• the gross receipts from the sales of tangible personal property made in Kentucky; 103 Ky. Admin. Regs. 31:020(1)(1). • all deductions allowed by Kentucky law and claimed on returns; 103 Ky. Admin. Regs. 31:020(1)(2). and • the total purchase price of tangible personal property purchased for sale or use within the Kentucky. 103 Ky. Admin. Regs. 31:020(1)(3). The records that must be maintained include:• the vendor's books; • all bills, receipts, invoices, bank statements, cancelled checks, and other documents supporting the entries made within the vendor's books; • certificates, such as resale certificates, accepted from purchasers; and • all schedules and working papers used in connection with the preparation of tax returns. 103 Ky. Admin. Regs. 31:020(2). BNA-SUTN KY 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Vendor Kentucky provides that a refund for overpayment of tax or a payment of tax where no tax was due may be made to the taxpayer or the heirs, personal representatives, or assigns of the taxpayer. Ky. Rev. Stat. Ann. §134.580(2); Ky. Rev. Stat. Ann. §139.770. Disaster Relief Refund Incentive A refund of sales and use taxes is available to businesses and homeowners who rebuild to replace buildings damaged or destroyed in areas declared eligible for federal disaster relief aid. Ky. Rev. Stat. Ann. §139.519; 103 Ky. Admin. Regs. 31:170; Kentucky Sales Tax Facts June 2015. For each building, the legal owner may receive a refund, up to a maximum of $6,000, for 100 percent of sales and use tax paid for building materials to repair or construct a new building in a federally declared disaster area. Ky. Rev. Stat. Ann. §139.519. Requests for refund must be filed within three years from the date the disaster area is declared. Ky. Rev. Stat. Ann. §139.519(4); 103 Ky. Admin. Regs. 31:170. BNA-SUTN KY 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+4 Years A claim for refund must be made within four years from the date of payment and the claim must be in writing and state specific grounds upon which it is based. Ky. Rev. Stat. Ann. §134.580(3). A taxpayer seeking a refund for an overpayment of tax is not required to first exhaust administrative remedies available to a taxpayer protesting an assessment of tax before filing its refund claim for an overpayment of tax. Kentucky Dept. of Rev. v. Cox Interior Inc., 400 S.W.3d 240 (Ky. 2013). BNA-SUTN KY 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+4 Years The Department of Revenue has four years from the due date or the date upon which the return was filed, whichever is later, to issue a timely notice assessing additional sales and use tax. Ky. Rev. Stat. Ann. §139.610(1). Under Kentucky law, an assessment of additional tax has been made within the 4 year statute of limitations if the notice is dated prior to tolling of the statute of limitations unless the taxpayer can establish that the notice was not received prior to deadline. See GTE South Inc. v. Kentucky Rev. Cab., 2007 BL 96526 (Ky. 2007) (A notice of interest and penalties, dated four days prior to tolling of the statute of limitations, was considered timely issued because the taxpayer bore the burden of proof and produced no evidence indicating that the letter was not received before the deadline. Although the taxpayer claimed that the letter was post-marked and received after the deadline, he could not produce the postmarked envelope or any other supporting evidence. The court found it significant that the taxpayer retained the postmark-bearing envelopes for all other correspondences with the Department except the notice in question). The statute of limitations does not apply, and the additional tax liability can be assessed at any time, if the taxpayer has either failed to file, or filed a fraudulent return. Ky. Rev. Stat. Ann. §139.620(1). The Department of Revenue and a taxpayer may enter into an agreement extending the statute of limitations for the assessment of additional taxes. Ky. Rev. Stat. Ann. §139.610. Once the Department has assessed additional tax liability to a taxpayer, it is required to mail the taxpayer a notice of such assessment. Ky. Rev. Stat. Ann. §139.620(1). The assessment is due and payable, if not protested, within 45 days from the date of the notice for assessments issued prior to July 1, 2018, and 60 days from the date of notice for assessments issued on or after July 1, 2018. Ky. Rev. Stat. Ann. §131.110(1)(a), as amended by 2018 Ky. H.B. 487, effective July 1, 2018. BNA-SUTN KY 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Kentucky authorizes the Department of Revenue to impose various penalties for failures to comply with the sales and use tax provisions. Ky. Rev. Stat. Ann. §131.180(1). Late Filing of Tax Return The Department of Revenue imposes a 2 percent penalty on any outstanding tax liability filed after the due date. Ky. Rev. Stat. Ann. §131.180(1). The penalty of 2 percent accrues every 30 days, or fraction thereof, that the tax remains past due. However, the penalty cannot exceed 20 percent of the total outstanding tax liability. Ky. Rev. Stat. Ann. §131.180(1). Failure to Withhold or Pay Tax The Department of Revenue imposes a 2 percent penalty on taxpayers who fail to withhold or collect any tax when they are lawfully obligated to, or to pay at least 75 percent of the tax due by them. Ky. Rev. Stat. Ann. §131.180(2). The 2 percent penalty is imposed on the amount of the tax not withheld, collected, or paid by the taxpayer. The 2 percent penalty accrues in periods of 30 days, or fractions thereof, for as long as the taxpayer is delinquent. The penalty assessed by the department may not exceed 20 percent of the outstanding tax liability. Ky. Rev. Stat. Ann. §131.180(2). Assessed Tax If the Department of Revenue assesses additional tax to a taxpayer, that additional tax is subject to a penalty. If the tax assessed is a result of taxpayer negligence, then the penalty imposed is 10 percent of the amount of tax assessed. Ky. Rev. Stat. Ann. §131.180(7). However, if the tax assessed is a result of taxpayer fraud or intentional misrepresentation, the penalty imposed will be equal to 50 percent of the imposed tax. Ky. Rev. Stat. Ann. §131.180(8). BNA-SUTN KY 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Kentucky imposes criminal penalties on any person who violates various sales and use tax provisions. Ky. Rev. Stat. Ann. §139.990. Kentucky provides that a person is guilty of Class B misdemeanor if they execute:• a resale certificate exemption knowing at the time of purchase that such property is not to be resold by the purchaser in the regular course of business; • an exemption certificate or a Streamlined Sales and Use Tax Agreement Certificate of Exemption knowing at the time of the purchase that the purchaser is not engaged in an exempt occupation or does not intend to use the property in an exempt manner; or • a direct pay authorization for property not in accordance with the Departments administrative regulations. Ky. Rev. Stat. Ann. §139.990(1)(a). Further, Kentucky provides that a person is guilty of a Class B misdemeanor if such person:• engages in business as a seller in Kentucky without a permit or after a permit; Ky. Rev. Stat. Ann. §139.990(2). • violates Kentucky sales and use tax provisions pertaining to prohibited advertising, the separate display of tax and price, and collection of tax by out-of-state retailers; Ky. Rev. Stat. Ann. §139.990(3). and • violates any of the Department of Revenue's regulations are guilty of Class B misdemeanor. Ky. Rev. Stat. Ann. §139.990(4). Additionally, Kentucky provides that any person, business, or motion picture production company who falsifies expenditure reports, applications, or any other statements made in securing a motion picture production company refundable credit is guilty of a Class D felony. Ky. Rev. Stat. Ann. §139.990(5). BNA-SUTN KY 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The Department of Revenue may, in its discretion, elect not to impose a penalty on a taxpayer if the taxpayer can show a reasonable cause for the delay in filing, paying, withholding, or collecting the tax. Ky. Rev. Stat. Ann. §131.180(1)and (2). Reasonable cause is any event, happening, or circumstance completely beyond the control of a taxpayer who has otherwise been diligent in the preparation and filing of their tax return. Ky. Rev. Stat. Ann. §131.010(9). BNA-SUTN KY 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Annually In Kentucky, the interest rates assessed on underpayments and overpayments of tax are determined annually. Ky. Rev. Stat. Ann. § 131.183(1)(c). Neither underpayment interest nor overpayment interest is subject to compounding in Kentucky. Ky. Rev. Stat. Ann. § 131.183(2);Ky. Dept. of Rev., Tax Interest Rates. BNA-SUTN KY 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Prime Rate + 2% The Kentucky interest rate on underpayments of tax for a calendar year is determined by adding 2 percent to the Kentucky tax interest rate. The Kentucky tax interest rate is the prime rate charged by banks during September of the preceding year, rounded to the nearest full percent. Ky. Rev. Stat. Ann. §139.650; Ky. Rev. Stat. Ann. § 131.010(6); Ky. Rev. Stat. Ann. § 131.183(1); Ky. Rev. Stat. Ann. § 131.183(2)(a)(2) Kentucky charges interest on any underpayment of tax from the due date of the payment until it is paid. Ky. Rev. Stat. Ann. §139.650. BNA-SUTN KY 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2018, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. § 131.183(2)(a)(2); Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2017, the Kentucky interest rate on underpayments of tax is 5 percent. Ky. Rev. Stat. Ann. §131.183(1)(b); Kentucky Tax Alert November 2016;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2016, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. §131.183; Kentucky Tax Alert November 2015;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2015, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. §131.183; Kentucky Tax Alert November 2014;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2014, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. §131.183; Kentucky Sales Tax Facts November 2013;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2013, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. §131.183; Kentucky Sales Tax Facts November 2012;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2012, the Kentucky interest rate on underpayments of tax is 6 percent. Ky. Rev. Stat. Ann. §131.183;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2011, the Kentucky interest rate on underpayments of tax is 5 percent. Ky. Rev. Stat. Ann. §131.183;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2010, the Kentucky interest rate on underpayments of tax is 5 percent. Ky. Rev. Stat. Ann. §131.183;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:7% 2Q:7% 3Q:7% 4Q:7% In 2009, the Kentucky interest rate on underpayments of tax is 7 percent. Ky. Rev. Stat. Ann. §131.183;Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Prime Rate - 2% The Kentucky interest rate on overpayments of tax for a calendar year is determined by subtracting 2 percent from the Kentucky tax interest rate. The Kentucky tax interest rate is the prime rate charged by banks during September of the preceding year, rounded to the nearest full percent. Ky. Rev. Stat. Ann. § 131.010(6); Ky. Rev. Stat. Ann. § 131.183(1); Ky. Rev. Stat. Ann. § 131.183(2)(b)(2); Ky. Rev. Stat. Ann. § 131.183(2)(c). Interest begins to accrue 60 days after either the due date of the return, the date the return was filed, the date the tax was paid, the last day prescribed by law for filing the return, or the date an amended return claim a refund is filed, whichever is latest. Ky. Rev. Stat. Ann. §131.183(2)(b)(3). BNA-SUTN KY 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2018, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. § 131.183(2)(b)(2); Kentucky Tax Alert Jan. 2018. BNA-SUTN KY 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:1% 2Q:1% 3Q:1% 4Q:1% In 2017, the Kentucky interest rate on overpayments of tax is 1 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2); Kentucky Tax Alert November 2016. BNA-SUTN KY 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2016, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2); Kentucky Tax Alert November 2015. BNA-SUTN KY 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2015, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2); Kentucky Tax Alert November 2014. BNA-SUTN KY 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2014, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2); Kentucky Sales Tax Facts November 2013. BNA-SUTN KY 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2013, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2); Kentucky Sales Tax Facts November 2012. BNA-SUTN KY 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:2% 2Q:2% 3Q:2% 4Q:2% In 2012, the Kentucky interest rate on overpayments of tax is 2 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2). BNA-SUTN KY 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2011, the Kentucky interest rate on overpayments of tax is 3 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2). BNA-SUTN KY 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2010, the Kentucky interest rate on overpayments of tax is 3 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2). BNA-SUTN KY 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2009, the Kentucky interest rate on overpayments of tax is 4 percent. Ky. Rev. Stat. Ann. §131.183(2)(b)(2). BNA-SUTN KY 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Kentucky did not have a 2018 tax amnesty program. BNA-SUTN KY 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Kentucky did not have a 2017 tax amnesty program. BNA-SUTN KY 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Kentucky did not have a 2016 tax amnesty program. BNA-SUTN KY 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Kentucky did not have a 2015 tax amnesty program. BNA-SUTN KY 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Kentucky did not have a 2014 tax amnesty program. BNA-SUTN KY 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Kentucky did not have a 2013 tax amnesty program. BNA-SUTN KY 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+Yes Kentucky offered a tax amnesty program from Oct. 1 2012, to Nov. 30, 2012 for unpaid tax from Dec. 1, 2001, to Oct. 1, 2011. Ky. Rev. Stat. Ann. §§ 131.400 through 131.445; Ky. Dept. of Rev., 2012 Tax Amnesty Program Press Release (Sept. 20, 2012). The program was available for any eligible taxpayer who filed an application for amnesty within the time prescribed by the department and did the following:• filed completed tax returns for all years or tax reporting periods as stated on the application for which returns had not previously been filed and filed completed amended tax returns for all years or tax reporting periods as stated on the application for which the tax liability was underreported, except in cases in which the tax liability had been established through audit; • paid in full the taxes due for the periods and taxes applied for at the time the application or amnesty tax returns were filed within the amnesty period and paid the amount of any additional tax owed within 30 days of notification by the department; • paid in full within the amnesty period all taxes previously assessed by the department that were due and owing at the time the application or amnesty tax returns were filed; and • agreed to file all tax returns when due and make all tax payments when due for three years following the date amnesty was granted to the taxpayer. Ky. Rev. Stat. Ann. §131.420;Ky. Dept. of Rev., 2012 Tax Amnesty Program Press Release (Sept. 20, 2012). BNA-SUTN KY 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Kentucky did not have a 2011 tax amnesty program. BNA-SUTN KY 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Kentucky did not have a 2010 tax amnesty program. BNA-SUTN KY 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No Kentucky did not have a 2009 tax amnesty program. BNA-SUTN KY 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes Kentucky offers a voluntary disclosure program. Kentucky Dept. of Rev., Voluntary Disclosure Process. To take advantage of the program, a taxpayer may have a representative submit the following information:• For a business — a brief description of the taxpayer's operation, the number of years the business has been operating, and the nature and extent of business operations in Kentucky. This description must include whether the business owns or leases property, has employees, or has other potential taxable activities in Kentucky. • For an individual — The appropriate number of years the taxpayer was required to pay tax in Kentucky. A distinction between resident and nonresident years must be made. • Whether or not the Department of Revenue has contacted the taxpayer. If so, the nature of the contact. • The disclosure terms proposed by the taxpayer. Generally the Department of Revenue requires a four-year “look back” period for all tax types. • If the tax nexus is so nebulous that the taxpayer believes prospective filing is justified, the Department of Revenue prefers that the taxpayer simply register and go forward from that point. Under normal circumstances, the Department of Revenue will not waive any past liability as part of a prospective filing. Kentucky Dept. of Rev., Voluntary Disclosure Process. All information submitted by the taxpayer will be included in a Statement of Representations and Inducements, included in the disclosure agreement, used to determine whether the Department of Revenue will accept the disclosure. If significant misrepresentations are found in this statement, or in any of the other representations made to support the disclosure, the agreement may be considered void and any additional taxes, penalty, and interest will be assessed. Kentucky Dept. of Rev., Voluntary Disclosure Process. Based on the information received, the Department of Revenue will work with the representative of the taxpayer to come to a disclosure agreement. When the terms of the disclosure are finalized, the Department of Revenue will prepare a disclosure agreement for review and approval by the taxpayer. Generally the taxpayer has 90 days to comply and execute the disclosure. Kentucky Dept. of Rev., Voluntary Disclosure Process. The Department of Revenue will register the taxpayer at the time the signed agreement is received. The taxpayer has 90 days from the completion of the executed agreement to file returns or adequate schedules and submit payment of the tax. Interest will be assessed from the original due date of the return until the date the tax is paid in full. Kentucky Dept. of Rev., Voluntary Disclosure Process. BNA-SUTN KY 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+4 years In Kentucky, the voluntary disclosure program look-back period is four years. Ky. Dept. of Rev., Voluntary Disclosure Process. BNA-SUTN KY 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Kentucky participates in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Kentucky may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Online Marketplace Seller Voluntary Disclosure Initiative – Special Multistate Tax Commission (MTC) Program From Aug. 17, 2017, through Nov. 1, 2017, Kentucky is participating in the MTC's special limited-time voluntary disclosure initiative in which back sales and use tax liability may be waived for eligible online marketplace sellers that timely register and begin to collect the state's sales and use tax. For more information about this initiative, see Portfolio 1300-2nd: Sales and Use Taxes: General Principles. BNA-SUTN KY 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The Department of Revenue is lawfully authorized to take testimony or depositions, as well as examine hard or electronic copies of a vendor's records, documents, files, and equipment when necessary to determine the correct amount of tax owed by a vendor. Ky. Rev. Stat. Ann. §131.130(2). For a vendor who maintains their records in both electronic and hard copy, the vendor must make the records available to the department in electronic format upon request. Ky. Rev. Stat. Ann. §131.240(1). Taxpayer's Bill of Rights When performing an audit, the Department of Revenue must conduct any conference or hearing at a reasonable time and place. Ky. Rev. Stat. Ann. §131.081(4). The department must provide the taxpayer an initial notice of audit, along with a brief statement, describing in plain language, the procedures, remedies, and rights and obligations of the taxpayer and the department. Ky. Rev. Stat. Ann. §131.081(2). At the conclusion, the department must provide each taxpayer with a notice of tax. This notice must state the basis and amount of any tax due, any penalty, and any interest assessed against the taxpayer in a clear and concise manner. Ky. Rev. Stat. Ann. §131.081(8). Computer-Assisted Audit Kentucky utilizes a computer assisted audit program in order to review transactional data stored in electronic format. This technology is used to examine events occurring within the regular course of business. Ky. Rev. Stat. Ann. §139.710; Kentucky Tax Alert January 2010. BNA-SUTN KY 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted The Kentucky Claims Commission (formerly the Kentucky Board of Tax Appeals)has the exclusive jurisdiction to hear and determine appeals from final rulings, and determinations of any agency of state or county government affecting revenue and taxation. Ky. Rev. Stat. Ann. §49.020(2). Kentucky provides that any party aggrieved by any ruling, order, or determination of any state or county agency charged with the administration of any taxing or licensing measure, may prosecute an appeal to the commission by filing a complaint or petition of appeal before the board within 30 days from the date of the mailing of the ruling, order, or determination. Ky. Rev. Stat. Ann. § 49.220(1); Ky. Rev. Stat. Ann. § 49.220(3); 802 Ky. Admin Regs. 1:010. For more information on the reorganization of the Board of Tax Appeals into the Kentucky Claims Commission, see Office of Ky. Governor, Executive Order 2016-576 (Aug. 8, 2016). An individual who is not an attorney is not permitted to represent any other individual or legal entity who is a party to an appeal. If the appealing party is a corporation, joint venture, partnership, LLC, estate, or any entity other than an individual, the entity must be represented by an attorney on all matters before the board. 802 Ky. Admin. Regs. 1:010 § 3. Final orders issued by the commission are binding on all parties until changed or modified by the courts following a timely appeal. Ky. Rev. Stat. Ann. § 49.240(1). Appeals of Kentucky Claims Commission Orders Appeals to protest an award by the Kentucky Claims Commission are made to the Franklin Circuit Court or the circuit court of the county in which the party aggrieved resides or conducts his place of business, in accordance with Ky. Rev. Stat. Ann., Chapter 13B (Ky. Rev. Stat. Ann. § 13B.005 through Ky. Rev. Stat. Ann. § 13B.170). Ky. Rev. Stat. Ann. § 49.250(1). In Kentucky, a taxpayer is not required to pay the disputed tax or file a supersedeas bond in order to appeal an order of the commission sustaining a tax assessment. Ky. Rev. Stat. Ann. § 49.250(2), as amended by 2018 Ky. H.B. 487, effective July 1, 2018. BNA-SUTN KY 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:7% 2Q:7% 3Q:7% 4Q:7% In 2019, the Kentucky interest rate on underpayments of tax is 7 percent. Ky. Rev. Stat. Ann. § 131.183(2)(a)(2); Ky. Dept. of Rev., Penalties, Interest and Fees. BNA-SUTN KY 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2019, the Kentucky interest rate on overpayments of tax is 5 percent. Ky. Rev. Stat. Ann. § 131.183(2)(a)(2); Kentucky Tax Alert Jan. 2018 (discussing how rates on overpayments are calculated). BNA-SUTN KY 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Kentucky has not announced a 2019 tax amnesty program. BNA-SUTN KY 31.14.11.
+
+==================================================

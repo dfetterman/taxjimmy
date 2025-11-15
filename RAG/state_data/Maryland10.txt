@@ -1,0 +1,51 @@
+State: Maryland
+
+
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Tangible Personal Property
+
+Destination Maryland law applies destination-based sourcing to determine whether tangible personal property acquires a taxable situs within the state. See Md. Regs. Code §03.06.01.25. Tangible personal property is subject to tax in Maryland if the purchaser first takes possession of the property within the state or if the purchaser takes possession of the property out-of-state and subsequently uses the property in-state. Md. Regs. Code §03.06.01.25.B.(1); Md. Regs. Code §03.06.01.25.B.(3); Md. Regs. Code §03.06.01.25.C; Md. Regs. Code §03.06.01.25.D. If a buyer purchases and takes possession of tangible personal property within the state, tax applies to the purchase even if the property is to be immediately transported out-of-state. Md. Regs. Code §03.06.01.25.B(1). BNA-SUTN MD 4.1.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Services
+
+Destination Maryland does not address the sourcing of services with the exception of sourcing cellular telephone and mobile communications services. Md. Regs. Code §03.06.01.40(C). The state, however, includes in its definition of “sale” a transaction involving performance of a service for another for consideration. Md. Code Ann. Tax-Gen. §11-101(i)(1)(ii). As such, sales of taxable services are likely to be subject to the same destination-based sourcing principals applied to sales of tangible personal property. See Md. Regs. Code §03.06.01.25. For cellular and other mobile telecommunications services, tax is charged based on a determination that the state is the customer's place of primary use, regardless of where the mobile telecommunication services originate, terminate, or pass through. Md. Regs. Code §03.06.01.40(C). A home service provider must employ an enhanced zip code to identify each street address in the state that is its customer's primary place of use. Md. Regs. Code §03.06.01.40(C). BNA-SUTN MD 4.1.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Leases and Rentals
+
+Destination Tax is imposed on lease payments for property that is brought into Maryland during some portion of one lease payment period, regardless of whether the lease was entered into within Maryland. Md. Regs. Code §03.06.01.28(C). As such, based on the sourcing rules for sales in Maryland, lease payments also appear to be subject to destination-based sourcing. Md. Regs. Code §03.06.01.28(C). Presumably, a lessee would be responsible for calculating and remitting use tax on only that monthly lease payment when the payment is made to the lessor. Md. Regs. Code §03.06.01.28(C). Under Maryland's existing sourcing principals tangible personal property is subject to tax in Maryland if the purchaser first takes possession of the property within the state or if the purchaser takes possession of the property out-of-state and subsequently uses the property in-state. Md. Regs. Code §03.06.01.25.B(1); Md. Regs. Code §03.06.01.25.B(3); Md. Regs. Code §03.06.01.25.C; Md. Regs. Code §03.06.01.25.D. If a buyer purchases and takes possession of tangible personal property within the state, tax applies to the purchase even if the property is to be immediately transported out-of-state. Md. Regs. Code §03.06.01.25.B(1). The tax rate due on applicable lease payments for tangible personal property is based on each lease payment period, regardless of the length of the lease or the date that the lease agreement was signed. Each lease payment is considered to be a separate lease for sales and use tax purposes. Md. Regs. Code §03.06.01.28; Maryland Sales and Use Tax Bulletin 07-02. BNA-SUTN MD 4.1.3.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Sourcing Rules Local Sourcing
+
+No Tax Under Maryland law, a county, municipal corporation, special taxing district, or other Maryland political subdivision may not impose a general retail sales or use tax, unless the tax was in effect on January 1, 1971. Md. Code Ann. Tax-Gen. §11-102(c)(1)(i); Md. Code Ann. Tax-Gen. §11-102(c)(2). As of 2016, no local sales and use taxes are imposed in the state. However, the state has authorized imposition of local excise taxes in certain circumstances. Understanding Maryland Taxes (2013). BNA-SUTN MD 4.1.4.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Credit for Tax Paid to Another Jurisdiction
+
+Yes Maryland allows a reciprocal use tax credit up to the amount of any sales or use tax paid to another state. Md. Code Ann. Tax-Gen. §11-221(c). If the amount is less than what would be paid under Maryland sales tax law, the owner must remit the difference to the state. In addition to state taxes paid, Maryland allows a taxpayer to take a credit against Maryland state taxes for local taxes paid and taxes paid to the District of Columbia. Md. Code Ann. Tax-Gen. §11-221(c); Md. Code Ann. Tax-Gen. §1-101(u)(2) BNA-SUTN MD 4.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property First Used Out-of-state
+
+Depends The sales and use tax does not apply to the use of tangible personal property or a taxable service that a nonresident acquires before the property or service enters Maryland and uses for personal enjoyment or use, other than for a business purpose, provided the property does not remain in the state for more than 30 days. Md. Code Ann. Tax-Gen. §11-214. BNA-SUTN MD 4.3.1.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Temporarily Stored In-state
+
+Taxable Sales and use tax does not apply to a sale for use of tangible personal property that is bought outside the state, is intended solely for use in another state and is stored in Maryland pending shipment to another state. Md. Code Ann. Tax-Gen. §11-216. BNA-SUTN MD 4.3.2.
+
+==================================================
+
+Topic: Jurisdiction and Sourcing Rules Temporary Presence, In-Transit Property Tangible Personal Property Purchased for Use Out-of-state
+
+Depends If a buyer purchases and takes possession of taxable tangible personal property within the State of Maryland, tax applies to the purchase even if the property is to be immediately transported out-of-state. Md. Regs. Code §03.06.01.25.B(1). BNA-SUTN MD 4.3.3.
+
+==================================================

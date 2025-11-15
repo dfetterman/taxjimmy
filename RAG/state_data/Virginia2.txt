@@ -1,0 +1,459 @@
+State: Virginia
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Virginia Department of Taxation Virginia provides that the Tax Commissioner is responsible for the collection and administration of all state and local sales and use taxes imposed on remote sellers. Va. Code Ann. §58.1-601 For a list of Department of Taxation guidance documents, visit the Virginia Regulatory Town Hall website. Virginia Regulatory Town Hall, Agency Guidance Documents (last visited Jan. 9, 2018). BNA-SUTN VA 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Virginia Department of Taxation The local sales and use tax is administered in the same manner as the state sales and use tax by the Tax Commissioner. Va. Code Ann. §58.1-605(D); Va. Code Ann. §58.1-606(C). The regional sales and use tax is administered in the same manner as the state sales and use tax. Va. Code Ann. §58.1-603.1, as added by 2013 Va. H.B. 2313, effective July 1, 2013; Va. Code Ann. §58.1-603.2, as added by 2018 Va. S.B. 942, effective July 1, 2018; Va. Code Ann. §58.1-604.01, as added by 2013 Va. H.B. 2313, effective July 1, 2013; Virginia Ruling of the Commissioner PD 13-103 (June 13, 2013); Virginia Tax Bulletin VTB 13-8 (June 13, 2013). In addition, the treasurer in any county, city, or town, with the approval of the local governing body, may employ the services of private collection agents to assist with the collection of any local taxes that remain delinquent for a period of three months or more and for which the appropriate statute of limitations has not yet run. Prior to referring a delinquent account to a collection agent, the treasurer must provide written notification of such delinquency by first-class mail to the taxpayer. Va. Code Ann. §58.1-3919.1, as amended by 2019 Va. S.B. 1301, effective July 1, 2019. BNA-SUTN VA 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Depends Virginia requires persons desiring to engage in or conduct business as a dealer in Virginia to file an application with the Tax Commissioner for a certificate of registration for each place of business. Va. Code Ann. §58.1-613(A). Beginning June 1, 2017, any dealer owning tangible personal property that is for sale and located in Virginia is required to register to collect Virginia retail sales and use tax. Va. Code Ann. §58.1-612(C)(9), as amended by 2017 Va. H.B. 2058, effective June 1, 2017; Virginia Tax Bulletin VTB 17-3 (May 3, 2017). Applications must include the name under which the applicant transacts or intends to transact business, the location of the business or businesses, and any other information that the Tax Commissioner may require. Va. Code Ann. §58.1-613(B). Once the application has been filed, the Tax Commissioner will issue a separate certificate of registration for each place of business within the Commonwealth. Certificates of registration are not assignable, are only valid for the person in whose name they are issued, and must be conspicuously displayed at the place for which they are issued. Va. Code Ann. §58.1-613(C). Whenever any person fails to comply with any provision, rule, or regulation relating to certificates of registration, the Tax Commissioner, after notice and a hearing, may revoke or suspend any one or more certificates held by such person. The Tax Commissioner is required to give at least 10 days notice in writing specifying the time and place of the hearing. Va. Code Ann. §58.1-613(D). Engaging in business as a dealer within Virginia without obtaining a certificate of registration or operating a business after a certificate has expired is a Class 2 misdemeanor. This provision applies to all persons engaging in business as well as each officer of a corporation that engages in business either without a certificate of registration or with an expired certificate of registration. Furthermore, each day that the business operates without a valid certificate of registration constitutes a separate offense. Va. Code Ann. §58.1-613(E). If a certificate holder ceases to conduct business at the location for which the certificate of registration was issued, the certificate expires. The certificate holder must inform the Tax Commissioner within 30 days after the cessation of a business that business at such location has ceased. Likewise, if the certificate holder wishes to change a place of business to another location, he or she should inform the Tax Commissioner in writing and the certificate will be revised accordingly. Va. Code Ann. §58.1-613(F). Effective July 1, 2017, the department must provide online access for registered dealers to the names and certificate of registration numbers of dealers who are currently registered for the retail sales and use tax. Va. Code Ann. §58.1-623.01, as added by 2017 Va. H.B. 1810, effective July 1, 2017. Disaster Relief Work Effective March 26, 2015, Virginia exempts from state and local taxes and registration any out-of-state business or employee that enters Virginia for disaster- or emergency-related work. Va. Code Ann. §44-146.28:2(B)(1). The commissioner can require the out-of-state business and its affiliates to disclose the disaster-relief purposes and provide an information statement. The commissioner maintains these records available for public review. Va. Code Ann. §12.1-12(B). BNA-SUTN VA 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Seller Sales and use taxes are required to be collected by all persons who are dealers and who have sufficient contact with Virginia to qualify under Va. Code Ann. §58.1-612(B) (dealing with the maintenance of office or warehouse space, solicitation of business, or advertising within the Commonwealth of Virginia). Va. Code Ann. §58.1-612. The dealer must pay sales tax, separately state the amount, add it to the sales price to be collected from the customer. After the tax is separately stated and presented to the customer, the tax becomes a debt from the purchaser to the dealer and can be recovered by the dealer in the same manner as other debt. However, dealers who have not registered or are delinquent in the payment of sales taxes to the Tax Commissioner may not maintain an action to recover unpaid sales or use tax against their customers. Va. Code Ann. §58.1-612. Dealers who neglect, fail, or refuse to collect sales tax upon every taxable sale, distribution, lease, or storage of tangible personal property are personally liable for the tax imposed. Va. Code Ann. §58.1-625. Furthermore, dealers who neglect, fail, or refuse to pay or collect the sales tax, either personally or through an agent or employee, are guilty of a Class 1 misdemeanor. Va. Code Ann. §58.1-625. Sellers are not relieved of their tax assessments merely because they did not know the item was taxable. Virginia Ruling of the Commissioner PD 14-19 (Feb. 25, 2014) (convenience store owner failed to pay tax on sales of telephone calling cards because the department did not provide him with informative materials or contact him directly). Generally, a compliance penalty for tax deficiencies will not be assessed in a first generation audit. Va. Regs. §10-210-2032 However, an exception to this rule does not allow the compliance penalty to be waived when an audit discloses that the sales tax has been collected but not remitted. Va. Code Ann. §58.1-635; Virginia Ruling of the Commissioner PD 16-156 (Aug. 3, 2016) (the compliance penalty was waived on sales in which no sales tax was collected, but applied to sales in which sales tax was collected but not remitted). The term dealer includes every person who:• manufactures or produces tangible personal property for sale at retail, for use, consumption, or distribution, or for storage to be used or consumed in Virginia; • imports or causes to be imported into Virginia tangible personal property from any state or foreign country, for sale at retail, for use, consumption, or distribution, or for storage to be used or consumed within Virginia; • sells or offers for sale tangible personal property at retail, or who has tangible personal property in his or her possession for sale at retail, for use, consumption, or distribution, or for storage to be used or consumed in Virginia; • has sold tangible personal property at retail, or has used, consumed, distributed, or stored for use or consumption in Virginia tangible personal property and cannot prove that the tax has been paid on such property; • leases or rents tangible personal property in Virginia without transferring title; • is the lessee or rentee of tangible personal property and who pays the owner of such property a consideration without acquiring title; • as a representative, agent, or solicitor of an out-of-state principal, solicits, receives, and accepts orders from persons in Virginia for future delivery and whose principal refuses to register as a dealer;or • becomes liable to and owes the Commonwealth of Virginia any amount of sales or use tax, whether he or she holds, or is required to hold, a certificate of registration. Va. Code Ann. §58.1-612. Remittance of sales tax by third parties is not allowed when a company is an out-of-state registered dealer because allowing an in-state third party to collect and remit sales tax on behalf on an out-of-state dealer may allow for the misallocation of local tax revenue. Virginia Ruling of the Commissioner PD 14-179 (Oct. 24, 2014) (company was required to register as a dealer for collection and remit sales tax and allocate the 1 percent local option sales tax to the proper locality). Moreover, the department of taxation generally may not hold a related entity liable for sales tax that a seller fails to collect on a sale to which the related entity is not a party. Virginia Ruling of the Commissioner PD 18-169 (Oct. 4, 2018) (overturning an assessment of sales tax against a wholly-owned subsidiary arising from an asset sale by the subsidiary's parent company to which the subsidiary was not a party). Consumer's Use Tax For the 2017 individual income tax filing season, the Virginia Department of Taxation explained that individuals must pay the consumer use tax on internet, mail order, phone, and out-of-state purchases for which the customers were not charged sales tax at the time of purchase. Individuals are required to report the tax on their individual income tax returns. On the 2016 returns, the consumer use tax is referred to as sales and use tax. If no tax is due, individuals must enter “00” on the 2016 return. Virginia Dept. of Tax., What's New for Individuals - Consumer Use Tax/Sales and Use Tax. See 2016 Virginia Resident Form 760 (Line 35) and instructions for Form 760 (explaining Line 35 in detail). BNA-SUTN VA 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes Purchasers are liable to dealers for sales tax once the tax is separately stated and presented to them by the dealer. Va. Code Ann. §58.1-625. After the tax is separately stated and presented to the customer, the tax becomes a debt from the purchaser to the dealer and can be recovered by the dealer in the same manner as other debt. However, dealers who have not registered or are delinquent in the payment of sales taxes to the Tax Commissioner may not maintain an action to recover unpaid sales or use tax against their customers. Va. Code Ann. §58.1-625. Consumer's Use Tax For the 2017 individual income tax filing season, the Virginia Department of Taxation explained that individuals must pay the consumer use tax on internet, mail order, phone, and out-of-state purchases for which the customers were not charged sales tax at the time of purchase. Individuals are required to report the tax on their individual income tax returns. On the 2016 returns, the consumer use tax is referred to as sales and use tax. If no tax is due, individuals must enter “00” on the 2016 return. Virginia Dept. of Tax., What's New for Individuals - Consumer Use Tax/Sales and Use Tax. See 2016 Virginia Resident Form 760 (Line 35) and instructions for Form 760 (explaining Line 35 in detail). BNA-SUTN VA 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Any officer of a corporation, partnership, or LLC who attempts to evade the sales and use tax or who willfully fails to pay, collect, or truthfully account for the tax is liable for a penalty in the amount of tax that should have been collected and paid over. Va. Code Ann. §58.1-1813 To be personally liable, the corporate officer must have knowledge of the failure to pay sales and use tax and the authority to prevent the failure. Va. Code Ann. §58.1-1813; see Virginia Ruling of the Commissioner PD 18-105 (June 6, 2018) (a manager need not have specific duty to report and pay taxes to be considered a corporate officer); Virginia Ruling of the Commissioner PD 16-109 and Virginia Ruling of the Commissioner PD 16-110 (May 31, 2016) (taxpayers were personally liable because they had knowledge of the failure to pay the tax and the authority to prevent the failure); see also Virginia Ruling of the Commissioner PD 13-200 (Nov. 1, 2013) (member of LLC was personally liable for the taxes because he willfully failed to pay them — he had a duty as a member of the LLC to pay the tax, he had knowledge of the unpaid taxes, and had the authority to prevent the failure to pay taxes). But see Virginia Ruling of the Commissioner PD 18-2 (Jan. 5, 2018) (personal liability was abated after demonstrating the taxpayer ceased being an officer and employee of the corporation before the audit commenced); Virginia Ruling of the Commissioner PD 17-141 (Aug. 1, 2017) (owner of 50 percent of corporation not personally liable because the owner did not know of the delinquency and her husband was responsible for filing the sales and use tax returns); Virginia Ruling of the Commissioner PD 17-105 (June 21, 2017) (minority stockholder of corporation not personally liable for corporation's assessed tax because he was not responsible for budgeting or for paying the corporation's bills, as both were done under the authority of the majority shareholder). In addition to the monetary penalty, the above offenses also constitute a Class 1 misdemeanor. Va. Code Ann. §58.1-1815. Moreover, the willful failure to file returns or keep records also constitutes a Class 1 misdemeanor. Va. Code Ann. §58.1-1814. To qualify as a “corporate, partnership or limited liability officer,” the officer in question must have had knowledge of the failure to pay or attempt to evade, and had authority to prevent such failure or attempt. Va. Code Ann. §58.1-1813.B. Therefore, owners of LLCs who are not charged with paying the company's debts and who have no authority to prevent such failures will not be personally liable for the LLC's unpaid sales taxes. Virginia Ruling of the Commissioner PD 97-307 (July 22, 1997). BNA-SUTN VA 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Not Applicable Virginia has not yet entered into the Streamlined Sales and Use Tax Agreement. However, sellers who rely on information otherwise provided by Virginia are relieved from liability for collecting an incorrect amount of sales and use tax. Va. Code Ann. §58.1-635. BNA-SUTN VA 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Not Applicable Virginia does not offer any guidance on whether retailers are relieved from liability when relying on certified service providers for the collection and remittance of sales and use tax. BNA-SUTN VA 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. Virginia provides the following forms relating to Virginia's sales and use tax:• Virginia Form ST-9: Retail Sales and Use Tax Return • Virginia Form ST-8: Out-of-State Dealer's Use Tax Return • Virginia Form ST-7: Business Consumer's Use Tax Return • Virginia Form ST-6: Direct Payment Permit Sales and Use Tax Return BNA-SUTN VA 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+20th day of the Month Monthly Filing Every dealer collecting or paying Virginia sales or use tax must submit a monthly return to the Virginia Department of Revenue by the 20th of the following month, regardless if the business had taxable sales for the month. Va. Code Ann. §58.1-615; Va. Regs. §10-210-480(A); Va. Regs. §10-210-480(F). The return must show the gross sales, gross proceeds, or cost price arising from all transactions from the preceding month. Va. Code Ann. §58.1-615. Remote sellers cannot be required to file more than one return per month. Va. Code Ann. §58.1-601(B), as amended by 2019 Va. H.B. 1700, effective July 1, 2019. Quarterly Filing The Tax Commissioner may require a dealer to file sales or use tax returns less frequently when the administration of sales and use taxes would be enhanced. Va. Code Ann. §58.1-615(A). If the commissioner requires a dealer to file other than monthly, then returns are due on the 20th day of the month following the close of the reporting period. The Department automatically changes the dealer's filing status from monthly to quarterly, and dealers should not request to convert filing status from monthly to quarterly. Va. Regs. §10-210-480(B). Temporary Filing If the commissioner grants a taxpayer a temporary registration certificate, then the taxpayer must file sales and use tax returns on a monthly basis in accordance with the general rules for filing sales and use tax returns unless otherwise provided by the commissioner. Va. Regs. §10-210-480(C). Seasonal Filing If a taxpayer operates a business only during certain months, the taxpayer may request that the registration be set up on a monthly basis, and then file returns on a monthly basis for only the months during which the business operates. Va. Regs. §10-210-480(D). Consolidated Returns If the commissioner grants a dealer permission to file sales and use tax returns on a consolidated basis, then the dealer must file monthly returns unless otherwise required by the commissioner. Va. Regs. §10-210-480(E). Use Tax The owner or lessee of any property subject to Virginia use tax must register with the Tax Commissioner before bringing it into Virginia. Va. Code Ann. §58.1-604.2. That property includes motor vehicles, machinery, tools, and equipment brought into Virginia. After registering, the owner or lessee must file and pay each quarter, beginning on or before the 15th day of the month following the quarter in which the property entered Virginia. Va. Code Ann. §58.1-604.2. Accelerated Sales Tax Program A dealer or direct payment permit-holder must make an accelerated sales tax payment if it has taxable sales and purchases that exceed a threshold set by the legislature in the preceding twelve month period ending June 30. Virginia Ruling of the Commissioner PD 10-46 (May 6, 2010); see also 2017 Va. H.B. 1500; 2018 Va. H.B. 5001, §3-5.06, effective June 7, 2018; 2018 Va. H.B. 5002, §3-5.06, effective July 1, 2018. The Department will generally notify affected dealers of the accelerated payment obligation in early May of each year. The notification will include payment instructions, a payment voucher, along with a worksheet to assist dealers with the reconciliation process that occurs when dealers pay their June tax liability in July, which accounts for the credit allowed for the accelerated sales tax payment made that year. Virginia Ruling of the Commissioner PD 10-46 (May 6, 2010); see also 2017 Va. H.B. 1500. The accelerated payment equals 90 percent of the dealer or permit-holder's sales and use tax liability for the previous June. The taxpayer will submit their June sales tax return as scheduled, by July 20, and will reconcile the actual June liability to the accelerated payment. If the liability is greater, the taxpayer will pay the difference. If the liability is less, the excess payment will be refunded. Virginia Ruling of the Commissioner PD 10-46 (May 6, 2010); see also 2017 Va. H.B. 1500; 2018 Va. H.B. 5001, §3-5.06, effective June 7, 2018. The accelerated sales tax payment is due by June 30, if made by electronic funds transfer, and by June 25, if sent by check or other means. Virginia Ruling of the Commissioner PD 10-46 (May 6, 2010); 2018 Va. H.B. 5001, §3-5.06, effective June 7, 2018. If the dealer or permit-holder fails to pay on time and in full, then Virginia will assess a penalty of six percent of the underpayment, plus interest. Virginia Ruling of the Commissioner PD 10-46 (May 6, 2010); see also 2017 Va. H.B. 1500. Payments Due in June 2020 For the 12-month period ending June 30, 2020, retailers/dealers with sales and/or purchases totaling $4 million dollars or more must submit accelerated sales and use tax payments in June 2020. 2018 Va. H.B. 5002, §3-5.06(G)(2), effective July 1, 2018. Electronic payments are due June 30, 2020. Taxpayers who have an electronic filing waiver may pay by check postmarked on or before June 25, 2020. Va. Dept. of Taxn., Accelerated Sales and Use Tax Payment Due June 30 (April 18, 2018); 2018 Va. H.B. 5002, §3-5.06(G)(2), effective July 1, 2018. Payments Due in June 2019 For the 12-month period ending June 30, 2019, retailers/dealers with sales and/or purchases totaling $4 million dollars or more must submit accelerated sales and use tax payments in June 2019. 2018 Va. H.B. 5002, §3-5.06(G)(2), effective July 1, 2018. Electronic payments are due June 30, 2019. Taxpayers who have an electronic filing waiver may pay by check postmarked on or before June 25, 2019. Va. Dept. of Taxn., Accelerated Sales and Use Tax Payment Due June 30 (April 18, 2018); 2018 Va. H.B. 5002, §3-5.06(G)(2), effective July 1, 2018. Payments Due in June 2018 For the 12-month period ending June 30, 2017, retailers/dealers with sales and/or purchases totaling $4 million dollars or more must submit accelerated sales and use tax payments in June 2018. 2017 Va. H.B. 1500, §3-5.06(G)(2), effective April 28, 2017; 2018 Va. H.B. 5001, §3-5.06(G)(2), effective June 7, 2018; Virginia Ruling of the Commissioner PD 17-61 (May 3, 2017). Electronic payments are due June 30, 2018. However, since June 30 is a Saturday, electronic payments made on July 2 will be considered on time. Taxpayers who have an electronic filing waiver may pay by check postmarked on or before June 25, 2018. Va. Dept. of Taxn., Accelerated Sales and Use Tax Payment Due June 30 (April 18, 2018); 2018 Va. H.B. 5001, §3-5.06(G)(2), effective June 7, 2018. Payments Due in June 2017 For the 12-month period ending June 30, 2016, retailers/dealers with sales and/or purchases totaling $2.5 million dollars or more must submit accelerated sales and use tax payments by June 30, 2016, for electronic payments, and by June 26, 2016, for those paying via another method. 2017 Va. H.B. 1500, §3-5.06(G)(1), effective April 28, 2017; 2018 Va. H.B. 5001, §3-5.06(G)(1), effective June 7, 2018;Virginia Ruling of the Commissioner PD 17-61 (May 3, 2017). Payments Due in June 2016 For the 12-month period ending June 30, 2015, retailers/dealers with sales and/or purchases totaling $2.5 million dollars or more must submit accelerated sales and use tax payments by June 30, 2016, for electronic payments, and by June 27, 2016, for those paying via another method. Determining whether a retailer/dealer owes an accelerated payment involves a calculation of aggregate sales and purchases for all business locations. Whether a retailer/dealer files separate, combined, or consolidated returns does not impact this determination. Virginia Ruling of the Commissioner PD 15-83 (April 22, 2015). Mandatory Electronic Filing The following returns and payments must be filed electronically:• Virginia Form ST-9: Retail Sales and Use Tax Return • Virginia Form ST-8: Out-of-State Dealer's Use Tax Return • Virginia Form ST-7: Business Consumer's Use Tax Return Va. Dept. of Taxn., Filing Reminders for Tax Professionals (February 2018). BNA-SUTN VA 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Virginia requires dealers to remit the amount of tax due with the filing of the sales and use tax return after making appropriate adjustments for purchases returned, repossessions, and accounts uncollectible and charged off. Va. Code Ann. §58.1-616. Virginia provides that sales and use tax for each period, if not paid, becomes delinquent on the 21st day of the succeeding month. Va. Code Ann. §58.1-616. The following returns and payments must be filed electronically:• Virginia Form ST-9: Retail Sales and Use Tax Return • Virginia Form ST-8: Out-of-State Dealer's Use Tax Return • Virginia Form ST-7: Business Consumer's Use Tax Return Va. Dept. of Taxn., Filing Reminders for Tax Professionals (February 2018). BNA-SUTN VA 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Yes Virginia authorizes the Tax Commissioner to grant, upon written application and for good cause, an extension of a period not exceeding 30 days to the end of the calendar month in which any tax return is due, or for a period not exceeding 30 days, and no interest or penalty will charged, assessed or collected by reason of the granting of any such extension. Va. Code Ann. §58.1-617. Virginia provides that no interest or penalty is charged, assessed or collected by reason of the extension. However, interest is charged where any extension is granted beyond the end of the calendar month in which any tax return is due. Va. Code Ann. §58.1-617. BNA-SUTN VA 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. In Virginia, the Tax Commissioner is authorized to waive penalties and grant extensions of time to file a return or pay a tax, when in the Tax Commissioner's discretion, the timely filing of a return or payment of a tax would cause undue hardship to a class of taxpayers because of a natural disaster. Va. Code Ann. §58.1-112(B). The Virginia Department of Taxation is offering relief to business taxpayers (required to file Virginia Form 500) who were affected by Hurricane Harvey or Hurricane Irma, and are unable to file or pay applicable taxes due to damage or power outages caused by one of the hurricanes. The department may also grant late filing and/or late payment penalty waivers to taxpayers submitting tax returns and payments, other than for those taxpayers already receiving relief, who were affected by Hurricane Harvey or Hurricane Irma, and whose due dates are on or after the beginning of the disasters for which hardship attributable to one of the hurricanes can be demonstrated. Such taxpayers must send a written request to the following address:Virginia Department of Taxation Customer Service Section Severe Storm Relief P.O. Box 1115 Richmond, VA 23218-1115. Virginia Tax Bulletin VTB 17-12 (Sept. 20, 2017); Virginia Tax Bulletin VTB 17-10 (Sept. 14, 2017). BNA-SUTN VA 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Required for Certain Taxpayers The Tax Commissioner has authority to require taxpayers subject to the sales and use tax to remit taxes by electronic funds transfer if their average monthly liability for such taxes exceeds $20,000. Va. Code Ann. §58.1-202.1(A)and (B). BNA-SUTN VA 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Required for Certain Taxpayers Virginia generally requires payments made via electronic funds transfers to be made by automated clearinghouse debit transactions. Va. Code Ann. §58.1-202.1(A). However, the Tax Commissioner may authorize the use of any other means which ensures the availability of such funds to Virginia on or before the due date. Va. Code Ann. §58.1-202.1(A). BNA-SUTN VA 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+2%, 3% or 4% Dealers holding a certificate of registration are allowed a deduction as compensation for accounting and remitting the sales and use tax to Virginia. Va. Code Ann. §58.1-622. Dealers with monthly taxable sales of $62,500 or less are allowed a deduction in the amount of 4 percent of the first 3 percent of the sales and use tax due. Dealers with monthly sales of $62,501 to $208,000 are allowed a deduction in the amount of 3 percent of the first 3 percent of the sales and use tax due. Dealers with monthly sales totaling more than $208,000 are allowed a deduction in the amount of 2 percent of the first 3 percent of the sales and use tax due. The deduction is allowed only if the amount due is not delinquent at the time of payment. Va. Code Ann. §58.1-622; see also 2017 Va. H.B. 1500. Effective beginning with the June 2010 return that is due July 2010, Virginia suspends the compensation allowed under Va. Code Ann. §58.1-622 for any dealer required to remit sales and use tax by electronic funds transfer. The compensation available to all other dealers is limited to:• 1.6 percent for dealers with monthly taxable sales from $0 to $62,500; • 1.2 percent for dealers with monthly taxable sales from $62,501 to $208,000;and • 0.8 percent for dealers with monthly taxable sales from $208,001 and above. 2016 Va. H.B. 30, §3-5.07(A), effective July 1, 2016; 2017 Va. H.B. 1500; 2018 Va. H.B. 5001, §3-5.07(A), effective June 7, 2018; 2018 Va. H.B. 5002, §3-5.07(A), effective July 1, 2018. BNA-SUTN VA 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes A vendor is required to collect tax when selling property or services that are normally subject to tax unless the vendor is provided with an exemption certificate. Va. Code Ann. §58.1-623. Presentation of an exemption certificate relieves the seller from any liability for the payment or collection of tax unless they have been given notice by the Tax Commissioner that the certificate is no longer acceptable. Va. Code Ann. §58.1-623(B). Virginia law requires exemption certificates to be signed and contain the purchaser's name, address, and certificate of registration number. Moreover, they must indicate the general character of the tangible personal property sold, distributed, leased, or stored, or to be sold, distributed, leased, or stored. Certificates are valid until the scheduled expiration date stated on the certificate. Taxpayers should take care to utilize the exemption certificates prescribed by the particular taxing authority Va. Code Ann. §58.1-623(B); see also Virginia Ruling of the Commissioner PD 00-99 (May 25, 2000) (disallowing a retailer's computerized multipurpose sales tax exemption certificate in place of the prescribed paper exemption certificate); Virginia Ruling of the Commissioner PD 99-246 (Aug. 30, 1999) (explaining what resale documentation is necessary to relieve a taxpayer from collecting sales tax from a customer). Consequences of Failing to Obtain Exemption Certificates Virginia law provides that all sales or leases are subject to tax until the contrary is established. The burden of proving a sale, distribution, lease, or storage of tangible personal property is not taxable is upon the dealer unless the dealer takes from the taxpayer a certificate to the effect that the property is exempt. If a dealer fails to obtain an exemption certificate, the dealer may be liable for sales tax on the transaction. Va. Code Ann. §58.1-623. Exemption Certificate Substitutions, Data Elements It is unclear whether Virginia would accept any data elements as substitutes for properly acquired exemption certificates. Types of Certificates State Specific Exemption Certificates • Virginia ST-10 - Exemption Certificate for Certain Purchases by Virginia Dealers • Virginia ST-10A - Printed Materials Exemption Certificate • Virginia ST-10B - Handicap Auto Equipment Exemption Certificate • Virginia ST-10C - Cigarette Resale Exemption Certificate • Virginia ST-11 - Manufacturing Exemption Certificate • Virginia ST-11B - Semiconductor Exemption Certificate • Virginia ST-12 - Government Exemption Certificate • Virginia ST-13 - Medical-Related Exemption Certificate • Virginia ST-13A - Churches Exemption Certificate • Virginia ST-14 - Out-of-State Resale Dealer Exemption Certificate • Virginia ST-14A - Out-of-State Livestock Dealer Exemption Certificate • Virginia ST-15 - Domestic Fuel Exemption Certificate • Virginia ST-16 - Commercial Watermen Exemption Certificate • Virginia ST-17 - Forest Harvesters Exemption Certificate • Virginia ST-18 - Farmer's Purchase of Personal Property Exemption Certificate • Virginia ST-19 - Shipping Commerce Exemption Certificate • Virginia ST-20 - Public Service Corporation Exemption Certificate • Virginia ST-20A - Production Company Exemption Certificate • Virginia FT-200 - Motor Vehicle Fuel Sales Tax - Exemption Certificate • Virginia ST-22 - Railroad Rolling Stock Exemption Certificate • Virginia ST-24 - Fabrication of Foodstuffs Exemption Certificate Sales and Use Tax Forms BNA-SUTN VA 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked Exemption certificates are valid until they reach the scheduled expiration date stated on the exemption certificate. Va. Code Ann. §58.1-623(B). BNA-SUTN VA 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Not Accepted The Multistate Tax Commission certificates are not valid in Virginia. FAQ Uniform Sales and Use Tax Certificate; Uniform Sales & Use Tax Exemption/Resale Certificate — Multijurisdiction. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 States have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the States that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. The certificate is not valid in Virginia. FAQ Uniform Sales and Use Tax Certificate; Uniform Sales & Use Tax Exemption/Resale Certificate — Multijurisdiction. BNA-SUTN VA 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Not Accepted Virginia is not a member to the Streamlined Sales Tax agreement, and is under no obligation to accept SST tax exemption certificate SSTGB Form F0003. Streamlined Sales Tax: State Info. BNA-SUTN VA 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted The State of Virginia has not announced that it will begin accepting the MTC or SST certificates. FAQ Uniform Sales and Use Tax Certificate; Uniform Sales & Use Tax Exemption/Resale Certificate — Multijurisdiction; Streamlined Sales Tax: State Info. BNA-SUTN VA 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes A dealer that accepts a certificate of exemption from a taxpayer must do so in good faith. Va. Code Ann. §58.1-623(A); Va. Regs. §10-210-280(A). Acceptance of an exemption certificate in good faith requires a dealer to exercise reasonable care and judgment. Virginia courts have found that standard to be met if:• Upon a facial examination of the certificate, a dealer could reasonably conclude that the items purchased could potentially be used for any of the exempt purposes claimed on the certificate of exemption; or • Based upon the actual dealer's knowledge of the business of its purchaser, the dealer could reasonably determine in good faith that the specific purchaser intended to use the items purchased for one or more of the exempt purposes claimed on the certificate of exemption. Virginia Ruling of the Commissioner PD 10-258 (Oct. 25, 2010); see Virginia Ruling of the Commissioner PD 17-62 (May 10, 2017) (commissioner removes contested sales from taxpayer's sales and use tax audit upon determination that taxpayer, based on its facial examination of the business's exemption certificate, could have reasonably determined in good faith that its customer planned to resell the items purchased in the contested sales. This is sufficient to satisfy the standard of reasonable care and judgment). Sellers cannot accept an incomplete exemption certificate in good faith. Virginia Ruling of the Commissioner PD 19-26 (April 8, 2019) (certificate which was not dated and did not have the name or address of the supplier was not accepted in good faith). If a taxpayer who uses a certificate of exemption makes any use of the property other than an exempt use while holding the property for resale, distribution, or lease in the regular course of business, that nonexempt use is treated as a taxable sale by the taxpayer as of the time the property or service is first used by the taxpayer, and the cost of the property to the taxpayer is the sales price of such retail sale. If the sole nonexempt use of the property is the rental of the property while holding it for sale, distribution, or lease, the taxpayer can elect to pay the tax on the amount of rental charged rather than the cost of the property. Va. Code Ann. §58.1-623(C). BNA-SUTN VA 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+Time of Sale Virginia does not have statutory guidance on the amount of time a seller has to obtain an exemption certificate pursuant to an exempt transaction. However, rulings by the Tax Commissioner have repeatedly indicated that an exemption certificate not received at the time of the transaction cannot be accepted in good faith, and are therefore not properly obtained. See Virginia Ruling of the Commissioner PD 17-114 (June 29, 2017) (finding that exemption certificates dated after the audit period and also missing the requisite certificate of registration number cannot be deemed to have been accepted in good faith for the transactions under audit); see also Virginia Ruling of the Commissioner PD 98-29 (Feb. 20, 1998) (Taxpayer, a wholesaler and retailer selling automotive equipment and supplies, did not collect exemption certificates for any exempt sales until audited. Taxpayer obtained exemption certificates for purposes of substantiating the exempt transactions, but the Tax Commissioner ruled that they had not been obtained at the time of the transaction, and were therefore not accepted in good faith); and see Virginia Ruling of the Commissioner PD 13-35 (Mar. 18, 2013) (Taxpayer, a seller of tires, parts and supplies to the automotive retail industry, obtained exemption certificates after the start of an audit and therefore were subject to greater scrutiny by the Department. The Department would only accept these certificates if it were able to confirm that a customer's use of the certificate was valid and proper for a specific transaction identified during audit). These rulings also indicate that certificates obtained after the time of the transaction are not automatically dismissed, but instead subject the claimed exemption to greater scrutiny by the Department. Virginia Ruling of the Commissioner PD 18-123 (June 26, 2018) (where taxpayer provides a facially valid resale certificate of exemption with its audit protest, certificate will be accepted); Virginia Ruling of the Commissioner PD 10-106 (June 18, 2010) (Taxpayer claiming a manufacturing exemption for pollution control equipment was could not substantiate the exemption due first to lack of a properly obtained exemption certificate, and second due to an inability to substantiate the exemption during audit); Virginia Ruling of the Commissioner PD 15-179 (Sept. 24, 2015) (exemption certificates obtained subsequent to an audit were allowed after the certificates had been reviewed by the auditor). It is long-standing policy of the Department to closely evaluate the validity of exemption certificates that have been secured after performance of an audit. BNA-SUTN VA 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years The state does not specify the duration of time that a seller should retain exemption certificates, but the statute of limitations on assessing sales tax in Virginia is three years after the date the return is filed. Therefore, a taxpayer should maintain such records for a minimum of three years from such filings. Va. Code Ann. §58.1-634. BNA-SUTN VA 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Accepted Virginia furnishes several categories of certificates of exemption upon request including resale exemption certificates. Form ST-10: Sales and Use Tax Certificate of Exemption. The Virginia Department of Taxation may reject resale exemption certificates where the business tax accounts of the purchasers were closed prior to the sales transactions or where the purchasers did not file any sales tax returns to remit the tax to the Department. Virginia Ruling of the Commissioner PD 19-8 (Jan. 31, 2019). BNA-SUTN VA 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Accepted Virginia furnishes several categories of certificates of exemption upon request including various entity based exemption certificates. Sales and Use Tax Forms BNA-SUTN VA 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted Virginia furnishes several categories of certificates of exemption upon request including various use-based exemption certificates. Sales and Use Tax Forms BNA-SUTN VA 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized Virginia furnishes direct pay permits which allow their holders to pay sales or use tax directly to the Tax Commissioner, rather than to the dealer. Va. Code Ann. §58.1-624(A). These permits are authorized for certain manufacturers, mine operators, or public service corporations when it is impossible to determine the manner in which certain tangible personal property will be used within the Commonwealth of Virginia at the time of sale. Va. Code Ann. §58.1-624(A). Permit holders must notify dealers from whom purchases or leases of tangible personal property are made of their direct pay permit number and that the tax is being paid directly to the Tax Commissioner. That notice serves to absolve the dealer from all liability for the collection and remittance of the sales tax. Va. Code Ann. §58.1-624(D). Permit holders must make and file a return for the preceding month with the Tax Commissioner before the 20th day of each month. The return must show the total value of the tangible personal property used, the amount of the tax due from the permit holder, and any other information that the Tax Commissioner deems necessary. Permit holders must remit payment for each proceeding month with their monthly returns. Reasonable extensions may be granted by the Tax Commissioner upon written request from the permit holder; however, interest will accrue in accordance with Va. Code Ann. §58.1-15. Va. Code Ann. §58.1-624(B); see also the Sales and Use Tax Navigator, at Virginia 31.3. Once issued, direct pay permits are valid until they are surrendered by the holder of the permit or are cancelled for cause by the Tax Commissioner. Va. Code Ann. §58.1-624(C). BNA-SUTN VA 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+Yes Every person required to make a return and pay or collect Virginia's sales tax must keep suitable records of the sales, leases, purchases and such other books of account that may be necessary to determine the amount of sales or use tax due. These records must be maintained for at least three years. Va. Code Ann. §58.1-633(A); Va. Regs. §10-210-470. The preserved records must include:• A daily record of all cash and credit sales, including sales under any type of financing or installment plan in use; Va. Regs. §10-210-470(a). • A record of the amount of all merchandise purchased, including a bill of lading, invoice, purchase order or other evidence to substantiate each purchase; Va. Regs. §10-210-470(b); see Virginia Ruling of the Commissioner PD 17-47 (April 6, 2017) (documentation required for all transactions; evidence that a vendor collected tax on some transactions is insufficient basis for assuming vendor collected tax on all transactions to the same customer). • A record of all deductions and exemptions claimed in filing sales or use tax returns, including exemption and resale certificates, returned or repossessed goods, and bad debts; Va. Regs. §10-210-470(c). • A record of all tangible property used or consumed in the conduct of the business; Va. Regs. §10-210-470(d). • A true and complete inventory of the stock on hand and its value, taken at least once each year. Va. Regs. §10-210-470(e). Furthermore, such dealers are required to keep such other books of account as may be necessary to determine the amount of tax due as well as any other pertinent information that may be required by the Tax Commissioner. Va. Code Ann. §58.1-633(A). If a dealer fails to maintain adequate records, the department is authorized to use the best information available to reconstruct a dealer's sales or purchases to determine whether a tax liability exists. Va. Code Ann. §58.1-618; see also Virginia Ruling of the Commissioner PD 16-43 (April 7, 2016) (taxpayer did not have records demonstrating that a one-month sample could not serve as a representative sample that could be used to determine outstanding tax liability for other months); Virginia Ruling of the Commissioner PD 15-176 (Sept. 23, 2015) (absent adequate records, using mixed beverage annual reports and a cost-of-good-sold calculation is an acceptable method to estimate a taxpayer's underreported tax liability for restaurant and bar sales); Virginia Ruling of the Commissioner PD 15-162 (Sept. 18, 2015) (upholding the department's sales tax assessment made on best information available where the taxpayer did not have any sales journals or reports to support gross, exempt, or taxable sales and also did not have register tapes or methods of distinguishing café sales from grocery store sales); Virginia Ruling of the Commissioner PD 15-135 (June 30, 2015) (upholding Department's sales tax assessment made on the best information available because taxpayer provided records that were outside of the audit period and insufficient to prove assessment was incorrect; assessment was based on difference between amounts reported on taxpayer's sales tax returns and amounts reported on its income tax returns for the relevant period); Virginia Ruling of the Commissioner PD 12-213 (Dec. 18, 2012) (taxpayer failed to maintain adequate records during audit period to determine actual tax liabilities; auditor used statutory business license assessments issued by the municipality in which taxpayer's business located to estimate taxpayer's sales tax liability). In addition to dealers, all wholesalers and jobbers in Virginia are required to keep records of all sales of tangible personal property, regardless of whether the sale is for cash or credit. The records must include the purchaser's name and address, the certificate of registration number issued to the purchaser, the date of the purchase, the article purchased, and the price at which the article is sold or purchased. Failure to keep such records altogether is a Class 1 misdemeanor and any person who is both a wholesaler and a jobber who fails to keep proper records showing wholesale sales and retails sales separately will be required to pay the tax as a retailer on both classes of business. Va. Code Ann. §58.1-633(B). BNA-SUTN VA 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Vendor Virginia allows dealers to request refunds for taxes erroneously or illegally collected provided the request is made within three years from the due date of the return. Va. Regs. §10-210-3040. A dealer requesting a refund must establish that the tax erroneously or illegally collected was paid by him and not passed on to the consumer, or the tax was collected from the consumer as tax and subsequently refunded to the consumer. Va. Regs. §10-210-3040. The amount of the refund will be the net amount of state and local tax remitted to the state on the transaction generating the refund. Va. Regs. §10-210-3040; see also Virginia Ruling of the Commissioner PD 18-10 (Feb. 2, 2018) (dealer who erroneously paid sales tax to vendors must first seek a refund from the vendors; if uncollectible, the state will consider a refund). Exempt Transactions When a taxpayer does not give a dealer a valid exemption certificate at the time of purchase, and the purchase qualifies for an exemption, interest will not be paid on a refund claim prior to the date the taxpayer files the claim with the department. Va. Code Ann. §58.1-623(E); Virginia Ruling of the Commissioner PD 17-98 (June 12, 2017). Dealers are generally required to refund sales or use tax collected on exempt transactions directly to the customer when a refund is requested by the customer. As long as the tax was previously reported and remitted to the department, the dealer may recover any amount refunded on either their retail sales and use tax return or out-of-state dealer's use tax return, whichever is applicable, for the month in which the refund was made or the following month. Otherwise, the dealer must file an amended return. Virginia Ruling of the Commissioner PD 17-98 (June 12, 2017). If the dealer is no longer in business or believes the transaction was properly subject to sales or use tax, they are not required to refund the tax directly to the customer. Also, if the amount of the refund is more than twice the dealer's average monthly sales and use tax liability and would cause an undue financial hardship, the dealer will be excused from the direct refund requirement. Virginia Ruling of the Commissioner PD 17-98 (June 12, 2017). When a dealer is unable to provide a refund or credit to the customer, the customer may apply for a refund with the department. If the dealer timely filed and deducted the dealer's discount allowed under Va. Code Ann. §58.1-622, the department will not refund the discounted amount. However, when a dealer makes the refund directly to the customer, the dealer must refund the full amount of sales or use tax paid, including any discount that was not remitted to the department. Virginia Ruling of the Commissioner PD 17-98 (June 12, 2017). Amended Returns Additionally, Virginia allows any person filing a sales or use tax return to file an amended return within the applicable statute of limitations requesting a refund. Va. Code Ann. §58.1-1823; Va. Code Ann. §58.1-1823. Amended returns claiming a refund must be filed within three years from the last day for the timely filing of the original return, or, if later, within 60 days from the final determination of any change or correction in the taxpayer's liability for any federal tax upon which the Virginia tax is based provided that the refund does not exceed the amount of the decrease in Virginia tax attributable to such federal change or correction. Va. Regs. §10-20-180(A)(1). Amended returns must contain all the information required in an original return and, in addition, the taxpayer must attach a statement explaining any changes made and the reasons for the changes. Va. Regs. §10-20-180(A)(2). If the Department is satisfied, by evidence submitted to it or otherwise, that the tax assessed and paid upon the original return exceeds the proper amount, the Department may reassess the taxpayer and order that any amount excessively paid be refunded to him. The Department may reduce such refund by the amount of any taxes, penalties and interest which are due for the period covered by the amended return, or any past-due taxes, penalties and interest which have been assessed within the appropriate period of limitations. Any order of the Department denying such reassessment and refund, or the failure of the Department to act thereon within three months is deemed, as to matters first raised by the amended return, an assessment for the purpose of enabling the taxpayer to pursue the remedies. Va. Code Ann. §58.1-1823. If a dealer applies for a sales tax refund, then the dealer must attach a list of the purchasers from whom the tax was collected and to whom the refund will be paid. Va. Regs. §10-20-180(A)(2)(a). If a consumer applying for a refund of sales or use tax assessed against a dealer or contractor, the consumer must identify the dealer or contractor, explain the circumstances surrounding the payment by the consumer, and explain why the claim for refund could not, or would not, be made by the dealer or contractor. Va. Regs. §10-20-180(A)(2)(b). BNA-SUTN VA 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years Amended returns claiming a refund must be filed within three years from the last day for the timely filing of the original return, or, if later, within 60 days from the final determination of any change or correction in the taxpayer's liability for any federal tax upon which the Virginia tax is based provided that the refund does not exceed the amount of the decrease in Virginia tax attributable to such federal change or correction. Va. Regs. §10-20-180(A)(1). A refund claim must be made within three years of when the tax becomes due. If a taxpayer is involved in multiple transactions, the claim must be filed based on when each individual transaction was completed. Virginia Ruling of the Commissioner PD 18-53 (April 19, 2018). BNA-SUTN VA 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years There is a three-year statute of limitations period from the date that the taxes became due and payable during which the Virginia sales and use tax may be assessed. Va. Code Ann. §58.1-634. For these purposes, an announcement of tax due constitutes an original assessment that constitutes the beginning of a new limitations period. Knopp Brothers v. Dep't of Taxation, 362 S.E.2d 897 (Va. 1987). In the case of a false or fraudulent return with the intent to evade payment, or for failure to file a return, the taxes may be assessed, or a proceeding in court for the collection of such taxes may begin without assessment, at any time within six years from the date the taxes became due and payable. Va. Code Ann. §58.1-634. BNA-SUTN VA 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Virginia imposes civil penalties. Va. Code Ann. §58.1-635. Virginia law imposes civil penalties for certain failures to file sales or use tax returns or in situations involving the filing of fraudulent returns. The penalty for failing to make a return or for failing to pay the full amount of tax required by Virginia law is equal to 6 percent of the tax due for the first month with an additional 6 percent for each additional month (or fraction of a month) during which the failure continues, not to exceed 30 percent in the aggregate. However, there is a minimum penalty of $10 for such a failure regardless of whether any remittance was due for the period in which the return was required. The Tax Commissioner may waive the penalties if the taxpayer can show to the Commissioner's satisfaction that the failure was due to good cause. Va. Code Ann. §58.1-635. There is an additional 50 percent penalty levied on the taxpayer if the taxpayer's failure to file a return was willful, or if the taxpayer filed a false or fraudulent return, and in either case the taxpayer had the intent to defraud the Commonwealth of Virginia. Va. Code Ann. §58.1-635. A dealer's reporting of 50 percent or less of gross sales, gross proceeds, or cost price is prima facie evidence of intent to defraud the Commonwealth of Virginia for purposes of these penalties. Va. Code Ann. §58.1-635. BNA-SUTN VA 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Virginia imposes criminal penalties on dealers required to file a sales or use tax return for violations. Va. Code Ann. §58.1-636. The following offenses committed by a dealer will be considered a Class 1 misdemeanor:• failing or refusing to file a return that is required to be filed; • failing or refusing to file a supplemental return or any other data required by the Tax Commissioner; • making a false or fraudulent return with the intent to evade the tax; • making a false or fraudulent claim for refund; • giving or knowingly receiving a false or fraudulent exemption certificate;and • violating any other provision of the sales and use tax chapter of the Virginia Code. Va. Code Ann. §58.1-636. BNA-SUTN VA 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Available The Tax Commissioner has the discretion to waive penalties if good cause if shown. Va. Code Ann. §58.1-635. Penalties will generally be waived for first generation audits, unless the taxpayer had previously been notified in writing to collect or pay tax, the taxpayer collected tax but did not remit the tax, or the taxpayer has willfully evaded reporting and remitting the tax and there are indications of fraud. Va. Regs. §10-210-2032(B)(3). For second generation audits, penalties will generally be waived if the taxpayer's compliance ratio meets or exceeds 85% for sales tax and 60% for use tax Va. Regs. §10-210-2032(B)(4). . For subsequent generation audits, penalties will generally be waived if the compliance ratio meets or exceeds 85% for sales tax and 85% for use tax. Va. Regs. §10-210-2032(B)(5); Virginia Ruling of the Commissioner PD 19-26 (April 8, 2019). The compliance ratio does not include deficiencies due to an application of the tax not clearly established under existing law, regulation, or other published document of which the taxpayer reasonably should have had knowledge, or an area where the taxpayer relied on prior correspondence with the department. Va. Regs. §10-210-2032(B)(8). BNA-SUTN VA 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Quarterly Virginia determines the interest rate for underpayments and overpayments on a quarterly basis. Va. Code Ann. §58.1-15(A); I.R.C. §6621(a)(2). Neither underpayment interest nor overpayment interest is subject to compounding in Virginia. Simple interest is calculated using a daily rate derived from the annual rate. Va. Regs. §10-20-60; see Virginia Tax Bulletin VTB 17-13 (Dec. 12, 2017). BNA-SUTN VA 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Federal Rate + 2% Virginia imposes interest on omitted taxes and assessments of sales and use tax at the federal rate established under I.R.C. §6621, plus 2 percent. Va. Code Ann. §58.1-15. The interest rate is established quarterly and is the same for underpayments and overpayments. For the first, second, third, and fourth quarters of 2017, the interest rate on underpayments is 6 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 17-11 (Sept. 15, 2017); Virginia Tax Bulletin VTB 17-6 (June 21, 2017); Virginia Tax Bulletin VTB 17-2 (March 15, 2017); Virginia Tax Bulletin VTB 16-7 (Dec. 14, 2016). BNA-SUTN VA 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:6% 2Q:7% 3Q:7% 4Q:7% In 2018, the Virginia interest rate on underpayments of tax is 6 percent for the first quarter, and 7 percent for the last three quarters. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 18-5 (Sept. 21, 2018); Virginia Tax Bulletin VTB 18-120 (June 20, 2018); Virginia Tax Bulletin VTB 18-2 (March 14, 2018); Virginia Tax Bulletin VTB 17-13 (Dec. 12, 2017). BNA-SUTN VA 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2017, the Virginia interest rate on underpayments of tax is 6 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 17-11 (Sept. 15, 2017); Virginia Tax Bulletin VTB 17-6 (June 21, 2017); Virginia Tax Bulletin VTB 17-2 (March 15, 2017); Virginia Tax Bulletin VTB 16-7 (Dec. 14, 2016); see Rev. Rul. 2016-28. BNA-SUTN VA 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:5% 2Q:6% 3Q:6% 4Q:6% In 2016, the Virginia interest rate on underpayments of tax is 5 percent for the first quarter, and 6 percent for the last three quarters. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-6 (Sept. 22, 2016). BNA-SUTN VA 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2015, the Virginia interest rate on underpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2014, the Virginia interest rate on underpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2013, the Virginia interest rate on underpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2012, the Virginia interest rate on underpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:5% 2Q:6% 3Q:6% 4Q:5% In 2011, the Virginia interest rate on underpayments of tax is 5 percent for the first quarter, 6 percent for the second and third quarters, and 5 percent for the fourth quarter. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2010, the Virginia interest rate on underpayments of tax is 6 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:7% 2Q:6% 3Q:6% 4Q:6% In 2009, the Virginia interest rate on underpayments of tax is 7 percent for the first quarter, and 6 percent for the remainder of the year. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal Rate + 2% Virginia imposes interest on omitted taxes and assessments of sales and use tax at the federal rate established under I.R.C. §6621, plus 2 percent. Interest begins to accrue 60 days after the payment of tax or 60 days after the last day prescribed by law for such payment, whichever is later. Va. Code Ann. §58.1-15; Va. Code Ann. §58.1-1833 The interest rate is established quarterly and is the same for underpayments and overpayments. Va. Code Ann. §58.1-15. However, if a taxpayer does not provide to the dealer a valid exemption certificate at the time of purchase, and if the purchase qualifies for an exemption, then interest will not be paid on a refund claim before the date the taxpayer files the claim with the department. Va. Code Ann. §58.1-623(E), as amended by 2016 Va. S.B. 444/2016 Va. H.B. 398, effective July 1, 2016. BNA-SUTN VA 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:6% 2Q:7% 3Q:7% 4Q:7% In 2018, the Virginia interest rate on overpayments of tax is 6 percent for the first quarter, and 7 percent for the last three quarters. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 18-5 (Sept. 21, 2018); Virginia Tax Bulletin VTB 18-120 (June 20, 2018); Virginia Tax Bulletin VTB 18-2 (March 14, 2018); Virginia Tax Bulletin VTB 17-13 (Dec. 12, 2017). BNA-SUTN VA 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2017, the Virginia interest rate on overpayments of tax is 6 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 17-11 (Sept. 15, 2017); Virginia Tax Bulletin VTB 17-6 (June 21, 2017); Virginia Tax Bulletin VTB 17-2 (March 15, 2017); Virginia Tax Bulletin VTB 16-7 (Dec. 14, 2016); see Rev. Rul. 2016-28. BNA-SUTN VA 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:5% 2Q:6% 3Q:6% 4Q:6% In 2016, the Virginia interest rate on overpayments of tax is 5 percent for the first quarter, and 6 percent for the last three quarters. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-6 (Sept. 22, 2016). BNA-SUTN VA 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2015, the Virginia interest rate on overpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-6 (Sept. 22, 2016). BNA-SUTN VA 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2014, the Virginia interest rate on overpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2013, the Virginia interest rate on overpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2012, the Virginia interest rate on overpayments of tax is 5 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:5% 2Q:6% 3Q:6% 4Q:5% In 2011, the Virginia interest rate on overpayments of tax is 5 percent for the first quarter, 6 percent for the second and third quarters, and 5 percent for the fourth quarter. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2010, the Virginia interest rate on overpayments of tax is 6 percent. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:7% 2Q:6% 3Q:6% 4Q:6% In 2009, the Virginia interest rate on overpayments of tax is 7 percent for the first quarter, and 6 percent for the last three quarters. Va. Code Ann. §58.1-15; Virginia Tax Bulletin VTB 16-4 (June 17, 2016). BNA-SUTN VA 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Virginia did not have an amnesty program for 2018. BNA-SUTN VA 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+Yes Virginia had an amnesty program for 2017. Va. Code Ann. §58.1-1840.2; see Va. Dept. of Taxn., 2017 Tax Amnesty Program Announcement and Details (Sept. 5. 2017). Virginia offered a tax amnesty program from Sept. 13, 2017 through Nov. 14, 2017. The program provided that the state would waive one-half of the accrued interest and all of the penalties for taxpayers that pay the full tax due and one-half of the accrued interest during the amnesty period. The Department of Taxation sent notices to eligible taxpayers detailing which of their bills and delinquent tax returns qualify for the amnesty program. Va. Code Ann. §58.1-1840.2; see Va. Dept. of Taxn., 2017 Tax Amnesty Program Announcement and Details (Sept. 5. 2017). Relevant tax types and the corresponding periods eligible for amnesty were as follows:• Retail sales and use tax - periods including and prior to the month of April 2017; • Motor vehicle fuel sales tax - periods including and prior to the month of June 2013; • Aircraft sales and use tax - periods including and prior to April 2017; • Aircraft consumer use tax - returns due June 15, 2017 and prior; and • Individual consumer's use tax - returns due May 1, 2017 and prior. Virginia Ruling of the Commissioner PD 17-156 (Sept. 5, 2017). At the conclusion of the amnesty program, all tax liabilities that were eligible for amnesty but were not paid will be subject to a 20 percent post-amnesty penalty. The penalty will be assessed on unpaid taxes only, not on outstanding interest and penalties. Virginia Ruling of the Commissioner PD 17-156 (Sept. 5, 2017). BNA-SUTN VA 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Virginia did not have a tax amnesty program in 2016. BNA-SUTN VA 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Virginia did not have a tax amnesty program in 2015. BNA-SUTN VA 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Virginia did not have a tax amnesty program in 2014. BNA-SUTN VA 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Virginia did not have a tax amnesty program in 2013. BNA-SUTN VA 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Virginia did not have a tax amnesty program in 2012. BNA-SUTN VA 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Virginia did not have a tax amnesty program in 2011. BNA-SUTN VA 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Virginia did not have a tax amnesty program in 2010. BNA-SUTN VA 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+Yes Virginia offered a tax amnesty program in 2009. Under the program, Virginia waived all penalties and half of the interest on outstanding bills and delinquent returns for any tax, including sales and use tax, so long as the taxpayer paid all of the taxes and the other half of the interest due before December 5, 2009. Va. Code Ann. §58.1-1840.1, as repealed by 2016 Va. S.B. 372, effective July 1, 2016; see also Tax Amnesty:Striking a Deal with Virginia's Delinquent Taxpayers. BNA-SUTN VA 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes Virginia has a voluntary disclosure program to encourage taxpayers who are not properly registered and who have unreported tax liabilities to come forward voluntarily and “catch up” on their tax responsibilities. Va. Code Ann. §58.1-105;Virginia Dept. of Taxn., Voluntary Disclosure Program. This is an on-going program and is not related to a specific tax-amnesty program. Virginia businesses are eligible for the program; however, the typical candidate for the voluntary disclosure program is an out-of-state business that: • engages in sales, service or technical work in Virginia, or has property in Virginia sufficient to establish nexus with Virginia; • has not yet registered with the department or filed returns; and • is not yet the subject of any compliance inquiry from the Department. Virginia Dept. of Taxn., Voluntary Disclosure Program. A taxpayer who is under audit by the Department, who is already registered for the tax type in question, or who has received bills, nonfiler notices, or any inquiries about potential tax liability is probably not eligible for the voluntary disclosure program. Virginia Dept. of Taxn., Voluntary Disclosure Program. A taxpayer may initiate a voluntary disclosure case by submitting a written proposal or offer to the Department. The offer may be submitted by a third-party representative, and the taxpayer may remain anonymous while terms are negotiated. The Department evaluates each offer and usually responds with a formal agreement document that specifies the acceptable terms. The taxpayer is then asked to sign the agreement within 30 days and report its past due tax within 60 days. Virginia Dept. of Taxn., Voluntary Disclosure Program. Terms of the agreement will vary based on the facts of the situation. However, a typical agreement requires that a business register with the Department, commit to future compliance, perform a self-audit for a three-year lookback period, and pay the tax and interest found to be due. In exchange, the Department waives some or all late penalties for the lookback period and waives older periods entirely. When sales tax or withholding tax has been collected but not properly remitted, the required lookback period may be longer and penalty waiver more limited. Virginia Dept. of Taxn., Voluntary Disclosure Program. BNA-SUTN VA 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Three Years The voluntary disclosure program requires a self-audit for a three-year look-back period. Virginia Dept. of Taxn., Voluntary Disclosure Program. BNA-SUTN VA 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Does Not Participate Virginia does not participate in the Multistate Voluntary Disclosure Program(MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN VA 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The Tax Commissioner may order an authorized auditor or agent to examine a taxpayer's books or records containing information concerning the taxpayer's tax liability to enforce the tax and revenue laws of Virginia. Va. Code Ann. §58.1-219. Taxpayers must make their records available for inspection and examination at all reasonable hours of the business day. Va. Regs §10-210-470. If the taxpayer refuses to submit the books and records for examination, the Department may proceed to award, issue, and have served any writs, notices, processes, orders, or orders of publication for the purpose of compelling the attendance of any witness or the production of any relevant materials. Va. Code Ann. §58.1-219; Va. Code Ann. §58.1-216, see also Virginia Ruling of the Commissioner PD 18-83 (May 9, 2018) (estimating an assessment where the taxpayer did not provide any records). The auditor may review a sample of the taxpayer's transactions, and once an error factor is determined, extrapolate the factor over the entire audit period. A transaction may be removed from the audit sample if the taxpayer can demonstrate that it was an isolated event and not a normal part of their operations. Virginia Ruling of Commissioner PD 18-63 (May 2, 2018). When sampling techniques are properly applied, the final results should be within a narrow percentage range of the actual amounts that would be determined by a detailed audit. Where a taxpayer has provided documentation to support its contention that a sales tax liability produced by the sampling method is overstated, the audit staff must review this documentation to review and verify the taxpayer's calculations. Virginia Ruling of the Commissioner PD 18-106 (June 6, 2018). Once an audit is complete, taxpayers will have 90 days to apply to the commissioner for relief from any audit assessment. Va. Code Ann. §58.1-1821; see Virginia Ruling of the Commissioner PD 17-84 (June 2, 2017) (accepting taxpayer documentation submitted post-audit as a timely request for reconsideration and agreeing to adjust the assessment as appropriate based on the submitted information). For remote sellers, if a periodic audit is required it must be arranged such that the seller may complete a single audit covering state and all local sales and use taxes. Va. Code Ann. §58.1-601(B)(3), as added by 2019 Va. S.B. 1083, effective July 1, 2019. BNA-SUTN VA 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted Virginia provides that any person assessed with sales or use tax liability may, within ninety days from the date of such assessment, to file an appeal with the Tax Commissioner. Va. Code Ann. §58.1-1821; Va. Regs §10-20-165(D). The 90-day statute of limitations begins on the calendar day after the date of assessment and continues for 90 consecutive calendar days, including weekends and holidays. If the 90th day is a Saturday, Sunday, federal or Virginia state holiday, the appeal will be timely filed if filed on the next business day. The appeal must also be postmarked or have a metered date on or before the 90th calendar day, even if received after that date, to be timely filed. Va. Regs §10-20-165(C); see Virginia Ruling of the Commissioner PD 18-62 (May 2, 2018) (dismissing appeal filed 16 days late); Virginia Ruling of the Commissioner PD 15-243 (Dec. 23, 2015) (taxpayer's communication to the department was sent five days after the statute of limitations expired and could not be considered a timely appeal); Virginia Ruling of the Commissioner PD 15-203 (Oct. 19, 2015) (appeal was not timely filed since it was filed one day after the statutory filing period ended). Taxpayers that do not file a “complete” appeal within 90 days from the date of the assessment are barred from later filing an application for correction of the assessment. Virginia Ruling of the Commissioner PD 15-180 (Sept. 24, 2015) (taxpayer correspondence did not constitute a complete appeal). The appeal must include the following information to be “complete”:• taxpayer identification (including mailing address and federal taxpayer identification number or social security number); • type of tax being appealed; • taxable period; • date of the assessment(also include date of payment if payment was made prior to appeal); • the remedy sought; • a statement setting forth each alleged error in the assessment, along with the grounds upon which the taxpayer relies to support his or her contention of error; and • any controlling legal authority, including statutes, regulations, Tax Commissioner rulings, court decisions or other authority, upon which the taxpayer relies. Va. Code Ann. §58.1-1821; Va. Regs §10-20-165(D). Once the commissioner makes a determination, taxpayers may request a reconsideration within 45 days of the determination. For the request to be granted, one of the following must be true:• The facts upon which the original determination is based are misstated by the commissioner or are inaccurate, and the determination would have a different result based on a correction of the commissioner's misstatement of the facts presented or a clarification of the original facts presented in the taxpayer's administrative appeal; • The law upon which the original determination is based has been changed by legislation, court decision or other authority effective for the tax period(s) at issue; • The policy upon which the original determination is based is misapplied, and the determination would have a different result based on the application of the proper policy; or • The taxpayer has discovered additional evidence or documentation that was not available to the taxpayer at the time the original administrative appeal was filed with the department, and the additional evidence or documentation could produce a result different from the original determination. Va. Regs §10-20-165(F); see Virginia Ruling of the Commissioner PD 17-106 (June 21, 2017) (denying taxpayer request for reconsideration that involves presenting an issue not raised by the taxpayer in their original petition as this does not fulfill any of the stipulations for granting reconsideration). Taxpayers requesting an adjustment to an audit bear the burden of proof and must supply documentation supporting the request. Any request for adjustment will generally not be granted without proper documentation showing why the adjustment is necessary. See, e.g., Virginia Ruling of the Commissioner PD 18-82 (May 9, 2018) (taxpayer's documentation did not support that sales at issue were for resale or were resold to a federal government agency); Virginia Ruling of the Commissioner PD 16-4 (Feb. 3, 2016) (taxpayer requested an adjustment but did not supply documentation;thus, no adjustment was made; however, an additional 60 days was given to furnish the documentation before the assessment is finalized). Abatement for Erroneous Advice When an assessment is attributable to erroneous advice, furnished in writing to a taxpayer by an employee of the department, the Tax Commissioner is authorized to abate the assessment or relevant portion of the assessment. The following requirements must be met:• The written advice was reasonably relied upon by the taxpayer and was in response to a specific written request by the taxpayer; • The portion of the penalty or tax did not result from a failure by the taxpayer to provide adequate or accurate information; and • The facts of the case described in the written advice and the request therefore are the same, and the taxpayer's business or personal operations have not changed since the advice was rendered. Va. Code Ann. §58.1-1835; see Virginia Ruling of the Commissioner PD 17-100 (June 20, 2017) (rejecting taxpayer defense of having received erroneous advice from a department employee because there was no evidence in department records, or produced by the taxpayer, of written or verbal advice being provided to the taxpayer regarding the taxability of specific items). BNA-SUTN VA 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:8% 2Q:8% 3Q:7% 4Q:TBA In 2019, the Virginia interest rate on underpayments of tax is 8 percent in the first two quarters and 7 percent in the third quarter. Va. Code Ann. §58.1-15(A); Virginia Tax Bulletin VTB 19-5 (June 17, 2019); Virginia Tax Bulletin VTB 19-3 (March 6, 2019); Virginia Tax Bulletin VTB 18-6 (Dec. 14, 2018). BNA-SUTN VA 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:8% 2Q:8% 3Q:7% 4Q:TBA In 2019, the Virginia interest rate on overpayments of tax is 8 percent in the first two quarters and 7 percent in the third quarter. Va. Code Ann. §58.1-15(A); Virginia Tax Bulletin VTB 19-5 (June 17, 2019); Virginia Tax Bulletin VTB 19-3 (March 6, 2019); Virginia Tax Bulletin VTB 18-6 (Dec. 14, 2018). BNA-SUTN VA 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Virginia has not announced an amnesty program for 2019. BNA-SUTN VA 31.14.11.
+
+==================================================

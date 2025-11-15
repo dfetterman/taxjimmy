@@ -1,0 +1,459 @@
+State: Vermont
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Vermont Department of Taxes Vermont's state sales and use tax is administered by the Vermont Department of Taxes which is headed by the commissioner of taxes. Vt. Stat. Ann. tit. 32, §9701(2); Vt. Stat. Ann. tit. 32, §3101(a). BNA-SUTN VT 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Vermont Department of Taxes The local option taxes are administered and collected by the Vermont Department of Taxes in accordance with the law governing the state level sales tax. Vt. Stat. Ann. tit. 24, §138(c). 70 percent of the cost of administration and collection is borne by the municipality imposing the tax and 30 percent is borne by the state and paid from the Payment in Lieu of Taxes (PILOT) special fund, which is a special fund consisting of local option taxes paid to the treasurer. Vt. Stat. Ann. tit. 24, §138(c); Vt. Stat. Ann. tit. 32, §3709(a). For returns filed on or after July 1, 2010, there is also a per-return fee of $9.52 assessed by the state against the municipality to compensate for costs of administration and collection of the local option taxes. Vt. Stat. Ann. tit. 24, §138(c). Vendors are supposed to report the local option sales tax they collect on their state sales tax returns utilizing their assigned filing frequency, meaning the intervals that the Commissioner of Taxes (commissioner) designates for the filing of sales and use tax returns. See Vt. Stat. Ann. tit. 32, §9775; Vt. Stat. Ann. tit. 32, ch 233 §9776; Vermont Technical Bulletin TB-37. These local option taxes are to be reported by vendors on their Vermont state sales tax return in order for the revenue to be collected and administered by the Vermont department of taxes. BNA-SUTN VT 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Any person required to collect sales tax and any person purchasing tangible personal property for resale must apply for a license before commencing business or opening new places of business. The commissioner issues the license, free of charge, allowing the registrant to collect taxes. The license must state the place of business and must be prominently displayed in the registrant's place of business. Vt. Stat. Ann. tit. 32, §9707(a). The following persons and entities are required to register:• persons making sales of tangible personal property or services and the receipts from those sales are subject to tax; • persons maintaining a place of business in the state and making sales, either at the place of business or elsewhere, to persons within the state of tangible personal property or services, the use of which is subject to tax; • persons soliciting business either by agents, employees, independent contractors, or other representatives, or by distributing catalogs or other advertising materials and sells tangible personal property or services to person in Vermont, the use of which is subject to tax; • the State of Vermont or any of its agencies, instrumentalities, public authorities, public corporations, or political subdivision sells services or property of a kind ordinarily sold by private persons; • persons purchasing tangible personal property for resale; • persons receiving admissions charges, incidental charges, or any other type of charge for the use of any place of recreation or amusement; and • persons not otherwise required to collect Vermont tax who voluntarily collect the tax. Vt. Code R. §1.9707-1(A). Promoters The promoter of the event, at which taxable sales will be made by out-of-state vendors, must provide the commissioner a list of vendors authorized by the promoter to sell taxable property and the vendors' current sales tax license numbers. At least a week before the event, the promoter must notify the Department of Revenue in writing of any changes to the list of participating vendors and their sales tax license numbers. The term “event” for this section is defined as a specific location and time where there are 25 or more vendors that are authorized by the promoter to sell taxable items. Vt. Stat. Ann. tit. 32, §9707(b). BNA-SUTN VT 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Seller If the commissioner deems it necessary for the efficient administration of the sales and use tax to treat any salesman, representative, peddler or canvasser as the agent of the vendor, distributor, supervisor or employer under whom he or she operates or from whom he or she obtains tangible personal property sold by him or her of for whom he or she solicits business, the commissioner may treat such agent as the vendor jointly and severally responsible for the collection and payment of the tax. Vt. Stat. Ann. tit. 32, §9704. BNA-SUTN VT 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Allowed. In Vermont, purchasers are liable for use tax on tangible personal property purchased at retail (in addition to other items and services) if the purchaser did not pay the applicable Vermont sales tax. Vt. Stat. Ann. tit. 32, §9773. BNA-SUTN VT 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Any person required to collect sales and use tax is personally and individually liable for the amount of such tax together with interest and penalty;if the person is a corporation or other entity, the personal liability extends and applies to any officer or agent of the corporation who is obligated to collect and transmit the tax to the Department of Revenue. Vt. Stat. Ann. tit. 32, §9703(a). BNA-SUTN VT 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Vermont relieves a seller or certified service provider (CSP) from liability for tax, interest, and penalties if the seller or CSP charged and collected the incorrect tax due to erroneous information in the tax administration practices section of the Vermont's taxability matrix. Vt. Code R. §1.9776(B);Streamlined Sales Tax Governing Board, User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). Likewise, if Vermont changes the Tax Administration Practices or Definitions sections of its taxability matrix, and if the seller or CSP relied on the taxability matrix's earlier version, then Vermont provides the seller or CSP with liability relief for the tax, interest, and penalties for having charged and collected the incorrect tax until the first day of the calendar month that is at least 30 days after Vermont notifies the SST Governing Board of the change. Vt. Code R. §1.9776(B); Streamlined Sales Tax Governing Board, Taxability Matrix, Vermont (version 2018.0). BNA-SUTN VT 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability Vermont relieves a seller or certified service provider (CSP) from liability for tax, interest, and penalties if the seller or CSP charged and collected the incorrect tax due to erroneous information in the tax administration practices section of the Vermont's taxability matrix. Vt. Code R. §1.9776(B). Certified Service Providers are required to electronically file a simplified return on behalf of Model 1 Sellers on a monthly basis. Vt. Code R. §1.9775(D). “Model 1 Sellers” are defined as sellers registered under the Streamlined Sales and Use Tax Agreement that have selected a Certified Service Provider to perform all the seller's sales and use tax functions, other than the seller's obligation to remit tax on its own purchases. Vt. Code R. §1.9775(C)(3). BNA-SUTN VT 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided Sellers may file one return for Vermont and all local option tax jurisdictions for each taxing period on the form prescribed by the commissioner. Vt. Stat. Ann. tit. 32, §9775(c); Vt. Code R. §1.9775. Provisions for Streamlined Sales Tax Returns Model 1, Model 2, and Model 3 Sellers can submit returns set up by the commissioner to conform with the simplified data field requirements put forth by the Governing Board of the Streamlined Sales Tax Project. Vt. Code R. §1.9775(A). Model 1, Model 2, and Model 3 Sellers can file additional information returns as required by the commissioner. The additional informational returns can be submitted once every six months under a staggered system developed by the Governing Board of the Streamlined Sales Tax Project. Vt. Code R. §1.9775(B). Any registered seller under the Streamlined Sales and Use Tax Agreement, who has no legal obligation to register in Vermont and is not a Model 1, Model 2, or Model 3 Seller must submit its sales and use tax returns on an annual basis on or before January 25th of each year. These sellers must also submit returns in the month following any month in which they have accumulated$1,000 or more in Vermont state and local tax funds. Vt. Code R. §1.9775(C). Use Tax Reporting Tables Individuals who purchase items upon which sales tax was not charged, whether in another state or over the internet, that cost no more than $1,000 and have not kept records as to the exact amount of use taxes due must use the Use Tax Reporting Table to estimate their annual use tax liability. The Use Tax Reporting Table estimates an individual's use tax liability based his or her adjusted gross income. The Use Tax Reporting Table may be found in Vermont Tax Fact Sheet FS-1035. Vermont Tax Fact Sheet FS-1035. For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. BNA-SUTN VT 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+25th of the Month The date on which the return is due depends on the amount of Vermont sales and use tax required to be collected or paid for the immediately preceding calendar year. Vt. Stat. Ann. tit. 32, §9775(a). Any person required to collect or pay sales and use tax of $500 or less for the immediate preceding calendar year must pay the tax in one annual payment on or before Jan. 25. Any person required to collect or pay sales and use tax of more than $500 but less than $2,500 must pay in quarterly installments on or before April 25, July 25, Oct. 25, and Jan. 25. In all other cases, the sales and use tax is payable monthly on or before the 25th day of the month after the month for which the tax is due. Vt. Stat. Ann. tit. 32, §9775(a). If the due date falls on a federal or state holiday, the due date is the next business day following the holiday. When a return is filed by mail it will be accepted as timely if (1)it is received by the Department of Revenue within three business days, or (2) the taxpayer provides proof to the commissioner that the return was mailed by the due date. Vt. Stat. Ann. tit. 32, §3201(d). Electronic Filing Effective Nov. 12, 2015, business taxpayers can pay their sales and use taxes using Vermont's myVTax filing system. VTBiz is no longer available for filing returns. See Vermont Dept. of Taxes for additional information. Beginning Jan. 1, 2016, multi-location sales and use tax filers must file and pay their taxes electronically. Businesses that satisfy this criteria will be notified by email. See Vermont Dept. of Taxes, E-Filing Mandate. BNA-SUTN VT 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing The date on which the payment is due depends on the amount of Vermont sales and use tax required to be collected or paid for the immediately preceding calendar year. Vt. Stat. Ann. tit. 32, §9775(a). Any person required to collect or pay sales and use tax of $500 or less for the immediate preceding calendar year must pay the tax in one annual payment on or before Jan. 25. Any person required to collect or pay sales and use tax of more than $500 but less than $2,500 must pay in quarterly installments on or before April 25, July 25, Oct. 25, and Jan. 25. In all other cases, the sales and use tax is payable monthly on or before the 25th day of the month after the month for which the tax is due. Vt. Stat. Ann. tit. 32, §9775(a). BNA-SUTN VT 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+No Vermont does not provide for the extension of time to file sales and use tax returns. See Vt. Stat. Ann. tit. 32, §9775(a). BNA-SUTN VT 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. In Vermont, the commissioner may, for cause, grant an extension of time to file a return of up to three months. Vt. Stat. Ann. tit. 32, §9702(a)(1). BNA-SUTN VT 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Permitted Vermont permits electronic payment of sales and use taxes. Vt. Stat. Ann. tit. 32, §9776; see Vermont Dept. of Taxes, E-Filing Mandate. Payment by electronic funds transfer, via ACH Credit or ACH Debit, may be authorized by the commissioner. The commissioner can also require payment by electronic funds transfer from any taxpayer who is required by federal law to pay any federal tax in that manner, or from any taxpayer who has submitted two or more protested or uncollectable checks in regard to any state tax payments in the last two years. Vt. Stat. Ann. tit. 32, §9776. Electronic Filing Effective Nov. 12, 2015, business taxpayers can pay their sales and use taxes using Vermont's myVTax filing system. VTBiz is no longer available for filing returns. See Vermont Dept. of Taxes for additional information. Beginning Jan. 1, 2016, multi-location sales and use tax filers must file and pay their taxes electronically. Businesses that satisfy this criteria will be notified by email. See Vermont Dept. of Taxes, E-Filing Mandate. BNA-SUTN VT 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Vermont permits electronic payment of sales and use taxes via ACH Credit or ACH Debit. Vt. Stat. Ann. tit. 32, §9776. See Vermont Dept. of Taxes, E-Filing Mandate; see also Vermont Dept. of Taxes, Quick Start Taxpayer Guide: ACH Credit Payments. Payment by electronic funds transfer, via ACH Credit or ACH Debit, may be authorized by the commissioner. The commissioner can also require payment by electronic funds transfer from any taxpayer who is required by federal law to pay any federal tax in that manner, or from any taxpayer who has submitted two or more protested or uncollectable checks in regard to any state tax payments in the last two years. Vt. Stat. Ann. tit. 32, §9776; see Vermont Dept. of Taxes, ACH Credit Processing (October 2018). Electronic Filing Effective Nov. 12, 2015, business taxpayers can pay their sales and use taxes using Vermont's myVTax filing system. VTBiz is no longer available for filing returns. See Vermont Dept. of Taxes for additional information. Beginning Jan. 1, 2016, multi-location sales and use tax filers must file and pay their taxes electronically. Businesses that satisfy this criteria will be notified by email. See Vermont Dept. of Taxes, E-Filing Mandate. BNA-SUTN VT 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+Excess Sales Tax Collected Every person who collects the Vermont sales tax from purchasers of taxable items as required under law and in accordance with the tax bracket schedule is entitled to retain, as partial compensation for services rendered to the state of Vermont in collecting the tax, any amount lawfully collected in excess of the tax imposed by the state of Vermont. Vt. Stat. Ann. tit. 32, §9776. BNA-SUTN VT 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes Exempt entity, use and resale sales in Vermont must be supported by a properly executed exemption certificate; otherwise the transaction will be deemed taxable. Vermont Exemption Certificate Form S-3. A vendor can obtain an exemption certificate, which can be electronically filed, regarding the following types of sales: sales for resale; sales to organizations that are exempt under section 9743 (organizations not covered); and sales that qualify for a use-based exemption under section 9741 (sales not covered). Vt. Stat. Ann. tit. 32, §9745. Retention Periods A taxpayer must keep an exemption certificate used in a transaction for three years after the transaction. Vermont Exemption Certificate Form S-3. Consequences of Failing to Obtain Exemption Certificates A vendor's failure to possess an exemption certificate at the time of sale is presumptive evidence that the sale is taxable. Vt. Stat. Ann. tit. 32, §9745; Vermont Formal Ruling No. 2012-08 (Nov. 14, 2012) (vendor's failure to possess an exemption certificate at the time of sale is presumptive evidence that the sale is taxable). BNA-SUTN VT 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+No Specific Time Period An exemption certificate is valid as long as the exempt purpose it represents still exists. Vt. Code R. §1.9745-1(C). BNA-SUTN VT 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted The MTC's Uniform Sales and Use Tax Certificate is valid in Vermont. Multistate Tax Commission, Member States. The Multistate Tax Commission has developed a Uniform Sales and Use Tax Certificate that 38 States have indicated is acceptable for use as a “blanket” resale certificate and for similar purposes. The Certificate itself contains instructions on its use, lists the States that have indicated to the Commission that a properly filled out form satisfies their requirements for a valid resale certificate, and sets forth specific limitations on its use. Multistate Tax Commission, Member States. BNA-SUTN VT 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted Vermont is a member to the Streamlined Sales Tax agreement, and accepts SST tax exemption certificate SSTGB Form F0003. See Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN VT 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Not Accepted Vermont does not provide other exemption certificates. Vt. Code R. §1.9745-1. BNA-SUTN VT 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes A vendor's burden of proof that the sale is not taxable is satisfied with the good faith acceptance of an exemption certificate. Vermont Exemption Certificate Form S-3. In order for good faith to be established, all of the following conditions must be met:• The buyer must present the certificate prior to or at the time of the purchase of the property. • The certificate must contain no statement or entry which the seller knows, or has reason to know, is false or misleading. • The certificate is on an exemption form issued by the Vermont Department of Taxes or a form with substantially identical language. • The certificate must be dated and complete and in accordance with published instructions. • The Vermont Sales and Use Tax account number is provided on the certificate where applicable. • The property to be purchased is of a type ordinarily used by the buyer for the purpose described on the certificate. Vermont Exemption Certificate Form S-3. BNA-SUTN VT 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+90 Days Department regulations and formal rulings indicate that a taxpayer may obtain an exemption certificate within 90 days of the sale, or within 120 days after a request for production by the Department. Vt. Code R. §1.9745-1(C); Vermont Formal Ruling No. 2012-08 (Nov. 14, 2012). However, Vermont Form S-3 stipulates that a buyer must present an exemption certificate prior to or at the time of the purchase of the property. Vermont Exemption Certificate Form S-3. BNA-SUTN VT 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 years A taxpayer must keep an exemption certificate used in a transaction for at least three years after the transaction. The Commissioner of Taxes may authorize the earlier destruction or require the longer retention of taxpayer's records. Vt. Stat. Ann. tit. 32, §9709; Vermont Exemption Certificate Form S-3. BNA-SUTN VT 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Accepted Vermont uses Vermont Form S-3: Purchases for Resale and by Exempt Organizations for exempt purchases for resale. BNA-SUTN VT 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Accepted Vermont uses Vermont Form S-3: Purchases for Resale and by Exempt Organizations for purchases by exempt entities. BNA-SUTN VT 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Accepted Vermont uses different use-based exemption certificates depending on the type of product. Vermont uses the following use-based exemption certificates:• Vermont Form S-3A: Agricultural Fertilizers, Pesticides, Machinery, and Equipment • Vermont Form S-3C: Contractors Completing a Qualified Exempt Project • Vermont Form S-3E: New Metering, Home or Business Energy Systems or Solar Hot Water Systems • Vermont Form S-3F: Fuel or Electricity • Vermont Form S-3M: Manufacturing, Publishing, Research and Development, or Packaging • Vermont Form S-3T: Purchases of Toothbrushes, Floss and Similar Items of Nominal Value to be Given to Patients for Treatment • Vermont Form S-3V: Registrable Motor Vehicles other than Cars and Trucks BNA-SUTN VT 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized Holders of a “direct pay permit” or “direct payment permit”issued by the commissioner are allowed to accrue and pay sales and use taxes directly to the Vermont Department of Revenue. Vt. Code R. §1.9745-2. Applications for a direct pay permit have to be in writing and on a form prescribed by the commissioner. The application must contain the applicant's name, address, location of the place or places of business which the applicant intends to make direct payment of tax, and the applicant's business registration number. Vt. Code R. §1.9745-2(A). Qualification Process and Requirements Direct payment permit applicants must demonstrate their ability to comply with sales and use tax laws. Applicants are also required to provide a description of the accounting system or systems that they will implement and show that the system or systems will reflect the proper amount of tax due. Vt. Code R. §1.9745-2(B)(1). A business purpose for seeking a direct pay permit must be established by the applicant. The applicant is also required to demonstrate how the direct pay permit will benefit tax compliance. The utilization of direct payment authority should accomplish one or more of the following:• reduce the administrative work of determining taxability; collecting, verifying, calculating and/or remitting the tax; • provide for improved compliance with Vermont tax law; • provide for accurate compliance in circumstances where determination of taxability of the item is difficult or impractical at the time of purchase; • provide for more accurate calculation of the tax where new or electronic business processes utilizes (e.g., electronic data interchange, evaluated receipts settlements, or procurement cards); • provide for more accurate determination and calculation of tax where significant automation, centralization of purchasing, and/or accounting processes have occurred. The applicant must comply with the laws and regulations of multiple state and local jurisdictions. Vt. Code R. §1.9745-2(B)(2). All permit applications are reviewed by the commissioner or commissioner's designee. The applicant will receive notification of authorization or denial within ninety days from the date the application was received by the commissioner. Vt. Code R. §1.9745-2(B)(3). Holders of valid direct pay permits must accrue report and pay directly to the commissioner the taxes due for all transactions subject to tax. When a direct payment permit is used, taxes are considered due and payable on the sales and use tax return that is next due once taxability is determined. Vt. Code R. §1.9745-2(C). Certain Transactions Not Permitted The holder of a direct pay permit cannot use the permit in connection with purchases that are not subject to sales and use tax, including, but not limited to purchases of:• taxable meals or beverages; • taxable lodging or services related thereto; and • motor vehicles, whether or not they are subject to the motor vehicle purchase and use tax. Vt. Code R. §1.9745-2(D)(1). The holder of a direct pay permit must not use it in connection with the following transactions that are typically subject to sales and use tax:• purchases of admissions to places of amusement, entertainment, or athletic events; Vt. Code R. §1.9745-2(D)(2). • purchases of telecommunication services; Vt. Code R. §1.9745-2(D)(2)(b). • other taxable purchases as may be agreed to between the holder of the permit and the commissioner. Vt. Code R. §1.9745-2(D)(2)(c). BNA-SUTN VT 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years Under Vermont law, every person required to collect the state sales and use tax is required to maintain records of every sale or amusement charge and of all amounts paid, charged, or due on those sales or uses and of the applicable tax payable for a period of three years. Vt. Stat. Ann. tit. 32, §9709. The records should contain the information that is necessary to make a determination of the correct sales and use tax liability. Vt. Code R. §1.9709-1(A); Vermont Formal Ruling No. 2012-08 (Nov. 14, 2012). If a taxpayer retains the required records in both electronic and hard-copy formats, the taxpayer must make the records available to the commissioner in the form requested by the commissioner. Vt. Code R. §1.9709-1(C). Time Period for Maintenance of Records Generally, these records are required to be preserved for a period of three years. Vt. Stat. Ann. tit. 32, §9709. However, the commissioner may consent in writing to earlier destruction of the records, or may require that the records be kept longer. Vt. Stat. Ann. tit. 32, §9709. The time for retention of the records begins to run from the date on which the taxpayer files the tax return. By regulation, the Department of Taxes indicates that it is prudent for taxpayers to retain these required records for a longer period of time, in light of provisions that permit assessment of additional tax beyond the three-year period for certain situations and that the burden of proving exemptions is on the person required to collect the tax. Vt. Code R. §1.9709-4. Content of Records The records required to be kept must include a true copy of each sales slip, invoice, receipt, statement, or memorandum upon which Vermont law requires that a tax be separately stated. Vt. Stat. Ann. tit. 32, §9709. More specifically, the taxpayer's records must include, but should not be limited to, the normal books of account ordinarily maintained by the average prudent business person engaged in the taxpayer's business, together with all bills, receipts, invoices, cash register tapes, sales slips, or other documents of original entry supporting the entries in the books of account. The records should also contain all schedules or working papers used in conjunction with the preparation of tax returns. Vt. Code R. §1.9709-1(A). Electronic Records Taxpayers who do not create the electronic equivalent of traditional paper documents in the ordinary course of business are not required to construct electronic records for tax purposes. Taxpayers who do create electronic records in the ordinary course of business are not required to construct electronic records other than those that are created in the ordinary course of business. Vt. Code R. §1.9709-2(C). In the event that a taxpayer uses electronic records to establish tax compliance, those records must contain sufficient transaction-level detail information so that the details underlying the electronic records can be identified and made available to the commissioner upon request. At the time of an examination by the commissioner, the electronic records must be capable of being retrieved and converted to a standard record format. Vt. Code R. §1.9709-2(A)-(B). It should be noted that a taxpayer is not prohibited from demonstrating compliance with tax law using traditional hard-copy documents or reproductions of those documents, whether or not the taxpayer has also retained or has the capacity to retain the records on electronic or other storage media. Vt. Code R. §1.9709-1(D). However, a taxpayer has discretion to discard duplicated records and redundant information, provided that the responsibility to maintain sufficient records for tax compliance purposes is otherwise satisfied. Vt. Code R. §1.9709-2(A). In the event that the commissioner requests that a taxpayer provide a description of the business process that created the taxpayer's records, the taxpayer must provide a description of the relationship between the records and the tax documents prepared by the taxpayer and the measures used to ensure the integrity of the records. More specifically, the taxpayer must be capable of demonstrating the functions being performed as they relate to the flow of data through the system, the internal controls used to ensure the accurate and reliable processing, and internal controls used to prevent unauthorized addition, alteration, or deletion of retained records. Vt. Code R. §1.9709-2(E). The manner in which a taxpayer can satisfy the commissioner's request for access to electronic records depends on the facts and circumstances of a taxpayer's situation. More specifically, a taxpayer may satisfy the request by arranging to provide the commissioner with hardware, software, and personnel resources to access the records;arranging for a third party to provide the hardware, software, and personnel resources necessary to access the records; converting the electronic records to a standard record format that is agreed to and specified by the commissioner; or any other means agreed to by the taxpayer and the commissioner for the provision of access to the records. Vt. Code R. §1.9709-2(F). Alternative Storage Media For purposes of compliance with a taxpayer's record storage and retention requirement, hard-copy documents received or produced in the normal course of business that are required to be retained may be converted to microfilm, microfiche, or other storage-only imaging systems. A taxpayer may discard the original hard-copy documents, provided that the documents retained under the alternative storage media system exhibit a high degree of legibility and readability. Vt. Code R. §1.9709-3(A). Alternative storage media systems may be used to store documents that include, but are not limited to, general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates, and credit memoranda. Vt. Code R. §1.9709-3(A). In the event that the commissioner requests access to records maintained by an alternative storage media system such as microfilm, microfiche, or other storage-only imaging system, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents. Vt. Code R. §1.9709-3(B). BNA-SUTN VT 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both An application for a tax refund must be made within three years from the date the return was required to be filed. Vt. Stat. Ann. tit. 32, §9781(a); Vermont Formal Ruling No. 2012-08 (Nov. 14, 2012). The application for a tax refund must be made by the person who paid the tax, or by a person who was required to collect the tax and who has already repaid the money to the customer. Vt. Stat. Ann. tit. 32, §9781(a); Vermont Formal Ruling No. 2012-08 (Nov. 14, 2012). A person is not entitled to a refund if he or she had a hearing or opportunity for a hearing under section 9777 (determination of tax or penalty). Vt. Stat. Ann. tit. 32, §9781(b). No refund may be made until the taxpayer establishes to the satisfaction of the Commissioner that the taxpayer has repaid its customers the amounts for which application for refund is made. Vt. Stat. Ann. tit. 32, §9781(a); Vermont Formal Ruling No. 2015-01 (repayment to customers would not be required if the tax was paid by the taxpayer, but not collected from its customers). BNA-SUTN VT 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years Applications for refund must be made within three years of the date the return for the period to which the refund relates was required to be filed. Vt. Stat. Ann. tit. 32, §9781(a). BNA-SUTN VT 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years Generally, except in the case of a willfully false or fraudulent return made with intent to evade the tax, no assessment of additional tax may be made more than three years after the filing date of a return or the date a return is due, whichever is later. Vt. Stat. Ann. tit. 32, §9815(b). When no tax return has been filed that is required by law, there is no statute of limitations period. Where the tax collected has been under-reported by at least 20 percent, an assessment can be made for up to six years after the filing date of the return. Vt. Stat. Ann. tit. 32, §9815(b). The attorney general may bring an action to recover the amount of taxes, penalties and interest due from a vendor up to six years after the due date, or at any time if the vendor filed a fraudulent return or failed to file a return when it was due. Vt. Stat. Ann. tit. 32, §9812(a). BNA-SUTN VT 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Vermont imposes civil penalties for failure to file or pay sales and use taxes. Vt. Stat. Ann. tit. 32, §3202(b). Failure to File When a taxpayer fails to file a tax return, the commissioner may assess a penalty equal to five percent of the outstanding tax liability for each month, or portion thereof, that the tax return is not filed, up to a limit of 25 percent of the original unpaid tax liability. No penalty will be imposed if the taxpayer affirmatively shows that failure to file was due to reasonable cause and not willful neglect. Vt. Stat. Ann. tit. 32, §3202(b)(1). Failure to Pay When a taxpayer fails to pay a tax liability, the commissioner can assess a penalty equal to five percent of the outstanding tax liability for each month, or portion thereof, that the liability is not paid in full, up to a limit of 25 percent of the original unpaid tax liability. Vt. Stat. Ann. tit. 32, §3202(b)(3). Negligent Failure to Pay When a taxpayer fails to pay a tax liability and the liability is due to negligence or amounts to a substantial understatement of tax, the commissioner can assess a penalty equal to 25 percent of the underpayment. Under this section, “negligence”is defined as any failure to make a reasonable attempt to comply with the tax code; “substantial understatement” is defined as an understatement of 20 percent of more of the tax. Vt. Stat. Ann. tit. 32, §3202(b)(4). Fraudulent Failure to Pay When a taxpayer fraudulently, or with willful intent to defeat or evade tax liability, fails to pay a tax liability on time or requests and receives a refund of a tax liability, the commissioner can assess a penalty equal to the amount of the unpaid tax liability or of the amount received as a refund. Vt. Stat. Ann. tit. 32, §3202(b)(5). BNA-SUTN VT 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Vermont imposes criminal penalties for failure to file, collect or remit sales and use taxes by any person who does so knowingly or with the intent to evade a tax liability. Vt. Stat. Ann. tit. 32, §9814a(a)-(b). A person who knowingly fails to file a return, fails to collect tax, or fails to remit tax can be imprisoned for up to one year, fined up to $1,000, or both. Vt. Stat. Ann. tit. 32, §9814a(a). Any person who, with the intent to evade a tax liability, fails to file a return, fails to collect a tax, or fails to remit a tax, if the amount is more than$500, can be imprisoned for up to three years, fined up to $10,000, or both. Vt. Stat. Ann. tit. 32, §9814a(b). A person who knowingly engages in any business without a valid license when that business requires registration commits a separate offense for each calendar week they are engaged in business. Each offense is a misdemeanor and for the first offense the person will have to pay a fine up to $250 or be imprisoned up to 60 days, or both. For a second or subsequent offense the person is sentence to pay a fine not less than $250 or more than $500 or imprisoned up to six months, or both. Vt. Stat. Ann. tit. 32, §9814a(e). BNA-SUTN VT 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes Vermont may waive penalties for failure to file a tax return if the failure is demonstrated to be due to reasonable cause and not willful neglect. Vt. Stat. Ann. tit. 32, §3202(b)(1). BNA-SUTN VT 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Annually Vermont determines interest rates for underpayments and overpayments of tax on an annual basis. Vt. Stat. Ann. tit. 32, § 3202(a); Vt. Stat. Ann. tit. 32, § 3108(a). BNA-SUTN VT 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Prime Rate + 2% The interest rate on underpayments of tax in Vermont is determined by adding two percentage points (i.e. 200 basis points) to the average prime rate charged by banks during the immediately preceding 12 months beginning on Oct. 1 of the prior year, rounded up to the nearest quarter percent. The interest rate is determined no later than Dec. 15 of each year and becomes effective on Jan. 1 of the following year. Vt. Stat. Ann. tit. 32, §3108(a), as amended by 2019 Vt. H. 514, effective June 10, 2019; Vermont Dept. of Taxes, Interest Rates. The rate established by the commissioner is effective on Jan. 1st of the immediately following year. Vt. Stat. Ann. tit. 32, §3108. BNA-SUTN VT 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2018, the Vermont interest rate on underpayments of tax is 6 percent. Vt. Stat. Ann. tit. 32, § 3108(a);Vt. Dept. of Taxes, 2018 Interest Rate Memo and Interest Rate Chart. BNA-SUTN VT 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:5.6% 2Q:5.6% 3Q:5.6% 4Q:5.6% In 2017, the Vermont interest rate on underpayments of tax is 5.6 percent. Vt. Stat. Ann. tit. 32, §3108(a);Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:5.6% 2Q:5.6% 3Q:5.6% 4Q:5.6% In 2016, the Vermont interest rate on underpayments of tax is 5.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:5.6% 2Q:5.6% 3Q:5.6% 4Q:5.6% In 2015, the Vermont interest rate on underpayments of tax is 5.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:5.6% 2Q:5.6% 3Q:5.6% 4Q:5.6% In 2014, the Vermont interest rate on underpayments of tax is 5.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:5.6% 2Q:5.6% 3Q:5.6% 4Q:5.6% In 2013, the Vermont interest rate on underpayments of tax is 5.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2012, the Vermont interest rate on underpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2011, the Vermont interest rate on underpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2010, the Vermont interest rate on underpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2009, the Vermont interest rate on underpayments of tax is 6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Prime Rate The interest rate on overpayments of tax in Vermont is the average prime rate charged by banks during the immediately preceding 12 months beginning on Oct. 1 of the prior year, rounded up to the nearest quarter percent. The interest rate is determined no later than Dec. 15 of each year and becomes effective on Jan. 1 of the following year. Vt. Stat. Ann. tit. 32, §3108(a), as amended by 2019 Vt. H. 514, effective June 10, 2019; Vermont Dept. of Taxes, Interest Rates. If it is determined that the taxpayer overpaid on the tax liability, the commissioner will refund the excess amount to the taxpayer together with interest at the rate per year established from time to time by the commissioner. The interest is computed from the later date of either 45 days after the date the return was filed or 45 days after the date the return was due. Vt. Stat. Ann. tit. 32, §9781(c). BNA-SUTN VT 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2018, the Vermont interest rate on overpayments of tax is 4 percent. Vt. Stat. Ann. tit. 32, § 3108(a);Vt. Dept. of Taxes, 2018 Interest Rate Memo and Interest Rate Chart. BNA-SUTN VT 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:3.6% 2Q:3.6% 3Q:3.6% 4Q:3.6% In 2017, the Vermont interest rate on overpayments of tax is 3.6 percent. Vt. Stat. Ann. tit. 32, §3108(a);Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:3.6% 2Q:3.6% 3Q:3.6% 4Q:3.6% In 2016, the Vermont interest rate on overpayments of tax is 3.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:3.6% 2Q:3.6% 3Q:3.6% 4Q:3.6% In 2015, the Vermont interest rate on overpayments of tax is 3.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:3.6% 2Q:3.6% 3Q:3.6% 4Q:3.6% In 2014, the Vermont interest rate on overpayments of tax is 3.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:3.6% 2Q:3.6% 3Q:3.6% 4Q:3.6% In 2013, the Vermont interest rate on overpayments of tax is 3.6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2012, the Vermont interest rate on overpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2011, the Vermont interest rate on overpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:4.8% 2Q:4.8% 3Q:4.8% 4Q:4.8% In 2010, the Vermont interest rate on overpayments of tax is 4.8 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:6% 2Q:6% 3Q:6% 4Q:6% In 2009, the Vermont interest rate on overpayments of tax is 6 percent. Vermont Dept. of Taxes, Interest Rates. BNA-SUTN VT 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No Vermont did not have a tax amnesty program for 2018. BNA-SUTN VT 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Vermont did not have a tax amnesty program in 2017. BNA-SUTN VT 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Vermont did not have a tax amnesty program in 2016. BNA-SUTN VT 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Vermont did not have an amnesty program in 2015. BNA-SUTN VT 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Vermont did not have an amnesty program in 2014. BNA-SUTN VT 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No Vermont did not have an amnesty program in 2013. BNA-SUTN VT 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No Vermont did not have an amnesty program in 2012. BNA-SUTN VT 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No Vermont did not have an amnesty program in 2011. BNA-SUTN VT 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Vermont did not have an amnesty program in 2010. BNA-SUTN VT 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+Yes Vermont's Tax Amnesty Program was held from July 20, 2009, through Aug. 31, 2009. The tax amnesty period applied to all tax returns and payments due on or before Jan. 26, 2009. Vermont Dept. of Taxes, Vermont Tax Amnesty Program (VTAP), Information Guide & Frequently Asked Questions. BNA-SUTN VT 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The Vermont Department of Taxes has a voluntary disclosure program, which is administered through the Compliance Division. The Department takes a position on voluntary disclosures on a case by case basis determined by the individual fact pattern for each voluntary applicant. Vermont Dept. of Taxes, Voluntary Disclosure Program. As a preliminary matter, in order to be considered for participation in the voluntary disclosure program a disclosure applicant must not have been contacted by the Department prior to initiating the disclosure process. Vermont Dept. of Taxes, Voluntary Disclosure Program. The Department may agree to waive all applicable penalties, provided that the tax and interest due are paid when assessed. Vermont Dept. of Taxes, Voluntary Disclosure Program. If an applicant has been collecting sales taxes from customers and not remitting the tax, the Department will extend the prior period of exposure for liability to include all periods where there are sales and use tax liabilities. However, the specific facts and circumstances for each case will ultimately determine the disposition of penalties that are assessed against a taxpayer. Vermont Dept. of Taxes, Voluntary Disclosure Program. If there is a situation where a taxpayer has questionable liability, such as if it is not entirely clear whether a taxpayer's sales are subject to the sales tax, the Department may agree to prospective filing, or to a limited prior period of exposure for the tax liability. Vermont Dept. of Taxes, Voluntary Disclosure Program. BNA-SUTN VT 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+3 years With respect to sales and use taxes, if an applicant has sufficient nexus with Vermont for the sales and use tax to be applied, the Department will generally agree to limit a taxpayer's exposure to three years, or to the date that nexus was established, whichever is the lesser period, unless the applicant has been collecting the sales taxes and not remitting them to the Department. Vermont Dept. of Taxes, Voluntary Disclosure Program. BNA-SUTN VT 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates Vermont participates in the Multistate Voluntary Disclosure Program (MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. Vermont may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. Online Marketplace Seller Voluntary Disclosure Initiative – Special Multistate Tax Commission (MTC) Program From Aug. 17, 2017, through Nov. 1, 2017, Vermont is participating in the MTC's special limited-time voluntary disclosure initiative in which back sales and use tax liability may be waived for eligible online marketplace sellers that timely register and begin to collect the state's sales and use tax. For more information about this initiative, see Portfolio 1300-2nd: Sales and Use Taxes: General Principles BNA-SUTN VT 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The commissioner determines, from any available information, the amount of tax due if a return is not filed or if a return is incorrect or insufficient when filed. Vt. Stat. Ann. tit. 32, §9777(a). The amount due can be estimated on the basis of external indices, that include stock on hand, purchases, rental paid, number of employees, or other factors. Vt. Stat. Ann. tit. 32, §9777(a). BNA-SUTN VT 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted A taxpayer may, within 30 days after any decision, order, finding, assessment or action of the commissioner, appeal to the Washington Superior Court in Montpelier or the superior court of the county in which the taxpayer resides or has a place of business. Vt. Stat. Ann. tit. 32, §9817(a). See Vt. Code R. § 10-060-028-4. BNA-SUTN VT 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:6.75% 2Q:6.75% 3Q:6.75% 4Q:6.75% In 2019, the Vermont interest rate on underpayments of tax is 6.75 percent. Vt. Stat. Ann. tit. 32, § 3108(a);Vermont Dept. of Taxes, 2019 Interest Rate Memo and Interest Rate Chart. BNA-SUTN VT 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:4.75% 2Q:4.75% 3Q:4.75% 4Q:4.75% In 2019, the Vermont interest rate on overpayments of tax is 4.75 percent. Vt. Stat. Ann. tit. 32, § 3108(a);Vermont Dept. of Taxes, 2019 Interest Rate Memo and Interest Rate Chart. BNA-SUTN VT 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Vermont has not announced a tax amnesty program for 2019. BNA-SUTN VT 31.14.11.
+
+==================================================

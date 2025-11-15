@@ -1,0 +1,165 @@
+State: Ohio
+
+
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Biodiesel
+
+Depends Ohio imposes sales and use tax on sales of biodiesel fuel, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. If the fuel is used for any purpose other than to propel motor vehicles on Ohio's highways or waterways, then it is exempt from the motor vehicle fuel tax and is subject to sales and use tax. Ohio Rev. Code Ann. §5735.14(A). BNA-SUTN OH 30.1.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Butane
+
+Depends Ohio imposes sales and use tax on sales of butane fuel, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. If the fuel is used for any purpose other than to propel motor vehicles on Ohio's highways or waterways, then it is exempt from the motor vehicle fuel tax and is subject to sales and use tax. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Compressed Natural Gas
+
+Depends Ohio imposes sales and use tax on sales of compressed natural gas, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. If the fuel is used for any purpose other than to propel motor vehicles on Ohio's highways or waterways, then it is exempt from the motor vehicle fuel tax and is subject to sales and use tax. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Undyed Diesel
+
+Depends Ohio imposes sales and use tax on sales of undyed diesel fuel, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. If the fuel is used for any purpose other than to propel motor vehicles on Ohio's highways or waterways, then it is exempt from the motor vehicle fuel tax and is subject to sales and use tax. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Dyed Diesel
+
+Depends Ohio imposes sales and use tax on sales of undyed diesel fuel, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). BNA-SUTN OH 30.1.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasoline
+
+Depends Ohio imposes sales and use tax on sales of gasoline, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Gasohol
+
+Depends Ohio imposes sales and use tax on sales of gasohol, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.7.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Kerosene
+
+Depends Ohio imposes sales and use tax on sales of kerosene, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.8.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Liquefied Natural Gas
+
+Depends Ohio imposes sales and use tax on sales of liquefied natural gas, but sales of motor vehicle fuel are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05. Additionally, sales of natural gas by a natural gas company are exempt if delivered to customers through pipes or conduits. Ohio Rev. Code Ann. §5739.02(B)(7); Ohio Information Release ST 1998-01. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.9.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Propane
+
+Depends There is no exemption from sales or tax for propane such that it is taxable. However, sales of motor vehicle fuel, including propane, are exempt from sales and use tax if subject to the motor vehicle fuel tax. Ohio Rev. Code Ann. §5739.02(B)(6); Ohio Information Release ST 1992-05; Ohio Information Release XT 2003-08. Fuel is exempt from the motor vehicle fuel tax, and therefore subject to sales and use tax, if used for any purpose other than the propulsion of motor vehicles upon highways or upon waters within the boundaries of this state. Ohio Rev. Code Ann. §5735.14(A). For additional discussion of motor fuel tax in Ohio, see Excise Taxes Navigator, at Ohio 9. BNA-SUTN OH 30.1.10.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Heating Oil
+
+Taxable Ohio imposes sales and use tax on sales of heating oil. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.1.11.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Fuel Other Fuel
+
+Depends Ohio does not address the taxability of other fuels. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.1.12.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Electricity
+
+Depends Ohio exempts sales of electricity from sales and use tax. Ohio Rev. Code Ann. §5739.01(YY). Sales of electricity delivered through wires are exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(7). Utilities Service Tax Ohio law authorizes counties, to impose a utilities services tax on the charges of every utility service provided to customers within the county. Ohio Rev. Code Ann. §324.02. A locality can impose the tax through a resolution adopted by the board of county commissioners. Ohio Rev. Code Ann. §324.02. For additional discussion of utilities tax in Ohio, see Excise Taxes Navigator, at Ohio 11.1. BNA-SUTN OH 30.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Natural Gas
+
+Depends Ohio exempts sales of natural gas by a natural gas company or municipal gas utility from sales and use tax (i.e., a consumer's purchase of natural gas from a public utility natural gas distribution company). In contrast, Ohio imposes sales and use tax on sales of natural gas by a non-utility company. Ohio Rev. Code Ann. §5739.02(B)(7) as amended by 2016 Ohio H.B. 390, effective Sept. 28, 2016;Ohio Information Release ST 1998-01. That is, if a consumer purchases natural gas from a non-utility gas supplier, and if the natural gas is delivered through a natural gas distribution company's pipes (i.e., the traditional gas utility's pipes), then the purchase is subject to Ohio sales or use tax unless the purchaser can claim a statutory exception or exemption. Ohio Rev. Code Ann. §5739.02(B)(7); Ohio Information Release ST 1998-01. A municipal gas utility means a municipal corporation that owns or operates a system of distribution of natural gas. Ohio Rev. Code Ann. §5739.01(RRR) as added by 2016 Ohio H.B. 390, effective Sept. 28, 2016. Non-utility natural gas suppliers do not pay the gross receipts excise tax but must collect from the consumer the sales or use taxes that may be due. Charges for delivery of the natural gas by a non-utility gas supplier are subject to sales or use tax even if the delivery charges are stated or billed separately from the amount charged for the natural gas. Ohio Rev. Code Ann. §5739.02(B)(7); Ohio Information Release ST 1998-01. BNA-SUTN OH 30.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Steam
+
+Exempt Steam sold by a heating company is exempt from sales and use tax. Ohio Rev. Code Ann. §5739.02(B)(7). BNA-SUTN OH 30.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Water and Sewer
+
+Depends Ohio exempts from sales and use tax the sale of water for residential use, and the sale of water by a nonprofit corporation working exclusively in the treatment, distribution, and sale of water to consumers, so long as the water provided is delivered to consumers through pipes or tubing. Ohio Rev. Code Ann. §5739.02(B)(25). Water Supply Services Water supply services are taxable and have been determined to be monthly charges for installing and servicing water coolers and filters. The Puro Water Filter Co., d/b/a Puro v. Donahue, No. 59240 (Ohio Bd. Tax App. March 15, 1966). BNA-SUTN OH 30.2.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Utilities Other Utilities
+
+Depends Ohio does not address the taxability of other utilities. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.2.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Mining
+
+Exempt Property for use or consumption directly in producing tangible personal property for sale by mining, including, the extraction from the earth of all substances that are classed geologically as minerals is exempt from sale and use tax. Ohio Rev. Code Ann. §5739.02(B)(42)(a); Ohio Admin. Code §5703-9-22. Specifically, persons engaged in the production of tangible personal property for sale by mining, may claim exemption when purchasing:• machinery, equipment, or other personal property used or consumed principally in a mine or excavation for the extraction from the earth of a substance classified geologically as a mineral; • machinery, equipment, or other personal property used or consumed primarily to transport the substance extracted from the earth from the mine or excavation to a plant, factory or tipple where the substance extracted is to be processed by the person conducting such mining operation; • aggregate gravel or other materials which will be incorporated into and become a part of temporary private roads or haulways, either during construction or in repair and maintenance, used principally for the transportation of the substance extracted from the earth from the mine or excavation to a plant, factory, or tipple where the substance extracted is to be processed by the person conducting such mining operation; • machinery, equipment, or other personal property used to repair or maintain the machinery, equipment, and qualifying machinery or other qualifying tangible personal property; and • articles primarily for the physical protection of production employees from a danger of the operation in which they are engaged, when used principally in the mine or excavation or in the transportation of the substance mined to a plant, factory or tipple where the substance extracted is to be processed by the person conducting such mining operation. Ohio Admin. Code §5703-9-22. BNA-SUTN OH 30.3.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Machinery and Equipment
+
+Exempt Property for use or consumption directly in producing tangible personal property for sale by production of crude oil and natural gas is exempt from sale and use tax. Ohio Rev. Code Ann. §5739.02(B)(42)(q), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. The exemption extends to persons engaged in rending production services for others. Production includes operations and tangible personal property used to explore and evaluate an underground reservoir that may contain hydrocarbon resources, prepare the wellbore for production, and lift and control all substances yielded by the reservoir to the surface. Ohio Rev. Code Ann. §5739.02(B)(42)(q), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. Tangible personal property covered by the exemption includes, but is not limited to:• Services provided in the construction of permanent access roads, services provided in the construction of the well site, and services provided in the construction of temporary impoundments; • Equipment and rigging used for the specific purpose of creating with integrity a wellbore pathway to underground reservoirs; • Drilling and workover services used to work within a subsurface wellbore, and tangible personal property directly used in providing such services; • Casing, tubulars, and float and centralizing equipment; • Trailers to which production equipment is attached; • Well completion services, including cementing of casing, and tangible personal property directly used in providing such services; • Wireline evaluation, mud logging, and perforation services, and tangible personal property directly used in providing such services; • Reservoir stimulation, hydraulic fracturing, and acidizing services, and tangible personal property directly used in providing such services, including all material pumped downhole; • Pressure pumping equipment; • Artificial lift systems equipment; • Wellhead equipment and well site equipment used to separate, stabilize, and control hyrdocarbon phases and produced water; • Tangible personal property directly used to control production equipment. Ohio Rev. Code Ann. §5739.02(B)(42)(q)(i), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. The exemption does not extend to:• Tangible personal property used primarily in the exploration and production of any mineral resource regulated under Chapter 1509 of the Revised Code other than oil or gas; • Tangible personal property used primarily in storing, holding, or delivering solutions or chemicals used in well stimulation as defined in Ohio Rev. Code Ann. §5709.01; • Tangible personal property used primarily in preparing, installing, or reclaiming foundations for drilling or pumping equipment or well stimulation material tanks; • Tangible personal property used primarily in transporting, delivering, or removing equipment to or from the well site or storing such equipment before its use at the well site; • Tangible personal property used primarily in gathering operations occurring off the well site, including gathering pipelines transporting hydrocarbon gas or liquids away from a crude oil or natural gas production facility; • Tangible personal property that is to be incorporated into a structure or improvement to real property; • Well site fencing, lighting, or security systems; • Communication devices or services; • Office supplies; • Trailers used as offices or lodging; • Motor vehicles of any kind; • Tangible personal property used primarily for the storage of drilling byproducts and fuel not used for production; • Tangible personal property used primarily as a safety device; • Data collection or monitoring devices; or • Access ladders, stairs, or platforms attached to storage tanks. Ohio Rev. Code Ann. §5739.02(B)(42)(q)(ii), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. However, this list of exclusions is not intended to be exhaustive. Ohio Rev. Code Ann. §5739.02(B)(42)(q), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. BNA-SUTN OH 30.3.2.1.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Services to Wells
+
+Exempt Property for use or consumption directly in producing tangible personal property for sale by production of crude oil and natural gas is exempt from sale and use tax. Ohio Rev. Code Ann. §5739.02(B)(42)(q), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. BNA-SUTN OH 30.3.2.2.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Oil and Gas Other Property and Services
+
+Exempt Property for use or consumption directly in producing tangible personal property for sale by production of crude oil and natural gas is exempt from sale and use tax. Ohio Rev. Code Ann. §5739.02(B)(42)(q), as amended by 2018 Ohio H.B. 430, effective May 18, 2018. BNA-SUTN OH 30.3.2.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Timber
+
+Taxable There are no sales and use tax exemptions for timber production or equipment. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.3.3.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Mining, Timber, Natural Resource Extraction Other Natural Resources
+
+Depends Ohio does not address the taxability of property used to extract or produce other natural resources. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.3.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Production
+
+Depends Sales of tangible personal property and services to a provider of electricity used or consumed directly and primarily in generating, transmitting, or distributing electricity for use by others is exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(40). The exemption for property used in electricity production extends to property that will be incorporated into the consumer's production, transmission, or distribution system and that retains its classification as tangible personal property after incorporation. Additionally, fuel or power used in the production, transmission, or distribution of electricity is exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(40). Tangible personal property and services used in the repair and maintenance of the production, transmission, or distribution system, including only those motor vehicles as are specially designed and equipped for such use, is also exempt from sales tax. Ohio Rev. Code Ann. §5739.02(B)(40). Additionally, Ohio exempts from taxation the purchase of tangible personal property for use directly in rendering a public utility service. Ohio Rev. Code Ann. §5739.02(B)(42)(a). Ohio defines “used directly in the rendition of a public utility service” as property that is incorporated into and will become part of the consumer's production, transmission, transportation, or distribution system. The tangible personal property used in the rendition of the public utility service must retain its classification as tangible personal property. Ohio Rev. Code Ann. §5739.01(P). Used directly in the rendition of a public utility service also includes:• fuel or power used in the production, transmission, transportation, or distribution system;and, • tangible personal property used in the repair and maintenance of the production, transmission, transportation, or distribution system, including only motor vehicles that are specially designed and equipped for use in the repair and maintenance. Ohio Rev. Code Ann. §5739.01(P). The term “public utility” includes a U.S. citizen that holds and is required to hold a certificate of public convenience and necessity issued under 49 USC §41102. Ohio Rev. Code Ann. §5739.01(P). BNA-SUTN OH 30.4.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Alternative Energy
+
+Taxable Ohio does not provide sales and use tax exemptions pertaining to alternative energy property. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.5.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Energy Conservation
+
+Taxable Ohio does not provide sales and use tax exemptions pertaining to energy conservation property. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.6.
+
+==================================================
+
+Topic: Utilities, Fuel, Mining and Natural Resource Extraction, Production, Sale Wastewater Treatment
+
+Taxable Ohio does not provide sales and use tax exemptions pertaining to wastewater treatment. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 30.7.
+
+==================================================

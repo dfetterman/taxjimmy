@@ -1,0 +1,411 @@
+State: Arizona
+
+
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Depends Non-commercial aircraft sales are subject to privilege and use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Rev. Stat. Ann. §42-5159(B)(7)(a). BNA-SUTN AZ 29.1.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.1.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Separately stated services to aircraft are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.1.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters and maintenance items are subject to transaction privilege tax under retail the classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.1.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Separately stated services to aircraft are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.1.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Intrastate or Non-Commercial Use Fuel
+
+Nontaxable The tax imposed on the retail classification does not apply to the gross income from sales of aviation fuel subject to Arizona's excise tax imposed under Ariz. Rev. Stat. Ann. §28-8344, or sales of jet fuel subject to the jet fuel excise and use tax. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Arizona Transaction Privilege Tax Ruling 16-2 (Sept. 20, 2016) (jet fuel was previously subject to transaction privilege tax). For more information on Arizona's jet fuel excise tax and aviation fuel tax, see the Arizona Excise Tax Navigator, at Arizona 8.1. BNA-SUTN AZ 29.1.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Arizona exempts navigational and communication instruments from retail transaction privilege and use taxes if the instruments are sold to entities holding certain permits and/or certificates. Ariz. Rev. Stat. Ann. §42-5061(B)(7)(a); Ariz. Rev. Stat. Ann. §42-5159(B)(7)(a). Specifically, Arizona exempts from retail transaction privilege and use tax aircraft, navigational and communication instruments, and other accessories and related equipment sold to a person:• holding, or exempted by federal law from obtaining, a federal certificate of public convenience and necessity for use as, in conjunction with, or becoming part of, an aircraft to be used to transport persons for hire in intrastate, interstate, or foreign commerce; • holding a supplemental air carrier certificate under federal aviation regulations for use as, in conjunction with, or becoming part of, an aircraft to be used to transport persons for hire in intrastate, interstate, or foreign commerce; or • holding a foreign air carrier permit for air transportation for use as or in conjunction with or becoming a part of aircraft to be used to transport persons, property, or United States mail in intrastate, interstate, or foreign commerce. Ariz. Rev. Stat. Ann. §42-5061(B)(7)(a), as amended by 2016 Ariz. H.B. 2533, effective July 1, 2017, and 2017 Ariz. S.B. 1010, effective July 21, 2017; Ariz. Rev. Stat. Ann. §42-5159(B)(7)(a), as amended by 2016 Ariz. H.B. 2533, effective July 1, 2017, and 2017 Ariz. S.B. 1010, effective July 21, 2017; see also American Helicopters, LLC v. Arizona Dept. of Rev., 2015 BL 22951, No. 1 CA-TX 14-0001 (Ariz. Ct. App. 2015) (taxpayer did not meet the requirements of the exemption because it did not hold either a CPCN, a supplemental air carrier certificate, or a foreign air carrier permit for air transportation). Effective July, 1, 2017, Arizona also exempts from retail transaction privilege and use tax aircraft, navigational and communication instruments, and other accessories and related equipment sold to a person:• that is certificated or licensed under federal aviation regulations as a scheduled or unscheduled carrier of persons for hire for use as or in conjunction with or becoming part of an aircraft to be used to transport persons for hire in intrastate, interstate, or foreign commerce; • operating an aircraft to transport persons in any manner for compensation or hire including as an air carrier, a foreign air carrier, or a commercial operator or under a restricted category, within the meaning of 14 Code of Federal Regulations, regardless of whether the operation or aircraft is regulated or certified under Part 91, 119, 121, 133, 135, 136, or 137, or another part of 14 Code of Federal Regulations; and effective Dec. 31, 2017, operating an aircraft for use in a fractional ownership program that meets Federal Aviation Administration requirements under 14 Code of Federal Regulations 91, subpart K; Ariz. Rev. Stat. Ann. §42-5061(B)(7)(a)(iv), as amended by 2017 Ariz. S.B. 1416, effective Dec. 31, 2017; Ariz. Rev. Stat. Ann. §42-5159(B)(7)(a)(iv), as amended by 2017 Ariz. S.B. 1416, effective Dec. 31, 2017. or • that will lease or otherwise transfer operational control, within the meaning of Federal Aviation Administration Operations Specification A008, or its successor, of the aircraft, instruments or accessories to one or more persons described above. Ariz. Rev. Stat. Ann. §42-5061(B)(7)(a), as amended by 2016 Ariz. H.B. 2533, effective July 1, 2017, and 2017 Ariz. S.B. 1010, effective July 21, 2017; Ariz. Rev. Stat. Ann. §42-5159(B)(7)(a), as amended by 2016 Ariz. H.B. 2533, effective July 1, 2017, and 2017 Ariz. S.B. 1010, effective July 21, 2017. In the case of persons that will lease or otherwise transfer operational control of an aircraft to one or more of the first five above categories of eligible persons, the Department of Revenue will prescribe the form of a certificate to be used to document eligibility for the exemption. The purchaser must provide the certificate and documentation that the aircraft's operational control has been transferred or will be transferred immediately after the purchase. The operational control must be at least 50 percent of the aircraft's flight hours. If the 50-percent operational control does not transfer during the recapture period, then the aircraft's owner must pay any tax that the seller or purchaser would have been required to pay, plus penalty and interest. The recapture period begins when the operational control transfers, and it ends on the later of the date on which the aircraft fully depreciates for federal income tax purposes or five years after operational control transfers. Ariz. Rev. Stat. Ann. §42-5009(Q), as amended by 2017 Ariz. S.B. 1010, effective July 21, 2017. For purposes of these exemptions, the definition of aircraft includes an “airplane flight simulator that is approved by the federal aviation administration for use as a phase II or higher flight simulator” Ariz. Rev. Stat. Ann. §42-5061(V)(2)(a); Ariz. Rev. Stat. Ann. §42-5159(H)(1)(a). or “tangible personal property that is permanently affixed or attached as a component part of an aircraft that is owned or operated by a certificated or licensed carrier of persons or property.” Ariz. Rev. Stat. Ann. §42-5061(V)(2)(b); Ariz. Rev. Stat. Ann. §42-5159(H)(1)(b). Other accessories and related equipment are defined as “aircraft accessories and equipment such as ground service equipment that physically contact aircraft at some point during the overall carrier operation. Ariz. Rev. Stat. Ann. §42-5061(V)(2). Arizona also provides an exemption for leases or rentals of aircraft, flight simulators and similar training equipment to students or staff by nonprofit, accredited educational institutions that offer associate or baccalaureate degrees in aviation or aerospace related fields. Ariz. Rev. Stat. Ann. §42-5071(A)(6). BNA-SUTN AZ 29.2.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Generally, repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. Machinery, tools, equipment and related supplies used or consumed directly in repairing, remodeling or maintaining aircraft, aircraft engines or aircraft component parts by or on behalf of a certified or licensed carrier of persons or property, are excluded from the tax base under the retail transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(8); Ariz. Rev. Stat. Ann. §42-5159(B)(8). BNA-SUTN AZ 29.2.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Repair Services
+
+Nontaxable Separately stated services to aircraft are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.2.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Generally, oil, filters and maintenance items are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. Machinery, tools, equipment and related supplies used or consumed directly in repairing, remodeling or maintaining aircraft, aircraft engines or aircraft component parts by or on behalf of a certified or licensed carrier of persons or property, are excluded from the tax base under the retail transaction privilege and use taxes. Ariz. Rev. Stat. Ann. §42-5061(B)(8); Ariz. Rev. Stat. Ann. §42-5159(B)(8). BNA-SUTN AZ 29.2.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Separately stated services to aircraft are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.2.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Aircraft, Interstate and Common Carrier Fuel
+
+Nontaxable The tax imposed on the retail classification does not apply to the gross income from sales of aviation fuel subject to Arizona's excise tax imposed under Ariz. Rev. Stat. Ann. §28-8344, and sales of jet fuel subject to the jet fuel excise and use tax. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Arizona Transaction Privilege Tax Ruling 16-2 (Sept. 20, 2016) (jet fuel was previously subject to transaction privilege tax). For more information on Arizona's jet fuel excise tax and aviation fuel tax, see the Arizona Excise Tax Navigator, at Arizona 8.1. BNA-SUTN AZ 29.2.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Generally, gross proceeds from the sale of motor vehicles required to be licensed in Arizona are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(C)(5); Ariz. Rev. Stat. Ann. §42-5159(C)(5). Motor vehicle is defined as (1) a self-propelled vehicle or (2) “for the purposes of the laws relating to the imposition of a tax on motor vehicle fuel, a vehicle that is operated on the highways of this state and that is propelled by the use of motor vehicle fuel.” Ariz. Rev. Stat. Ann. §28-101(37)(a); Arizona Publication No. 610. “Motor vehicle” does not include “a motorized wheelchair, an electric personal assistive mobility device or a motorized skateboard.” Ariz. Rev. Stat. Ann. §28-101(37)(b). “Vehicle” is defined as “a device in, on or by which a person or property is or may be transported or drawn on a public highway, excluding devices moved by human power or used exclusively on stationary rails or tracks.” Ariz. Rev. Stat. Ann. §28-101(67). Rules for Specific Types of Motor Vehicle Sales Use by Motor Vehicle Dealer Motor vehicles removed from inventory by a motor vehicle dealer and used directly in the motor vehicle dealer's primary business and returned to the dealer's active sales inventory within one year after the date of the initial removal from inventory, are subject to use tax on a monthly basis. The use tax applies to one thirty-ninth of the value of each:• new motor vehicle as determined by the manufacturer's suggested retail price;and • used motor vehicle as determined by any industry-wide publication in common use and devoted to listing used car values. Ariz. Rev. Stat. Ann. §42-5157; Arizona Publication No. 610. However, Arizona has a use tax exemption for motor vehicles removed from inventory by a motor vehicle dealer and given to a charitable or educational institution, public education institutions, or state universities or affiliated organizations of a state university if no part of the organization's net earnings inures to the benefit of any private shareholder or individual. Ariz. Rev. Stat. Ann. §42-5159(A)(32); Arizona Publication No. 610. Use by Motor Vehicle Manufacturer Use tax is imposed on a motor vehicle manufacturer for the storage, use or consumption of its maintenance, support or service motor vehicles. The tax is levied on a monthly basis and applies as a percentage of one thirty-ninth of the dealer net price of the motor vehicles. This tax cannot be imposed for more than thirty-nine months on any motor vehicle. Ariz. Rev. Stat. Ann. §42-5158; Arizona Publication No. 610. Motor vehicles and component parts used for testing or development by motor vehicle manufacturers are not subject to use tax. Ariz. Rev. Stat. Ann. §42-5158. Purchase by Nonresidents Gross proceeds of motor vehicles sold to nonresidents for use outside of Arizona, if the dealer ships or delivers the motor vehicle outside Arizona, are exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(14); Nonresident State Tax Rate Schedules and Arizona County Tax Rate Schedules, effective Aug. 1, 2016; Arizona Transaction Privilege Tax Changes & News January 2015; Arizona Publication No. 610; Arizona Publication No. 622. Further, sales of motor vehicles to a nonresident if the purchaser's state of residence does not allow a corresponding use tax exemption and if the nonresident has secured a special 90 day nonresident registration permit for the vehicle is exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(28)(a); Ariz. Rev. Stat. Ann. §42-2154; Ariz. Rev. Stat. Ann. §42-2154(1). Sales of motor vehicles to nonresidents from reciprocal states including California, Connecticut, Florida, Idaho and Illinois, that have higher tax rates than Arizona's 5.6 percent transaction privilege tax rate, are subject to Arizona taxes if the nonresident purchaser takes possession of the vehicle in Arizona. Residents of such states will be allowed a credit against their state taxes for the state transaction privilege tax paid in Arizona, when the nonresident registers the vehicle in his or her home state. For a information on states exercising reciprocity with Arizona for taxes paid on such purchases see Nonresident State Tax Rate Schedules and Arizona County Tax Rate Schedules, effective Aug. 1, 2016; Arizona Transaction Privilege Tax Changes & News January 2015. Sales to Indian Tribe Members Sales of motor vehicles to an enrolled member of an Indian tribe, residing on the Indian reservation established for that tribe are exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(28)(b). Alternative Fuel Vehicles A retail transaction privilege and use tax exemption is available for certain alternative fuel vehicles manufactured as diesel fuel vehicles and then later converted to operate on alternative fuel, as well as equipment that is installed on a diesel fuel vehicle to convert it to operate on alternative fuel. Ariz. Rev. Stat. Ann. 42-5159(A)(44); Ariz. Rev. Stat. Ann. §42-5061(A)(49). Heavy Trucks and Trailers Transaction privilege tax on sales of heavy trucks and trailers does not include any amount attributable to federal excise taxes imposed by I.R.C. §4051 entitles “Imposition of tax on heavy trucks and trailers sold at retail.” Sales at Auction Sales of motor vehicles to nonresidents at an auction for use outside of Arizona, if the vehicle is shipped or delivered outside of Arizona, are exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(44). Motor Vehicle Leases Generally, motor vehicles are treated the same as any other tangible personal property for purposes of the taxation of leases and rentals under the personal property rental classification. Ariz. Rev. Stat. Ann. §42-5071(A); Ariz. Rev. Stat. Ann. §42-5001(21), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019; see Arizona Publication No. 606. The tax base for the lease and rental of a motor vehicle does not include any amounts attributable to the car rental surcharge. Ariz. Rev. Stat. Ann. §42-5071(D); Ariz. Rev. Stat. Ann. §28-5810; Ariz. Rev. Stat. Ann. §48-4234. Further, vehicle and registration fees, license plate fees, special plate fees, historic value license plate fees, and the constitutional license tax for vehicles are not included in the tax base under the rental classification. Ariz. Rev. Stat. Ann. §42-5071(B)(1). In the case of a lease or rental of a motor vehicle by a dealership, the dealership may reduce gross receipts by amounts received for the first month of a lease payment, if the lease and the lease payment for the first month of the lease are transferred to a third party leasing company. Ariz. Rev. Stat. Ann. §42-5071(B)(5). Donations to a Charitable Or Educational Institutions Motor vehicles that are removed from inventory by a motor vehicle dealer and provided to charitable or educational institutions exempt from taxation under §501(c)(3) of the Internal Revenue Code, public education institutions, or state universities or affiliated organizations if no part of the organization's net earnings benefit any private shareholder or individual are exempt from tax. Arizona Publication No. 610. BNA-SUTN AZ 29.3.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to the transaction privilege tax under retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.3.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Repair Services
+
+Nontaxable Separately stated repair services to motor vehicles are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.3.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters and maintenance items are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.3.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Separately stated maintenance services to motor vehicles are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.3.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Fuel
+
+Nontaxable Motor vehicle fuel and use fuel that are subject to a valid single-trip use fuel tax are exempt from retail transaction privilege and use tax. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §42-5159(A)(5). “Motor vehicle fuel”is defined as “all products that are commonly or commercially known or sold as gasoline, including casinghead gasoline, natural gasoline and all flammable liquids, and that are composed of a mixture of selected hydrocarbons expressly manufactured and blended for the purpose of effectively and efficiently operating internal combustion engines. Ariz. Rev. Stat. Ann. §28-101(40). Motor vehicle fuel does not include “inflammable liquids that are specifically manufactured for racing motor vehicles and that are distributed for and used by racing motor vehicles at a racetrack, use fuel, aviation fuel, fuel for jet or turbine powered aircraft or the mixture created at the interface of two different substances being transported through a pipeline, commonly known as transmix.” Ariz. Rev. Stat. Ann. §28-101(40). “Use fuel” is defined as “all gases and liquids used or suitable for use to propel motor vehicles, except fuels that are subject to the motor vehicle fuel tax.” Ariz. Rev. Stat. Ann. §28-5601(38). Also, sales of natural gas or liquefied petroleum gas used to propel a motor vehicle are exempt from tax. Ariz. Rev. Stat. Ann. §42-5061(A)(35). There is a complementary use tax exemption as well. Ariz. Rev. Stat. Ann. §42-5061(A)(33). For more information on any applicable fuel excise taxes, see the Excise Tax Navigator, at Arizona Section 8.1. BNA-SUTN AZ 29.3.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Short-term Motor Vehicle Rentals
+
+Taxable Arizona imposes a transaction privilege tax or use tax on the gross proceeds of sales or the gross income derived from motor vehicle rentals under the personal property rental classification. Ariz. Rev. Stat. Ann. §42-5008(A); Ariz. Rev. Stat. Ann. §42-5010(A)(1)(l); Ariz. Rev. Stat. Ann. §42-5155(B), as amended by 2018 Ariz. S.B. 1390, effective Aug. 3, 2018. BNA-SUTN AZ 29.3.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Demonstrators
+
+Taxable Use tax applies to a purchaser who purchases tangible personal property for resale but subsequently uses or consumes the property. Ariz. Rev. Stat. Ann. §42-5155(B), as amended by 2018 Ariz. S.B. 1390, effective Aug. 3, 2018; Arizona Publication 610. BNA-SUTN AZ 29.3.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Intrastate or Non-Commercial Use Tires
+
+Taxable Generally, sales of tires are subject to transaction privilege tax as tangible personal property. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. Waste Tire Fee Arizona imposes a fee on the sale of motor vehicle tires. Sales that are subject to the waste tire fees include both separate sales of the tires themselves as well as sales of tires on new vehicles. Arizona Information Publication 560. BNA-SUTN AZ 29.3.9.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Depends Gross proceeds from the sale of motor vehicles in Arizona are subject to transaction privilege tax under the retail classification or use tax, subject to a few exemptions. Motor vehicle sales will not be taxable if made in interstate commerce or to a common carrier, which requires the motor vehicle to be both ordered and delivered outside of Arizona. Ariz. Rev. Stat. Ann. §42-5061(C)(5); Ariz. Rev. Stat. Ann. §42-5159(C)(5). “Motor vehicle”is defined as (1) a self-propelled vehicle or (2) “for the purposes of the laws relating to the imposition of a tax on motor vehicle fuel, a vehicle that is operated on the highways of this state and that is propelled by the use of motor vehicle fuel.” Ariz. Rev. Stat. Ann. §28-101(37)(a). Motor vehicle does not include “a motorized wheelchair, an electric personal assistive mobility device or a motorized skateboard.” Ariz. Rev. Stat. Ann. §28-101(37)(b). “Vehicle” is defined as “a device in, on or by which a person or property is or may be transported or drawn on a public highway, excluding devices moved by human power or used exclusively on stationary rails or tracks.” Ariz. Rev. Stat. Ann. §28-101(67). Rules for Specific Types of Motor Vehicle Sales Sale to Nonresident Gross proceeds of motor vehicles sold to nonresidents for use outside of Arizona, if the dealer ships or delivers the motor vehicle outside Arizona, are exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(14); Arizona Transaction Privilege Tax Changes &News January 2015 Further, sales of motor vehicles to a nonresident if the purchaser's state of residence does not allow a corresponding use tax exemption and if the nonresident has secured a special 90 day nonresident registration permit for the vehicle are exempt from tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(28)(a); Ariz. Rev. Stat. Ann. §42-2154; Ariz. Rev. Stat. Ann. §42-2154(1). Sale to Licensed Motor Carrier Sales of motor vehicles sold to a licensed motor carrier, subject to the motor carrier tax, and in the business of leasing or renting such vehicles are exempt from retail transaction privilege and use tax. Ariz. Rev. Stat. Ann. §42-5061(A)(41); Ariz. Rev. Stat. Ann. §42-5159(A)(37). Property and Passenger Transport Buses or other urban mass transit vehicles that are used directly to transport persons or property for hire or pursuant to a governmentally adopted and controlled urban mass transportation program and that are sold to bus companies holding a federal certificate of convenience and necessity or operated by any city, town or other governmental entity or by any person contracting with such governmental entity as part of a governmentally adopted and controlled program to provide urban mass transportation are exempt from transaction privilege tax under the retail classification as well as use tax. Ariz. Rev. Stat. Ann. §42-5061(B)(11); Ariz. Rev. Stat. Ann. §42-5159(B)(11). Heavy Trucks and Trailers Transaction privilege tax on sales of heavy trucks and trailers does not include any amount attributable to federal excise taxes imposed by Internal Revenue Code §4051 entitles “[i]mposition of tax on heavy trucks and trailers sold at retail.” Motor Vehicle Leases Generally, motor vehicles are treated the same as any other tangible personal property for purposes of the taxation of leases and rentals under the personal property rental classification. Ariz. Rev. Stat. Ann. §42-5071(A); Ariz. Rev. Stat. Ann. §42-5001(21), as renumbered by 2019 Ariz. H.B. 2757, effective Sept. 30, 2019. The tax base for the lease and rental of a motor vehicle does not include any amounts attributable to the car rental surcharge. Ariz. Rev. Stat. Ann. §42-5071(D); Ariz. Rev. Stat. Ann. §28-5810; Ariz. Rev. Stat. Ann. §48-4234. Further, vehicle and registration fees, license plate fees, special plate fees, historic value license plate fees, and the constitutional license tax for vehicles are not included in the tax base under the rental classification. Ariz. Rev. Stat. Ann. §42-5071(B)(1). In the case of a lease or rental of a motor vehicle by a dealership, the dealership may reduce gross receipts by amounts received for the first month of a lease payment, if the lease and the lease payment for the first month of the lease are transferred to a third party leasing company. Ariz. Rev. Stat. Ann. §42-5071(B)(5). Although leases and rentals of motor vehicles are generally subject to tax, motor vehicles upon which the Motor Carrier Fee has been imposed and paid are not subject to tax. Ariz. Rev. Stat. Ann. §42-5071(B)(4). This fee is imposed on motor vehicles that have a declared gross weight of more than 12,000 pounds that are subject to vehicle registration before lawful operation on the public highways of Arizona. Ariz. Rev. Stat. Ann. §28-5852; Ariz. Rev. Stat. Ann. §28-5851(4). However, the following types of motor vehicles are not subject to this fee, therefore subjecting the leases and rentals of these types of motor vehicles to the transaction privilege tax even if the declared gross weight exceeds 12,000 pounds:• motor vehicles owned by religious institutions and used exclusively for the transportation of property produced and distributed for charitable purposes without compensation; Ariz. Rev. Stat. Ann. §28-5432(C)(1). • motor vehicles owned by a nonprofit school that is recognized as being exempt from tax by the federal or state government and used exclusively for transportation of pupils in connection with the school curriculum, the training of pupils, and the transportation for charitable purposes without compensation; Ariz. Rev. Stat. Ann. §28-5432(C)(2). • motor vehicles owned by a nonprofit organization in Arizona and used exclusively for disaster or search and rescue assistance, which have been approved by the director of the division of emergency management for exemption from gross weight fees under Ariz. Rev. Stat. Ann. §28-318; Ariz. Rev. Stat. Ann. §28-5432(C)(3); Ariz. Rev. Stat. Ann. §26-318. • motor vehicles owned by a foreign government, by the United States, by a state or political subdivision of a state, or by an Indian tribal government, and used exclusively for government purposes; Ariz. Rev. Stat. Ann. §28-5432(C)(4). and • motor vehicles owned by a private entity and operated exclusively as a school bus pursuant to a contract with a school district. Ariz. Rev. Stat. Ann. §28-5432(C)(5). BNA-SUTN AZ 29.4.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. Repair and replacement parts, as well as tangible personal property becoming a component part of motor vehicles sold to a licensed motor carrier, subject to the motor carrier tax, and in the business of leasing or renting such vehicles are exempt from transaction privilege and use tax under the retail classification. Ariz. Rev. Stat. Ann. §42-5061(A)(41); Ariz. Rev. Stat. Ann. §42-5159(A)(37). BNA-SUTN AZ 29.4.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Repair Services
+
+Nontaxable Separately stated repair services to motor vehicles are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.4.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters and maintenance items are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.4.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Separately stated maintenance services to motor vehicles are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.4.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Fuel
+
+Nontaxable Motor vehicle fuel and use fuel that are subject to a valid single-trip use fuel tax are exempt from retail transaction privilege and use tax. Ariz. Rev. Stat. Ann. §42-5061(A)(22); Ariz. Rev. Stat. Ann. §42-5159(A)(5). “Motor vehicle fuel”is defined as “all products that are commonly or commercially known or sold as gasoline, including casinghead gasoline, natural gasoline and all flammable liquids, and that are composed of a mixture of selected hydrocarbons expressly manufactured and blended for the purpose of effectively and efficiently operating internal combustion engines. Ariz. Rev. Stat. Ann. §28-101(40). Motor vehicle fuel does not include “inflammable liquids that are specifically manufactured for racing motor vehicles and that are distributed for and used by racing motor vehicles at a racetrack, use fuel, aviation fuel, fuel for jet or turbine powered aircraft or the mixture created at the interface of two different substances being transported through a pipeline, commonly known as transmix.” Ariz. Rev. Stat. Ann. §28-101(40). BNA-SUTN AZ 29.4.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Motor Vehicles, Interstate and Common Carrier Tires
+
+Taxable Generally, sales of tires are subject to transaction privilege tax as tangible personal property. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. Waste Tire Fee Arizona imposes a fee on the sale of motor vehicle tires. Sales that are subject to the waste tire fees include both separate sales of the tires themselves as well as sales of tires on new vehicles. Arizona Information Publication 560. BNA-SUTN AZ 29.4.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are subject to tax under the retail classification when purchased and subject to tax under the personal property rental classification when rented or leased. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. Watercraft is defined as “any boat designed to be propelled by machinery, oars, paddles or wind action upon a sail for navigation on the water, or as may be defined by rule of the commission.” Ariz. Rev. Stat. Ann. §5-301(21). Motorboat is defined as “any watercraft that is not more than 65 feet in length and that is propelled by machinery whether or not such machinery is the principal source of propulsion.” Ariz. Rev. Stat. Ann. §5-301(6). Motorized watercraft is defined as “any watercraft that is propelled by machinery whether or not the machinery is the principal source of propulsion.” Ariz. Rev. Stat. Ann. §5-301(7). There is no exemption for water vessels temporarily in the state. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.5.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair and Replacement Parts
+
+Taxable Water vessel repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.5.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Repair Services
+
+Taxable Separately stated repair services to water vessels are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.5.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Oil, Filters, and Other Maintenance Items
+
+Taxable Water vessel oil, filters and maintenance items are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.5.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Maintenance Services
+
+Nontaxable Separately stated maintenance services to water vessels are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.5.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Intrastate or Non-Commercial Use Fuel
+
+Nontaxable The tax imposed on the retail classification does not apply to the gross proceeds of sales or gross income from motor vehicle fuel and use fuel that are subject to a valid single-trip use fuel tax, or sales of use fuel to a holder of a valid single-trip use fuel tax permit. Ariz. Rev. Stat. Ann. §42-5061(A)(22). This exemption is also extended to use tax. Ariz. Rev. Stat. Ann. §42-5159(A)(5). Motor vehicle fuel is defined as “all products that are commonly or commercially known or sold as gasoline, including casinghead gasoline, natural gasoline and all flammable liquids, and that are composed of a mixture of selected hydrocarbons expressly manufactured and blended for the purpose of effectively and efficiently operating internal combustion engines. Ariz. Rev. Stat. Ann. §28-101(38). Motor vehicle fuel does not include “inflammable liquids that are specifically manufactured for racing motor vehicles at a racetrack, use fuel as defined in section 28-5601, aviation fuel, fuel for jet or turbine powered aircraft or the mixture created at the interface of two different substances being transported through a pipeline, commonly known as transmix.” Ariz. Rev. Stat. Ann. §28-101(38). Use fuel is defined as “all gases and liquids used or suitable for use to propel motor vehicles, except fuels that are subject to the motor vehicle fuel tax.” Ariz. Rev. Stat. Ann. §28-101(38). Alternate fuel purchased by a used oil fuel burner who has received a permit to burn such fuel is exempt from use tax. Ariz. Rev. Stat. Ann. §42-5159(A)(42). Arizona statutes and regulations do not provide use-based exemptions for water vessel fuel. Ariz. Rev. Stat. Ann. §28-101(38). BNA-SUTN AZ 29.5.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are subject to tax under the retail classification when purchased and subject to tax under the personal property rental classification when rented or leased. Arizona provides no exemptions for the sale of water vessels used in interstate commerce or a common carrier. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. Watercraft is defined as “any boat designed to be propelled by machinery, oars, paddles or wind action upon a sail for navigation on the water, or as may be defined by rule of the commission.” Ariz. Rev. Stat. Ann. §5-301(21). Motorboat is defined as “any watercraft that is not more than 65 feet in length and that is propelled by machinery whether or not such machinery is the principal source of propulsion.” Ariz. Rev. Stat. Ann. §5-301(6). Motorized watercraft is defined as “any watercraft that is propelled by machinery whether or not the machinery is the principal source of propulsion.” Ariz. Rev. Stat. Ann. §5-301(7). There is no exemption for water vessels temporarily in the state. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.6.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.6.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Repair Services
+
+Nontaxable Separately stated services to water vessels are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.6.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters and maintenance items are subject to transaction privilege tax under retail the classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.6.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Separately stated services to water vessels are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.6.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Interstate and Common Carrier Fuel
+
+Nontaxable The tax imposed on the retail classification does not apply to the gross proceeds of sales or gross income from motor vehicle fuel and use fuel that are subject to a valid single trip use fuel tax, or sales of use fuel to a holder of a valid single trip use fuel tax permit. Ariz. Rev. Stat. Ann. §42-5061(A)(22). This exemption is also extended to use tax. Ariz. Rev. Stat. Ann. §42-5159(A)(5). Motor vehicle fuel is defined as “all products that are commonly or commercially known or sold as gasoline, including casinghead gasoline, natural gasoline and all flammable liquids, and that are composed of a mixture of selected hydrocarbons expressly manufactured and blended for the purpose of effectively and efficiently operating internal combustion engines. Ariz. Rev. Stat. Ann. §28-101(38). Arizona statutes and regulations do not provide use-based exemptions for water vessel fuel. Ariz. Rev. Stat. Ann. §28-101(38). BNA-SUTN AZ 29.6.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Purchase, Lease, or Rental Transactions
+
+Taxable Water vessels are subject to tax under the retail classification when purchased and subject to tax under the personal property rental classification when rented or leased. Arizona does not provide guidance related to commercial fishing operations. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.7.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Arizona does not provide guidance related to commercial fishing operations. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.7.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Repair Services
+
+Taxable Separately stated services to water vessels are not subject to tax. Arizona does not provide guidance related to commercial fishing operations. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.7.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Oil, Filters, and Other Maintenance Items
+
+Taxable Oil, filters and maintenance items are subject to transaction privilege tax under retail the classification or use tax. Arizona does not provide guidance related to commercial fishing operations. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.7.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Maintenance Services
+
+Taxable Separately stated services to water vessels are not subject to tax. Arizona does not provide guidance related to commercial fishing operations. Ariz. Rev. Stat. Ann. §42-5061; Ariz. Rev. Stat. Ann. §42-5071. BNA-SUTN AZ 29.7.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Fuel
+
+Nontaxable The tax imposed on the retail classification does not apply to the gross proceeds of sales or gross income from motor vehicle fuel and use fuel that are subject to a valid single trip use fuel tax, or sales of use fuel to a holder of a valid single trip use fuel tax permit. Ariz. Rev. Stat. Ann. §42-5061(A)(22). This exemption is also extended to use tax. Ariz. Rev. Stat. Ann. §42-5159(A)(5). Motor vehicle fuel is defined as “all products that are commonly or commercially known or sold as gasoline, including casinghead gasoline, natural gasoline and all flammable liquids, and that are composed of a mixture of selected hydrocarbons expressly manufactured and blended for the purpose of effectively and efficiently operating internal combustion engines. Ariz. Rev. Stat. Ann. §28-101(38). Arizona statutes and regulations do not provide use-based exemptions for water vessel fuel. Ariz. Rev. Stat. Ann. §28-101(38). BNA-SUTN AZ 29.7.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Nets, Rigging, Parts, Accessories, and Equipment
+
+Taxable Arizona does not discuss the taxability of commercial fishing equipment or accessories. Ariz. Rev. Stat. Ann. §42-5061. BNA-SUTN AZ 29.7.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Water Vessels, Commercial Fishing Tools and Supplies
+
+Taxable Arizona does not discuss the taxability of commercial fishing tools or supplies. Ariz. Rev. Stat. Ann. §42-5061. BNA-SUTN AZ 29.7.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Purchase, Lease, or Rental Transactions
+
+Exempt Railroad rolling stock, rails, ties and signal control equipment used directly to transport persons or property are exempt from transaction privilege tax under the retail classification as well as use tax. Ariz. Rev. Stat. Ann. §42-5061(B)(9); Ariz. Rev. Stat. Ann. §42-5159(B)(9). BNA-SUTN AZ 29.8.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair and Replacement Parts
+
+Taxable Repair and replacement parts are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.8.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Repair Services
+
+Nontaxable Separately stated repair services to rolling stock are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.8.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Oil, Filters, and Other Maintenance Items
+
+Taxable Rolling stock oil, filters and maintenance items are subject to transaction privilege tax under the retail classification or use tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.8.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Maintenance Services
+
+Nontaxable Separately stated maintenance services to rolling stock are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.8.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Railroad Rolling Stock, Interstate and Common Carrier Fuel
+
+Taxable Diesel fuel imported and consumed in a quantity exceeding the capacity of the fuel tank or tanks of a locomotive according to the manufacturer's specifications is subject to the use tax. Ariz. Rev. Stat. Ann. §42-5166(B).. However, diesel fuel imported in the fuel tank or tanks of a locomotive and consumed in Arizona, are exempt from use tax. Ariz. Rev. Stat. Ann. §42-5166(A). BNA-SUTN AZ 29.8.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Air
+
+Nontaxable Air transportation services are not subject to taxation where preempted by federal law. Ariz. Rev. Stat. Ann. §42-5062(A); Arizona Dept. of Rev. v. Cochise Airlines, 626 P.2d 596 (Ariz. Ct. App. 1980); Arizona Publication No. 616. Arranging transportation as a convenience or service for a person's customers is not taxable, so long as that person is not otherwise engaged in the business of transporting persons for hire. Ariz. Rev. Stat. Ann. §42-5062(A)(6). BNA-SUTN AZ 29.9.1.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Rail
+
+Depends Rail transportation of persons from one point to another point in Arizona is subject to tax. Interstate passenger transportation is not subject to tax. Ariz. Rev. Stat. Ann. §42-5062. Arranging transportation as a convenience or service for a person's customers is not taxable, so long as that person is not otherwise engaged in the business of transporting persons for hire. Ariz. Rev. Stat. Ann. §42-5062(A)(6). BNA-SUTN AZ 29.9.2.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Water
+
+Nontaxable Water transportation services are not subject to tax. Ariz. Rev. Stat. Ann. §42-5062. BNA-SUTN AZ 29.9.3.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Bus
+
+Depends Bus transportation of persons from one point to another point in Arizona is subject to tax. Interstate passenger transportation is not subject to tax. Ariz. Rev. Stat. Ann. §42-5062. Buses or other mass transit services for dial-a-ride programs and special needs transportation programs are not taxable under the transporting classification. Ariz. Rev. Stat. Ann. §42-5062(A)(4); Arizona Publication No. 616. Further, charges for transportation via ambulance or ambulance service are not subject to Arizona's transaction privilege tax. Arizona Publication No. 616. BNA-SUTN AZ 29.9.4.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Taxi or Transportation Network
+
+Nontaxable Arizona exempts from the transporting classification vehicle for hire companies, vehicle for hire drivers, transportation network companies and transportation network drivers. Ariz. Rev. Stat. Ann. §42-5062(A); Ariz. Rev. Stat. Ann. §28-9503(D). Charges from vehicle for hire companies and vehicle for hire company drivers are not subject to transaction privilege tax under the transporting classification if operating under a permit issued pursuant to Ariz. Rev. Stat. Ann. §28-9503. Ariz. Rev. Stat. Ann. §42-5062(A)(1)(e); Ariz. Rev. Stat. Ann. §42-5062(A)(1)(f); Ariz. Rev. Stat. Ann. §28-9503(D). These permits are issued to taxis, livery vehicles and limousines. Ariz. Rev. Stat. Ann. §28-9503(D). Charges from transportation network companies and transportation network company drivers are not subject to transaction privilege tax under the transporting classification if they are subject to a fee and permitting requirements under Ariz. Rev. Stat. Ann. §28-9552 and meet the definition of transporting network services under Ariz. Rev. Stat. Ann. §28-9551. Ariz. Rev. Stat. Ann. §42-5062(A)(1)(c); Ariz. Rev. Stat. Ann. §42-5062(A)(1)(d). A ‘transportation network company'is an entity that has been issued a permit under Ariz. Rev. Stat. Ann. §28-9552 and uses a digital network or software application to connect passengers to transportation network services provided by transportation network company drivers and that may but is not deemed to own, operate or control a personal motor vehicle of a transportation network company driver. Ariz. Rev. Stat. Ann. §28-9551(7). BNA-SUTN AZ 29.9.5.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Passenger Transportation, Limousine
+
+Nontaxable Charges from vehicle for hire companies and vehicle for hire company drivers are not subject to transaction privilege tax under the transporting classification if operating under a permit issued pursuant to Ariz. Rev. Stat. Ann. §28-9503. Ariz. Rev. Stat. Ann. §42-5062(A)(1)(e); Ariz. Rev. Stat. Ann. §42-5062(A)(1)(f). These permits are issued to taxis, livery vehicles and limousines. Ariz. Rev. Stat. Ann. §28-9503(D). BNA-SUTN AZ 29.9.6.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, General Rule
+
+Taxable Transporting property by motor vehicle, railroads or aircraft from one point to another point in Arizona is subject to tax. Ariz. Rev. Stat. Ann. §42-5062. Exemptions to the tax on transportation services include:• the business of transportation by motor carriers subject to a motor carrier fee; • the business of transportation by light motor vehicles subject to a light motor vehicle fee; • certain interstate shipments of freight or property by an Arizona railroad operator;and • arranging transportation as a convenience or service to a person's customers if that person is not otherwise engaged in the business of transporting persons, freight, or property for hire. Ariz. Rev. Stat. Ann. §42-5062(A); see Arizona Transaction Privilege Tax Decision No. 2012-00184 (Feb. 28, 2014) (exemption does not apply to services performed by non-railroad); Arizona Publication No. 616. Some taxpayers are considered to be in the business of transporting property, even if the transporting is done by a third-party independent contractor using the contractor's vehicles. If a taxpayer receives orders from a customer, dispatches vehicles, does the billing, and receives payment from the customer, that taxpayer is subject to tax under the transporting classification in Arizona. Arizona Publication No. 616. BNA-SUTN AZ 29.9.7.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Property and Passenger Transportation Property Transportation, Moving Services
+
+Nontaxable Moving services are not subject are not subject to transaction privilege tax. Ariz. Rev. Stat. Ann. §42-5061. BNA-SUTN AZ 29.9.8.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Parking and Valet
+
+Depends Charges for parking and valet services are not subject to transaction privilege tax in Arizona. Arizona Transaction Privilege Tax Ruling 99-2 (Feb. 17, 1999). These transactions are considered bailments or licenses, rather than rentals or transportation services and are therefore not taxable. Arizona Transaction Privilege Tax Ruling 99-2 (Feb. 17, 1999). However, when a customer has a contract or agreement to use a particular parking space for a specified term, this is a lease of real property and is taxable under the commercial lease classification. Arizona Transaction Privilege Tax Ruling 99-2 (Feb. 17, 1999). Although the current state rate for the commercial lease classification is 0 percent, this classification is still taxable by counties and cities. Ariz. Rev. Stat. Ann. §42-5010(A)(4); Arizona Information Publication 608. Mandatory valet parking fees charged by a hotel are subject to tax under the transient lodging classification. Ariz. Rev. Stat. Ann. §42-5070(A); Arizona Transaction Privilege Tax Ruling 06-1M (Sept. 14, 2006). BNA-SUTN AZ 29.10.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Boat Slip and Mooring Fees
+
+Depends If a boat slip/mooring fee allows the customer to use one of several boat slips, the transaction is not subject to the transaction privilege tax; if the customer can only use a particular boat slip, the transaction is taxed, but the rate is 0 percent. Ariz. Rev. Stat. Ann. §42-5010(A)(4); Ariz. Rev. Stat. Ann. §42-5069; Arizona Transaction Privilege Tax Ruling 99-2 (Feb. 17, 1999). BNA-SUTN AZ 29.11.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Towing
+
+Taxable Towing services are taxable under the transporting classification. Arizona Transaction Privilege and Other Tax Rate Tables—April 1989. BNA-SUTN AZ 29.12.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Wash
+
+Nontaxable The transaction privilege tax is not specifically imposed on fees for using a car wash. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.13.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Car Detailing
+
+Nontaxable Car detailing services to motor vehicles are not subject to tax. Ariz. Rev. Stat. Ann. §42-5061(A); Ariz. Admin. Code 15-5-105. BNA-SUTN AZ 29.14.
+
+==================================================
+
+Topic: Transportation Property, Fuel, Services Other Transportation Property and Services
+
+Taxable Arizona's transactions privilege tax is imposed on businesses in operating under the pipeline and the private car classifications. See Ariz. Rev. Stat. Ann. §42-5067(A); Ariz. Rev. Stat. Ann. §42-5068(A); Arizona Publication No. 617. Pipeline Classification The pipeline classification includes businesses that operate pipelines for transporting oil, natural gas or artificial gas through pipes or conduits from one point to another within Arizona. Sales of natural gas and liquefied petroleum gas for motor vehicle fuel are excluded. Ariz. Rev. Stat. Ann. §42-5067(A); Arizona Publication No. 610. The tax base is gross proceeds of sales or gross income derived from the business, except for income derived from pipeline services to qualifying hospitals and qualifying health care organizations. Ariz. Rev. Stat. Ann. §42-5067(B); Arizona Publication No. 617 (tax base is total income received from the business). Private Car Line Classification The private car line classification is comprised of businesses that operate a private car company, defined by Ariz. Rev. Stat. Ann. §42-14301 (i.e., railroad cars), from one point to another within Arizona. Ariz. Rev. Stat. Ann. §42-5068(A). The tax base is gross proceeds of sales or gross income derived from the business. Ariz. Rev. Stat. Ann. §42-5068(A); Arizona Publication No. 617 (tax base is total income received from the business). BNA-SUTN AZ 29.15.
+
+==================================================

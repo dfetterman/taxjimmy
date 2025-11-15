@@ -1,0 +1,33 @@
+State: Alaska
+
+
+
+Topic: Overview: Taxation of Property and Services Taxation of Property
+
+No Tax Alaska does not impose a state sales and use tax, but boroughs and cities are authorized to do so. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.650(b). Since boroughs and cities are generally not restricted as to what special taxes they may impose, many boroughs and cities do impose special taxes. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.700; see Office of the State Tax Assessor, Alaska Taxable Database. More information on the computation of the tax base is available at 1360 T.M., Sales and Use Taxes: Retail Sales Issues. BNA-SUTN AK 9.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Taxation of Services
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 9.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Mixed Transactions and the True Object Test
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 9.3.1.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Mixed and Bundled Transactions, Application of the True Object Test Bundled Transactions
+
+No Tax Alaska does not impose a state sales and use tax. BNA-SUTN AK 9.3.2.
+
+==================================================
+
+Topic: Overview: Taxation of Property and Services Local Jurisdictions, Taxability Distinctions
+
+Differs from State Alaska does not impose a state sales and use tax. Boroughs and cities are authorized to impose sales and use taxes. Alaska Stat. §29.45.650(a); Alaska Stat. §29.45.650(b). Borough Taxes (Including Certain City Taxes) Boroughs are authorized by the state to levy and collect a sales tax on all sales, rents, and on services provided in the borough; however, the state does prohibit the taxation of certain transactions, detailed below. Alaska Stat. §29.45.650(a). These restrictions also apply to cities that are within boroughs that do not impose sales or use taxes or that are not within a borough. Alaska Stat. §29.45.700(b); Alaska Stat. §29.45.700(c). City Taxes Cities that are within boroughs that do not impose sales or use taxes and cities that are not within boroughs are authorized to impose sales and use tax in the same manner as boroughs, as detailed above. Cities within boroughs that do levy and collect sales and use taxes are authorized to impose a city tax on the same sources taxed by the borough. A city may be authorized by ordinance of a borough assembly to impose sales and use tax on other sources; however, the state does prohibit the borough assembly to authorize the levy and collection on certain transactions, detailed below. Alaska Stat. §29.45.700(a); see Alaska Stat. §29.45.650; Alaska Stat. §29.45.700(b); Alaska Stat. §29.45.700(c). Mobile Telecommunications Services Any municipality that levies and collects a sales tax on mobile telecommunications services must do so in accordance with the Mobile Telecommunications Sourcing Act. The provisions of the Mobile Telecommunications Sourcing Act are incorporated into Alaska Stat. §29.45.750. Alaska Stat. §29.45.750. Exemptions The state requires that certain transactions be exempt from municipal taxation. Cities that levy and collect sales and use taxes under Alaska Stat. §29.45.700(a) (areawide collection) may not levy and collect sales tax on:• a purchase made with food coupons, food stamps, or other types of allotments under the Supplemental Nutrition Assistance Program; Alaska Stat. §29.45.700(d)(1); Alaska Stat. §29.45.650(f)(1). • a purchase made with food instruments, food vouchers, or other types of certificates issued under the Special Supplemental Food Program for Women, Infants, and Children; Alaska Stat. §29.45.700(d)(2); Alaska Stat. §29.45.650(f)(2). • the physical transfer of refined fuel, unless the transfer is made in connection with a sale or use in the city; Alaska Stat. §29.45.700(e); Alaska Stat. §29.45.650(j)(1). • wholesale sales or transfers of fuel refined in the city; • the sale, lease, rental, storage, consumption, or distribution in the state of or the provision of services relating to an orbital space facility, space propulsion system, or space vehicle, satellite, or station of any kind possessing space flight capacity, including the components of them; Alaska Stat. §29.45.650(h)(1). or • the sale, lease, rental, storage, consumption, or use of tangible personal property placed on or used aboard an orbital space facility, space propulsion system, or space vehicle, satellite, or station of any kind, regardless of whether the tangible personal property is returned to the state for subsequent use, storage, or consumption. An exemption under this paragraph is not affected by the failure of a launch to occur, the destruction of a launch vehicle, or a component of a launch vehicle. Alaska Stat. §29.45.650(h)(2). Additionally, a municipality may not levy or collect a tax or fee on the air transportation of individuals or goods by a federally certificated air carrier other than a tax or fee authorized under 49 U.S.C. §40116(e) or 49 U.S.C. §40117. Alaska Stat. §29.45.820. Further, a party to a contract approved by the state legislature as a result of submission of a proposed contract developed under Alaska Stat. §43.82.010, et seq., the Alaska Stranded Gas Development Act, or as a result of acts by the legislature in implementing the purposes of the Alaska Stranded Gas Development Act, and the property, gas, products, and activities associated with the approved qualified project that is subject to the contract, are exempt, as specified in the contract, from all taxes identified in the contract that would be levied and collected by a municipality under state law as a consequence of the participation by the party in the approved qualified project. Alaska Stat. §29.45.810. BNA-SUTN AK 9.4.
+
+==================================================

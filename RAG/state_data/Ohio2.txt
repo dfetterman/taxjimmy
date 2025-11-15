@@ -1,0 +1,459 @@
+State: Ohio
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+Ohio Tax Commissioner The Ohio Tax Commissioner is responsible for enforcing and administering the general and specific purposes sales and use taxes and the transit authority tax. Ohio Rev. Code Ann. §5739.05(A); Ohio Rev. Code Ann. §5741.06. Additionally, the Tax Commissioner is authorized to adopt and promulgate any rules and regulations that are necessary to enforce and administer the state and local sales and use taxes. Ohio Rev. Code Ann. §5739.05(A); Ohio Rev. Code Ann. §5741.06. BNA-SUTN OH 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+Ohio Tax Commissioner The Ohio Tax Commissioner is responsible for enforcing and administering the general and specific purposes sales and use taxes and the transit authority tax. Ohio Rev. Code Ann. §5739.05(A); Ohio Rev. Code Ann. §5741.06. Additionally, the Tax Commissioner is authorized to adopt and promulgate any rules and regulations that are necessary to enforce and administer the state and local sales and use taxes. Ohio Rev. Code Ann. §5739.05(A); Ohio Rev. Code Ann. §5741.06. BNA-SUTN OH 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required Generally, vendors that wish to engage in retail sales in Ohio are required to obtain a license. Ohio Rev. Code Ann. §5739.17(A). An application must be filed with the county auditor and a license fee of $25 must be submitted to the county treasury of each county in which the vendor will maintain a fixed place of business and that will be the situs of retail sales by the vendor. The county auditor will then issue a license for each fixed place of business designated in the application, utilizing a system provided and maintained by the tax commissioner. Ohio Rev. Code Ann. §5739.17(A); Ohio Rev. Code Ann. §5739.18, as added by Ohio 2017 H.B. 49, effective Sept. 29, 2017. The Department of Taxation will publish, on its website, a list of each holder of a vendor's license that includes the licensee's business address, account number and active or inactive license status. Ohio Rev. Code Ann. §5739.18, as added by Ohio 2017 H.B. 49, effective Sept. 29, 2017. Further sellers of tangible personal property or services with a substantial nexus with Ohio are generally required to register with the tax commissioner and provide information concerning any contacts with Ohio that may be required by the Commissioner. However, sellers who are licensed vendors in Ohio are not required to register with the commissioner providing all sales to Ohio consumers are made under the seller's license. Additionally seller's with no contact with Ohio other than an agency relationship with a telemarketing business within Ohio for the purposes of soliciting consumers in states other than Ohio unless such seller has established substantial nexus with Ohio through Ohio's click through nexus provision under Ohio Rev. Code Ann. §5741.01(I)(2)(g). Finally, Ohio does not require sellers to register with the commissioner when their only contact with Ohio is the ownership of property located at an Ohio based printing facility which the seller has contracted with for the printing of items that consisting the final printed product, property that becomes a part of the final printed product, or templates from which the final printed product is produced. Ohio Rev. Code Ann. §5741.17(A); see also the Sales and Use Tax Navigator, at Ohio 3.1.2.3. Registration of Transient Vendors A transient vendor may apply to the Tax Commissioner for a transient vendor's license. To receive the transient vendor's license, the transient vendor must submit an application along with$25 to the Tax Commissioner. The license permits a transient vendor to make retail sales in any county in which the vendor does not maintain a fixed place of business. The transient vendor is required to display the license or a copy of the license in plain view at every place of business. Ohio Rev. Code Ann. §5739.17(B) and (E). Registration of Service Vendors A service vendor must submit an application along with a $25 license fee to the Tax Commissioner before the vendor may sell taxable services. Ohio Rev. Code Ann. §5739.17(C). Registration of Delivery Vendors A delivery vendor must submit an application along with a $25 license fee for each delivery vendor license to the Tax Commissioner. The delivery vendor license permits a delivery vendor to make retail sales throughout the state. Ohio Rev. Code Ann. §5739.17(D). See Ohio Rev. Code Ann. §5739.01(B)(3)(e-m),(p), (t). Exceptions to the License Requirement Ohio provides that when a licensed partnership is dissolved by reason of the death of one of the partners, the surviving partner may continue to operate under the partnership's license for a period of 60 days. Further, Ohio allows the heirs or legal representatives of a deceased license holder to operate under the license of the deceased. Ohio Rev. Code Ann. §5739.17(A)(1), (A)(2). Additionally, under Ohio law, a license issued to a business entity other than a partnership operated by two or more persons is not affected by the retirement of any person from the business or the entrance of any new person under the existing agreement. A new license is not required in order for the new participants to continue operating the business unless the person retiring is the named individual on the license. Ohio Rev. Code Ann. §5739.17(A)(3). Suspension of Vendor Licenses The tax commissioner may suspend the license of any vendor that fails to file the required monthly sales tax returns in two consecutive months or in three or more months within a twelve-month period. For semiannual filers, suspension is permitted if the vendor fails to file on two or more occasions within 24 months. Ohio Rev. Code Ann. §5739.30. The commissioner may also suspend the license of any vendor that fails to file returns and make payments of income tax withheld from employees as required under Ohio Rev. Code Ann. §5747.07. Ohio Rev. Code Ann. §5739.30(C). BNA-SUTN OH 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Vendor All persons that maintain a place of business in Ohio must collect and remit sales and use taxes. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5739.30; Ohio Rev. Code Ann. §5741.12. Vendors are not relieved of liability when they enter into management agreements with other businesses who operate the vendors' businesses. See Painter v. Testa, No. 2015-111 (Ohio B.T.A. 2016) (taxpayer who entered into agreements with different management companies to operate his business was liable for sales taxes that were assessed for periods when the management companies were in charge of the business; the taxpayer still retained control over fiscal obligations of the business although he was not involved in day to day operations). An individual assessed as a responsible party may not challenge underlying corporate liability through a responsible party assessment. Derouchie v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1264 (Sept. 5, 2018). See Nusseibah v. Zaino, 784 N.E. 2d 93 (Ohio 2003) (concerning derivative personal liability, the Board of Tax Appeals is only concerned with the liability of the person assessed; once an assessment has been made against a corporation and the assessment has become conclusive, corporate officers are bound by their fiscal responsibilities towards the corporation); Columbus Cleaning Sols., Inc. v. Testa, No. 2015-347 (Ohio B.T.A. 2015) (appellant's notice of appeal concerned the underlying corporation's participation in a payment plan to satisfy its outstanding sales tax obligations; the Board found no case in controversy and properly dismissed the appeal as the payment plan did not constitute a settlement of the outstanding tax obligation and was not a release of the corporation or any of its responsible officers); Houser v. Testa, No. 2015-221 (Ohio Bd. Tax App. Nov. 30, 2015) (appeal concerned the corporate assessment;thus, the board did not have jurisdiction to hear the appeal). Where an individual assessed as the responsible party enters into a voluntary repayment plan on behalf of the corporation, the individual assessed is not precluded from outstanding tax liability. The payment plan is not a release of the corporation or any of its responsible officers. Columbus Cleaning Sols., Inc. v. Testa, No. 2015-347 (Ohio B.T.A. Sept. 11, 2015). However, failure of service of the corporate assessment invalidates a derivative responsible party assessment. As a result, where an assessment has been made against an individual as a responsible party, the individual may contest the personal assessment against themselves by challenging the service of the corporate assessment on the corporation. Ohio Rev. Code Ann. §5739.33; Cruz v. Testa, 2015 BL 266381 (Ohio 2015). When the corporate assessments were properly served according to statutory requirements, derivative liability of responsible persons is proper. Cruz v. Testa, 41 N.E.3d 1213, 2015 BL 266381, 144 Ohio St. 3d 221 (Ohio 2015). BNA-SUTN OH 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Yes The person using, storing, or consuming a taxable item in Ohio is liable for use tax on that item, unless sales tax was paid to the seller at the time of the purchase. Ohio Rev. Code Ann. §5741.02(B). A purchaser's liability for use tax continues until the tax is paid over to the state. Ohio Rev. Code Ann. §5741.02(B). However, a purchaser is not liable for unpaid sales tax if the purchaser or the seller of the property relied on erroneous data provided by the state on tax rates, boundaries, taxing jurisdiction requirements, or in Ohio's Streamlined Sales Tax Governing Board, Taxability Matrix. Ohio Admin. Code §5703-9-58(A). BNA-SUTN OH 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes Generally, an individual signing a return is presumed to be the person responsible for payment of the tax and is subject to personal assessment for any unpaid tax deficiencies. Ohio Rev. Code Ann. §5739.33; Ohio Rev. Code Ann. §5741.21. However, if a corporation, limited liability company, business trust, or holder of a direct pay permit fails to file a return or remit the tax due on a return, then Ohio holds personally liable for any unpaid tax employees who control or supervise the filing and paying of returns, or any officers, members, managers, or trustees who are responsible for the execution of fiscal responsibilities. Ohio Rev. Code Ann. §5739.33; Ohio Rev. Code Ann. §5741.21; Singh v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1160 (Sept. 10, 2018) (petitioner responsible for sales tax assessment for the period after a court ordered them to transfer ownership to another, because the order did not discuss tax liability and it was unclear when the transfer of ownership actually occurred); Ohio Board of Tax Appeals Decision No. 2016-694 (April 14, 2017) (majority shareholder held liable as a responsible party for unpaid sales tax of company despite testifying that he withdrew from the business and sold his shares prior to accrual of the tax debt. Board rejected shareholder's claim of disassociation because he did not produce any documentary evidence to support his testimony); Beachland Enterprises Inc. v. City of Cleveland Board of Review, 2013 Ohio 5585 (Ohio Ct. App. 2013) (Cleveland admissions tax assessment upheld against president of corporation deemed responsible officer); Wilson v. Testa, No. 2013-1349 (Ohio B.T.A. 2014) (despite not controlling day-to-day activities of the business, taxpayer found liable as the partner in charge of financial obligations); Kingery v. Testa, No. 2012-890 (Ohio Bd. Tax App. Jan. 27, 2015) (individual working for a leasing company was not liable as a responsible party because she was an independent contractor, not an employee of the company); Leishman v. Testa, No. 2013-6262 (Ohio Bd. Tax App. Feb. 3, 2015) (taxpayer found to have financial responsibility for business, as evidenced by her signing checks, filing sales tax returns, and being listed as president of the store's ownership entity;delegating day-to-day business responsibilities to another person does not relieve responsibility under Ohio Rev. Code Ann. §5739.33). An individual assessed tax as a responsible person of a corporation, limited liability company, or business trust required to file returns may not challenge the underlying assessment against the business, where the business itself failed to do so. The individual may only challenge her status as a responsible person. See Ohio Board of Tax Appeals Decision No. 2018-180 (Jan. 17, 2019). At the time that a business is sold or the owner resigns, a final return must be filed within 15 days. Until the former owner produces a sales tax receipt, representing that the taxes were paid or that none were due, the purchaser is permitted to withhold an amount of purchase money to cover the taxes, interest and penalties due. If the purchaser fails to withhold this money, the purchaser may be held personally liable for any unpaid taxes or penalties. Ohio Rev. Code Ann. §5739.14. BNA-SUTN OH 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Ohio relieves sellers from liability to the state and its local jurisdictions for having charged and collected incorrect tax resulting from erroneous data in the taxability matrix. Ohio Admin. Code §5703-9-54(B);Streamlined Sales Tax Governing Board, Certificate of Compliance, Ohio (version 2018.0); Streamlined Sales Tax Governing Board, Taxability Matrix, Ohio (version 2018.0); see also Streamlined Sales Tax Governing Board, User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). If the state amends an existing provision of the taxability matrix, Ohio relieves sellers from liability to the state and its local jurisdictions until the first day of the calendar month that is at least 30 days after notice of a change to the state's taxability matrix is submitted to the Governing Board for having charged and collected incorrect tax if the seller or CSP relied on the prior version of the taxability matrix. Ohio Admin. Code §5703-9-54(B);Streamlined Sales Tax Governing Board, Certificate of Compliance, Ohio (version 2018.0); Streamlined Sales Tax Governing Board, Taxability Matrix, Ohio (version 2018.0). BNA-SUTN OH 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability Ohio relieves sellers who contract with certified service provider for the collection and remittance of sales and use tax from tax liability on all transactions processed by the provider unless the seller has made a misrepresentation regarding the types of property being sold or has committed fraud. Ohio Rev. Code Ann. §5740.07. Ohio considers certified service provider to be agents of the sellers with whom they contract for the collection and remittance of sales and use taxes and as such are liable for any sales and use taxes due on all sales transactions processed for the seller. Ohio Rev. Code Ann. §5740.07. Certified service providers from liability to the state and its local jurisdictions for having charged and collected incorrect tax resulting from erroneous data in the taxability matrix. Ohio Admin. Code §5703-9-54(B);Streamlined Sales Tax Governing Board, Certificate of Compliance, Ohio (version 2018.0); Streamlined Sales Tax Governing Board, Taxability Matrix, Ohio (version 2018.0). If the state amends an existing provision of the taxability matrix, Ohio relieves certified service providers from liability to the state and its local jurisdictions until the first day of the calendar month that is at least 30 days after notice of a change to the state's taxability matrix is submitted to the Governing Board for having charged and collected incorrect tax if the seller or CSP relied on the prior version of the taxability matrix. Ohio Admin. Code §5703-9-54(B);Streamlined Sales Tax Governing Board, Certificate of Compliance, Ohio (version 2018.0); Streamlined Sales Tax Governing Board, Taxability Matrix, Ohio (version 2018.0). BNA-SUTN OH 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided For a complete listing and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. Beginning in 2009, Ohio requires all sales and use tax returns to filed electronically through the Ohio Dept. of Taxation, Ohio Business Gateway regardless of sales volume. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5741.122; 2008 Ohio H.B. 562, effective Sept. 23, 2008; see 2009 Mandatory Electronic Filing and Payment Requirements; see also Ohio Board of Tax Appeals Decision No. 2017-2332 (June 4, 2018) (ruling that sales tax returns cannot be filed as substitutes for use tax returns). Below are some of the other Ohio forms relevant for sales and use tax compliance:• Ohio UST 1: Universal State, County &Transit Sales Tax Return; • Ohio Universal Use Tax Return (UUT 1) Instructions; • Ohio ST 1: Application for Vendor's License to Make Taxable Sales; and • Ohio ST AR: Application for Sales/Use Tax Refund. BNA-SUTN OH 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+23rd of the Month Generally, taxpayers are required to file sales tax, seller's use tax or consumer's use tax returns on or before the 23rd day of the month following the end of the reporting period. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5741.12; Ohio Admin. Code §5703-9-13(D)(2), as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule); Ohio Dept. of Taxn., Sales and Use Tax Filing Deadline Reminder (Oct. 15, 2018). Each newly registered vendor, seller, direct pay holder or consumer use tax account holder, will have a filing interval determined, by the commissioner, within a reasonable amount of time after setting up the account. Subject to exceptions for direct pay permit holders or business consumers, unless the taxpayer is notified by the commissioner of an alternate filing period, the filing period is monthly. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5741.12; Ohio Admin. Code §5703-9-13(D)(3), as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule); Ohio Dept. of Taxn., Sales and Use Tax Filing Deadline Reminder (Oct. 15, 2018). The return must be filed electronically using either eForms, the Ohio Business Gateway, or TeleFile. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5741.12;Ohio Dept. of Taxn., Sales and Use Tax Electronic Filing. Monthly All licensed vendors and sellers are required to file tax returns electronically on a monthly basis. Ohio Rev. Code Ann. §5739.12; Ohio Rev. Code Ann. §5739.30; Ohio Admin. Code §5703-9-13(A)(1), as amended by Register of Ohio, effective Feb. 11, 2017 (adding sellers to filing requirements under subsection (A) and removing subsection(B), “seller's use tax returns”). Prior to Feb. 11, 2017, all sellers voluntarily registered as vendors must file use tax returns, on a calendar year basis. Additionally, such sellers must file a return for any month the collected accumulated amount of state and local tax is $1,000 or more. Sellers who collect over $18,000 of tax at any point in a calendar year, must thereafter file on a monthly basis, unless the seller can substantiate that its future tax collections are expected to be less than $1,000 per month. Ohio Admin. Code §5703-9-13(B)(2)(a), as removed by Register of Ohio, effective Feb. 11, 2017 (removing subsection titled, “seller's use tax returns”). See Ohio Admin. Code §5703-9-13(A) for seller's tax returns information. Quarterly Returns filed on a quarterly basis are for the following reporting periods:• Jan. –March • April – June • July –Sept. • Oct. – Dec. Ohio Admin. Code §5703-9-13(D)(1), as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule). Direct pay permit holders and business consumers that average a monthly tax liability of less than $5,000 may be permitted to file returns on a quarterly basis. However, if the average monthly tax liability is greater than $5,000, then they must file monthly. Ohio Admin. Code §5703-9-13(B) and (C), as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule). Semi-Annually Returns filed on a semi-annual basis are for the reporting periods:• Jan. through June • July through Dec. Ohio Admin. Code §5703-9-13(D)(1), as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule). Vendors and sellers who do not hold a permit to sell alcoholic beverages may be authorized to file on a semi-annual basis providing that their average monthly tax liability collections are less than $200. Ohio Admin. Code §5703-9-13(A)(2)as amended by Register of Ohio, effective Feb. 11, 2017 (renumbering rule). BNA-SUTN OH 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Payment of tax shown on a return to be due is due with the return on the 23rd day following the close of the reporting period. Ohio Rev. Code Ann. §5739.12(A)(1). However, if it is determined that the amount of tax due in a calendar year is at least $75,000, the vendor or consumer will be on an accelerated payment schedule for the following year. Ohio Rev. Code Ann. §5741.121(A); Ohio Rev. Code Ann. §5739.122(A). The accelerated payments require the taxpayer to remit 75 percent of its anticipated tax liability for that month by the 23rd day of the month. On or before the 23rd day of each month, the taxpayer must report the taxes collected for the previous month and pay that amount, less any amounts paid that month as required by the accelerated schedule. Ohio Rev. Code Ann. §5741.121(B); Ohio Rev. Code Ann. §5739.122(B). BNA-SUTN OH 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Allowed The Ohio Tax Commissioner may extend the time for making and filing returns and paying the tax. Ohio Rev. Code Ann. §5739.12(A)(1). BNA-SUTN OH 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. In Ohio, the Tax Commissioner may extend the time for making and filing returns and paying the tax. Ohio Rev. Code Ann. §5739.12(A)(1). As part of Hurricane Harvey and Hurricane Irma relief efforts, a 45-day extension is available for Ohio sales and use tax filing obligations due in September 2017. To qualify for the extension, taxpayers must be affected by either Hurricane Harvey or Hurricane Irma, and their tax returns must be for accounts with mailing addresses located in the following jurisdictions:• any county in Florida; • specific Texas counties and Louisiana parishes; or • certain jurisdictions in the U.S. Virgin Islands and Puerto Rico. Ohio Tax Alert: Filing Extension for Those Impacted by Hurricanes Harvey and Irma (Sept. 19, 2017). BNA-SUTN OH 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Permitted Ohio allows vendors to pay sales and use tax via electronic funds transfer(EFT). Ohio Rev. Code Ann. §5739.12(A)(1); Ohio Rev. Code Ann. §5739.032; Ohio Rev. Code Ann. §5739.122. Though the Tax Commissioner is required to notify direct pay permit holders and accelerated payment taxpayers of their obligation to pay by EFT, the taxpayer is not relieved of this obligation if there is no notice. Ohio Rev. Code Ann. §5739.032(A); Ohio Rev. Code Ann. §5739.122(A); Ohio Rev. Code Ann. §5741.121. Vendors may be penalized as much as 5 percent of the tax due for the failure to pay by EFT. Commencing with a taxpayer's third failure to file by EFT, a 10 percent penalty is imposed. These charges are in addition to any other penalties authorized under the laws of Ohio. Ohio Rev. Code Ann. §5739.124(C). Ohio has partnered with Official Payments Corporation to offer sales and use taxpayers the option of making credit card payments either by telephone, via the Official Payments Corporation website, or on the Ohio Business Gateway. Ohio Dept. of Taxn., Credit Card Payments Now Accepted for Certain Business Taxes (last visited April 17, 2019). BNA-SUTN OH 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Taxpayers who make EFT payments have the option to make Automated Clearing House(ACH) Debit or ACH Credit payments. To make ACH Debit or ACH Credit payments, the taxpayer must register with the Treasurer of State of Ohio. Ohio Information Release ST 2007-06. BNA-SUTN OH 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+0.75% Vendors that have a license to collect and remit sales and use tax may take a discount of 0.75 percent of the amount due on the return. The discount is only available to vendors that pay the tax on or before the due date. Ohio Rev. Code Ann. §5739.12(B)(1). BNA-SUTN OH 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes For a transaction to be exempt from sales or use tax, the purchaser must provide the vendor with an exemption certificate specifying the reason it is nontaxable. Ohio Rev. Code Ann. §5739.03(B); Ohio Rev. Code Ann. §5741.02(E); Ohio Admin. Code §5703-9-03. Consequences of Failing to Obtain Exemption Certificates The seller is responsible for obtaining an exemption certificate or else the sale is presumed taxable. If the seller obtains an exemption certificate or other sufficient information, the seller is relieved of any liability for the tax on the transaction. If the seller cannot produce an exemption certificate or other sufficient information substantiating the claimed exemption, the seller will be liable for tax. Ohio Rev. Code Ann. §5739.03(B)(1)(b). While it is advisable to obtain an exemption certificate, it is not mandatory that a certificate be obtained when the identity of the consumer is such that the transaction is never taxable, when the item of tangible personal property or the service provided is never taxable, or when the sale is in interstate commerce. Ohio Rev. Code Ann. §5739.03(B); Ohio Rev. Code Ann. §5741.02(E); Ohio Admin. Code §5703-9-03. BNA-SUTN OH 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked Ohio does not provide an expiration period for exemption certificates. Ohio Rev. Code Ann. §5739.03(B); Ohio Admin. Code §5703-9-03. BNA-SUTN OH 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted Ohio accepts the Uniform Sales and Use Tax Certificate created by the Multistate Tax Commission as a valid exemption certificate. Ohio Information Release ST 2005-02;Multistate Tax Comn., Uniform Sales and Use Tax Exemption Certificate. By its terms, this certificate may be used only for claiming an exemption based on resale or on the incorporation of the item purchased into a product for sale. Ohio Information Release ST 2005-02;Multistate Tax Comn., Uniform Sales and Use Tax Exemption Certificate. BNA-SUTN OH 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted Ohio accepts the Exemption Certificate adopted by the Streamlined Sales Tax System as a valid exemption certificate. Ohio Admin. Code §5703-9-50; Ohio Information Release ST 2005-02;Streamlined Sales Tax Governing Board, Certificate of Compliance, Ohio (version 2018.0); Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN OH 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Accepted Ohio has several types of forms authorized for use by Ohio consumers when making exempt purchases. Ohio Information Release ST 2005-02. General Exemption Certificates • Ohio STEC U - Unit Exemption Certificate, is used to claim exemption or exception on a single purchase. • Ohio STEC B - Blanket Exemption Certificate, is used to make a continuing claim of exemption or exception on purchases from the same vendor or seller. • Ohio STEC CC - Construction Contract Exemption Certificate, may be used by a construction contractor performing or purchasing statutorily exempt real property that will be incorporated into real estate as described in Ohio Rev. Code Ann. §5703-9-14(D)(1a) - Ohio Rev. Code Ann. §5703.03-9-14(D)(1g); Ohio Admin. Code §5703-9-14(K), as amended by Register of Ohio, effective Dec. 19, 2016. Ohio Information Release ST 2005-02. • Ohio STEC CO - Contractor's Exemption Certificate. Rather than using copies of the construction contract exemption certificate when making purchases of materials, a contractor or subcontractor may use a contractor's exemption certificate when purchasing materials for incorporation into real property pursuant to a contract where the contractee claims exemption under Ohio Rev. Code Ann. §5703-9-14(D); Ohio Admin. Code §5703-9-14(K), as amended by Register of Ohio, effective Dec. 19, 2016. Multiple Points of Use • Ohio STEC MPU - Multiple Points of Use Exemption Certificate. This certificate may be used as a multiple points of use form, pursuant to Section 5739.033(B)of the Ohio Revised Code, by a business purchaser of any services or computer software, when the services or software is available for concurrent use in multiple locations. Alternately, a consumer claiming the multiple points of use claim may provide an exemption certificate form indicating “multiple points of use”as the reason for claiming exemption. Ohio Information Release ST 2005-02. BNA-SUTN OH 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes Vendors may, in good faith, rely on an exemption certificate. Ohio Rev. Code Ann. §5739.03(C). A vendor or certified service provider that obtains a fully completed exemption certificate from a consumer within 90 days subsequent to the sale is relieved of liability for collecting and remitting tax on any sale covered by that certificate. If it is determined the exemption was improperly claimed, the consumer will be liable for any tax due on that sale. Relief under this division from liability does not apply to any of the following:• a vendor that fraudulently fails to collect tax; • a vendor that solicits consumers to participate in the unlawful claim of an exemption; • a vendor that accepts an exemption certificate from a consumer that claims an exemption based on who purchases or who sells property or a service, when the subject of the transaction sought to be covered by the exemption certificate is actually received by the consumer at a location operated by the vendor in this state, and this state has posted to its web site an exemption certificate form that clearly and affirmatively indicates that the claimed exemption is not available in this state; or • a vendor that accepts an exemption certificate from a consumer who claims a multiple points of use exemption, if the item purchased is tangible personal property, other than prewritten computer software. Ohio Rev. Code Ann. §5739.03(B)(1)(b); Ohio Rev. Code Ann. §5741.02(E); Ohio Admin. Code §5703-9-57. BNA-SUTN OH 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+Time of Sale The seller is relieved of liability if the seller obtains a fully completed exemption certificate at the time of the transaction. If no certificate is obtained within 90 days after the date of the transaction, the transaction is presumed taxable. Ohio Rev. Code Ann. §5741.02(E)(3). However, after the tax commissioner gives written notice of intent to levy an assessment, a seller has an additional 120 days to obtain an exemption certificate. Ohio Rev. Code Ann. §5741.02(E)(3). BNA-SUTN OH 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+4 Years Vendors are required to preserve exemption certificates or records evidencing the reason a sale was exempted for a period of four years, unless the Tax Commissioner authorizes their earlier destruction or requires their retention for a longer period of time. Ohio Rev. Code Ann. §5739.11. The statute of limitations on assessing sales tax in Ohio is four years after the date the return is filed. Ohio Rev. Code Ann. §5739.16(A). BNA-SUTN OH 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required The use of a specific form is generally not mandatory when claiming an exemption except for specific use-based exemptions. So long as the consumer provides the vendor or seller with all data elements required for a valid exemption certificate, the vendor may accept the certificate and be relieved of the obligation to collect the tax. Ohio Information Release ST 2005-02. Also, exemption certificates may be presented in either paper or electronic form. Paper certificates require, as one of the data elements, a signature from the consumer. No signature is required on electronic certificates. Ohio Information Release ST 2005-02. BNA-SUTN OH 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required The use of a specific form is generally not mandatory when claiming an exemption except for specific use-based exemptions. So long as the consumer provides the vendor or seller with all data elements required for a valid exemption certificate, the vendor may accept the certificate and be relieved of the obligation to collect the tax. Ohio Information Release ST 2005-02. Note also that exemption certificates may be presented in either paper or electronic form. Paper certificates require, as one of the data elements, a signature from the consumer. No signature is required on electronic certificates. Ohio Information Release ST 2005-02. BNA-SUTN OH 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required The use of a specific form is generally not mandatory when claiming an exemption. So long as the consumer provides the vendor or seller with all data elements required for a valid exemption certificate, the vendor may accept the certificate and be relieved of the obligation to collect the tax. Ohio Information Release ST 2005-02. Note also that exemption certificates may be presented in either paper or electronic form. Paper certificates require, as one of the data elements, a signature from the consumer. No signature is required on electronic certificates. Ohio Information Release ST 2005-02. The following are Exemption Certificates that are mandatory to exempt specific purchases:• Motor Vehicle Exemption Certificate Forms: • Ohio STEC MV - Motor Vehicle, Off-Highway Motorcycle or All-Purpose Vehicle Exemption Certificate. This certificate is used to claim exemption on the purchase of a motor vehicle, off-highway motorcycle or all-purpose vehicle. It must be presented to the Clerk of Courts when applying for title to the motor vehicle, off-highway motorcycle or all-purpose vehicle. • Ohio STEC IC- Motor Vehicle, Off-Highway Motorcycle, or All-Purpose Vehicle Interstate Commerce Statement. This certificate is used when a motor vehicle, off-highway motorcycle or all-purpose vehicle is to be delivered to the purchaser outside the State of Ohio pursuant to the terms of the sales agreement. It must be presented by the dealer making the interstate commerce sale to the Clerk of Courts when applying for title to the motor vehicle, off-highway motorcycle or all purpose vehicles. • Ohio STEC NR - Motor Vehicle, Off-Highway Motorcycle, or All-Purpose Vehicle Non-Resident Exemption Certificate and Affidavit. This certificate is to be used by a purchaser that is not a resident of Ohio that will immediately remove the vehicle purchased from this state and permanently title the motor vehicle, off-highway motorcycle or all-purpose vehicle in another state. It must be presented to the Clerk of Courts when applying for title to the motor vehicle, off-highway motorcycle or all-purpose vehicles. Ohio Information Release ST 2005-02. • Watercraft Exemption Certificate: • Ohio STEC WC - Watercraft, Outboard Motor or Personal Watercraft Exemption Certificate. This certificate is used to claim exemption on the purchase of a watercraft, outboard motor or personal watercraft when the watercraft, outboard motor or personal watercraft is required to be titled in this state. It must be presented to the Clerk of Courts when applying for title to the watercraft, outboard motor or personal watercraft. • Ohio STEC WCIC - Watercraft, Outboard Motor or Personal Watercraft Interstate Commerce Statement. This certificate is used when a watercraft, outboard motor or personal watercraft is to be delivered to the purchaser outside the State of Ohio pursuant to the terms of the sales agreement. It must be presented by the dealer making the interstate commerce sale to the Clerk of Courts when applying for title to the watercraft, outboard motor or personal watercraft. Ohio Information Release ST 2005-02. • Certificates for Construction Contracts: • Ohio STEC CC - Construction Contract Exemption Certificate. This certificate may be used when making purchases of materials to be incorporated into real property as part of an exempt construction contract. It must be signed by the contractor and/or subcontractor and by the political subdivision or other exempt contractee. The contractor should retain the original of this certificate in the records of the exempt contract and provide copies to any supplies from whom purchases of construction materials are made. A contractor that provides a Construction Contract Exemption Certificate signed by the contractee is protected from liability if it is later determined that the contract did not qualify for exemption. In such a case, the contractee will assume the liability for any unpaid taxes. • Ohio STEC CO- Contractor's Exemption Certificate. This certificate may be used when making purchases of materials to be incorporated into real property as part of an exempt construction contract. Unlike the Construction Contract Exemption Certificate, it is signed only by the contractor or subcontractor that is making the purchases of materials. Unlike the Construction Contract Exemption Certificate, this certificate protects only the vendor or seller and provides no protection to the contractor on audit. Ohio Information Release ST 2005-02. BNA-SUTN OH 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized If the Tax Commissioner determines that a direct payment would improve compliance and make administration of the tax more efficient, then a direct payment permit may be authorized. Ohio Rev. Code Ann. §5739.031(A). Direct payment is available to businesses whose purchase transactions of goods or services surpass$5,000 annually and whose sales and use tax paid exceeds $250,000 annually. Ohio Information Release ST 2003-01. Use of Permit A direct pay permit holder must file by the 23rd day of each month a return for the preceding month and must pay the tax shown on the return to be due. Ohio Rev. Code Ann. §5739.031(B). Revocation or Relinquishment of Permit A direct pay permit remains valid until the holder surrenders it or the Tax Commissioner cancels it for cause. When the direct pay permit becomes invalid, the general sales and use code provisions apply for all subsequent purchases. Moreover, a taxpayer whose direct pay permit is relinquished or revoked must provide written notification of the direct pay permit termination to vendors and sellers from whom purchases are made. Ohio Rev. Code Ann. §5739.031(F). BNA-SUTN OH 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+4 Years Ohio sales and use taxpayers, including out-of-state vendors that sell within Ohio, are required to keep complete and accurate records for four years. Ohio Rev. Code Ann. §5739.11; Ohio Rev. Code Ann. §5741.15; Ohio Admin. Code §5703-9-02. Among the records that must be maintained are primary and secondary records. Ohio Rev. Code Ann. §5739.11; Ohio Rev. Code Ann. §5741.15; Ohio Admin. Code §5703-9-02. Primary records are described as purchase invoices, bills of lading, sales invoices, guest checks, exemption certificates, tax payment receipts, and cash register tapes. Secondary records are described as bank deposit receipts and day books, journals, or any other records in which accumulated data is recorded. Moreover, vendors must keep exemption certificates. The four-year record keeping requirement may be lowered or extended if authorized by the Tax Commissioner in writing. Ohio Rev. Code Ann. §5739.11; Ohio Rev. Code Ann. §5741.15; Ohio Rev. Code Ann. §5739.03; Ohio Admin. Code §5703-9-02; see Manes v. Testa, No. 2013-5590 (Ohio Bd. Tax App. Sept. 2, 2014) (taxpayer failure to maintain complete and accurate records cited as support for deciding in favor of audit results and assessed penalties). Failure to maintain primary records will enable the Tax Commissioner to either: (1) determine the taxable and nontaxable sales and impose tax based on the Code's described tax bracket or(2) determine the net receipts as the basis for application of the 4 percent tax levied. The Tax Commissioner will be aided in his analysis by using purchase records, sampling of the vendors business activity for a representative period, or information relating to the sales made by such vendor. Failure to maintain secondary records results in the Tax Commissioner using a sample of the vendor's business activity for a representative period to determine the rate of tax. Ohio Rev. Code Ann. §5739.11; Ohio Rev. Code Ann. §5741.15; Ohio Admin. Code §5703-9-02. “Net receipts” means the total amount of the prices of all sales less (a) the sale price of property returned by the consumers when the full price of tax has been refunded either in cash or by credit,(b) sales under $0.16, and (c) sales of food for human consumption off the premises where sold. Food Service Vendors Vendors conducting food service operators, who have not been convicted of a criminal violation of Ohio Rev. Code Ann. §5739.99, can keep 14 days of sales records per calendar quarter in lieu of keeping records of all sales from their food service operation. If the vendor elects not to retain records of all sales, the records of sales made on 14 days out of each quarter, as specified by the Tax Commissioner after the quarter is over, are required to be kept for the four-year statutory period. Ohio Rev. Code Ann. §5739.99;Ohio Dept. of Taxn., Record Retention Notice (Third Quarter 2018 retention dates);Ohio Dept. of Taxn., Record Retention Notice (Second Quarter 2018 retention dates). Restaurants and Bars If a restaurant or bar claims that alcoholic beverages were lost to spillage, breakage or pilferage, the business must have specific documentation to account for lost product. Specific documentation accepted to show spillage, breakage or pilferage includes a daily summary documenting alcoholic beverages lost to breakage or spillage showing the number of containers lost by size, brand or type of drink and size. Ohio Dept. of Taxn., Sales/Use Tax for Alcoholic Beverages in a Bar or Restaurant (September 2015). BNA-SUTN OH 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both Ohio vendors are eligible for refunds for taxes paid if the vendor has refunded to the consumer the full amount of taxes the consumer paid illegally or erroneously. Ohio Rev. Code Ann. §5739.07; Ohio Rev. Code Ann. §5741.10; Clerac, LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2018-216 (Sept. 10, 2018). Vendors may also be refunded if they have illegally or erroneously billed the consumer but not yet collected the taxes from the consumer. Ohio Rev. Code Ann. §5739.07; Ohio Rev. Code Ann. §5741.10. Consumers are eligible for refunds for illegal or erroneous taxes paid as well. The commissioner is required to refund consumers taxes paid illegally or erroneously providing:• the commissioner has not refunded the tax to the vendor and the vendor has not refunded the tax to the consumer; or • the consumer has received a refund of the full purchase price, but not the tax from a manufacturer or other person, other than the vendor, in a settlement of a complaint by the consumer. Ohio Rev. Code Ann. §5739.07; Ohio Rev. Code Ann. §5741.10. BNA-SUTN OH 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+4 Years A taxpayer may apply for a refund by filing an application with the Tax Commissioner within four years from the time of the payment of the contested tax. The Commissioner will determine the amount of the refund that the applicant is entitled. Ohio Rev. Code Ann. §5739.07; Ohio Rev. Code Ann. §5741.10; see also City Tan LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2017-579 (April 23, 2018) (granting refund for erroneously remitted sales tax, but only for the period of four years prior to filing the refund request). However, the vendor or consumer may waive the four-year statute of limitation and the refund period will be extended for the time of the waiver. The option to waive the four-year statute of limitations is only available in cases where the commissioner has issued an assessment against a vendor or consumer; refunds of voluntary tax payments by a vendor that were later determined to be erroneous are subject to the standard four-year period. See The Cornerstone Shop Inc. v. Testa, No. 2015-385 (Ohio Bd. Tax App. Dec. 14, 2015) (taxpayer could not request a waiver of the four-year statute of limitations period because he had not been assessed additional tax and was simply requesting a refund of tax he had voluntarily paid; a refund was only available for the portion of the claim still within the four-year statute of limitations period). Effective Sept. 17, 2014, the tax commissioner is required to review taxpayer accounts no later than sixty days before the expiration of the period of time during which a taxpayer may file a refund application for a tax or fee. The tax commissioner must notify the taxpayer of any credit account balance in the taxpayer's favor, and must issue a refund for the credit account balance, regardless of whether the taxpayer files a refund application or amended return. Ohio Rev. Code Ann. §5703.77, enacted by 2014 Ohio S.B. 263, effective Sept. 17, 2014. BNA-SUTN OH 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+4 Years Ohio may assess additional sales tax within four years of the due date for the taxable period or the date that the return is actually filed, whichever is later. Ohio Rev. Code Ann. §5739.16(A). The statute of limitations does not bar an assessment for taxable periods if the tax commissioner has substantial evidence of amounts of taxes collected by a vendor from consumers on retail sales that were not returned to the state, or if a return was never filed. Further, the statute of limitations does not bar assessment when the vendor or the consumer waive the time limitation in writing in conjunction with the Commissioner. Ohio Rev. Code Ann. §5739.16(A)(1); Ohio Rev. Code Ann. §5739.16(A)(2); Ohio Rev. Code Ann. §5739.16(A)(3). BNA-SUTN OH 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes Ohio imposes civil penalties, that generally range from $25 to $100 for a first violation, on individuals or businesses that violate tax laws and regulations relating to sales and use tax. Ohio Rev. Code Ann. §5739.99; Ohio Rev. Code Ann. §5741.99; see Smedley Chevrolet Sales Inc. v. Ohio Tax Comm., No. 2011-A-760 (Ohio Bd. Tax App. Oct. 9, 2012) (taxpayer was entitled to remission of penalties, interest and additional charges surrounding the delinquencies attributed to its business manager's concealment and criminal malfeasance). Failure to File Return or Filing an Incomplete, False, or Fraudulent Return The failure to file a sales tax return or the filing of an incomplete, false, or fraudulent return may be sanctioned by the imposition of a fine of at least $100 but not more than $1000 and imprisonment for no more than 60 days. Ohio Rev. Code Ann. §5739.99(B). The failure to file a use tax return or the filing of an incomplete, false, or fraudulent use tax return carries a fine of no more than $500. Ohio Rev. Code Ann. §5741.99. The failure of a vendor to file a return or to pay the full amount of tax due may result in an additional charge of $50 or 10 percent of the tax required to be paid for the reporting period, whichever is greater. Ohio Rev. Code Ann. §5739.12. Failure to Pay/Collect Failure to pay or collect sales or use tax as a first offense will result in a fine of at least $25 but not more than $100. For subsequent offenses, a corporation is fined at least$100 but not more than $500, and a person or member of a partnership, firm, or association will be fined at least $25 but not more than$100 and may be imprisoned up to 60 days. Ohio Rev. Code Ann. §5739.99; Ohio Rev. Code Ann. §5741.99. In addition to the assessment, a vendor that fails to collect and remit the sale and use tax may face a penalty of up to 50 percent of the amount assessed. Ohio Rev. Code Ann. §5739.133. Failure to Obtain a License Vendors that engage in business in Ohio are required to obtain a license prior to the commencement of business activities. Ohio Rev. Code Ann. §5739.17(A). Vendors that engage in business without a license are fined at least $25 but not more than $100 for the first offense. Ohio Rev. Code Ann. §5739.99(C)(1). Any subsequent violation is a fourth degree felony. Moreover, each day of business operation without a license is a separate offense. Ohio Rev. Code Ann. §5739.99(C). BNA-SUTN OH 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes Ohio imposes a range of criminal penalties on individuals or businesses that violate tax laws and regulations relating to sales and use tax. Ohio Rev. Code Ann. §5739.99; Ohio Rev. Code Ann. §5741.99; see Smedley Chevrolet Sales Inc. v. Ohio Tax Comm., No. 2011-A-760 (Ohio Bd. Tax App. Oct. 9, 2012) (taxpayer was entitled to remission of penalties, interest and additional charges surrounding the delinquencies attributed to its business manager's concealment and criminal malfeasance). Failure to File Return or Filing an Incomplete, False, or Fraudulent Return The failure to file a sales tax return or the filing of an incomplete, false, or fraudulent return may be sanctioned by the imposition of a fine of at least $100 but not more than $1000 and imprisonment for no more than 60 days. Ohio Rev. Code Ann. §5739.99(B). Failure to Pay/Collect Failure to pay or collect sales or use tax as a first offense will result in a fine of at least$25 but not more than $100. For subsequent offenses, a corporation is fined at least $100 but not more than $500, and a person or member of a partnership, firm, or association will be fined at least $25 but not more than $100 and may be imprisoned up to 60 days. Ohio Rev. Code Ann. §5739.99; Ohio Rev. Code Ann. §5741.99. In addition to the assessment, a vendor that fails to collect and remit the sale and use tax may face a penalty of up to 50 percent of the amount assessed. Ohio Rev. Code Ann. §5739.133. Failure to Obtain a License Vendors that engage in business in Ohio are required to obtain a license prior to the commencement of business activities. Ohio Rev. Code Ann. §5739.17(A). Vendors that engage in business without a license are fined at least $25 but not more than $100 for the first offense. Ohio Rev. Code Ann. §5739.99(C)(1). Any subsequent violation is a fourth degree felony. Ohio Rev. Code Ann. §5739.99(C)(1). Moreover, each day of business operation without a license is a separate offense. Ohio Rev. Code Ann. §5739.99(C). Failure to Remit Tax Any vendor that fails to remit taxes collected under the sales tax statutes is guilty of a fourth degree felony punishable by revocation of the vendor's license. A vendor is not eligible for a new vendor's license until after two years following conviction for the offense. Ohio Rev. Code Ann. §5739.99(E). Transient Vendors A transient vendor that sells without obtaining a license, as a first offense, may be fined at least $100 but not more than $500, and may be imprisoned for up to 10 days. Subsequent offenses may result in a fine of least $1000 but not more than $2500 or imprisonment for not more than 30 days. The county sheriff may impound the motor vehicle and goods of a transient seller charged with operating a business without a license and may sell the goods at auction to satisfy any fines imposed. Ohio Rev. Code Ann. §5739.99(C)(2). Transient vendors that do not display their licenses in open view are guilty of a misdemeanor. A sheriff or police officer in a municipal corporation may enforce this provision. Ohio Rev. Code Ann. §5739.99(F). BNA-SUTN OH 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The commissioner may abate or remit penalties imposed under Ohio Rev. Code Ann. §5739.133. Ohio Rev. Code Ann. §5739.133(C). See Neptune v. Testa, No. 2014-4620 (Ohio Bd. Tax App. Nov. 12, 2015) (commissioner did not abuse his discretion with regard to partial penalty remission). Waiver of penalties is discretionary, and appellate review of that decision is limited to a determination of whether there has been an abuse of power. Jennings &Churella Constr. Co. v. Lindley, 10 Ohio St.3d 67, 461 N.E.2d 897 (1984); Fiddle Stix Boutique, LLC v. McClain, Ohio Board of Tax Appeals Decision No. 2018-69 (April 29, 2019); Thoroughbred Metalworks LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2017-697 (April 23, 2018). BNA-SUTN OH 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Annually Ohio determines interest rates for underpayments and overpayments of tax annually. Ohio Rev. Code Ann. §5703.47(B);Ohio Dept. of Taxn., Annual Certified Interest Rates. Neither underpayment interest nor overpayment interest is subject to compounding in Ohio. Ohio Dept. of Taxn., Annual Certified Interest Rates. BNA-SUTN OH 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Federal short-term rate + 3% The Ohio interest rate on underpayments of tax is the federal short-term rate in effect on Oct. 15 of the preceding calendar year, rounded to the nearest whole percent, plus three percent. Ohio Rev. Code Ann. §5739.132(A); Ohio Rev. Code Ann. §5703.47(B);Ohio Dept. of Taxn., Annual Certified Interest Rates. Interest accrues on unpaid sales and use tax from the payment due date until the tax is paid or until an assessment is made, whichever occurs first. Ohio Rev. Code Ann. §5739.132(A); see Smedley Chevrolet Sales Inc. v. Ohio Tax Comm., No. 2011-A-760 (Ohio Bd. Tax App. Oct. 9, 2012) (taxpayer was entitled to remission of penalties, interest and additional charges surrounding the delinquencies attributed to its business manager's concealment and criminal malfeasance). Interest charges are generally not abated or remitted during an appeal or an audit. See, e.g., Saood Inc. v. Testa (Ohio B.T.A. 2016) (there was no specific statutory authority to remit interest). BNA-SUTN OH 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2018, the Ohio interest rate on underpayments of tax is 4 percent. Ohio Administrative Journal Entry 10-12-2017;Ohio Dept. of Taxn., Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2017, the Ohio interest rate on underpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2016, the Ohio interest rate on underpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2015, the Ohio interest rate on underpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2014, the Ohio interest rate on underpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the Ohio interest rate on underpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the Ohio interest rate on underpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2011, the Ohio interest rate on underpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2010, the Ohio interest rate on underpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2009, the Ohio interest rate on underpayments of tax is 5 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Federal short-term rate + 3%. The Ohio interest rate on overpayments of tax is the federal short-term rate in effect on Oct. 15 of the preceding calendar year, rounded to the nearest whole percent, plus three percent. Ohio Rev. Code Ann. §5739.132(B); Ohio Rev. Code Ann. §5703.47(B);Ohio Dept. of Taxn., Annual Certified Interest Rates. Interest is paid from the date of the overpayment until the refund is issued. Ohio Rev. Code Ann. §5739.132(B). BNA-SUTN OH 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2018, the Ohio interest rate on overpayments of tax is 4 percent. Ohio Administrative Journal Entry 10-12-2017;Ohio Dept. of Taxn., Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2017, the Ohio interest rate on overpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2016, the Ohio interest rate on overpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2015, the Ohio interest rate on overpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2014, the Ohio interest rate on overpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2013, the Ohio interest rate on overpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:3% 2Q:3% 3Q:3% 4Q:3% In 2012, the Ohio interest rate on overpayments of tax is 3 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2011, the Ohio interest rate on overpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:4% 2Q:4% 3Q:4% 4Q:4% In 2010, the Ohio interest rate on overpayments of tax is 4 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2009, the Ohio interest rate on overpayments of tax is 5 percent. Ohio Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+Yes Ohio offered a tax amnesty program for sales tax, use tax, and other state taxes from Jan. 1, 2018 to Feb. 15, 2018. 2017 Ohio H.B. 49, §757.110 effective June 29, 2017; Ohio News Release: Ohio Department of Taxation to Offer 2018 Tax Amnesty Program (Nov. 13, 2017); Ohio Dept. of Taxn., Ohio Tax Amnesty. The commissioner will abate one-half of the accrued interest and all of the applicable penalties for taxpayers that pay all of their qualifying delinquent sales and use taxes and one-half of the accrued interest. 2017 Ohio H.B. 49, §757.110 effective June 29, 2017; Ohio News Release: Ohio Department of Taxation to Offer 2018 Tax Amnesty Program (Nov. 13, 2017); Ohio Dept. of Taxn., Ohio Tax Amnesty. Sales and use taxes are eligible under this amnesty program, except for those taxes imposed under Ohio Rev. Code Ann. §5739.08, Ohio Rev. Code Ann. §5739.09 or Ohio Rev. Code Ann. §5739.101 2017 Ohio H.B. 49, §757.110 effective June 29, 2017. . To apply for the amnesty program, taxpayers must: complete and sign Ohio tax amnesty application(s) and related return(s), pay the full amount of all tax liabilities reported, and submit a completed taxpayer registration form, if filing for a business not registered in Ohio. Completed applications, returns, and payments must be mailed to:Ohio Department of Taxation Tax Amnesty P.O. Box 183050 Columbus, OH 43218-3050 Ohio Dept. of Taxn., Ohio Tax Amnesty. BNA-SUTN OH 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No Ohio did not have a sales tax amnesty program in 2017. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No Ohio did not have a sales tax amnesty program in 2016. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No Ohio did not have a sales tax amnesty program in 2015. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No Ohio did not have a sales tax amnesty program in 2014. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+Yes Ohio offered a consumer use tax amnesty program that began in 2011 and ended on May 1, 2013. 2011 Ohio H.B. 153, §757.42; Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. Participating taxpayers were granted a full waiver or abatement of interest and penalties provided they paid the full amount of consumer use tax owed on and after Jan. 1, 2009. Also, any tax, interest, and penalties due from periods prior to Jan,. 1, 2009 was waived. 2011 Ohio H.B. 153, §757.42; Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program; see also Ohio Dept. of Taxn., Amnesty Program Overview. BNA-SUTN OH 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+Yes Ohio established a tax amnesty program that ran from May 1, 2012, through June 15, 2012, for sales and sellers use tax, among other taxes, due and payable as of May 1, 2011. 2011 Ohio H.B. 153, §757.40(A)(1); 2011 Ohio H.B. 153, §757.40(B); see also Ohio Dept. of Taxn., Amnesty Program Overview. Under the terms of the program, a person that paid the full amount of the delinquent tax and one-half of any interest accrued as a result of failing to pay timely was allowed a waiver or abatement on any applicable penalties and one-half of the accrued interest. A person that paid all delinquent tax and accrued interest was not subject to any criminal prosecution or civil action, and no further assessment was issued with respect to the tax paid. 2011 Ohio H.B. 153, §757.40 (C) and (E); see also Ohio Dept. of Taxn., Amnesty Program Overview. The amnesty program was not available for any tax for which the Ohio Department of Taxation sent a notice of assessment or audit or a tax bill. In addition, the program did not apply to taxes for periods that were audited. 2011 Ohio H.B. 153, §757.40(A)(2); see also Ohio Dept. of Taxn., Amnesty Program Overview. Ohio also continued the consumer use tax amnesty program that began in 2011. 2011 Ohio H.B. 153, §757.42; Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. BNA-SUTN OH 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+Yes Ohio offered a consumer use tax amnesty program that ran from Oct. 1, 2011, until May 1, 2013. 2011 Ohio H.B. 153, §757.42(B);Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. During the program, if a consumer paid the full amount of use tax owed on or after Jan. 1, 2009, the consumer was allowed a waiver or abatement of all penalties and interest accrued on or after Jan. 1, 2009. In addition, any consumer use tax and all associated penalties or interest owed prior to Jan. 1, 2009, were waived. Taxpayers who participated in the program and paid the full amount of outstanding delinquent tax were not subject to criminal prosecution or civil action, and no further assessment was made with respect to the taxes paid. 2011 Ohio H.B. 153, §757.42; Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. Taxpayers that were registered with the department for consumer use tax as of June 1, 2011, were eligible for the program, and no tax, penalty or interest was assessed for periods prior to Jan. 1, 2009. 2011 Ohio H.B. 153, §757.42(G);2011 Ohio H.B. 153, §757.42(F); Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. However, taxpayers registered as of June 1, 2011, were responsible for interest and penalties for delinquent tax paid under the program for periods on or after Jan. 1, 2009. 2011 Ohio H.B. 153, §757.42(F);Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. The amnesty program was not available for a consumer that had been issued an assessment on or before Sept. 29, 2011. 2011 Ohio H.B. 153, §757.42(E);Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. The amnesty program also featured a payment plan, allowing participants to pay the amount of use tax owed over a time period of up to seven years. Failure to pay the tax or to comply with the payment plan terms subjected the consumer to liability for interest. 2011 Ohio H.B. 153, §757.42(D); Ohio Dept. of Taxn., Consumer's Use Tax Amnesty Program. BNA-SUTN OH 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No Ohio did not have a sales and use tax amnesty program in 2010. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No Ohio did not have a sales and use tax amnesty program in 2009. Ohio Rev. Code Ann. §5739.02. BNA-SUTN OH 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes The Ohio Department of Taxation Sales and Use Tax Division provides for the voluntary disclosure of sales and use tax liability to allow businesses to resolve a tax liability without the risk of the consequences normally associated with an audit. Ohio Sales and Use Tax Voluntary Disclosure; Ohio Sales and Use Tax Voluntary Disclosure Programs - Checklist. To be eligible for the disclosure, taxpayers must notify the Sales and Use Tax Division prior to audit contact, tax discovery, or criminal investigation. Ohio Sales and Use Tax Voluntary Disclosure; Ohio Sales and Use Tax Voluntary Disclosure Programs - Checklist. To initiate a voluntary disclosure, the taxpayer submits a written proposal to the Sales and Use Tax Division, notifying the Division of intentions to make a disclosure. This notification will defer any audit action being taken, which will not be continued unless no voluntary disclosure agreement is reached. The proposal must contain statements concerning the following issues:• what is being sold and the typical nature of the transactions; • how the products are marketing in Ohio or a description of any other nexus creating activity, including the date the activity began; • if tax has been collected; • tax liability for purchases as well as sales; and • any contacts the taxpayer has had with the Division of Sales and Use Tax with regard to an audit or investigation. Ohio Sales and Use Tax Voluntary Disclosure. To complete a disclosure, the taxpayer is required to register and be in compliance with Ohio sales and use tax law. The taxpayer is also under the duty to pay all tax collected from customers. If the tax was collected but not remitted, there is no limitation on the look-back period. If tax should have been collected but was not, or if tax is due on purchase, the tax and interest must be resolved for a limited period based on the effective date of nexus. The taxpayer will have several options for payment of the tax and interest, including the following:• a voluntary payment of the tax (taxpayer is free to bill their Ohio customers), including a county breakdown (if none is available, the Division of Sales and Use Tax will determine the rate) and interest; • taxpayer can bill their Ohio customers and turn the collected tax and interest over, and include transaction information on sales where the Ohio customer did not respond or claimed exemption; or • the taxpayer provides the Sales and Use Tax Division with the customer transactions in an acceptable electronic format for disposition by the Division. Ohio Sales and Use Tax Voluntary Disclosure. In exchange for the taxpayer coming forth voluntarily, the Sales and Use Tax Division, agrees to the following:• waiver of civil and criminal penalties; • waiver of filing requirements prior to registration; • waiver of audits prior to the disclosure period; • avoidance of voluntary disclosure of the taxpayer's identity to other parties;and • allowing for anonymity of the taxpayer until closing of the disclosure agreement. Ohio Sales and Use Tax Voluntary Disclosure. BNA-SUTN OH 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Depends Ohio's sales and use tax voluntary disclosure program has a look-back period that varies depending on the date when a company began nexus-creating activities. Also, there is no limitation to the look-back period if tax has been collected from customers but the tax has not been remitted. Ohio Sales and Use Tax Voluntary Disclosure. BNA-SUTN OH 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Does Not Participate Ohio does not participate in the Multistate Voluntary Disclosure Program(MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN OH 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The Ohio Department of Taxation is authorized to audit any transaction for which a sales or use tax was due and unpaid and issue an assessment based on the audit. Ohio Rev. Code Ann. §5739.13(A). In general, Ohio presumes that all sales and uses are subject to Ohio sales and use tax. Ohio Rev. Code Ann. §5739.02(C); Ohio Rev. Code Ann. §5741.02(G). If no return is made, or the Commissioner has evidence that the taxpayer failed to collect or remit sales or use tax, the Tax Commissioner may suspend the vendor's license or require the vendor to furnish a security in amount equal to the average tax liability of the vendor for a period of one year. Ohio Rev. Code Ann. §5739.30. Moreover, the department of taxation may make an assessment against the taxpayer. Ohio Rev. Code Ann. §5739.13; Ohio Rev. Code Ann. §5741.13; see, e.g., North Main Mini-Mart Inc. v. Testa, No. 2012-A-2326 (Ohio Bd. Tax App. March 8, 2013) (audit identifying tax due from customer purchases was upheld because taxpayer could not provide a truly representative sample of purchases for purposes of the audit, and on appeal, failed to provide competent and probative evidence to demonstrate that the Tax Commissioner's findings were incorrect.) The assessment is made after the Commissioner audits a representative sample of the consumer's purchases or the vendor's sales. Ohio Rev. Code Ann. §5739.13; Ohio Rev. Code Ann. §5741.13; 123 Food Mart, Inc. v. Testa (Ohio B.T.A. 2015) (taxpayer assessment upheld because taxpayer failed to provide adequate corporate sales and tax collection records, making the tax commissioner's mark-up analysis necessary to determine the amount of taxes that should have been collected and remitted); I & I Food, Inc. v. Testa (Ohio B.T.A. 2015) (taxpayer failed to present complete and accurate sales and tax collection records and the parties agreed that the sample documentation provided was representative of the business activity for the entire audit period, therefore the denial of abatement and penalty were upheld); Dagher v. Testa (Ohio B.T.A. 2015) (taxpayer's net sales figures based on monthly bank statements did not provide the specificity required to demonstrate sales activity, therefore the commissioner was required to gather information from other sources to estimate the amount of taxes which should have been collected and remitted and the assessment against the taxpayer was upheld). Audit Types When the Tax Commissioner does not have adequate records to determine the tax rate for the taxpayer's total sales a “test check” audit procedure is applied. The test checks determine the proportion that taxable retail sales bear to all of the vendor's retail sales and the ratio the tax required to be collected under the Ohio Revised Code bears to the receipts from the vendor's taxable retail sales. Ohio Rev. Code Ann. §5739.05; Ohio Rev. Code Ann. §5739.13; Ohio Rev. Code Ann. §5741.13. Vendors must keep complete and accurate records of sales, along with records of the tax collected on those sales. Ohio Rev. Code Ann. §5739.11. In the absence of such records, the commissioner may gather information from other sources during an audit in order to estimate the amount of taxes that should have been collected and remitted. Ohio Rev. Code Ann. §5739.13. See Ohio Board of Tax Appeals Decision No. 2016-951 (May 22, 2017); Ohio Board of Tax Appeals Decision No. 2016-953 (May 22, 2017); Saim Inc. v. Testa (Ohio B.T.A. 2016) (use of a mark-up analysis was proper; taxpayer never signed the memorandum of agreement to use that audit method and did not provide an alternate methodology); NNP of Ohio, Inc. v. Testa, No. 2014-4691 (Ohio Bd. Tax App. Oct. 15, 2015) (the commissioner used a mark-up analysis to estimate taxable sales for the audit period because the taxpayer did not have accurate records; taxpayer could not prove that the commissioner's findings were erroneous without complete records). In auditing a restaurant or bar, a mark-up audit procedure may be used to calculate sales and use tax liability for alcoholic beverages. With this technique, third-party information from beverage distributors is used to verify purchases and compute the mark-up on cost. Ohio Dept. of Taxn., Sales/Use Tax for Alcoholic Beverages in a Bar or Restaurant (September 2015). See Ohio Board of Tax Appeals Decision No. 2016-913 (April 21, 2017) (taxpayer seeking remission of audit penalty was unable to challenge the manner in which the audit was conducted, specifically the markup analysis, because the taxpayer agreed in writing to use of the methodology by signing a Memorandum of Agreement prior to the audit). If a taxpayer is able to show that all appropriate records may not have been considered during an audit, the commissioner will have to vacate a final determination and issue a new determination after all records are considered. Castle's Gas & Deli LLC v. Testa (Ohio B.T.A. 2016) (auditor may not have considered all relevant records during the audit period;the final determination was vacated and a new determination was needed after all records were considered). Audit Findings After an audit is complete, the Department of Taxation must given written notice of an assessment to the taxpayer. The notice of assessment provides instructions on how to petition for reassessment and request a hearing within 60 days of the notice. Ohio Rev. Code Ann. §5739.13; Ohio Rev. Code Ann. §5741.13; Ohio Rev. Code Ann. §5703.37. BNA-SUTN OH 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted The Ohio Board of Tax Appeals hears appeals of final determinations by the tax commissioner. Ohio Rev. Code Ann. §5717.02. See Mercedes-Benz USA, LLC v. Testa, No. 2015-730 (Ohio Bd. Tax App. Oct. 5, 2015); VCW Concepts, LLC v. Testa, No. 2015-596 (Ohio Bd. Tax App. Oct. 15, 2015); Tiddle v. Testa, No. 2015-521 (Ohio Bd. Tax App. Oct. 15, 2015). Appeals cannot be made if a final determination has not been issued. See Cinco Family Fin. Ctr. Credit Union v. Testa, Ohio Board of Tax Appeals Decision No. 2018-361 (Sept. 7, 2018); Baxter v. Testa, Ohio Board of Tax Appeals Decision No. 2018-369 (Sept. 6, 2018); Green v. Testa, Ohio Board of Tax Appeals Decision No. 2018-78 (May 22, 2018); Nestor v. Testa, No. 2017-2015 (Ohio Bd. Tax App. March 19, 2018); Dengel v. Testa, No. 2017-797 (Ohio Bd. Tax App. Jan. 22, 2018); BC Vending & Refreshment Svcs. v. Testa, No. 2015-534 (Ohio Bd. Tax App. Nov. 12, 2015). The notice of appeal must be filed within 60 days after service of the final determination. Ohio Rev. Code Ann. §5717.02(B). See Henderson v. Testa, Ohio Board of Tax Appeals Decision No. 2017-2322 (April 30, 2018); Connectronics Corp. v. Testa (Ohio B.T.A. 2016) (notice of appeal was filed more than 60 days after the final determination was delivered to the taxpayer). The appeal must be filed with both the Board and the tax commissioner. Ohio Rev. Code Ann. §5717.02(B). See Sunrise Marathon, LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2018-319 (Sept. 6, 2018); Turner v. Testa, Ohio Board of Tax Appeals Decision No. 2018-298 (July 24, 2018), Ziegler v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1150 (May 14, 2018), and EA Towing Co. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-2271 (April 3, 2018) (all dismissing appeal which was only filed with the Board and not the tax commissioner). An appellant is permitted to amend the notice within sixty days after the certification of the transcript without consent from the board of appeals. After 60 days the notice may only be amended after receiving leave of the board or written consent of each party. Ohio Rev. Code Ann. §5717.02. The notice of appeal must contain a statement identifying the claimed errors in the commissioner's determination or redetermination for which the appellant is entitled to relief and a demand for such relief. Ohio Rev. Code Ann. §5717.02. See Saood, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1989 (April 30, 2018) and Congress Family Plowing & Landscaping, LLC v. Testa, Ohio Board of Tax Appeals Decision No. 2017-653 (April 18, 2018) (where taxpayer did not set forth any claimed error regarding a determination, taxpayer's appeal was dismissed); see also 6101 W. 3rd St. Invs., Inc. v. Testa (Ohio B.T.A. 2016) (Board of Tax Appeals dismissed matter because taxpayer's notice of appeal contested the amount of sales tax assessed, an issue not raised in its petition for reassessment filed with the Tax Commission, and thus not addressed in the Commissioner's final determination); Liscoe v. Testa (Ohio B.T.A. 2016) (Board of Tax Appeals remanded use tax matter to Tax Commissioner for consideration of evidence taxpayer presented to the Board but did not submit to the Commissioner prior to the final determination). The Ohio Board of Tax Appeals cannot rely upon an appellant's contentions in its notice of appeal alone, without evidence and/or testimony in the record to support its position, because ‘the notice of appeal merely constitutes unsworn, unproven statements, claims and allegations.' First Merit Equipment Finance, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1305 (Sept. 6, 2018); Tedia Company Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2018-80 (Sept. 6, 2018) (the board will not search through documents, it is the responsibility of the appellant to establish their right to relief); Ohio Board of Tax Appeals Decision No. 2017-853 (June 8, 2018); Evergreen Alliance Golf Ltd., L.P. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-2030 (May 21, 2018); Grayson Family Farm v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1983 (May 21, 2018) (appellant's statements in a notice of appeal do not rise to the level of evidence upon which the Board can rely in making its determination); E. Lab. Svcs. Ltd. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-954 (May 21, 2018) (declining to review documents that were not previously presented to the commissioner or included in the statutory transcript or presented at a hearing before the board); Ayers v. Testa, Ohio Board of Tax Appeals Decision No. 2017-698 (April 30, 2018); The Buckle, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1826 (April 23, 2018) (declining to review evidence included in the notice of appeal without corroborating testimony); Ohio Board of Tax Appeals Decision No. 2016-1001 (May 22, 2017). Because the findings of the Tax Commissioner are presumptively valid, it is the appellant's burden to provide competent and probative evidence to demonstrate that the Tax Commissioner's findings are incorrect. The board will not do the appellant's work of evaluating documentary evidence to determine its applicability. Ohio Board of Tax Appeals Decision No. 2017-853 (June 8, 2018) (finding that taxpayer did not meet its burden on appeal to demonstrate error in the commissioner's determination because taxpayer failed to submit reliable documentary and testimonial evidence); Ohio Board of Tax Appeals Decision No. 2017-376 (Feb. 12, 2018) (an appellant may not present evidence to the Board of Tax Appeals that was not previously presented in earlier proceedings); Ohio Board of Tax Appeals Decision No. 2016-912 (May 22, 2017); Ohio Board of Tax Appeals Decision No. 2016-951 (May 22, 2017); Ohio Board of Tax Appeals Decision No. 2016-953 (May 22, 2017). An appellant may not present evidence to the Board of Tax Appeals that was not previously raised in a petition for reassessment. 6565 Tod Avenue, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2018-90 (Sept. 17, 2018); First Merit Equipment Finance, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1305 (Sept. 6, 2018). If a taxpayer signs a memorandum of understanding regarding an audit markup analysis without written objection, a taxpayer may not then challenge its contents on appeal. Ohio Board of Tax Appeals Decision No. 2016-912 (May 22, 2017). Any legal argument made by a non-attorney CPA on behalf of an appellant constitutes the unauthorized practice of law and will be stricken by the Ohio Board of Tax Appeals. First Merit Equipment Finance, Inc. v. Testa, Ohio Board of Tax Appeals Decision No. 2017-1305 (Sept. 6, 2018). Judicial Appeals Currently, Ohio Board of Tax Appeals decisions may be appealed to an Ohio court of appeals within 30 days after the date of entry of the board decision Ohio Rev. Code Ann. §5717.04. Effective Sept. 12, 2018, taxpayers wishing to challenge BTA decisions of appeals from final determinations of the Ohio Tax Commissioner related to tax assessments, reassessments, valuations, determinations, findings, computation, or orders made by the commissioner, may file an appeal with either the Ohio Supreme Court or an Ohio court of appeals. Ohio Rev. Code Ann. §5717.04, as amended by 2018 Ohio H.B. 292, effective Sept. 12. 2018. A notice of appeal must be filed with the court to which the appeal is taken and the BTA. The notice must also be served upon all appellees by certified mail, unless this requirement is waived. Ohio Rev. Code Ann. §5717.04. Ohio also requires that the appellant execute a supersedeas bond to the appellee for an amount greater than or equal to the total of all claims covered by the final order, judgment, or decree that the appellant is seeking to have superseded. Ohio Rev. Code Ann. §2505.09. BNA-SUTN OH 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2019, the Ohio interest rate on underpayments of tax is 5 percent. Ohio Administrative Journal Entry 10-15-2018; Ohio Dept. of Taxn., Annual Certified Interest Rates. BNA-SUTN OH 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:5% 2Q:5% 3Q:5% 4Q:5% In 2019, the Ohio interest rate on overpayments of tax is 5 percent. Ohio Administrative Journal Entry 10-15-2018; Ohio Dept. of Taxn., Annual Certified Interest Rates. BNA-SUTN OH 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No Ohio has not announced a sales tax amnesty program for 2019. BNA-SUTN OH 31.14.11.
+
+==================================================

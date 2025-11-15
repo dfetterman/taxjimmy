@@ -1,0 +1,459 @@
+State: North Dakota
+
+
+
+Topic: Administration and Procedure Agencies Responsible for Administration State Sales and Use Tax
+
+North Dakota Office of State Tax Commissioner The Tax Commissioner is responsible for the administration of North Dakota's sales and use tax and is authorized to prescribe rules and regulations that are necessary and advisable for the detailed administration of such taxes. N.D. Cent. Code §57-39.2-19. Tax Administration in Reservations The Governor, in consultation with the Tax Commissioner, may enter an agreement with the governing body of the Three Affiliated Tribes of the Fort Berthold Reservation, Sisseton-Wahpeton Oyate of the Lake Traverse Reservation, Spirit Lake Tribe, Standing Rock Sioux Tribe, and Turtle Mountain Band of Chippewa Indians relating to the collection of sales and use taxes imposed and collected within the exterior boundaries of the Fort Berthold Reservation, the portion of the Lake Traverse Reservation located in North Dakota, the Spirit Lake Reservation, the portion of the Standing Rock Reservation located in North Dakota, or the Turtle Mountain Reservation. N.D. Cent. Code §57-39.9-01, as added by 2019 N.D. S.B. 2258, effective April 24, 2019. BNA-SUTN ND 31.1.1.
+
+==================================================
+
+Topic: Administration and Procedure Agencies Responsible for Administration Local Sales and Use Tax
+
+North Dakota Office of State Tax Commissioner In North Dakota local taxes are administered by the North Dakota Office of State Tax Commissioner as North Dakota law requires local jurisdictions to enter into collection agreements with the Tax Commissioner. N.D. Cent. Code §57-01-02(2); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. The Office of State Tax Commissioner assumes full responsibility for collection of the taxes including delinquency control, auditing and collection activity. Local option sales, use and gross receipts taxes are reported on the same form as the state sales taxes. However, city lodging taxes, city lodging and restaurant taxes and city motor vehicle rental taxes are reported to the State Tax Commissioner on separate forms. North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. North Dakota has authorized both cities and counties within the state to enact local sales and use taxes under their home rule charter, without limitation on the rate. N.D. Cent. Code §11-09.1-05(4); N.D. Cent. Code §40-05.1-06(2); N.D. Cent. Code §40-05.1-06(4). Counties and cities in North Dakota that impose local sales and use tax must contract with the state Tax Commissioner for administration of the tax. N.D. Cent. Code §11-09.1-05(4)(d); N.D. Cent. Code §40-05.1-06(4)(d); N.D. Cent. Code §57-01-02.1(1); see N.D. Cent. Code §57-39.4-02. Local governments within North Dakota that are responsible for collecting sales tax must obtain a sales tax permit from the Officer of State Tax Commissioner. North Dakota Guideline—Local Government Sales and Purchasers (Jan. 2006). Tax Administration in Standing Rock Reservation The governor, in consultation with the Tax Commissioner, may enter an agreement with the governing body of the Standing Rock Sioux Tribe relating to administration and allocation of state and tribal sales and use taxes, imposed and collected within the exterior boundaries of the Standing Rock Reservation within North Dakota. N.D. Admin. Code §81-04.1-03-01, as enacted by 2015 N.D. H.B. 1406, effective Apr. 24, 2015. Since the Office of the State Tax Commissioner administers the tax, the state statute of limitations, sourcing rules, forms, and voluntary disclosure program apply to the local sales and use taxes. N.D. Cent. Code §11-09.1-05(4)(d); N.D. Cent. Code §40-05.1-06(4)(d); N.D. Cent. Code §57-01-02.1(1); see N.D. Cent. Code §57-39.4-02;phone conversation with N.D. Office of State Tax Comm'r, Dec. 1, 2010. When filing and paying local sales and use taxes, the taxpayer uses Form ST if he has less than 10 local option taxes to report. Office of State Tax Comm'r, Sales and Use Forms and Instructions. If the taxpayer has more than 10 local option taxes to report he will also use Schedule ST-Local. Office of State Tax Comm'r, Sales and Use Forms and Instructions. BNA-SUTN ND 31.1.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor/Seller Registration
+
+Required A taxpayer must apply for and obtain a permit from the North Dakota Tax Commissioner before conducting business in the state. N.D. Cent. Code §57-39.2-14(1). The application form includes identifying information such as the name under which the applicant intends to conduct business, the applicant's business location, and other similar information. N.D. Cent. Code §57-39.2-14(1). A taxpayer registering under the Streamlined Sales and Use Tax Agreement must register in North Dakota. The taxpayer can cancel its registration at any time, but the taxpayer must still remit its liability to the Office of State Tax Commissioner on any sales taxes collected before the cancellation date. Registration under the Streamlined Sales and Use Tax Agreement alone is insufficient to create nexus with North Dakota. N.D. Cent. Code §57-39.2-14(1). After determining that the applicant is a bona fide retailer, the Commissioner will grant a permit to the applicant for each in-state business location. The permit is not assignable and is valid only for use at the applicant's stated address or addresses. The taxpayer must display the permit conspicuously at each location. If the taxpayer is a transient vendor, then it must display the permit to each prospective customer before conducting any transaction. N.D. Cent. Code §57-39.2-14(2). After the taxpayer obtains a permit, the permit is valid unless and until the Commissioner revokes it. N.D. Cent. Code §57-39.2-14(3). The Commissioner can revoke the permit if the taxpayer fails to comply with North Dakota sales and use tax law. The Commissioner can also revoke the permit if the taxpayer files returns showing no tax due for four consecutive quarters. However, the Commissioner must allow a hearing before revoking the permit and must provide written notice to the taxpayer at least 10 days before the hearing. At the hearing, the taxpayer bears the burden of proof to establish that the Commissioner should not revoke its permit. N.D. Cent. Code §57-39.2-14(4). The Commissioner also can restore a revoked permit. N.D. Cent. Code §57-39.2-14(4). If the Commissioner revoked it because the taxpayer failed to comply with North Dakota sales and use tax law, then the taxpayer must pay $50 for the restored permit. But if the Commissioner revoked it because the taxpayer filed returns showing no tax due for four consecutive quarters, then the taxpayer must pay only $5 for the restored permit. N.D. Cent. Code §57-39.2-14(5). BNA-SUTN ND 31.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Tax Collection and Remittance
+
+Seller In North Dakota, every retailer is required to compute and pay to the Commissioner the tax due in accordance with the governing rules. N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019. The retailer selling the item must collect the county or city sales and use tax at the time of the transaction and remit it to the Tax Commissioner, who will then distribute the revenue collected to the appropriate county or city, with each distribution occurring on a monthly basis. N.D. Cent. Code §57-01-02.1(2); N.D. Cent. Code §57-01-02.1(5). Economic Nexus Sellers of tangible personal property or other taxable product that are located outside of North Dakota and which do not have physical presence within the state, will be required to collect and remit sales tax as required by law if the seller meets either of the following criteria in the previous or current calendar year:• gross sales from the sale of tangible personal property and other taxable items delivered in North Dakota exceeds $100,000; or • 200 or more separate transactions of tangible property and other taxable items were sold for delivery in North Dakota. 2017 N.D. S.B. 2298, effective June 21, 2018; see North Dakota State Tax Comn., FAQ—Remote Seller Sales Tax BNA-SUTN ND 31.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Purchaser Liability
+
+Allowed If a retailer does not pay the tax, the tax must be paid directly by any person storing, using, or consuming such taxable property in North Dakota. N.D. Cent. Code §57-40.2-06(2). BNA-SUTN ND 31.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Business Owners, Operators
+
+Yes If a corporation required to hold a North Dakota permit fails to file a tax return or pay a tax due, then the corporation's officers are jointly and severally liable for the failure. N.D. Cent. Code §57-39.2-18.1(1) (identifying as corporate officers the president, vice president, secretary, and treasurer). Dissolving the corporation does not discharge the officers of their personal liability. N.D. Cent. Code §57-39.2-18.1(1). Also, if a corporation elects to not hold its corporate officers personally liable for filing returns or paying taxes due, then the corporation must pay a cash deposit or post a bond equal to the corporation's estimated annual sales tax liability. N.D. Cent. Code §57-39.2-18.1(2). BNA-SUTN ND 31.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Reliance on SST Matrix
+
+Relieves Liability Sellers and certified service providers (CSPs) are relieved from tax liability to the member state and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax in reliance on the SST matrix. N.D. Cent. Code §57-39.4-29(4), as amended by 2017 N.D. S.B. 2112, effective Aug. 1, 2017; see also Streamlined Sales Tax Governing Board, User Guide: Online Taxability Matrix and Certificate of Compliance (Nov. 20, 2018). Specifically, relief is granted when the seller or the CSP relies on erroneous data provided by the member state relative to treatment of the terms defined in sections A, B, and C of the SST Matrix or tax administration practices contained in Section D of the Matrix. N.D. Cent. Code §57-39.4-33; N.D. Cent. Code §57-39.4-29(4), as amended by 2017 N.D. S.B. 2112, effective Aug. 1, 2017; Streamlined Sales Tax Governing Board, Taxability Matrix, North Dakota (version 2018.0). To the extent possible, under each state's laws, sellers and CSPs are also relieved from tax liability to the member state and its local jurisdictions for having charged and collected the incorrect amount of sales and use tax until the first day of the calendar month that is at least 30 days after notice of a change to Sections A-D of the state's taxability matrix is submitted to the governing board, provided the seller or CSP relied on the prior version of the taxability matrix. N.D. Cent. Code §57-39.4-33; N.D. Cent. Code §57-39.4-29(4), as amended by 2017 N.D. S.B. 2112, effective Aug. 1, 2017; Streamlined Sales Tax Governing Board, Taxability Matrix, North Dakota (version 2018.0). BNA-SUTN ND 31.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Responsible Parties Certified Service Providers
+
+Relieves Liability North Dakota relieves sellers of sales and use tax liability when such sellers contract with a certified service provider to perform all of the seller's sales and use tax functions. N.D. Cent. Code §57-39.2-01(4); N.D. Cent. Code §57-39.4-33. A certified service provider is acting as an agent for a retailer and is liable for calculating, collecting, and remitting sales and use tax for the retailer, with the exception of tax due on the retailer's own purchases. N.D. Cent. Code §57-39.2-01(4). When filing responsibilities have been assumed by a certified service provider, the certified service provider may claim, on behalf of the retailer, any bad debt provided under the North Dakota Sales and Use Tax law. The certified service provider must credit or refund the full amount of any bad debt allowance or refund received on behalf of the retailer. N.D. Admin. Code §81-04.1-01-25. BNA-SUTN ND 31.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Forms and Returns
+
+Provided The North Dakota Tax Commissioner makes forms available in print or electronic form, however, returns required to be filed monthly must be filed electronically. N.D. Admin. Code §81-04.1-01-08.1(2). Electronic Filing A taxpayer can file its sales and use tax returns online using North Dakota's Taxpayer Access Point (TAP) system. See Office of State Tax Comm'r, Taxpayer Access Point (replacing the previous WebFile system on Sept. 8, 2014). For a complete listing of and access to sales and use tax forms, see Bloomberg Tax's Sales and Use Tax Rates and Forms. See Office of State Tax Comm'r, Sales and Use Forms and Instructions. Returns • North Dakota ST: Sales, Use and Gross Receipts Tax Return • North Dakota 21945: One-Time Sales and Use Tax Return • North Dakota ST: Schedule ST- Local Option Sales, Use, and Gross Receipts Taxes Applications• North Dakota 21919: Application For Sales Tax Exemption Certificate • New Business Information and Registration • Sales/Use Permit and Income Withholding Application Audit Forms • Audit Bill Back Form Bond Forms • Sales and Use Tax Permit Cash Bond • Sales and Use Tax Permit Surety Bond Exemption Certificate Forms• Certificate of Processing • North Dakota 21950: Certificate of Resale • North Dakota 21946: Contractor's Certificate • Exemption Certificate for U.S. government • North Dakota: Streamlined Sales and Use Tax Agreement Certificate of Exemption Other Forms• Special Event Vendor Listing • Sales &Use Forms and Instructions • North Dakota 21905: Change of Address Form • Declaration of Managers, Members, Governor's, Partners and Corporate Officers(to update changes to individuals responsible for filing of the sales and use tax returns) • Personal Liability of Corporate Officer & Limited Liability Company Governor/Manager (allows a corporation or limited liability company to post a bond if its corporate officer(s) or LLC governor or manager elects not to be personally liable for payment of provider assessment returns) • Form 500 (designation of representative and authorization to disclose information) • North Dakota 22003: Interstate Questionnaire • Snowmobile/Off-Highway Vehicle Sales Summary BNA-SUTN ND 31.4.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Filing
+
+Last Day of the Month The North Dakota Tax Commissioner can require a taxpayer to file its sales and use tax returns and pay taxes on a monthly, quarterly, annual, or other basis. N.D. Cent. Code §57-39.2-11(2), as amended by 2017 N.D. S.B. 2129, effective July 1, 2017. The commissioner can create a unique filing period for the taxpayer to secure payment and ensure compliance with the sales and use tax law. A taxpayer with a monthly filing and payment period must file its tax return no later than the last day of the month following the month for which the return is being filed. Thus, a taxpayer filing a monthly return for January has filed timely if it submits the return by the last day in February. N.D. Cent. Code §57-39.2-11(1); N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019; N.D. Admin. Code §81-04.1-01-08.1(1). A taxpayer must file monthly if its taxable sales from the preceding calendar year were $333,000 or more, and such returns must be filed electronically. N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019; N.D. Admin. Code §81-04.1-01-08.1. The commissioner may, upon request and for good cause shown, waive the requirement to file and remit sales tax on a monthly basis. N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019. A taxpayer filing on a quarterly basis must file no later than the last day of the month following the month ending the quarter for which the return is being filed. Thus, a taxpayer filing a tax return for the first quarter (i.e., January, February, and March) has filed timely if it submits the return by the last day in April. N.D. Cent. Code §57-39.2-11(1); N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019. For members of the Streamlined Sales and Use Tax Agreement, if a due date for a payment falls on a Saturday, Sunday, or legal holiday, the payment, including any related payment voucher information, is due to that state on the next succeeding business day. N.D. Cent. Code §57-39.4-20(5)(a). . Additionally, if the federal reserve bank is closed on a due date that prohibits a person from being able to make a payment by automated clearinghouse debit or credit, that payment shall be accepted as timely if made on the next day the federal reserve bank is open. N.D. Cent. Code §57-39.4-20(3); N.D. Cent. Code §57-39.4-20(5)(b). BNA-SUTN ND 31.5.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Payment
+
+Due with Filing Each member of the Streamlined Sales and Use Tax Agreement is required to make a remittance for each return. N.D. Cent. Code §57-39.4-20. Additional remittance can only be required from sellers that collected more than thirty thousand dollars in sales and use taxes in a member state during the preceding calendar year. However, under such circumstances, the seller is not required to file an additional return. N.D. Cent. Code §57-39.4-20. Monthly and quarterly returns are timely when filed no later than the last day of the month following the reporting period for which the return is being filed. N.D. Cent. Code §57-39.2-11(1); N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019; N.D. Admin. Code §81-04.1-01-08.1(1). For example, a taxpayer filing a monthly return for January has filed timely if it submits the return by the last day in February whereas a taxpayer filing a tax return for the first quarter (i.e., January, February, and March) has filed timely if its return is submitted by the last day in April. N.D. Cent. Code §57-39.2-11(1); N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019; N.D. Admin. Code §81-04.1-01-08.1(1). BNA-SUTN ND 31.5.2.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Good Cause
+
+Available The Commissioner, upon request by any retailer and a proper showing of the necessity, may grant the retailer an extension not exceeding thirty days to file a tax return. N.D. Cent. Code §57-39.2-11. If the extension is granted, the time in which the retailer is required to make payment as provided for in section N.D. Cent. Code §57-39.2-12 must be extended for the same period but interest must be charged upon the amount of the deferred payment at the rate of 12 percent per annum from the date the tax would have been due if the extension had not been granted to the date the tax is paid. N.D. Cent. Code §57-39.2-11. Additionally, the commissioner may, upon request and for good cause shown, waive the requirement to file and remit sales tax on a monthly basis. N.D. Cent. Code §57-39.2-12, as amended by 2019 N.D. S.B. 2089, §8, effective July 31, 2019. BNA-SUTN ND 31.5.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Due Date Extensions Extensions for Disaster Relief
+
+Allowed. North Dakota automatically grants a state tax extension when the IRS has granted a federal tax extension because of a natural or man-made disaster. This applies to income tax, sales and use taxes, and other excise taxes. During the automatic extension, no penalties or interest for late filing or payment will be charged. Office of State Tax Comr., Disaster Relief. BNA-SUTN ND 31.5.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods Payment by Electronic Funds Transfer (EFT)
+
+Permitted Members of the Streamlined Sales and Use Tax Agreement permit electronic payments by both automated clearinghouse credit and automated clearinghouse debit. N.D. Cent. Code §57-39.4-20(3). Member states must also provide an alternative method for making same day payments if an electronic fund transfer fails. N.D. Cent. Code §57-39.4-20(4). BNA-SUTN ND 31.6.1.
+
+==================================================
+
+Topic: Administration and Procedure Payment Methods ACH Credit and ACH Debit
+
+Permitted Members of the Streamlined Sales and Use Tax Agreement permit electronic payments by both automated clearinghouse credit and automated clearinghouse debit. N.D. Cent. Code §57-39.4-20(3). Member states must also provide an alternative method for making same day payments if an electronic fund transfer fails. N.D. Cent. Code §57-39.4-20(4). BNA-SUTN ND 31.6.2.
+
+==================================================
+
+Topic: Administration and Procedure Vendor Collection Discounts
+
+1.5% A retailer registered to report and remit sales, use, or gross receipts tax in North Dakota may deduct and retain 1.5 percent of the tax due, up to $110 per return. N.D. Cent. Code §57-39.2-12.1(1), as amended by 2013 N.D. H.B. 1464, effective June 30, 2013 (increasing the maximum aggregate deduction for sales tax purposes to $110 from $93.75). A retailer may not deduct for the vendor discount allowance if it has not paid the relevant tax liability on or before the due date. However, if the retailer shows good cause to the North Dakota Tax Commissioner, then the Commissioner may allow the deduction even if the retailer failed to timely file a return or pay the tax due. N.D. Cent. Code §57-39.2-12.1(5), as amended by 2015 N.D. S.B. 2115 (enabling the Commissioner to allow a retailer to deduct and retain compensation for sales tax purposes after showing good cause); N.D. Cent. Code §57-40.2-07.1(5), as amended by 2015 S.B. 2115 (enabling the Commissioner to allow a retailer to deduct and retain compensation for use tax purposes after showing good cause). A retailer that receives this compensation cannot receive additional compensation for the same time period as a certified service provider or remote seller. N.D. Cent. Code §57-39.2-12.1(1); N.D. Cent. Code §57-40.2-07.1(1). Remote Sellers A remote seller may deduct and retain compensation or a monetary allowance up to the amount approved by the Streamlined Sales and Use Tax Governing Board, if the remote seller is registered with North Dakota to collect and remit sales and use tax on in-state transactions and uses a certified automated system to calculate, report, and remit sales and use tax. N.D. Cent. Code §57-39.2-12.1(3); N.D. Cent. Code §57-40.2-07.1(3). A remote seller that receives this compensation cannot receive additional compensation for the same time period as a general retailer or certified service provider. N.D. Cent. Code §57-39.2-12.1(3); N.D. Cent. Code §57-40.2-07.1(3). “Remote seller” means a retailer that does not have an adequate physical presence to establish nexus in the state for sales and use tax purposes. N.D. Cent. Code §57-39.2-12.1(4). Certified Service Providers A certified service provider may deduct and retain compensation or a monetary allowance up to the amount approved by the Streamlined Sales and Use Tax Governing Board. To receive this compensation, the remote seller must be registered to collect sales and use tax in North Dakota. N.D. Cent. Code §57-39.2-12.1(2); N.D. Cent. Code §57-40.2-07.1(2). A certified service provider that receives this compensation cannot receive additional compensation for the same time period as a general retailer or remote seller. N.D. Cent. Code §57-39.2-12.1(2); N.D. Cent. Code §57-40.2-07.1(2). Collection of Local Option Taxes Some counties and cities that impose a local sales and use tax allow the retailer collecting the tax to retain a portion of the collected tax or their use tax obligation to recover the administrative expenses associated with collecting the local sales and use tax. A return taking a compensation deduction must be filed and paid in full by the scheduled due date or the compensation will not be allowed. N.D. Cent. Code §11-09.1-05(4)(d); N.D. Cent. Code §40-05.1-06(4); see N.D. Cent. Code §57-39.2-12.1; North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Each local jurisdiction and their respective rates and maximums for compensation are identified in a chart maintained and posted on the official state website by the North Dakota Office of the State Tax Commissioner. Returns for permit holders must be filed and paid in full by the scheduled due date, otherwise the compensation will be disallowed and the local tax obligation will be subject to penalty and interest obligations. North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. BNA-SUTN ND 31.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Certificates Required
+
+Yes The North Dakota Tax Commissioner issues exemption certificates to organizations that are exempt from paying the North Dakota sales tax. N.D. Cent. Code §57-39.2-04; see North Dakota Guideline—Exempt Organizations (Jan. 1997). Retailers that sell to exempt organizations must request a copy of the exemption certificate and retain it in their files. N.D. Cent. Code §57-39.2-04; North Dakota Guideline—Exempt Organizations (Jan. 1997). Exempt organizations include:• government units; • schools; • nursing homes; • hospitals; • intermediate and basic care facilities; and • voluntary health associations. N.D. Cent. Code §57-39.2-19; North Dakota Guideline—Exempt Organizations (Jan. 1997). State Specific Exemption Certificates • SSTGB Form F0003/SFN 21999 - North Dakota's version of the Streamlined Sales Tax Exemption Certificate • Certificate of Processing • Certificate of Resale • Contractor's Certificate • Certificate for Government and Qualifying School Lodging Accommodations The seller may acquire and substitute the same data elements as appears in the Streamlined Sales Tax Agreement Exemption Certificate, Multistate Tax Compact Exemption Certificate, or any applicable state exemption certificate. N.D. Cent. Code §57-39.4-18(3). The seller is responsible for obtaining an exemption certificate or else the sale is presumed taxable. If the seller obtains an exemption certificate or other sufficient information, the seller is relieved of any liability for the tax on the transaction. If the seller cannot produce an exemption certificate or other sufficient information substantiating the claimed exemption, the seller will be liable for tax. N.D. Cent. Code §57-39.4-18(2). BNA-SUTN ND 31.8.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Validity Periods
+
+Until Revoked There is no stated expiration period for exemption certificates, but the statute of limitations on assessing sales tax in North Dakota is three years after the date the return is filed. N.D. Cent. Code §57-39.2-15, et seq. If it is determined on audit that the tax due was 25 percent or more above the amount reported on a return, notice of determination of tax due must be given not later than six years after the last day on which the return was due or six years after the return was filed, whichever is later. Therefore, a taxpayer should maintain records for a minimum of six years from such filings. N.D. Cent. Code §57-39.2-15. BNA-SUTN ND 31.8.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Multistate Tax Commission (MTC) Certificates
+
+Accepted North Dakota complies with the Multistate Tax Compact rule that when a vendor accepts an exemption certificate in good faith, the vendor is relieved of its duty to collect sales tax. N.D. Cent. Code §57-59-01;Multistate Tax Commission, Uniform Sales & Use Tax Exemption/Resale Certificate. BNA-SUTN ND 31.8.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Streamlined Sales Tax (SST) Certificates
+
+Accepted North Dakota accepts the exemption certificate adopted by the Streamlined Sales Tax System as a valid exemption certificate and adheres to the SST rule relieving a vendor of its obligation to collect and remit sales tax for purchases made with an exemption certificate. N.D. Admin. Code §81-04.1-01-15;Streamlined Sales Tax Governing Board, North Dakota Certificate of Compliance (version 2018.0); Streamlined Sales and Use Tax Agreement - Certificate of Exemption. BNA-SUTN ND 31.8.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Multistate Certificates Other
+
+Accepted The North Dakota Tax Commissioner issues exemption certificates to organizations that are exempt from paying the North Dakota sales tax. N.D. Cent. Code §57-39.2-19; North Dakota Guideline—Exempt Organizations (Jan. 1997). Retailers that sell to exempt organizations must request a copy of the exemption certificate and retain it in their files. N.D. Cent. Code §57-39.2-19; North Dakota Guideline—Exempt Organizations (Jan. 1997). BNA-SUTN ND 31.8.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Good Faith Requirement
+
+Yes All exemption certificates accepted by a seller must be accepted in good faith to be considered valid. N.D. Cent. Code §57-39.4-18(4)(A). Good faith means that the seller obtained a certificate that claims an exemption that was statutorily available on the date of the transaction in the jurisdiction where the transaction is sourced, that it could be applicable to the item being purchased, and it is reasonable for the purchaser's type of business. N.D. Cent. Code §57-39.4-18(4)(A). BNA-SUTN ND 31.8.4.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Timely Acceptance
+
+90 Days The seller is relieved of liability if the seller obtains a fully completed exemption certificate or captures the relevant data elements required under the agreement within 90 days after the date of sale. N.D. Cent. Code §57-39.4-18(3). BNA-SUTN ND 31.8.5.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Retention Periods
+
+3 Years The state does not specify the duration of time that a seller should retain exemption certificates, but the statute of limitations on assessing sales tax in North Dakota is three years after the date the return is filed. N.D. Cent. Code §57-39.2-15. BNA-SUTN ND 31.8.6.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Resale Exemption Certificates
+
+Required Receipts from the sale of tangible personal property for the purpose of resale by the purchaser are not subject to sales tax if the buyer furnishes a North Dakota resale certificate, the multistate tax commission uniform sales and use tax certificate, or a certificate of exemption authorized by the streamlined sales tax agreement. N.D. Admin. Code §81-04.1-01-15. A new certificate is not needed for each sale, but the seller must have a signed certificate from all customers who buy for resale N.D. Admin. Code §81-04.1-01-15. If a seller claims a sale as a sale for resale, and it is determined that such sale is not exempt, any tax and penalty due thereon will be collected from the buyer. Whenever a person submits a false certificate to a seller, the person submitting the false certificate is liable for any tax and penalties which attach on the sale. N.D. Admin. Code §81-04.1-01-15. BNA-SUTN ND 31.8.7.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Entity Exemption Certificates
+
+Required Members of the Streamlined Sales and Use Tax Agreement may administer entity-based exemptions when practicable through a direct pay permit, an exemption certificate, or another means that does not burden sellers. N.D. Cent. Code §57-39.4-18(1)(g). If it is determined that the purchaser improperly claimed an exemption, the purchaser, and not the seller, will be liable for the nonpayment of tax. This relief from liability of a seller does not apply to a seller who fraudulently fails to collect the tax or solicits purchasers to unlawfully claim an exemption. N.D. Cent. Code §57-39.4-18(1)(g). In addition, a seller is not relieved of liability for an improperly claimed exemption if it accepts an exemption certificate of a purchaser claiming an entity-based exemption when the subject of the transaction sought to be covered by the exemption certificate is received by the purchaser at a location operated by the seller in a state that provides an exemption certificate clearly indicating that the claimed exemption is not available. N.D. Cent. Code §57-39.4-18(1)(g); N.D. Cent. Code §57-39.4-18(2). BNA-SUTN ND 31.8.8.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Use-Based Exemption Certificates
+
+Required Members of the Streamlined Sales and Use Tax Agreement may administer use-based exemptions when practicable through a direct pay permit, an exemption certificate, or another means that does not burden sellers. N.D. Cent. Code §57-39.4-18(1)(g). If it is determined that the purchaser improperly claimed an exemption, the purchaser, and not the seller, will be liable for the nonpayment of tax. This relief from liability of a seller does not apply to a seller who fraudulently fails to collect the tax or solicits purchasers to unlawfully claim an exemption. N.D. Cent. Code §57-39.4-18(1)(g). In addition, a seller is not relieved of liability for an improperly claimed exemption if it accepts an exemption certificate of a purchaser claiming an entity-based exemption when the subject of the transaction sought to be covered by the exemption certificate is received by the purchaser at a location operated by the seller in a state that provides an exemption certificate clearly indicating that the claimed exemption is not available. N.D. Cent. Code §57-39.4-18(1)(g); N.D. Cent. Code §57-39.4-18(2). BNA-SUTN ND 31.8.9.
+
+==================================================
+
+Topic: Administration and Procedure Exemption Certificates Direct Pay Permits
+
+Authorized A taxpayer can obtain a direct pay permit from the North Dakota Tax Commissioner. N.D. Cent. Code §57-39.2-14.1. The direct pay permit authorizes the taxpayer to make direct payment of any sales or use tax imposed upon any purchase, use, storage, or consumption within the state of tangible personal property or services. Thus, the direct pay permit-holder can present the permit to any retailer from whom the permit-holder purchases tangible personal property, which relieves the retailer of any duty to collect tax. N.D. Cent. Code §57-39.2-14.1; N.D. Admin. Code §81-04.1-01-05. To qualify for a direct pay permit, a business must demonstrate that the business:• purchases substantial amounts of tangible personal property for business use under circumstances that make it difficult or impractical at the time of purchase to determine whether such property is subject to sales or use tax; • holds or has applied for a sales and use tax permit; • will materially reduce its administrative collection work by moving to the direct payment method; • has an accounting system that will clearly reflect the proper amount of tax due; and • makes taxable purchases in sufficient volume to justify the expense of regular audits by the Office of the State Tax Commissioner. N.D. Admin. Code §81-04.1-01-05. To obtain a direct pay permit, a taxpayer must submit an application to the North Dakota Tax Commissioner. The application must contain a letter detailing the applicant's:• name; • address; • sales and use tax account number; • business description; • accounting system; • purchase volume; and • justification for adopting the direct payment method. N.D. Admin. Code §81-04.1-01-05. The Commissioner issues direct pay permits at his or her discretion, and only when doing so is in North Dakota's best interest. Once approved, the applicant taxpayer receives a direct pay permit. The Commissioner (or a representative) individually numbers, dates, and signs each direct pay permit. N.D. Admin. Code §81-04.1-01-05. A direct pay permit-holder must:• issue the permit to all vendors from whom the permit-holder is making purchases that are subject to sales or use taxation; or • maintain accounting records sufficient to show the amount of sales tax paid to retailers in a given reporting period. N.D. Admin. Code §81-04.1-01-05. If the permit-holder chooses the first option, then the permit-holder must maintain a list of all relevant vendors. The Commissioner may request to see the permit-holder's list at any time, and the permit-holder must make the list available to the Commissioner. N.D. Admin. Code §81-04.1-01-05. Alternatively, if the permit-holder chooses the second option, then all purchases from any one supplier must be either exempt or taxable—the vendor may not assess sales tax on selected transactions only. N.D. Admin. Code §81-04.1-01-05. A permit-holder may not use the direct pay permit to purchase:• taxable food or beverages; • taxable lodging or related services; • admission to places of amusement or athletic events. • amusement devices. N.D. Admin. Code §81-04.1-01-05(7). Further, the direct payment permit is not transferable, and the Commissioner may revoke it at any time with or without cause. N.D. Admin. Code §81-04.1-01-05(8). BNA-SUTN ND 31.8.10.
+
+==================================================
+
+Topic: Administration and Procedure Record-Keeping Requirements
+
+3 Years In North Dakota, every retailer required to file and pay sales tax and each person subject to use tax must keep all records, receipts, invoices, and other papers for at least three years and three months. N.D. Cent. Code §57-39.2-10; N.D. Cent. Code §57-40.2-09. Upon reasonable notice from the Commissioner or an authorized agent, the taxpayer must make the documents available for examination and investigation into the accuracy of any return filed with the state. The Commissioner or agent may also use the records to determine the amount of tax due if the taxpayer did not file a return. N.D. Cent. Code §57-39.2-10; N.D. Cent. Code §57-40.2-09. If a retailer accepts a legitimate resale certificate for a sale that would otherwise be subject to sales tax, then the retailer is relieved from submitting the sales tax upon the purchase price of the merchandise sold. But if a person submits a false resale certificate to the retailer, then the person submitting the certificate is personally liable to pay tax on the sale. N.D. Cent. Code §57-39.2-10(2). BNA-SUTN ND 31.9.
+
+==================================================
+
+Topic: Administration and Procedure Refunds
+
+Both If North Dakota owes a refund to a taxpayer, the Tax Commissioner must certify the refund amount and the reason why the refund is being issued. N.D. Cent. Code §57-39.2-25(1). The commissioner would then request that the Office of Management and Budget issue a check to the taxpayer equal to the refund owed. N.D. Cent. Code §57-39.2-25(1). The North Dakota Tax Commissioner can disallow a taxpayer's claim for a refund. To do so, the Commissioner must notify the taxpayer of the decision, and the taxpayer has 30 days to appeal the denial. The 30-day period begins on the date of the Commissioner's written notice. If the taxpayer fails to act within 30 days, then the Commissioner's denial of the refund becomes final and irrevocable. N.D. Cent. Code §57-39.2-25(2). Lastly, certain jurisdictions impose a cap on the amount of sales tax that must be paid on a single transaction. N.D. Cent. Code §11-09.1-05(4); N.D. Cent. Code §40-05.1-06(4); see N.D. Cent. Code §57-01-02.1(5); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Refund of Local Option Taxes Certain counties and cities have enacted caps on the amount of local sales tax that can apply to any transaction. N.D. Cent. Code §11-09.1-05(4); N.D. Cent. Code §40-05.1-06(2); N.D. Cent. Code §40-05.1-06(4); North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Retailers have the option of collecting sales tax only up to the cap amount or collecting the entire amount of sales tax on the transaction, regardless of the cap amount. If the retailer collects tax on a sale in excess of the cap amount, the purchaser can file for a refund. N.D. Cent. Code §57-39.2-25; North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. A taxpayer may claim this refund by completing a Claim for Refund of City or County Sales and Use Tax Transmittal form and filing it with the North Dakota Office of State Tax Commissioner. The retailer should be consistent with whichever method is used. North Dakota Sales Tax Newsletter December 2010. Beginning July 1, 2007, retailers may voluntarily collect up to the cap amount as a convenience to their customers so the purchasers do not need to apply for a refund. Retailers are not required to calculate caps and may continue to collect tax without regard to the caps. Retailers should be consistent in the method they choose to calculate local taxes. North Dakota Guideline—Local Option Taxes by Location, effective Jan. 1, 2016. Prior to October 2005, most local sales taxes included a maximum tax provision commonly referred to as the refund cap. This maximum tax provision or refund cap was the maximum amount of tax that could be applied to a single transaction. Under the refund program put in place in October 2005 to replace the caps, a retailer is required to collect tax on the entire sale without considering the caps. If the purchaser paid more than the maximum tax amount on a purchase, the purchaser could apply to the Tax Commissioner for a refund of any tax paid in excess of the cap. North Dakota Guideline—Local Option Taxes by Location, effective Oct. 1, 2016. A taxpayer is eligible for refund from the State Tax Commissioner for the difference between the amount of the city and county sales and use taxes paid, and the amount that would have been due by application of the cap provided by the city or county ordinance, resolution or charter. N.D. Cent. Code §57-01-02.1(5). For a detailed calculation of the maximum amount for each city or county and instructions for filing for a refund, refer to the North Dakota Office of State Tax Commissioner website for Sales and Use Tax Form Claim for Refund of City or County Sales and Use Tax Transmittal. BNA-SUTN ND 31.10.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Refund Requests
+
+3 Years If a taxpayer overpays its tax liability, then it must submit a claim for refund on or before the earlier of three years after the return's due date or one year after the overpayment. N.D. Cent. Code §57-39.2-24, as repealed by 2017 N.D. S.B. 2129, effective July 1, 2017. Beginning July 1, 2017, tax refund claims must be filed with the tax commissioner within the later of three years after the due date of the return or the date the return was filed. 2017 N.D. S.B. 2129, enacted effective July 1, 2017. BNA-SUTN ND 31.11.1.
+
+==================================================
+
+Topic: Administration and Procedure Statute of Limitations Assessment of Additional Tax
+
+3 Years The North Dakota Tax Commissioner may assess additional tax within three years after the due date of the return or the return filing date, whichever is later. N.D. Cent. Code §57-39.2-15. If an audit determines that the taxpayer understated its tax liability by 25 percent or more, the commissioner may assess tax for up to six years after the due date of the return or the return filing date, whichever is later. N.D. Cent. Code §57-39.2-15. If a taxpayer files a fraudulent or evasive return, then the statute of limitations does not apply—the commissioner may assess additional tax at any time. N.D. Cent. Code §57-39.2-15. BNA-SUTN ND 31.11.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Civil Penalties
+
+Yes North Dakota may impose penalties on taxpayers that fail to file a required return or fail to timely pay taxes due. N.D. Cent. Code §57-39.2-18(1)(a); N.D. Cent. Code §57-39.2-18(1)(b). If the taxpayer fails to file a return and did not intend to evade taxation, then the taxpayer must pay the greater of $5 or 5 percent per month of the tax required to be reported. The 5 percent penalty is prorated for fractional months, and it includes an additional 5 percent for each month (or fraction)that the taxpayer fails to pay, up to 25 percent. N.D. Cent. Code §57-39.2-18(1)(b)(1). Similarly, if the taxpayer fails to pay a tax due and did not intend to evade taxation, then the taxpayer must pay the greater of $5 or 5 percent of the tax due. N.D. Cent. Code §57-39.2-18(1)(b)(2). BNA-SUTN ND 31.12.1.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Criminal Penalties
+
+Yes North Dakota may impose criminal penalties on persons that sell certain items at retail without obtaining a permit or after their permit is revoked. N.D. Cent. Code §57-39.2-18(2). Specifically, persons that sell tangible personal property, steam, gas, communication services, or tickets or admissions to places of amusement and athletic events at retail without a valid permit may be charged with a class A misdemeanor. N.D. Cent. Code §57-39.2-18(2). Any retailer that advertises or states to any consumer that it will somehow assume or absorb their sales tax obligation may be charged with a class A misdemeanor. N.D. Cent. Code §57-39.2-18(2); N.D. Cent. Code § 57-39.2-09. BNA-SUTN ND 31.12.2.
+
+==================================================
+
+Topic: Administration and Procedure Penalties Waiver of Penalties
+
+Yes The North Dakota Tax Commissioner may, in his or her discretion, waive or refund any or all amounts paid as penalty or interest. N.D. Cent. Code §57-39.2-18(1)(b)(4). BNA-SUTN ND 31.12.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Frequency of Interest Rate Determination
+
+Fixed by statute In North Dakota, the interest rates for underpayments and overpayments of tax are fixed by statute. N.D. Cent. Code §57-39.2-18(1)(a); N.D. Cent. Code §57-39.2-25. Neither underpayment interest nor overpayment interest is subject to compounding in North Dakota. N.D. Cent. Code §57-39.2-18(1)(a); N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates Calculation
+
+Statutory rate In North Dakota, interest on tax underpayments accrues at a rate of 1 percent of the tax due per month (or fractional month), except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2018
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2018, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2017
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2017, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2016
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2016, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2015
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2015, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2014
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2014, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2013
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2013, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2012
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2012, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2011
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2011, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2010
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2010, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2009
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2009, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.2.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates Calculation
+
+Statutory rate In North Dakota, interest on tax overpayment accrues at a rate of 10 percent per year. N.D. Cent. Code §57-39.2-25. The interest is payable either sixty days after the due date of the return, sixty days after the date the return was filed, or sixty days after the date the tax due was fully paid, whichever comes later. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.1.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2018
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2018, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.11.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2017
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2017, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.10.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2016
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2016, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.9.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2015
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2015, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.8.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2014
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2014, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.7.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2013
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2013, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.6.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2012
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2012, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.5.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2011
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2011, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.4.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2010
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2010, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.3.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2009
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2009, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2018
+
+No North Dakota did not have a tax amnesty program in 2018. BNA-SUTN ND 31.14.10.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2017
+
+No North Dakota did not have a tax amnesty program in 2017. BNA-SUTN ND 31.14.9.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2016
+
+No North Dakota did not have a tax amnesty program in 2016. BNA-SUTN ND 31.14.8.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2015
+
+No North Dakota did not have a tax amnesty program in 2015. BNA-SUTN ND 31.14.7.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2014
+
+No North Dakota did not have a tax amnesty program in 2014. BNA-SUTN ND 31.14.6.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2013
+
+No North Dakota did not have a tax amnesty program in 2013. BNA-SUTN ND 31.14.5.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2012
+
+No North Dakota did not have a tax amnesty program in 2012. BNA-SUTN ND 31.14.4.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2011
+
+No North Dakota did not have a tax amnesty program in 2011. BNA-SUTN ND 31.14.3.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2010
+
+No North Dakota did not have a tax amnesty program in 2010. BNA-SUTN ND 31.14.2.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2009
+
+No North Dakota did not have a tax amnesty program in 2009. BNA-SUTN ND 31.14.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Relief
+
+Yes North Dakota offers a Voluntary Disclosure Program that allows companies to voluntarily and anonymously approach the Office of the State Tax Commissioner to resolve its outstanding tax liability. N.D. Cent. Code §57-39.2-19; North Dakota Guideline Voluntary Disclosure Program (March 2012). The commissioner's disclosure representative reviews voluntary disclosure requests. The representative considers each request separately on its own facts. If the representative approves a request, then the disclosing company receives two copies of the proposed agreement. The company must complete and sign one of the two copies and return it to the Tax Commissioner within 60 days from the date on which the agreement was mailed to the company. North Dakota Guideline Voluntary Disclosure Program (March 2012). If a company collects all sales tax due but fails to remit it to North Dakota, then the Commissioner may, in his or her discretion, conditionally waive all penalties, on the condition that the company pays in full all outstanding tax liabilities with interest. North Dakota Guideline Voluntary Disclosure Program (March 2012). To be eligible for the North Dakota Voluntary Disclosure Program, a company must have been required to file a return with the state for a tax type that is subject to the program. Furthermore, as the program's name suggests, the disclosure of unpaid tax liabilities must be voluntary. Therefore, any company previously contacted regarding its tax liability by either North Dakota or the Multistate Tax Commission does not qualify for the amnesty program. North Dakota Guideline Voluntary Disclosure Program (March 2012). A company may contact the commissioner anonymously if it wishes to enter into or learn more about North Dakota's Voluntary Disclosure Program. To enter into a voluntary disclosure agreement, the company must provide a written disclosure statement containing:• a brief description of the company's activities; • the number of years the company has been doing business in North Dakota; • the type of tax or taxes involved; • the company's explanation for the failure to register or file and pay the taxes for past activities; • a statement of whether North Dakota sales or use taxes were collected; • a statement that the company has not been previously contacted by the Office of State Tax Commissioner or by the Multistate Tax Commission; • the company's proposed voluntary disclosure agreement terms; and • an estimate of the tax liability for the period covered by the proposed disclosure agreement. North Dakota Guideline Voluntary Disclosure Program (March 2012). The company may preserve confidentiality by not revealing until the agreement is finalized its name or any information that could identify it during any stage of the Voluntary Disclosure process. North Dakota Guideline Voluntary Disclosure Program (March 2012). BNA-SUTN ND 31.15.1.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Look-Back Periods
+
+Depends North Dakota's voluntary disclosure look-back period depends upon the disclosure statement provided in the company's written request. If the company has merely a limited North Dakota presence, then the Commissioner may enter into an agreement for prospective compliance. North Dakota Guideline Voluntary Disclosure Program (March 2012). BNA-SUTN ND 31.15.2.
+
+==================================================
+
+Topic: Administration and Procedure Voluntary Disclosure Multistate Tax Commission (MTC) Program
+
+Participates North Dakota participates in the Multistate Voluntary Disclosure Program(MVDP). Multistate Tax Commission, Multistate Voluntary Disclosure Program. The MVDP allows taxpayers with outstanding tax liabilities in multiple states to negotiate settlements via a process coordinated by the National Nexus Program (NNP) staff of the MTC. Multistate Tax Commission, Multistate Voluntary Disclosure Program. To participate in the MVDP, the taxpayer must:• have a minimum good-faith tax liability estimate of $500 or more; • not have been contacted by a state or commission regarding taxes due;and • submit a completed Voluntary Disclosure Agreement (VDA) including taxpayer's contact information, tax year, list of states to receive the proposed VDA, description of taxpayer's activities in each state, and estimate of taxes due. Multistate Tax Commission, Multistate Voluntary Disclosure Program. North Dakota may have additional requirements for participation in the MVDP. The program is intended to incentivize taxpayers to begin filing and paying taxes in all of the states in which they have substantial nexus. Upon entering into a voluntary disclosure agreement with a state, taxpayers will be required to file returns, pay the tax due and accrued interest on the returns, and register with the state in exchange for waiver of penalties for the entire look-back period. Taxpayers are not charged to participate in the MVDP. BNA-SUTN ND 31.15.3.
+
+==================================================
+
+Topic: Administration and Procedure Audits
+
+Authorized The North Dakota Tax Commissioner may conduct audits to ensure compliant and accurate tax returns and the correct tax liability. N.D. Admin. Code §81-01.1-01-03. To conduct such audits, the commissioner may investigate and examine any and all of a taxpayer's records, pertinent documents, equipment, computer systems, business facilities, and tangible personal property. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-03. Upon receiving a written request, the taxpayer must make all items and places available to the Commissioner for an audit. Likewise, the Commissioner can require a taxpayer to be present at an audit to answer questions, provide testimony, and submit materials or information to support the tax return filed. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-03. If the Commissioner needs information from a taxpayer regarding an audit, he or she must make the request in writing. Upon receiving the request, the taxpayer has 30 days to respond to the request, unless the taxpayer has requested in writing for an extension, and the Commissioner has granted the extension. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-04(2). If the taxpayer fails to respond within the given time period, then the Commissioner must issue a second written request, allowing the taxpayer another 30 days to respond. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-04(2). If the taxpayer fails to respond to the second request, the Commissioner must issue a third written request. The third request is the taxpayer's final notice. It must inform the taxpayer that if he or she fails to comply, then the Commissioner may subpoena the taxpayer or make a determination based on the best information available. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-04(3). The Commissioner has 12 months to complete an audit from the date when the Commissioner first makes a written request for information, or in the case of a field audit, the date the auditor begins to review the taxpayer's records. If unable to do so, he or she must notify the taxpayer in writing. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-05(1). The taxpayer and the Commissioner must then work to agree on a time period for the Commissioner to complete the audit. N.D. Cent. Code §57-01-02; N.D. Admin. Code §81-01.1-01-05(2). BNA-SUTN ND 31.16.
+
+==================================================
+
+Topic: Administration and Procedure Appeals
+
+Permitted A taxpayer has a right to a hearing before the North Dakota Tax Commissioner regarding any assessment or determination of additional tax liability. N.D. Cent. Code §57-01-11. The taxpayer may appeal an unfavorable decision from the commissioner to North Dakota district court within 30 days of receiving notice of the commissioner's decision. N.D. Cent. Code §57-01-11; N.D. Cent. Code §57-39.2-16. If the Commissioner assesses tax under a provision expressly providing that the tax is final and non-reviewable, and the taxpayer fails to pay the tax but provides information indicating that the assessed tax exceeds the actual amount due, then the Commissioner may accept a reduced tax payment as a legal settlement. If the Commissioner receives information that he or she under-assessed the tax, then the Commissioner may assess the additional amount due, even though the assessment was final and non-reviewable. N.D. Cent. Code §57-01-11(2), added by 2015 S.B. 2115, effective Aug. 1, 2015. BNA-SUTN ND 31.17.
+
+==================================================
+
+Topic: Administration and Procedure Interest Underpayment Rates 2019
+
+1Q:1% monthly 2Q:1% monthly 3Q:1% monthly 4Q:1% monthly In 2019, the North Dakota interest rate on underpayments of tax is 1 percent per month, except for the first month. N.D. Cent. Code §57-39.2-18(1)(a). BNA-SUTN ND 31.13.2.12.
+
+==================================================
+
+Topic: Administration and Procedure Interest Overpayment Rates 2019
+
+1Q:10% 2Q:10% 3Q:10% 4Q:10% In 2019, the North Dakota interest rate on overpayments of tax is 10 percent. N.D. Cent. Code §57-39.2-25. BNA-SUTN ND 31.13.3.12.
+
+==================================================
+
+Topic: Administration and Procedure Amnesty Programs 2019
+
+No North Dakota has not announced a tax amnesty program for 2019. BNA-SUTN ND 31.14.11.
+
+==================================================
