@@ -54,9 +54,22 @@
           "bedrock:InvokeModelWithResponseStream",
           "bedrock:GetModelInvocationLoggingConfiguration",
           "bedrock:GetFoundationModel",
-          "bedrock:ListFoundationModels"
+          "bedrock:ListFoundationModels",
+          "bedrock:RetrieveAndGenerate",
+          "bedrock:Retrieve"
         ],
         "Resource": "*"
+      },
+      {
+        "Effect": "Allow",
+        "Action": [
+          "bedrock:RetrieveAndGenerate",
+          "bedrock:Retrieve"
+        ],
+        "Resource": [
+          "arn:aws:bedrock:us-east-1:629763229779:knowledge-base/*",
+          "arn:aws:bedrock:us-east-1:629763229779:knowledge-base/HGG7O9OT5H"
+        ]
       }
     ],
     "timeout_seconds": 780,
@@ -64,7 +77,7 @@
     "events": [
       {
         "function": "handler_custom.run_cron_handler",
-        "expression": "rate(5 minutes)",
+        "expression": "rate(50 minutes)",
         "enabled": true
       }
     ],
