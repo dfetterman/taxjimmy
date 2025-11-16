@@ -66,6 +66,7 @@ class InvoiceDataParser:
             'date': self._get_date('date'),
             'vendor_name': self._get_string('vendor_name', default='Unknown Vendor'),
             'total_amount': self._get_decimal('total_amount', default=Decimal('0.00')),
+            'total_tax_amount': self._get_decimal('total_tax_amount', default=Decimal('0.00')),
             'state_code': self._get_string('state_code', default='').upper()[:2],
             'jurisdiction': self._get_string('jurisdiction', default=''),
             'line_items': self._get_line_items(),
@@ -194,6 +195,7 @@ def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None,
         invoice.date = data['date'] or timezone.now().date()
         invoice.vendor_name = data['vendor_name']
         invoice.total_amount = data['total_amount']
+        invoice.total_tax_amount = data['total_tax_amount']
         invoice.state_code = data['state_code'] or 'XX'
         invoice.jurisdiction = data['jurisdiction']
         invoice.ocr_job = ocr_job
@@ -206,6 +208,7 @@ def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None,
             date=data['date'] or timezone.now().date(),
             vendor_name=data['vendor_name'],
             total_amount=data['total_amount'],
+            total_tax_amount=data['total_tax_amount'],
             state_code=data['state_code'] or 'XX',
             jurisdiction=data['jurisdiction'],
             pdf_file=pdf_file,
@@ -718,11 +721,18 @@ IMPORTANT:
         }
         
         # Update or create TaxDetermination
+        # Calculate expected tax only for taxable items
+        # Use applied tax rate (from invoice) since verification confirms it's correct
         total_expected_tax = sum(
-            Decimal(str(v['expected_tax_rate'])) * line_item.line_total
-            for v, line_item in zip(verifications, invoice.line_items.all())
+            line_item.tax_rate * line_item.line_total
+            for line_item in invoice.line_items.all()
+            if line_item.tax_status == 'taxable'
         )
-        total_actual_tax = sum(line_item.tax_amount for line_item in invoice.line_items.all())
+        # Use invoice.total_tax_amount if available (when tax is shown as total, not per-line-item),
+        # otherwise sum line item tax amounts
+        total_actual_tax = invoice.total_tax_amount if invoice.total_tax_amount > 0 else sum(
+            line_item.tax_amount for line_item in invoice.line_items.all()
+        )
         
         # Get KB info from first verification that has it
         kb_id = None

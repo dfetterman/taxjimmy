@@ -17,12 +17,14 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
+from django.views.generic import RedirectView
 from taxjimmyapp import views
 
 urlpatterns = [
     path('', views.home, name='home'),
     path('portal/', views.portal, name='portal'),
     path('admin/', admin.site.urls),
+    path('accounts/signup/', RedirectView.as_view(url='/')),
     path('accounts/', include('allauth.urls')),
     path('api/invoice-ocr/', include('invoice_ocr.urls')),
     path('taxright/', include('taxright.urls')),

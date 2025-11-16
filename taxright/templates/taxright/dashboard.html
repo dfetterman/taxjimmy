@@ -157,6 +157,14 @@
             <h3>Total Amount</h3>
             <p class="value">${{ total_amount|floatformat:2 }}</p>
         </div>
+        <div class="stat-card" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+            <h3>Total Underpayment</h3>
+            <p class="value">${{ total_underpayment|floatformat:2 }}</p>
+        </div>
+        <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+            <h3>Total Overpayment</h3>
+            <p class="value">${{ total_overpayment|floatformat:2 }}</p>
+        </div>
     </div>
     
     <div class="invoices-section">

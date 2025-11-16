@@ -282,12 +282,33 @@ def dashboard(request):
     )
     total_amount = total_amount_result['total'] or 0
     
+    # Calculate total underpayment (invoices where less tax was paid than expected)
+    # discrepancy_amount < 0 means actual_tax < expected_tax (underpayment)
+    underpayment_result = TaxDetermination.objects.filter(
+        discrepancy_amount__lt=0
+    ).aggregate(
+        total=Sum('discrepancy_amount')
+    )
+    # Take absolute value since discrepancy_amount is negative for underpayments
+    total_underpayment = abs(underpayment_result['total'] or 0)
+    
+    # Calculate total overpayment (invoices where more tax was paid than expected)
+    # discrepancy_amount > 0 means actual_tax > expected_tax (overpayment)
+    overpayment_result = TaxDetermination.objects.filter(
+        discrepancy_amount__gt=0
+    ).aggregate(
+        total=Sum('discrepancy_amount')
+    )
+    total_overpayment = overpayment_result['total'] or 0
+    
     context = {
         'invoices': invoices,
         'total_invoices': total_invoices,
         'pending_count': pending_count,
         'completed_count': completed_count,
         'total_amount': total_amount,
+        'total_underpayment': total_underpayment,
+        'total_overpayment': total_overpayment,
     }
     
     return render(request, 'taxright/dashboard.html', context)
