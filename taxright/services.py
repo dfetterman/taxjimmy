@@ -12,6 +12,7 @@ from django.utils import timezone
 from botocore.exceptions import ClientError, BotoCoreError
 
 from taxright.models import Invoice, InvoiceLineItem, StateKnowledgeBase, LineItemTaxVerification, TaxDetermination
+from invoice_ocr.models import BedrockModelConfig
 
 logger = logging.getLogger(__name__)
 
@@ -167,7 +168,7 @@ class InvoiceDataParser:
         return status_lower if status_lower in valid_statuses else 'unknown'
 
 
-def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None) -> Invoice:
+def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None, ocr_usage_info=None) -> Invoice:
     """
     Create or update Invoice and InvoiceLineItem records from OCR JSON.
     
@@ -176,6 +177,7 @@ def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None)
         pdf_file: Django FileField file object
         ocr_job: Optional ProcessingJob instance
         invoice: Optional existing Invoice instance to update
+        ocr_usage_info: Optional dict with OCR token usage and cost info (from BedrockLLMService.process_invoice)
         
     Returns:
         Invoice: Created or updated invoice instance
@@ -229,10 +231,22 @@ def create_invoice_from_ocr(ocr_json: str, pdf_file, ocr_job=None, invoice=None)
             tax_status=item_data['tax_status'],
         )
     
+    # Save OCR token usage and costs if provided
+    if ocr_usage_info:
+        invoice.ocr_input_tokens = ocr_usage_info.get('inputTokens', 0)
+        invoice.ocr_output_tokens = ocr_usage_info.get('outputTokens', 0)
+        invoice.ocr_total_tokens = ocr_usage_info.get('totalTokens', 0)
+        invoice.ocr_input_cost = Decimal(str(ocr_usage_info.get('inputCost', 0.0)))
+        invoice.ocr_output_cost = Decimal(str(ocr_usage_info.get('outputCost', 0.0)))
+        invoice.ocr_total_cost = Decimal(str(ocr_usage_info.get('totalCost', 0.0)))
+    
     # Update status to completed
     invoice.status = 'completed'
     invoice.processed_at = timezone.now()
     invoice.save()
+    
+    # Recalculate total LLM cost (OCR cost + any existing line item KB costs)
+    invoice.recalculate_total_llm_cost()
     
     # Automatically trigger tax verification if invoice has valid state code
     if invoice.state_code and invoice.state_code != 'XX' and invoice.line_items.exists():
@@ -263,6 +277,22 @@ class BedrockKnowledgeBaseService:
         except Exception as e:
             logger.error(f"Failed to initialize Bedrock client: {str(e)}")
             raise
+    
+    def _estimate_tokens(self, text: str) -> int:
+        """
+        Estimate token count from text length.
+        Uses rough approximation: ~4 characters per token for English text.
+        
+        Args:
+            text: Text to estimate tokens for
+            
+        Returns:
+            Estimated token count
+        """
+        if not text:
+            return 0
+        # Rough estimate: ~4 characters per token for English text
+        return max(1, len(text) // 4)
     
     def get_knowledge_base_for_state(self, state_code: str) -> Optional[StateKnowledgeBase]:
         """
@@ -316,12 +346,22 @@ class BedrockKnowledgeBaseService:
             else:
                 answer_text = str(output) if output else ''
             
+            # Estimate token usage
+            input_tokens = self._estimate_tokens(query_text)
+            output_tokens = self._estimate_tokens(answer_text)
+            total_tokens = input_tokens + output_tokens
+            
             result = {
                 'answer': answer_text,
                 'citations': response.get('citations', []),
                 'metadata': {
                     'session_id': response.get('sessionId'),
                     'model_id': model_id
+                },
+                'token_usage': {
+                    'inputTokens': input_tokens,
+                    'outputTokens': output_tokens,
+                    'totalTokens': total_tokens
                 }
             }
             
@@ -558,6 +598,41 @@ IMPORTANT:
             verification['kb_id'] = kb.knowledge_base_id
             verification['kb_name'] = kb.knowledge_base_name
             
+            # Calculate and save token costs to line item
+            token_usage = kb_response.get('token_usage', {})
+            input_tokens = token_usage.get('inputTokens', 0)
+            output_tokens = token_usage.get('outputTokens', 0)
+            total_tokens = token_usage.get('totalTokens', 0)
+            
+            # Get model pricing (default to Claude 3 Sonnet pricing)
+            model_id = kb_response.get('metadata', {}).get('model_id', 'anthropic.claude-3-sonnet-20240229-v1:0')
+            try:
+                model_config = BedrockModelConfig.objects.get(model_id=model_id, is_active=True)
+                input_cost_per_1k = float(model_config.input_token_cost)
+                output_cost_per_1k = float(model_config.output_token_cost)
+            except BedrockModelConfig.DoesNotExist:
+                # Default Claude 3 Sonnet pricing if model not found
+                logger.warning(f"Model config not found for {model_id}, using default pricing")
+                input_cost_per_1k = 0.003  # $0.003 per 1K input tokens
+                output_cost_per_1k = 0.015  # $0.015 per 1K output tokens
+            
+            # Calculate costs
+            input_cost = (input_tokens / 1000.0) * input_cost_per_1k
+            output_cost = (output_tokens / 1000.0) * output_cost_per_1k
+            total_cost = input_cost + output_cost
+            
+            # Save to line item
+            line_item.kb_input_tokens = input_tokens
+            line_item.kb_output_tokens = output_tokens
+            line_item.kb_total_tokens = total_tokens
+            line_item.kb_input_cost = Decimal(str(round(input_cost, 8)))
+            line_item.kb_output_cost = Decimal(str(round(output_cost, 8)))
+            line_item.kb_total_cost = Decimal(str(round(total_cost, 8)))
+            line_item.save(update_fields=[
+                'kb_input_tokens', 'kb_output_tokens', 'kb_total_tokens',
+                'kb_input_cost', 'kb_output_cost', 'kb_total_cost', 'updated_at'
+            ])
+            
             return verification
             
         except Exception as e:
@@ -674,6 +749,9 @@ IMPORTANT:
                 }
             }
         )
+        
+        # Recalculate total LLM cost
+        invoice.recalculate_total_llm_cost()
         
         return {
             'line_item_verifications': verifications,

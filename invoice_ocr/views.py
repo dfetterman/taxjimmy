@@ -114,7 +114,7 @@ class InvoiceProcessViewSet(viewsets.ViewSet):
             
             # Process the invoice
             processor = InvoiceProcessor()
-            extracted_text = processor.process_pdf(
+            extracted_text, _ = processor.process_pdf(
                 file_path=temp_file_path,
                 method=method,
                 model_id=model_id,

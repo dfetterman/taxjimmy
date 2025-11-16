@@ -30,6 +30,18 @@ class InvoiceAdmin(admin.ModelAdmin):
         ('Status', {
             'fields': ('status', 'uploaded_at', 'processed_at')
         }),
+        ('OCR Processing', {
+            'fields': ('ocr_job', 'raw_ocr_data', 'ocr_error'),
+            'classes': ('collapse',)
+        }),
+        ('LLM Costs', {
+            'fields': (
+                'ocr_input_tokens', 'ocr_output_tokens', 'ocr_total_tokens',
+                'ocr_input_cost', 'ocr_output_cost', 'ocr_total_cost',
+                'total_llm_cost'
+            ),
+            'classes': ('collapse',)
+        }),
         ('Timestamps', {
             'fields': ('created_at', 'updated_at'),
             'classes': ('collapse',)
@@ -41,7 +53,7 @@ class InvoiceAdmin(admin.ModelAdmin):
 @admin.register(InvoiceLineItem)
 class InvoiceLineItemAdmin(admin.ModelAdmin):
     """Admin interface for InvoiceLineItem model"""
-    list_display = ('invoice', 'description', 'quantity', 'unit_price', 'line_total', 'tax_amount', 'tax_rate', 'tax_status')
+    list_display = ('invoice', 'description', 'quantity', 'unit_price', 'line_total', 'tax_amount', 'tax_rate', 'tax_status', 'kb_total_cost')
     list_filter = ('tax_status', 'invoice__status', 'invoice__state_code')
     search_fields = ('description', 'invoice__invoice_number', 'invoice__vendor_name')
     readonly_fields = ('created_at', 'updated_at')
@@ -51,6 +63,13 @@ class InvoiceLineItemAdmin(admin.ModelAdmin):
         }),
         ('Tax Information', {
             'fields': ('tax_amount', 'tax_rate', 'tax_status')
+        }),
+        ('LLM KB Verification Costs', {
+            'fields': (
+                'kb_input_tokens', 'kb_output_tokens', 'kb_total_tokens',
+                'kb_input_cost', 'kb_output_cost', 'kb_total_cost'
+            ),
+            'classes': ('collapse',)
         }),
         ('Timestamps', {
             'fields': ('created_at', 'updated_at'),

@@ -10,6 +10,8 @@ class InvoiceLineItemSerializer(serializers.ModelSerializer):
         fields = [
             'id', 'invoice', 'description', 'quantity', 'unit_price', 
             'line_total', 'tax_amount', 'tax_rate', 'tax_status',
+            'kb_input_tokens', 'kb_output_tokens', 'kb_total_tokens',
+            'kb_input_cost', 'kb_output_cost', 'kb_total_cost',
             'created_at', 'updated_at'
         ]
         read_only_fields = ['id', 'created_at', 'updated_at']
@@ -25,10 +27,13 @@ class InvoiceSerializer(serializers.ModelSerializer):
     class Meta:
         model = Invoice
         fields = [
-            'id', 'invoice_number', 'date', 'vendor_name', 'total_amount',
+            'id', 'invoice_number', 'date', 'vendor_name', 'total_amount', 'total_tax_amount',
             'state_code', 'jurisdiction', 'pdf_file', 'pdf_file_url',
             'status', 'uploaded_at', 'processed_at', 'line_items',
             'ocr_job_id', 'raw_ocr_data', 'ocr_error', 'has_ocr_data',
+            'ocr_input_tokens', 'ocr_output_tokens', 'ocr_total_tokens',
+            'ocr_input_cost', 'ocr_output_cost', 'ocr_total_cost',
+            'total_llm_cost',
             'created_at', 'updated_at'
         ]
         read_only_fields = ['id', 'uploaded_at', 'created_at', 'updated_at']

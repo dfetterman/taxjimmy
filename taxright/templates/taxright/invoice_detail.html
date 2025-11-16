@@ -422,6 +422,12 @@
                     <label>Total Amount</label>
                     <div class="value">${{ invoice.total_amount|floatformat:2 }}</div>
                 </div>
+                {% if invoice.total_tax_amount > 0 %}
+                <div class="info-item">
+                    <label>Total Tax</label>
+                    <div class="value">${{ invoice.total_tax_amount|floatformat:2 }}</div>
+                </div>
+                {% endif %}
                 {% if invoice.jurisdiction %}
                 <div class="info-item">
                     <label>Jurisdiction</label>
@@ -441,6 +447,37 @@
         </div>
         {% endif %}
     </div>
+    
+    <!-- LLM Cost Summary -->
+    {% if invoice.ocr_total_cost > 0 or invoice.total_llm_cost > 0 %}
+    <div class="section">
+        <h3>LLM Processing Costs</h3>
+        <div class="tax-comparison">
+            <div class="tax-item">
+                <label>OCR Cost</label>
+                <div class="value">${{ invoice.ocr_total_cost|floatformat:8 }}</div>
+                {% if invoice.ocr_total_tokens > 0 %}
+                <div style="font-size: 0.85rem; color: #6c757d; margin-top: 0.25rem;">
+                    {{ invoice.ocr_total_tokens|floatformat:0 }} tokens
+                </div>
+                {% endif %}
+            </div>
+            <div class="tax-item">
+                <label>Line Item Verification Cost</label>
+                <div class="value">${{ line_items_kb_cost|floatformat:8 }}</div>
+                {% if line_items_kb_tokens > 0 %}
+                <div style="font-size: 0.85rem; color: #6c757d; margin-top: 0.25rem;">
+                    {{ line_items_kb_tokens|floatformat:0 }} tokens
+                </div>
+                {% endif %}
+            </div>
+            <div class="tax-item">
+                <label>Total LLM Cost</label>
+                <div class="value" style="color: #667eea; font-size: 1.75rem;">${{ invoice.total_llm_cost|floatformat:8 }}</div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
     
     <!-- Pipeline Visualization -->
     <div class="pipeline-container">

@@ -21,6 +21,13 @@ class Invoice(models.Model):
         decimal_places=2,
         validators=[MinValueValidator(Decimal('0.00'))]
     )
+    total_tax_amount = models.DecimalField(
+        max_digits=12,
+        decimal_places=2,
+        validators=[MinValueValidator(Decimal('0.00'))],
+        default=Decimal('0.00'),
+        help_text="Total tax amount from invoice (when tax is shown as total, not per-line-item)"
+    )
     state_code = models.CharField(max_length=2, help_text="US state code (e.g., CA, NY)")
     jurisdiction = models.CharField(max_length=255, blank=True, help_text="Specific jurisdiction if applicable")
     pdf_file = models.FileField(upload_to='invoices/%Y/%m/%d/', help_text="Uploaded invoice PDF")
@@ -45,6 +52,47 @@ class Invoice(models.Model):
         null=True,
         help_text="Error message if OCR processing failed"
     )
+    # OCR token and cost tracking
+    ocr_input_tokens = models.IntegerField(
+        default=0,
+        help_text="Number of input tokens used for OCR processing"
+    )
+    ocr_output_tokens = models.IntegerField(
+        default=0,
+        help_text="Number of output tokens used for OCR processing"
+    )
+    ocr_total_tokens = models.IntegerField(
+        default=0,
+        help_text="Total tokens used for OCR processing (input + output)"
+    )
+    ocr_input_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Cost for OCR input tokens (in USD)"
+    )
+    ocr_output_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Cost for OCR output tokens (in USD)"
+    )
+    ocr_total_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Total cost for OCR processing (in USD)"
+    )
+    total_llm_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Total LLM cost (OCR + all line item KB verification costs) in USD"
+    )
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     
@@ -58,6 +106,15 @@ class Invoice(models.Model):
     
     def __str__(self):
         return f"{self.invoice_number} - {self.vendor_name} ({self.date})"
+    
+    def recalculate_total_llm_cost(self):
+        """Recalculate total_llm_cost from OCR cost + sum of all line item KB costs"""
+        from django.db.models import Sum
+        line_items_total = self.line_items.aggregate(
+            total=Sum('kb_total_cost')
+        )['total'] or Decimal('0.00')
+        self.total_llm_cost = self.ocr_total_cost + line_items_total
+        self.save(update_fields=['total_llm_cost', 'updated_at'])
 
 
 class InvoiceLineItem(models.Model):
@@ -101,6 +158,40 @@ class InvoiceLineItem(models.Model):
         help_text="Tax rate as decimal (e.g., 0.0825 for 8.25%)"
     )
     tax_status = models.CharField(max_length=20, choices=TAX_STATUS_CHOICES, default='unknown')
+    # KB verification token and cost tracking
+    kb_input_tokens = models.IntegerField(
+        default=0,
+        help_text="Number of input tokens used for KB verification of this line item"
+    )
+    kb_output_tokens = models.IntegerField(
+        default=0,
+        help_text="Number of output tokens used for KB verification of this line item"
+    )
+    kb_total_tokens = models.IntegerField(
+        default=0,
+        help_text="Total tokens used for KB verification (input + output)"
+    )
+    kb_input_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Cost for KB verification input tokens (in USD)"
+    )
+    kb_output_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Cost for KB verification output tokens (in USD)"
+    )
+    kb_total_cost = models.DecimalField(
+        max_digits=12,
+        decimal_places=8,
+        default=Decimal('0.00'),
+        validators=[MinValueValidator(Decimal('0.00'))],
+        help_text="Total cost for KB verification of this line item (in USD)"
+    )
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     

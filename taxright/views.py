@@ -7,6 +7,7 @@ from rest_framework import viewsets, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from rest_framework.parsers import MultiPartParser, FormParser
+from decimal import Decimal
 import tempfile
 import os
 import json
@@ -297,8 +298,17 @@ def invoice_detail(request, invoice_id):
     """Detail view for a specific invoice"""
     invoice = get_object_or_404(Invoice, id=invoice_id)
     
+    # Calculate line items total KB cost and tokens
+    line_items_kb_cost = Decimal('0.00')
+    line_items_kb_tokens = 0
+    for item in invoice.line_items.all():
+        line_items_kb_cost += item.kb_total_cost
+        line_items_kb_tokens += item.kb_total_tokens
+    
     context = {
         'invoice': invoice,
+        'line_items_kb_cost': line_items_kb_cost,
+        'line_items_kb_tokens': line_items_kb_tokens,
     }
     
     return render(request, 'taxright/invoice_detail.html', context)
@@ -343,7 +353,7 @@ def upload_invoice(request):
             
             # Process via OCR
             processor = InvoiceProcessor()
-            ocr_result = processor.process_pdf(
+            ocr_result, ocr_usage_info = processor.process_pdf(
                 file_path=temp_file_path,
                 method='bedrock',
                 create_job=True
@@ -361,7 +371,8 @@ def upload_invoice(request):
                 ocr_json=ocr_result,
                 pdf_file=pdf_file,
                 ocr_job=ocr_job,
-                invoice=invoice
+                invoice=invoice,
+                ocr_usage_info=ocr_usage_info
             )
             
             messages.success(request, f'Invoice {invoice.invoice_number} processed successfully!')

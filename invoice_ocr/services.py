@@ -9,7 +9,7 @@ import base64
 import os
 from django.utils import timezone
 from botocore.exceptions import ClientError, BotoCoreError
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, Tuple
 
 from invoice_ocr.config import ConfigManager
 from invoice_ocr.exceptions import (
@@ -432,6 +432,7 @@ Extract the following information and return it as valid JSON only (no markdown,
   "date": "YYYY-MM-DD (invoice date)",
   "vendor_name": "string (vendor or supplier name)",
   "total_amount": "decimal number (total invoice amount)",
+  "total_tax_amount": "decimal number (total tax amount if shown as single line item, otherwise 0)",
   "state_code": "string (2-letter US state code, e.g., CA, NY)",
   "jurisdiction": "string (county, city, or special district if applicable, empty string if not)",
   "line_items": [
@@ -440,8 +441,8 @@ Extract the following information and return it as valid JSON only (no markdown,
       "quantity": "decimal number",
       "unit_price": "decimal number",
       "line_total": "decimal number (quantity * unit_price)",
-      "tax_amount": "decimal number (tax for this line item)",
-      "tax_rate": "decimal number (tax rate as decimal, e.g., 0.0825 for 8.25%)",
+      "tax_amount": "decimal number (tax for this line item - ONLY if explicitly shown per line item, otherwise 0)",
+      "tax_rate": "decimal number (tax rate as decimal, e.g., 0.0825 for 8.25% - extract from invoice tax line if shown)",
       "tax_status": "string (one of: 'taxable', 'exempt', 'unknown')"
     }
   ]
@@ -453,7 +454,14 @@ Important:
 - Dates must be in YYYY-MM-DD format
 - All amounts should be decimal numbers (strings in JSON)
 - State code should be 2-letter uppercase US state code
-- If jurisdiction is not found, use empty string"""
+- If jurisdiction is not found, use empty string
+- TAX HANDLING: Many invoices show tax as a single line item (e.g., "Tax 6.75%: $438.75") rather than per-line-item
+  - If tax is shown ONLY as a total/subtotal tax line, set tax_amount to 0 for all line items
+  - Extract the total_tax_amount from the invoice tax line (e.g., if invoice shows "NC Tax 6.75%: $438.75", set total_tax_amount to 438.75)
+  - Still extract the tax_rate from the invoice and apply it to all taxable line items
+  - Only set tax_amount > 0 if the invoice explicitly shows tax calculated per individual line item
+  - The tax_rate should be the same for all taxable items on the invoice
+  - If total_tax_amount is extracted, it represents the sum of all taxes on the invoice"""
             
             # Invoke model with PDF bytes and filename
             result, token_usage = self._invoke_model(model_id, prompt, config, pdf_bytes=pdf_bytes, pdf_filename=pdf_filename)
@@ -528,7 +536,7 @@ class InvoiceProcessor:
     def process_pdf(self, file_path: str, method: str = 'bedrock', 
                    model_id: Optional[str] = None,
                    create_job: bool = True,
-                   **kwargs) -> str:
+                   **kwargs) -> Tuple[str, Optional[Dict[str, Any]]]:
         """
         Main entry point for processing PDF invoices.
         
@@ -540,7 +548,9 @@ class InvoiceProcessor:
             **kwargs: Additional parameters (temperature, max_tokens, prompt_template, etc.)
             
         Returns:
-            str: Extracted/processed invoice text
+            tuple: (extracted_text, usage_info)
+                - extracted_text: Extracted/processed invoice text
+                - usage_info: Dictionary with token usage and cost info (or None if not available)
             
         Raises:
             InvoiceProcessingError: If processing fails
@@ -576,7 +586,7 @@ class InvoiceProcessor:
                 job.completed_at = timezone.now()
                 job.save()
             
-            return result
+            return result, usage_info
             
         except Exception as e:
             if job:
