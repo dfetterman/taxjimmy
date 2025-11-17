@@ -433,6 +433,7 @@ Extract the following information and return it as valid JSON only (no markdown,
   "vendor_name": "string (vendor or supplier name)",
   "total_amount": "decimal number (total invoice amount)",
   "total_tax_amount": "decimal number (total tax amount if shown as single line item, otherwise 0)",
+  "invoice_discount_amount": "decimal number (discount applied to entire invoice, 0 if none)",
   "state_code": "string (2-letter US state code, e.g., CA, NY)",
   "jurisdiction": "string (county, city, or special district if applicable, empty string if not)",
   "line_items": [
@@ -440,7 +441,8 @@ Extract the following information and return it as valid JSON only (no markdown,
       "description": "string (item description)",
       "quantity": "decimal number",
       "unit_price": "decimal number",
-      "line_total": "decimal number (quantity * unit_price)",
+      "line_total": "decimal number (amount charged for this line item AFTER any line-item discount)",
+      "discount_amount": "decimal number (discount applied to this specific line item, 0 if none)",
       "tax_amount": "decimal number (tax for this line item - ONLY if explicitly shown per line item, otherwise 0)",
       "tax_rate": "decimal number (tax rate as decimal, e.g., 0.0825 for 8.25% - extract from invoice tax line if shown)",
       "tax_status": "string (one of: 'taxable', 'exempt', 'unknown')"
@@ -455,13 +457,20 @@ Important:
 - All amounts should be decimal numbers (strings in JSON)
 - State code should be 2-letter uppercase US state code
 - If jurisdiction is not found, use empty string
+- DISCOUNT HANDLING:
+  - If a discount is applied to a specific line item, extract it as discount_amount for that line item
+  - If a discount is applied to the entire invoice (e.g., "Early payment discount", "Volume discount", "Promotional discount"), extract it as invoice_discount_amount
+  - line_total should be the amount AFTER any line-item discount (i.e., line_total = (quantity * unit_price) - discount_amount)
+  - If the invoice shows a total amount that is less than the sum of line_totals, determine if it's a line-item discount or invoice-level discount based on how it's presented on the invoice
+  - If discounts aren't explicitly shown but totals don't match, infer whether it's line-item or invoice-level based on invoice structure
 - TAX HANDLING: Many invoices show tax as a single line item (e.g., "Tax 6.75%: $438.75") rather than per-line-item
   - If tax is shown ONLY as a total/subtotal tax line, set tax_amount to 0 for all line items
   - Extract the total_tax_amount from the invoice tax line (e.g., if invoice shows "NC Tax 6.75%: $438.75", set total_tax_amount to 438.75)
   - Still extract the tax_rate from the invoice and apply it to all taxable line items
   - Only set tax_amount > 0 if the invoice explicitly shows tax calculated per individual line item
   - The tax_rate should be the same for all taxable items on the invoice
-  - If total_tax_amount is extracted, it represents the sum of all taxes on the invoice"""
+  - If total_tax_amount is extracted, it represents the sum of all taxes on the invoice
+  - Tax should be calculated on the discounted amounts (line_total after discounts)"""
             
             # Invoke model with PDF bytes and filename
             result, token_usage = self._invoke_model(model_id, prompt, config, pdf_bytes=pdf_bytes, pdf_filename=pdf_filename)

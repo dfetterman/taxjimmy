@@ -28,6 +28,13 @@ class Invoice(models.Model):
         default=Decimal('0.00'),
         help_text="Total tax amount from invoice (when tax is shown as total, not per-line-item)"
     )
+    invoice_discount_amount = models.DecimalField(
+        max_digits=12,
+        decimal_places=2,
+        validators=[MinValueValidator(Decimal('0.00'))],
+        default=Decimal('0.00'),
+        help_text="Discount applied to entire invoice (e.g., early payment discount, volume discount)"
+    )
     state_code = models.CharField(max_length=2, help_text="US state code (e.g., CA, NY)")
     jurisdiction = models.CharField(max_length=255, blank=True, help_text="Specific jurisdiction if applicable")
     pdf_file = models.FileField(upload_to='invoices/%Y/%m/%d/', help_text="Uploaded invoice PDF")
@@ -143,6 +150,13 @@ class InvoiceLineItem(models.Model):
         max_digits=12, 
         decimal_places=2,
         validators=[MinValueValidator(Decimal('0.00'))]
+    )
+    discount_amount = models.DecimalField(
+        max_digits=12,
+        decimal_places=2,
+        validators=[MinValueValidator(Decimal('0.00'))],
+        default=Decimal('0.00'),
+        help_text="Discount applied to this specific line item"
     )
     tax_amount = models.DecimalField(
         max_digits=12, 
