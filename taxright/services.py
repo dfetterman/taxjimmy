@@ -1074,24 +1074,46 @@ IMPORTANT:
             zero_rate_fallback_count = 0
             fallback_rate_updates = {}  # Track which verifications need to be updated with fallback rates
             
-            # Calculate subtotal of all line items for invoice-level discount allocation
+            # First pass: identify which items will be included in tax calculation and calculate taxable subtotal
+            # This is needed to properly allocate invoice-level discounts only to taxable items
+            taxable_items = []
+            taxable_subtotal = Decimal('0.00')
+            for line_item in invoice.line_items.all():
+                expected_rate = expected_rate_map.get(line_item.id)
+                # Determine if item should be included in expected tax calculation
+                if line_item.tax_status != 'taxable':
+                    if expected_rate is None or expected_rate == Decimal('0.0000'):
+                        continue  # Skip exempt items
+                # Item will be included - add to taxable subtotal
+                taxable_items.append((line_item, expected_rate))
+                taxable_subtotal += line_item.line_total
+            
+            # Calculate subtotal of all line items for validation/warning purposes
             subtotal = sum(line_item.line_total for line_item in invoice.line_items.all())
             
-            for line_item in invoice.line_items.all():
-                # Get expected rate from verification first to determine if item should be included
-                expected_rate = expected_rate_map.get(line_item.id)
-                
-                # Determine if item should be included in expected tax calculation:
-                # 1. If tax_status is 'taxable', include it
-                # 2. If tax_status is not 'taxable' but KB verification indicates it should be taxable (non-zero expected_rate), include it
-                # 3. Otherwise, skip it (exempt items or items with no/zero expected rate from KB)
-                if line_item.tax_status != 'taxable':
-                    # Not explicitly taxable - check if KB verification says it should be taxable
-                    if expected_rate is None or expected_rate == Decimal('0.0000'):
-                        continue  # Skip items that are not taxable and have no/zero expected rate from KB
-                    # KB verification indicates this should be taxable (non-zero expected_rate), so include it
-                
-                # Item should be included - proceed with tax calculation
+            # Determine if line_totals already include invoice-level discount
+            # If subtotal ≈ total_amount (within tolerance), line_totals are post-discount
+            # If subtotal ≈ total_amount + invoice_discount_amount, line_totals are pre-discount
+            tolerance = Decimal('0.01')
+            line_totals_include_discount = False
+            if invoice.invoice_discount_amount and invoice.invoice_discount_amount > Decimal('0.00'):
+                # Check if line_totals are already post-discount
+                if abs(subtotal - invoice.total_amount) <= tolerance:
+                    line_totals_include_discount = True
+                    logger.info(
+                        f"Invoice {invoice.invoice_number}: line_totals appear to already include invoice-level discount "
+                        f"(subtotal={subtotal}, total_amount={invoice.total_amount})"
+                    )
+                elif abs(subtotal - (invoice.total_amount + invoice.invoice_discount_amount)) <= tolerance:
+                    line_totals_include_discount = False
+                    logger.info(
+                        f"Invoice {invoice.invoice_number}: line_totals are pre-discount "
+                        f"(subtotal={subtotal}, total_amount={invoice.total_amount}, invoice_discount_amount={invoice.invoice_discount_amount})"
+                    )
+            
+            # Second pass: calculate expected tax for taxable items
+            for line_item, expected_rate in taxable_items:
+                # Item is already confirmed to be taxable - proceed with tax calculation
                 # Use expected rate from verification, or fallback to applied rate
                 
                 # If verification failed (expected_rate is 0.0000) but line item has applied tax_rate,
@@ -1123,9 +1145,12 @@ IMPORTANT:
                 
                 # Apply invoice-level discount proportionally if present
                 # For line-item discounts, line_total should already reflect the discount
-                if invoice.invoice_discount_amount and invoice.invoice_discount_amount > Decimal('0.00') and subtotal > Decimal('0.00'):
-                    # Calculate proportional discount for this line item
-                    proportional_discount = invoice.invoice_discount_amount * (base_line_total / subtotal)
+                # IMPORTANT: Allocate discount only to taxable items (use taxable_subtotal, not total subtotal)
+                # Only apply invoice-level discount if line_totals are pre-discount
+                if (invoice.invoice_discount_amount and invoice.invoice_discount_amount > Decimal('0.00') 
+                    and taxable_subtotal > Decimal('0.00') and not line_totals_include_discount):
+                    # Calculate proportional discount for this line item based on taxable subtotal
+                    proportional_discount = invoice.invoice_discount_amount * (base_line_total / taxable_subtotal)
                     discounted_amount = base_line_total - proportional_discount
                     # Ensure discounted amount is non-negative
                     if discounted_amount < Decimal('0.00'):
@@ -1135,7 +1160,8 @@ IMPORTANT:
                         )
                         discounted_amount = Decimal('0.00')
                 else:
-                    # No invoice-level discount, use line_total directly (which should already reflect line-item discounts)
+                    # No invoice-level discount to apply (either none exists, or line_totals already include it)
+                    # Use line_total directly (which should already reflect line-item discounts and possibly invoice-level discount)
                     discounted_amount = base_line_total
                 
                 # Calculate tax on the discounted amount
