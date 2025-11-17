@@ -78,21 +78,49 @@ class InvoiceDataParser:
         expected_total = line_items_total - data['invoice_discount_amount']
         tolerance = Decimal('0.01')  # Allow small rounding differences
         
+        # Count how many items have line_total = 0 (might indicate OCR data quality issues)
+        items_with_zero_total = sum(1 for item in data['line_items'] if item['line_total'] == Decimal('0.00'))
+        total_items = len(data['line_items'])
+        zero_total_ratio = items_with_zero_total / total_items if total_items > 0 else 0
+        
         if abs(expected_total - data['total_amount']) > tolerance:
             # If invoice_discount_amount wasn't extracted but totals don't match, try to infer it
-            if data['invoice_discount_amount'] == Decimal('0.00') and line_items_total > data['total_amount']:
-                inferred_discount = line_items_total - data['total_amount']
+            # But be conservative: don't infer discount if:
+            # 1. Many items have line_total = 0 (suggests OCR data quality issue, not actual discount)
+            # 2. The mismatch is suspiciously large (>50% of total_amount suggests data issue)
+            mismatch = line_items_total - data['total_amount']
+            mismatch_ratio = mismatch / data['total_amount'] if data['total_amount'] > 0 else 0
+            
+            if (data['invoice_discount_amount'] == Decimal('0.00') 
+                and line_items_total > data['total_amount']
+                and zero_total_ratio < 0.5  # Less than 50% of items have zero line_total
+                and mismatch_ratio < 0.5):  # Mismatch is less than 50% of total (reasonable discount range)
+                inferred_discount = mismatch
                 logger.warning(
                     f"Invoice totals don't match. Inferred invoice_discount_amount: {inferred_discount} "
                     f"(sum of line_totals: {line_items_total}, total_amount: {data['total_amount']})"
                 )
                 data['invoice_discount_amount'] = inferred_discount
             else:
-                logger.warning(
-                    f"Invoice totals don't match: sum(line_totals)={line_items_total}, "
-                    f"invoice_discount_amount={data['invoice_discount_amount']}, "
-                    f"expected_total={expected_total}, actual_total_amount={data['total_amount']}"
-                )
+                # Don't infer discount - likely a data quality issue
+                if zero_total_ratio >= 0.5:
+                    logger.warning(
+                        f"Invoice totals don't match but not inferring discount: "
+                        f"{items_with_zero_total}/{total_items} items have line_total=0 (likely OCR data quality issue). "
+                        f"sum(line_totals)={line_items_total}, total_amount={data['total_amount']}"
+                    )
+                elif mismatch_ratio >= 0.5:
+                    logger.warning(
+                        f"Invoice totals don't match but not inferring discount: "
+                        f"mismatch ({mismatch}) is {mismatch_ratio:.1%} of total_amount (too large for discount inference). "
+                        f"sum(line_totals)={line_items_total}, total_amount={data['total_amount']}"
+                    )
+                else:
+                    logger.warning(
+                        f"Invoice totals don't match: sum(line_totals)={line_items_total}, "
+                        f"invoice_discount_amount={data['invoice_discount_amount']}, "
+                        f"expected_total={expected_total}, actual_total_amount={data['total_amount']}"
+                    )
         
         return data
     
@@ -166,9 +194,14 @@ class InvoiceDataParser:
                 expected_line_total = (validated_item['quantity'] * validated_item['unit_price']) - validated_item['discount_amount']
                 
                 # Validate line_total matches expected value
-                if validated_item['line_total'] == Decimal('0.00') and validated_item['quantity'] > 0:
-                    # If line_total is 0, calculate it from quantity, unit_price, and discount
-                    validated_item['line_total'] = expected_line_total
+                # Only recalculate line_total if it's 0 AND we have both quantity and unit_price > 0
+                # But be conservative - if OCR says line_total is 0, it might be legitimate (e.g., bundled items, OCR couldn't extract)
+                if validated_item['line_total'] == Decimal('0.00') and validated_item['quantity'] > 0 and validated_item['unit_price'] > 0:
+                    # Only recalculate if it seems like a calculation error (not if it's legitimately 0)
+                    # We'll let the invoice-level validation decide if this creates issues
+                    # For now, trust OCR's line_total = 0 unless we have strong evidence otherwise
+                    # Don't auto-recalculate - this can cause false discount inference
+                    pass
                 else:
                     # Validate that line_total matches expected value (within tolerance for rounding)
                     tolerance = Decimal('0.01')

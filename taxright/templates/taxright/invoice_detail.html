@@ -419,6 +419,10 @@
                     <div class="value">{{ invoice.state_code }}</div>
                 </div>
                 <div class="info-item">
+                    <label>Discount Amount</label>
+                    <div class="value">${{ invoice.invoice_discount_amount|floatformat:2 }}</div>
+                </div>
+                <div class="info-item">
                     <label>Total Amount</label>
                     <div class="value">${{ invoice.total_amount|floatformat:2 }}</div>
                 </div>
